@@ -1,0 +1,33 @@
+.quizz{
+    margin:0px 150px;
+}
+
+.testInfo{
+    color:#aeaeae;
+}
+
+.testInfo .title{
+    font-size:1.2em;
+    margin:10px 0;
+}
+
+.questionText{
+    text-align:left;
+    font-size:2.5em;
+    margin:50px 0;
+}
+.answers{
+    padding:50px 0px 100px 0px;
+}
+.answer{
+    margin-bottom:20px;
+}
+.controls input{
+    padding:20px;
+}
+.correct{
+    color:green;
+}
+.wrong{
+    color:red;
+}
