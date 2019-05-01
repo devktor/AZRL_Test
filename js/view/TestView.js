@@ -33,12 +33,19 @@ TestView = Backbone.View.extend({
         }
     },
 
-    renderStats:function(){
+    renderResult:function(){
         var result = this.model.get("result");
         this.correctAnswers.html(result.get("correct"));
         this.wrongAnswers.html(result.get("wrong"));
-        this.successRate.html(result.getSuccessRate());
-        this.progress.html(result.getProgress());
+        var successRate = result.getSuccessRate();
+        this.successRate.html(successRate);
+        var progress = result.getProgress();
+        this.progress.html(progress);
+        if(progress >= 100){
+            this.controls.hide();
+            var msg = (successRate >= 75)? '<div class="testResult success">Felicitari !!! Ai luat testul!</div>': '<div class="testResult failed">Ai picat testul !!! Treci la invatat ca alftfel nu mai scapi de scoala!</div>';
+            this.questionBox.html(msg);
+        }
     },
 
     renderLoader:function(){
@@ -108,6 +115,7 @@ TestView = Backbone.View.extend({
 
 
         if(!wrong) this.renderNextQuestion();
-        this.renderStats();
+        this.renderResult();
+
     }
 });

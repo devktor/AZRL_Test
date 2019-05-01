@@ -31,3 +31,18 @@
 .wrong{
     color:red;
 }
+
+.testResult{
+    font-size:1.5em;
+    padding:100px;
+    text-align:center;
+}
+
+.testResult.success{
+    color:green;
+}
+
+
+.testResult.failed{
+    color:red;
+}
