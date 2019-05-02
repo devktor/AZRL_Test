@@ -1,0 +1,2000 @@
+<questions>
+    <question number="1">
+        <text>Care este riscul asociat zborului cu acceleratorul actionat:</text>
+        <answers>
+                <answer type="correct">risc marit de inchideri ale voalurii</answer>
+                <answer>risc marit de angajare in limita de viteza</answer>
+                <answer>nici un risc, acest regim de zbor prezinta maximum de siguranta</answer>
+        </answers>
+    </question>
+    <question number="2">
+        <text>In timpul unui viraj strans :</text>
+        <answers>
+                <answer type="correct">viteza de angajare creste</answer>
+                <answer>viteza de angajare scade</answer>
+                <answer>viteza de angajare ramane neschimbata</answer>
+        </answers>
+    </question>
+    <question number="3">
+        <text>Cum se explica tendinta de viraj in cazul inchiderilor asimetrice:</text>
+        <answers>
+                <answer type="correct">aripa deformata (inchisa) are rezistenta la inaintare mai mare decat cea ramasa deschisa</answer>
+                <answer>comanda corespunzatoare aripii inchise are efect mai mare, la aceeasi cursa</answer>
+                <answer>inchiderile asimetrice nu duc la tendinte de viraj sau autorotatie</answer>
+        </answers>
+    </question>
+    <question number="4">
+        <text>Riscul de twist este mai mare cand:</text>
+        <answers>
+                <answer type="correct">chinga de piept este foarte stransa</answer>
+                <answer type="correct">folosim seleta este de tip cocoon</answer>
+                <answer>chinga de piept este foarte larga </answer>
+        </answers>
+    </question>
+    <question number="5">
+        <text>In timpul saltului (tranzitie) intre doua termici este recomandat:</text>
+        <answers>
+                <answer type="correct">sa pilotati cat mai putin folosind comenzile si cat mai mult prin balansarea laterala a corpului</answer>
+                <answer>sa pilotati cat mai mult folosind comenzile si cat mai putin  prin balansarea laterala a corpului</answer>
+                <answer>sa folositi speedul pentru viraje prin actionarea lui asimetrica</answer>
+        </answers>
+    </question>
+    <question number="6">
+        <text>Care este diferenta dintre vrie si spirala picata:</text>
+        <answers>
+                <answer type="correct">in cazul vriei (negativa)  fileurile de aer se desprind de pe extrados</answer>
+                <answer>in cazul spiralei picate fileurile de aer se desprind de pe extrados</answer>
+                <answer>ambele manevre sunt identice din punct de vedere aerodinamic, este doar o diferenta de terminologie</answer>
+        </answers>
+    </question>
+    <question number="7">
+        <text>Trecerea printr-o masa de aer descendenta are ca efect:</text>
+        <answers>
+                <answer type="correct">micsorarea finetei reale</answer>
+                <answer>micsorarea finetei aerodinamice</answer>
+                <answer>cresterea finetei in zbor, prin cresterea componentei verticale a vitezei</answer>
+        </answers>
+    </question>
+    <question number="8">
+        <text>Alegeti afirmatia adevarata:</text>
+        <answers>
+                <answer>vria este o metoda de coborare rapida</answer>
+                <answer type="correct">vria (negativa) este o manevra  periculoasa</answer>
+                <answer>vria si spirala picata sunt identice in cazul parapantei</answer>
+        </answers>
+    </question>
+    <question number="9">
+        <text>Alegeti cea mai sigura manevra de coborare rapida:</text>
+        <answers>
+                <answer type="correct">urechi</answer>
+                <answer>cravata</answer>
+                <answer>vrie</answer>
+        </answers>
+    </question>
+    <question number="10">
+        <text>In timpul manevrei URECHI controlul pe directie se face:</text>
+        <answers>
+                <answer type="correct">exclusiv prin balansarea corpului stanga-dreapta</answer>
+                <answer>exclusv cu ajutorul comenzilor</answer>
+                <answer>exclusiv cu ajutorul chingilor Last</answer>
+        </answers>
+    </question>
+    <question number="11">
+        <text>In cazul cedarii comenzilor pilotajul parapantei se va face:</text>
+        <answers>
+                <answer>cu ajutorul chingii Last (chinga spate)cu amplitudine mult mai mare decat in cazul actionarii comenzilor</answer>
+                <answer>cu ajutorul chingilor B cu amplitudine mica</answer>
+                <answer type="correct">cu ajutorul chingii Last ( chinga spate)cu amplitudine mult mai mica decat in cazul actionarii comenzilor</answer>
+        </answers>
+    </question>
+    <question number="12">
+        <text>La ce viteza de zbor se obtine infundarea minima:</text>
+        <answers>
+                <answer>mai mare decat viteza la finete maxima</answer>
+                <answer>la viteza minima de zbor</answer>
+                <answer type="correct">la viteza mai mica decat viteza la finete maxima</answer>
+        </answers>
+    </question>
+    <question number="13">
+        <text>Decolarea se executa:</text>
+        <answers>
+                <answer>cu viteza mica pentru a nu afecta gonflajul voalurii</answer>
+                <answer>cu viteza constanta pentru a putea mentine panta de zbor</answer>
+                <answer type="correct">cu alergare accelerata progresiv</answer>
+        </answers>
+    </question>
+    <question number="14">
+        <text>Enumerati fazele decolarii:</text>
+        <answers>
+                <answer type="correct">gonflaj, control vizual al aripii, accelerare, desprindere</answer>
+                <answer>gonflaj, desprindere, stabilizare</answer>
+                <answer>alergare, gonflaj, desprindere, stabilizare</answer>
+        </answers>
+    </question>
+    <question number="15">
+        <text>In timpul procedurii de decolare, in zbor la panta, cine are prioritate:</text>
+        <answers>
+                <answer>pilotul care urmeaza sa decoleze </answer>
+                <answer type="correct">pilotul care se afla in aer in zbor la panta in zona decolarii</answer>
+                <answer>daca mai exista cineva in zbor la panta decolarea este interzisa indiferent de zona de zbor</answer>
+        </answers>
+    </question>
+    <question number="16">
+        <text>In timpul zborului la panta, doi piloti se afla la acelasi nivel, fata in fata. Cine are prioritate:</text>
+        <answers>
+                <answer type="correct">pilotul care are panta in dreapta</answer>
+                <answer>pilotul care are panta in stanga, avand prioritate de stanga</answer>
+                <answer>nu exista prioritate in zbor la panta numai in zbor termic</answer>
+        </answers>
+    </question>
+    <question number="17">
+        <text>La zborul in termica cine da sensul de spiralare:</text>
+        <answers>
+                <answer type="correct">primul pilot care a intrat in termica</answer>
+                <answer>ultimul pilot care a intrat in termica</answer>
+                <answer>fiecare pilot spiraleaza pe ce parte doreste, nu exista rrgula in acest sens</answer>
+        </answers>
+    </question>
+    <question number="18">
+        <text>In timpul zborului doua parapante se intalnesc la acelasi nivel, fata in fata. Care este procedura de evitare a abordajului:</text>
+        <answers>
+                <answer type="correct">fiecare parapanta va vira spre dreapta</answer>
+                <answer>fiecare parapanta va vira spre stanga</answer>
+                <answer>nu exista o regula in acest sens</answer>
+        </answers>
+    </question>
+    <question number="19">
+        <text>Sunteti in zbor si din dreapta dvs vine un alt aparat de zbor fara motor. Care este procedura de evitare a abordajului:</text>
+        <answers>
+                <answer type="correct">are prioritate aparatul care vine din dreapta, dvs veti vira la stanga sau la dreapta pt degajare</answer>
+                <answer>are prioritate aparatul care vine din stanga, adica dvs</answer>
+                <answer>are prioritate aparatul care vine din dreapta, dvs veti vira la dreapta  pt degajare</answer>
+        </answers>
+    </question>
+    <question number="20">
+        <text>In timpul procedurilor de aterizare in zona sunt o parapanta si un motodeltaplan. Cine are prioritate:</text>
+        <answers>
+                <answer type="correct">parapanta fiind aparat de zbor fara motor</answer>
+                <answer>motodeltaplanul, avand greutate proprie mai mare</answer>
+                <answer>motodeltaplanul, avand viteza mai mare</answer>
+        </answers>
+    </question>
+    <question number="21">
+        <text>Alegeti elementele obligatorii din procedura de aterizare:</text>
+        <answers>
+                <answer>priza in U sau L</answer>
+                <answer type="correct">vant de fata</answer>
+                <answer type="correct">degajarea zonei de aterizare cat mai rapid cu putinta </answer>
+        </answers>
+    </question>
+    <question number="22">
+        <text>Alegeti afirmati corecta:</text>
+        <answers>
+                <answer>decolarea se face exclusiv cu vant de spate, pt a asigura o viteza corespunzatoare in timpul alergarii</answer>
+                <answer>decolarea se face mentinand comenzile sus pana dupa desprindere</answer>
+                <answer type="correct">alergarea in timpul decolarii se face cu viteza progresiv crescatoare</answer>
+        </answers>
+    </question>
+    <question number="23">
+        <text>Alegeti elementele periculoase din timpul procedurii de aterizare:</text>
+        <answers>
+                <answer type="correct">vant de spate</answer>
+                <answer type="correct">zbor la viteza aproape de viteza de angajare</answer>
+                <answer>priza in U sau L</answer>
+        </answers>
+    </question>
+    <question number="24">
+        <text>Alegeti elementele periculoase din timpul zborului in termica:</text>
+        <answers>
+                <answer type="correct">spiralarea in contrasens cu ceilalti piloti aflati in aceeasi termica</answer>
+                <answer type="correct">nesustinerea virajului</answer>
+                <answer>folosirea inclinarii corpului in timpul spiralarii</answer>
+        </answers>
+    </question>
+    <question number="25">
+        <text>Alegeti calitatile necesare unei zone de decolare:</text>
+        <answers>
+                <answer type="correct">sa aiba spatiu de renuntare</answer>
+                <answer type="correct">sa aiba inclinare mai mare decat finetea parapantei</answer>
+                <answer>sa aiba prag de desprindere cat mai accentuat</answer>
+        </answers>
+    </question>
+    <question number="26">
+        <text>Care este directia vantului permisa pentru decolare la panta:</text>
+        <answers>
+                <answer>de la zero grade (vant de fata) pana la 90 de grade lateral fata masurand de la perpendiculara pe panta</answer>
+                <answer type="correct">de la zero grade (vant de fata) pana la 45 de grade lateral fata masurand de la perpendiculara pe panta</answer>
+                <answer>este recomandata decolarea cu vant de spate atunci cand este cazul</answer>
+        </answers>
+    </question>
+    <question number="27">
+        <text>Care este viteza de desprindere recomandata in timpul procedurii de decolare:</text>
+        <answers>
+                <answer>viteza maxima de zbor</answer>
+                <answer>viteza la finete</answer>
+                <answer type="correct">viteza corespunzatoare vitezei minime de infundare</answer>
+        </answers>
+    </question>
+    <question number="28">
+        <text>Finetea adevarata a parapantei poate varia in functie de:</text>
+        <answers>
+                <answer type="correct">regimul de zbor</answer>
+                <answer type="correct">traversarea unei mase de aer ascendente sau descendente</answer>
+                <answer type="correct">traversarea unei mase de aer turbulente</answer>
+        </answers>
+    </question>
+    <question number="29">
+        <text>Tensiunea in comenzi creste datorita:</text>
+        <answers>
+                <answer>cresterii presiunii in voalura</answer>
+                <answer type="correct">cresterii unghiului de incidenta</answer>
+                <answer>cresterii vitezei de zbor</answer>
+        </answers>
+    </question>
+    <question number="30">
+        <text>La traversarea unei zone cu descendente, pentru a pierde cat mai putina inaltime, este recomandat sa zburati la regim:</text>
+        <answers>
+                <answer>de infundare minima</answer>
+                <answer>la finete maxima</answer>
+                <answer type="correct">la viteza cat mai mare</answer>
+        </answers>
+    </question>
+    <question number="31">
+        <text>In timpul virajului, fata de zborul pe panta normala, rectilinie,  asupra aparatului de zbor actioneaza in plus:</text>
+        <answers>
+                <answer type="correct">forta centrifuga</answer>
+                <answer>forta coriolis</answer>
+                <answer>efectul coanda </answer>
+        </answers>
+    </question>
+    <question number="32">
+        <text>Pilotajul activ inseamna:</text>
+        <answers>
+                <answer type="correct">mentinerea unei tensiuni cat mai constante in comenzi, si folosirea balansarii laterale pentru echilibrare, in timpul zborului in turbulente</answer>
+                <answer>folosirea balansarii laterale pentru echilibrare in timpul zborului in turbulente</answer>
+                <answer>folosirea exclusiva a comenzilor in timpul zborului in turbulente</answer>
+        </answers>
+    </question>
+    <question number="33">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer type="correct">la traversarea unei zone turbulente finetea scade</answer>
+                <answer>la traversarea unei zone descendente finetea creste</answer>
+                <answer>la traversarea unei zone descendente finetea ramane neschimbata</answer>
+        </answers>
+    </question>
+    <question number="34">
+        <text>O parapanta omologata LTF 2 (EN –C) este destinata:</text>
+        <answers>
+                <answer>exclusiv pilotilor incepatori</answer>
+                <answer>exclusiv zborului in tandem</answer>
+                <answer type="correct">exclusiv pilotilor cu nivel mediu/ridicat de pregatire</answer>
+        </answers>
+    </question>
+    <question number="35">
+        <text>Zborul cu pasager presupune:</text>
+        <answers>
+                <answer>licenta de pilot</answer>
+                <answer type="correct">licenta de pilot calificarea tandem</answer>
+                <answer>parapanta omologata LTF 1</answer>
+        </answers>
+    </question>
+    <question number="36">
+        <text>In timpul manvrei URECHI este permis:</text>
+        <answers>
+                <answer type="correct">sa folositi balansarea laterala pentru controlul pe directie</answer>
+                <answer type="correct">sa actionati speedul</answer>
+                <answer>sa executati si B stall pentru o coborare mai eficienta</answer>
+        </answers>
+    </question>
+    <question number="37">
+        <text>Controlul traiectoriei in timpul spiralarii se face:</text>
+        <answers>
+                <answer>exclusiv folosind comenzile</answer>
+                <answer>exclusiv folosind balansarea laterala a corpului comenzile fiind mentinute la 50% din cursa pentru a obtine o infundare minima</answer>
+                <answer type="correct">folosind balansarea laterala a corpului si comenzile</answer>
+        </answers>
+    </question>
+    <question number="38">
+        <text>In cazul inchiderii asimetrice, procedura de recuperare este:</text>
+        <answers>
+                <answer type="correct">balansarea laterala a corpului, incarcand aripa deschisa, corijarea moderata a directiei folosind comanda de pe aripa deschisa si pomparea aripii inchise</answer>
+                <answer>balansarea laterala a corpului si eliberarea completa a ambelor comenzi</answer>
+                <answer>pomparea energica a aripii inchise folosind comanda, si eliberarea compleata a comenzii de pe aripa deschisa</answer>
+        </answers>
+    </question>
+    <question number="39">
+        <text>Ce fenomene se regasesc in timpul inchiderii asimetrice:</text>
+        <answers>
+                <answer type="correct">cresterea rezistentei la inaintare a aripii inchise</answer>
+                <answer>lipsa de comanda corespunzatoare aripii inchise</answer>
+                <answer type="correct">tendinta de viraj a parapantei pe partea aripii inchise</answer>
+        </answers>
+    </question>
+    <question number="40">
+        <text>In timpul virajului, la atingerea unghiului critic, parapanta va intra in :</text>
+        <answers>
+                <answer>deepstall</answer>
+                <answer type="correct">vrie (negativa)</answer>
+                <answer>spirala picata</answer>
+        </answers>
+    </question>
+    <question number="41">
+        <text>In urma unei inchideri asimetrice majore, peste 50%, observati ca suspantele sunt rasucite (twist). Care este manevra corecta:</text>
+        <answers>
+                <answer type="correct">lansarea imediata a rezervei</answer>
+                <answer>inclinarea corpului pe exteriorul spiralei si dezrasucirea imediata</answer>
+                <answer>dezrasucirea folosind chingile portsuspante fara a elibera comenzile</answer>
+        </answers>
+    </question>
+    <question number="42">
+        <text>Alegeti motivele pentru care trebuie sa renuntati la decolare chiar daca aveti aripa gonflata corect:</text>
+        <answers>
+                <answer type="correct">casca nelegata</answer>
+                <answer type="correct">vant de spate</answer>
+                <answer>turbulente usoare</answer>
+        </answers>
+    </question>
+    <question number="43">
+        <text>Alegeti motivele pentru care trebuie sa renuntati la decolare chiar daca aveti aripa gonflata corect:</text>
+        <answers>
+                <answer type="correct">suspante incalcite</answer>
+                <answer>declansare termica</answer>
+                <answer type="correct">alta parapanta in procedura de toplanding</answer>
+        </answers>
+    </question>
+    <question number="44">
+        <text>In timpul procedurii de aterizare viteza recomandata pentru apropiere este:</text>
+        <answers>
+                <answer>aproape de viteza minima de zbor</answer>
+                <answer>aproape de viteza maxima de zbor</answer>
+                <answer type="correct">intre viteza corespunzatoare infundarii minime si finetei maxime</answer>
+        </answers>
+    </question>
+    <question number="45">
+        <text>In timpul zborului la finete maxima sau la viteza maxima care este principalul pericol daca intalnim turbulente:</text>
+        <answers>
+                <answer type="correct">inchidere frontala sau asimetrica datorita unghiului de incidenta mic</answer>
+                <answer>angajare in limita de viteza datorita unghiului de incidenta mare</answer>
+                <answer>vrie datorita regimului de zbor asimetric</answer>
+        </answers>
+    </question>
+    <question number="46">
+        <text> Zburati intr-o zona muntoasa, pietroasa, cu vai (duze). Ce situatii dificile credeti ca veti intalni:</text>
+        <answers>
+                <answer type="correct">termica violenta</answer>
+                <answer type="correct">rotoare in zonele de sub vant</answer>
+                <answer type="correct">efect venturi la traversarea vailor sau pe creste</answer>
+        </answers>
+    </question>
+    <question number="47">
+        <text>Care dintre urmatoarele sunt manevre de coborare rapida:</text>
+        <answers>
+                <answer>vrie</answer>
+                <answer type="correct">spirala picata</answer>
+                <answer type="correct">urechi</answer>
+        </answers>
+    </question>
+    <question number="48">
+        <text>Inainte de decolare este obligatoriu:</text>
+        <answers>
+                <answer>sa verificam directia si viteza vantului in locul de decolare</answer>
+                <answer type="correct">sa verificam directia si viteza vantului in minim 3 locuri pe panta de zbor</answer>
+                <answer>sa verificam directia si viteza vantului in zona de decolare si de aterizare</answer>
+        </answers>
+    </question>
+    <question number="49">
+        <text>In zonele rotorice (sub vant, in spatele pantei) exista posibilitatea ca o maneca de vant sa arate vant de fata:</text>
+        <answers>
+                <answer type="correct">da, daca este in zona ascendenta a rotorului</answer>
+                <answer>nu, maneca de vant va arata intodeauna vant de spate</answer>
+                <answer>nu, in rotor curgerea masei de aer este haotica dar niciodata ascendenta pe panta de sub vant.</answer>
+        </answers>
+    </question>
+    <question number="50">
+        <text>Contactul cu solul la aterizare se va face:</text>
+        <answers>
+                <answer type="correct">la unghi critic</answer>
+                <answer>la viteza manima de infundare</answer>
+                <answer>la finete maxima</answer>
+        </answers>
+    </question>
+    <question number="51">
+        <text>Alegeti care dintre urmatoarele fenomene pot fi intalnite in zbor la panta:</text>
+        <answers>
+                <answer type="correct">efect venturi</answer>
+                <answer>efect coriollis</answer>
+                <answer>efect de camp</answer>
+        </answers>
+    </question>
+    <question number="52">
+        <text>In procedura de decolare este necesar:</text>
+        <answers>
+                <answer>sa decolati cu comenzile la inele, corespunzator vitezei la finete maxima</answer>
+                <answer>sa mentineti viteza de zbor constanta pe tot timpul decolarii pana dupa desprindere</answer>
+                <answer type="correct">sa alergati accelerand progresiv pana la desprindere</answer>
+        </answers>
+    </question>
+    <question number="53">
+        <text>La intrarea in termica sunteti obligat sa:</text>
+        <answers>
+                <answer type="correct">acordati prioritate celor ce spiraleaza deja in termica</answer>
+                <answer>folositi acceleratorul imediat ce creste vectorul urcarii pentru a obtine o urcare constanta</answer>
+                <answer>folositi doar patrularea in 8 – uri pentru a avea urcare constanta</answer>
+        </answers>
+    </question>
+    <question number="54">
+        <text>In zbor la panta, de la ce inaltime puteti trece la spiralare:</text>
+        <answers>
+                <answer type="correct">minim 50m</answer>
+                <answer>imediat ce ati intrat in termica</answer>
+                <answer>minim 150m</answer>
+        </answers>
+    </question>
+    <question number="55">
+        <text>Care dintre urmatoarele categorii de omologare nu permit zborul in termica:</text>
+        <answers>
+                <answer>EN – A</answer>
+                <answer>EN – B</answer>
+                <answer type="correct">toate parapantele omologate pot sa zboare in termica</answer>
+        </answers>
+    </question>
+    <question number="56">
+        <text>La intrarea in termica, la acelasi nivel cu dvs mai spiraleaza un deltaplan. Cum veti proceda:</text>
+        <answers>
+                <answer type="correct">intrati respectand sensul de spiralare al deltaplanului, in spatele lui</answer>
+                <answer>incepeti spiralarea in orice sens, parapanta are intodeauna prioritate</answer>
+                <answer>intrati in termica in fata deltaplanului pentru a fi vizibil si spiralati impreuna parapanta avand intodeauna prioritate inclusiv la schimbarea sensului de spiralare</answer>
+        </answers>
+    </question>
+    <question number="57">
+        <text>In zbor la panta, aveti panta in partea stanga, din fata la acelasi nivel vine un deltaplan. Cum veti proceda:</text>
+        <answers>
+                <answer>mentineti directia, parapanta are totdeauna prioritate</answer>
+                <answer type="correct">degajati spre dreapta si acordati prioritate deltaplanului</answer>
+                <answer>degajati spre stanga si acordati prioritate deltaplanului</answer>
+        </answers>
+    </question>
+    <question number="58">
+        <text>Care este ordinea corecta de echipare pentru zbor:</text>
+        <answers>
+                <answer type="correct">casca, seleta, parapanta</answer>
+                <answer>seleta, parapanta, casca</answer>
+                <answer>parapanta, seleta casca</answer>
+        </answers>
+    </question>
+    <question number="59">
+        <text>Ce trebuie sa faceti la traversarea unei zone ascendente, care duce la marirea inaltimii de zbor cu 5-15m, in timpul procedurii de aterizare:</text>
+        <answers>
+                <answer>franati puternic parapanta mentinad directia neschimbata</answer>
+                <answer type="correct">printr-o serie de viraje in S veti reveni la panta normala de aterizare </answer>
+                <answer>actionati speedul pentru a intra pe panta normala de aterizare</answer>
+        </answers>
+    </question>
+    <question number="60">
+        <text>Imediat dupa decolare comanda stanga se dezleaga de la nod, devenind inoperabila. Cum veti proceda:</text>
+        <answers>
+                <answer>veti pilota folosind exclusiv comanda dreapta si balansarea corpului in lateral, mergand cat mai repede la aterizare</answer>
+                <answer type="correct">veti pilota folosind balansarea corpului in lateral si chingile Last, cu amplitudine mai mica, mergand cat mai repede la aterizare</answer>
+                <answer>veti pilota exclusiv folosind balasarea laterala a corpului, mergand cat mai repede la aterizare</answer>
+        </answers>
+    </question>
+    <question number="61">
+        <text>Care sunt riscurile principale la traversarea unei zone turbulente la regim de finete maxima sau viteza maxima:</text>
+        <answers>
+                <answer type="correct">inchideri majore eventual twist</answer>
+                <answer>angajare si full stall</answer>
+                <answer>nu sunt riscuri suplimentare in aceste regimuri de zbor, toate parapantele omologate fiind stabile</answer>
+        </answers>
+    </question>
+    <question number="62">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>la intrarea in termica peste 3 m/s veti frana brusc pentru a zbura la regim de infundare minima cat mai repede</answer>
+                <answer type="correct">la intrarea in termica de peste 3 m/s veti mentine aripa stabila prin pilotaj activ si apoi incepeti centrarea si zborul la regim de infundare minima</answer>
+                <answer>la intrarea in termica de peste 3m/s incepeti  urgent spiralarea pentru a ajunge la miez cat mai repede</answer>
+        </answers>
+    </question>
+    <question number="63">
+        <text>In timpul executarii manvrei B stall viteza pe orizontala a parapantei se va modifica astfel:</text>
+        <answers>
+                <answer>va creste</answer>
+                <answer type="correct">va scadea pana aproape de zero</answer>
+                <answer>va ramane neschimbata</answer>
+        </answers>
+    </question>
+    <question number="64">
+        <text> Alegeti manevrele de coborare rapida:</text>
+        <answers>
+                <answer>vrie</answer>
+                <answer>fulstall</answer>
+                <answer type="correct">B-stall</answer>
+        </answers>
+    </question>
+    <question number="65">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer type="correct">cu manevra urechi se poate regla panta inainte de aterizare</answer>
+                <answer>cu manevra urechi nu se poate regla panta inainte de aterizare</answer>
+                <answer>cu manevra b- stall se poate regla panta inainte de aterizare</answer>
+        </answers>
+    </question>
+    <question number="66">
+        <text>La aterizarea in zone care prezinta ascendenta usoara sau turbulenta usoara se recomanda:</text>
+        <answers>
+                <answer type="correct">aterizarea cu urechi</answer>
+                <answer>aterizarea cu b-stall</answer>
+                <answer>aterizarea cu front-stall</answer>
+        </answers>
+    </question>
+    <question number="67">
+        <text>La stabilirea traiectului de zbor este obligatoriu sa luati in considerare:</text>
+        <answers>
+                <answer type="correct">spatiul de renuntare</answer>
+                <answer>traseu alternativ</answer>
+                <answer>traiectul sondei meteo</answer>
+        </answers>
+    </question>
+    <question number="68">
+        <text>Spatiul de renuntare este:</text>
+        <answers>
+                <answer>zona de aterizare alternativa</answer>
+                <answer>traiect alternativ</answer>
+                <answer type="correct">spatiul cuprins in zona de decolare care permite renuntarea decolarii in conditii de securitate</answer>
+        </answers>
+    </question>
+    <question number="69">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>in timpul virajului viteza de infundare scade</answer>
+                <answer type="correct">in timpul virajului viteza de infundare creste</answer>
+                <answer>in timpul virajului viteza de infundare ramane constanta</answer>
+        </answers>
+    </question>
+    <question number="70">
+        <text>Alegeti conditiile obligatorii necesare zborului cu parapanta in Romania:</text>
+        <answers>
+                <answer type="correct">informare la COAP</answer>
+                <answer>lipsa totala a altor categorii de aeronave in zona de zbor</answer>
+                <answer>conditii meteo CAVOK</answer>
+        </answers>
+    </question>
+    <question number="71">
+        <text>Mentiunea CAVOK in METAR presupune in mod obligatoriu:</text>
+        <answers>
+                <answer>interzicerea zborului, conditii meteo periculoase</answer>
+                <answer>interzicerea zborului, trafic aerian aglomerat in zona</answer>
+                <answer type="correct">nu exista restrictii speciale in acest caz</answer>
+        </answers>
+    </question>
+    <question number="72">
+        <text>Sunteti in termica impreuna cu alte parapante si in aceeasi termica intra si un planor. Cum veti proceda:</text>
+        <answers>
+                <answer>parasiti termica, planorul fiind clasa superioara, are prioritate</answer>
+                <answer type="correct">continuati sa zburati mentinand sensul de spiralare </answer>
+                <answer>continuati sa zburati si schimbati sensul de spiralare pentru a fi mai vizibil de catre planor</answer>
+        </answers>
+    </question>
+    <question number="73">
+        <text>In zbor la panta, are prioritate neconditionata:</text>
+        <answers>
+                <answer>parapanta care vine din dreapta</answer>
+                <answer>parapanta care decoleaza</answer>
+                <answer type="correct">parapanta in procedura de aterizare</answer>
+        </answers>
+    </question>
+    <question number="74">
+        <text> Alegeti procedura sigura in cazul aterizarii pe teren necunoscut:</text>
+        <answers>
+                <answer>apropierea in priza directa</answer>
+                <answer type="correct">apropierea cu priza in L sau U</answer>
+                <answer>apropierea cu urechi sau B-stall</answer>
+        </answers>
+    </question>
+    <question number="75">
+        <text>In timpul virajului stabilizat si sustinut viteza de curgere a fileurilor de aer pe cele doua semiaripi este:</text>
+        <answers>
+                <answer type="correct">mai mare pe aripa exterioara</answer>
+                <answer>mai mica pe aripa exterioara</answer>
+                <answer>egala</answer>
+        </answers>
+    </question>
+    <question number="76">
+        <text>La traversarea unei zone turbulente se recomanda:</text>
+        <answers>
+                <answer>aterizarea </answer>
+                <answer>actionarea speedului</answer>
+                <answer type="correct">eliberarea speedului daca acesta este actionat</answer>
+        </answers>
+    </question>
+    <question number="77">
+        <text>Alegeti manevrele de coborare rapida:</text>
+        <answers>
+                <answer type="correct">spirala picata</answer>
+                <answer type="correct">B-stall</answer>
+                <answer>vrie</answer>
+        </answers>
+    </question>
+    <question number="78">
+        <text>La ce se foloseste actionarea suspantei stabilo :</text>
+        <answers>
+                <answer>la executarea manevrei de urechi;</answer>
+                <answer>la pilotaj atunci cand comenzile devin inoperabile;</answer>
+                <answer type="correct">la scoaterea unei cravate</answer>
+        </answers>
+    </question>
+    <question number="79">
+        <text>Cand se recomanda actionarea suspantelor stabilo concomitent si simetric:</text>
+        <answers>
+                <answer type="correct">niciodata</answer>
+                <answer>la executarea manevrei de urechi</answer>
+                <answer>la exedutarea manevrei B-stall</answer>
+        </answers>
+    </question>
+    <question number="80">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>decolarea cu vant zero este interzisa</answer>
+                <answer type="correct">decolarea cu vant zero presupune viteza de alergare mai mare fata de decolarea pe conditii de vant de fata</answer>
+                <answer>decolarea cu vant zero presupune viteza de alergare mai mare fata de decolarea pe conditii de vant de spate</answer>
+        </answers>
+    </question>
+    <question number="81">
+        <text>In timpul aterizarii pe panta se recomanda:</text>
+        <answers>
+                <answer>aterizarea in contrapanta</answer>
+                <answer type="correct">aterizarea in lungul pantei</answer>
+                <answer>aterizarea folosind acceleratorului</answer>
+        </answers>
+    </question>
+    <question number="82">
+        <text> Actionarea acceleratorului are ca efect:</text>
+        <answers>
+                <answer>reducerea vitezei de zbor</answer>
+                <answer>dublarea vitezei de zbor</answer>
+                <answer type="correct">cresterea vitezei de zbor </answer>
+        </answers>
+    </question>
+    <question number="83">
+        <text>Efectul venturi poate fi intalnit:</text>
+        <answers>
+                <answer type="correct">pe creste cand vantul este perpendicular pe creasta</answer>
+                <answer type="correct">pe vai cand vantul este in lungul vaii</answer>
+                <answer>nu poate fi regasit in natura fiind doar un fenomen aerodinamic</answer>
+        </answers>
+    </question>
+    <question number="84">
+        <text>Reglajul vitezei de zbor se face:</text>
+        <answers>
+                <answer type="correct">folosind comenzile sau acceleratorul</answer>
+                <answer>folosind exclusiv trimerul</answer>
+                <answer>folosind exclusiv acceleratorul</answer>
+        </answers>
+    </question>
+    <question number="85">
+        <text>Fazele aterizarii sunt:</text>
+        <answers>
+                <answer type="correct">priza, redresare, franare finala</answer>
+                <answer>priza, franare finala</answer>
+                <answer>redresare, fullstall</answer>
+        </answers>
+    </question>
+    <question number="86">
+        <text>Care dintre urmatoarele reprezinta pericol major in procedura de aterizare:</text>
+        <answers>
+                <answer type="correct">angajarea la mai mult de 0,5m inaltime</answer>
+                <answer>inchideri asimetrice la mai putin de 200m inaltime</answer>
+                <answer>angajarea la mai putin de 0,5m inaltime</answer>
+        </answers>
+    </question>
+    <question number="87">
+        <text>Regimul de zbor la finete se foloseste in urmatoarele cazuri:</text>
+        <answers>
+                <answer>dupa centrarea in termica si trecerea la spiralare</answer>
+                <answer>pentru centrarea eficienta in termica</answer>
+                <answer type="correct">pentru obtinerea unghiului maxim de panta, de exemplu la salt (tranzitie) de la o termica la alta</answer>
+        </answers>
+    </question>
+    <question number="88">
+        <text>In timpul manevrei urechi:</text>
+        <answers>
+                <answer type="correct">creste unghiul de incidenta</answer>
+                <answer>scade unghiul de incidenta</answer>
+                <answer>unghiul de incidenta ramane neschimbat</answer>
+        </answers>
+    </question>
+    <question number="89">
+        <text>In timpul procedurii de decolare unghiul de atac este: </text>
+        <answers>
+                <answer type="correct">variabil </answer>
+                <answer>fix </answer>
+                <answer>variaza doar daca se actioneaza acceleratorul</answer>
+        </answers>
+    </question>
+    <question number="90">
+        <text>Regimurile de zbor ale parapantei sunt: </text>
+        <answers>
+                <answer>viteza minima, viteza maxima, viteza accelerata</answer>
+                <answer type="correct">viteza la infundare minima, viteza la finete maxima, viteza maxima</answer>
+                <answer>viteza de angajare, viteza maxima, viteza la finete</answer>
+        </answers>
+    </question>
+    <question number="91">
+        <text>Cresterea incarcarii alare modifica performantele parapantei: </text>
+        <answers>
+                <answer type="correct">da </answer>
+                <answer>nu </answer>
+                <answer>incarcarea alara nu are legatura cu domeniul zborului</answer>
+        </answers>
+    </question>
+    <question number="92">
+        <text>In momentul angajarii unei parapante</text>
+        <answers>
+                <answer type="correct">presiunea in comenzi scade brusc</answer>
+                <answer>viteza de inaintare creste brusc</answer>
+                <answer type="correct">viteza de infundare creste brusc</answer>
+        </answers>
+    </question>
+    <question number="93">
+        <text>Care este diferenta dintre vrie si spirala picata:</text>
+        <answers>
+                <answer type="correct">in cazul vriei fileurile de aer se desprind de pe extrados</answer>
+                <answer>in cazul spiralei picate fileurile de aer se desprind de pe extrados</answer>
+                <answer>ambele manevre sunt identice din punct de vedere aerodinamic, este doar o diferenta de terminologie</answer>
+        </answers>
+    </question>
+    <question number="94">
+        <text>La ce viteza de zbor se obtine infundarea minima:</text>
+        <answers>
+                <answer>mai mare decat viteza la finete maxima</answer>
+                <answer>la viteza minima de zbor</answer>
+                <answer type="correct">la viteza mai mica decat viteza la finete maxima</answer>
+        </answers>
+    </question>
+    <question number="95">
+        <text>Rezerva se arunca de preferat in cazul unei rotatii necontrolabile:</text>
+        <answers>
+                <answer>in directia rotatiei</answer>
+                <answer type="correct">contra rotatiei</answer>
+                <answer>nu are importanta</answer>
+        </answers>
+    </question>
+    <question number="96">
+        <text>La aruncarea rezervei se da drumul la maner:</text>
+        <answers>
+                <answer type="correct">da</answer>
+                <answer>nu</answer>
+                <answer>nu conteaza</answer>
+        </answers>
+    </question>
+    <question number="97">
+        <text>In cazul ruperii unei comenzi franarea la aterizare  se face prin:</text>
+        <answers>
+                <answer type="correct">tragerea simetrica a chingilor LAST </answer>
+                <answer>tragerea simetrica a chingilor C</answer>
+                <answer>tragerea simetrica a suspantelor  stabilo</answer>
+        </answers>
+    </question>
+    <question number="98">
+        <text>Mentinerea pozitiei aplecat in timpul alergarii pentru decolare faciliteaza:</text>
+        <answers>
+                <answer>manevrabilitatea parapantei</answer>
+                <answer>reglajul vitezei</answer>
+                <answer type="correct">mentinerea tensiunii constante a suspantelor pe parcursul procedurii de decolare</answer>
+        </answers>
+    </question>
+    <question number="99">
+        <text>99. Când un pilot a consumat cantități mai mari de substanțe precum alcool, nicotină sau droguri, la ce efecte asupra capacității sale de zbor se poate aștepta? </text>
+        <answers>
+                <answer>Rău de mișcare. </answer>
+                <answer>Incapacitatea de a zbura în curenții termici. </answer>
+                <answer>Incapacitatea de a efectua mișcări coordonate de menținere a direcției. </answer>
+                <answer type="correct">Nivelul redus al oxigenului din aer va avea un efect negativ mai puternic asupra performanței pilotului. </answer>
+        </answers>
+    </question>
+    <question number="100">
+        <text>100. La ce efecte se poate aștepta un pilot cu o răceală gravă și otită (inflamația urechii medii) în timpul zborului său? </text>
+        <answers>
+                <answer>Putere de concentrare redusă, percepția și judecata afectată, performanța corporală redusă. </answer>
+                <answer type="correct">Durere de cap bruscă și foarte acută. </answer>
+                <answer>Absorbția foarte redusă a oxigenului în plămâni. </answer>
+                <answer>Deteriorarea corpului datorită deshidratării. </answer>
+        </answers>
+    </question>
+    <question number="101">
+        <text>101. Până la ce altitudine se poate adapta, o persoană aflată în stare de repaus, la diferitele condiții atmosferice în schimbare? </text>
+        <answers>
+                <answer>aprox. la 2.000 m deasupra nivelului mării. </answer>
+                <answer>aprox. la 3.000 m deasupra nivelului mării. </answer>
+                <answer type="correct">aprox. la 4.000 m deasupra nivelului mării. </answer>
+                <answer>aprox. la 5.000 m deasupra nivelului mării. </answer>
+        </answers>
+    </question>
+    <question number="102">
+        <text>102. La ce efecte ne putem aștepta atunci când corpul uman nu se poate adapta creșterii altitudinii? </text>
+        <answers>
+                <answer>durere de cap bruscă și foarte acută. </answer>
+                <answer type="correct">stare de euforie și confuzie. </answer>
+                <answer>greață și senzație de rău. </answer>
+                <answer>dificultăți de respirație. </answer>
+        </answers>
+    </question>
+    <question number="103">
+        <text>103. Euforia de altitudine mare (începutul răului de altitudine) este rezultatul </text>
+        <answers>
+                <answer>temperaturii scăzute și hipotermiei rezultate. </answer>
+                <answer>turbulențelor predominante la altitudine mare. </answer>
+                <answer>umidității scăzute și deshidratarea corpului rezultată. </answer>
+                <answer type="correct">presiunii reduse a aerului și reducerea asociată a presiunii oxigenului, rezultând o oxigenare insuficientă a corpului. </answer>
+        </answers>
+    </question>
+    <question number="104">
+        <text>104. Conținutul de oxigen al aerului se schimbă cu altitudinea. Efectele semnificative asupra corpului uman pot fi reduse foarte mult prin </text>
+        <answers>
+                <answer>consumul regulat de suplimente cu vitamina C. </answer>
+                <answer>consumul preventiv de suplimente / medicamente pentru răul de mișcare (kinetosis). </answer>
+                <answer>respirația profundă în mod conștient la intervale mai scurte. </answer>
+                <answer type="correct">exerciții fizice regulate și aclimatizare. </answer>
+        </answers>
+    </question>
+    <question number="105">
+        <text>105. Când o parapantă zboară la o viteză de 32 km / h într-o masă de aer de 2 ° C, efectul de răcire asupra corpului pilotului este comparabil cu o temperatură în aer calm de </text>
+        <answers>
+                <answer>+ 8 ° C </answer>
+                <answer>+ 2 ° C </answer>
+                <answer>- 0 ° C </answer>
+                <answer type="correct">- 11 ° C </answer>
+        </answers>
+    </question>
+    <question number="106">
+        <text>106. Ce se întâmplă cu corpul uman atunci când temperatura lui scade sub limita normală? </text>
+        <answers>
+                <answer>Performanța fizică și nevoile de oxigen scad. </answer>
+                <answer type="correct">Performanța fizică scade și nevoia de oxigen crește. </answer>
+                <answer>Performanța fizică și nevoile de oxigen cresc. </answer>
+                <answer>Performanța fizică crește și nevoia de oxigen scade. </answer>
+        </answers>
+    </question>
+    <question number="107">
+        <text>107. Atunci când corpul uman este expus vântului pentru o perioadă lungă de timp, </text>
+        <answers>
+                <answer>nevoia de oxigen crește considerabil. </answer>
+                <answer type="correct">nevoia de lichide crește considerabil. </answer>
+                <answer>nevoia de proteine crește considerabil. </answer>
+                <answer>nevoia de vitamine crește considerabil. </answer>
+        </answers>
+    </question>
+    <question number="108">
+        <text>108. La Sibiu se anunță un QNH de 1015. Ce înseamnă acest lucru? </text>
+        <answers>
+                <answer>În Sibiu presiunea atmosferică este de 1015 hPa. </answer>
+                <answer type="correct">La Sibiu, presiunea la nivelul mării calculată în conformitate cu atmosfera standard a ICAO este de 1015 hPa. </answer>
+                <answer>Presiunea standard în Sibiu ,conform ICAO, este 1015 hPa. </answer>
+                <answer>Presiunea maximă din Sibiu în această zi este de 1015 hPa. </answer>
+        </answers>
+    </question>
+    <question number="109">
+        <text>109. Printre altele, ce etape formează o parte din pregătirea pentru zbor într-un loc nou? </text>
+        <answers>
+                <answer>Inspectați terenul de aterizare, studiați hărțile de spațiul aerian, înregistrați zborul cel mai apropiat aeroport. </answer>
+                <answer>Studiați hărțile de spațiul aerian, înregistrați zborul cel mai apropiat aeroport, planificați zborul în funcție de condiții. </answer>
+                <answer>Înregistrați zborul cu șeful celui mai apropiat aeroport, planificați zborul în funcție de condiții, inspectați câmpul de aterizare. </answer>
+                <answer type="correct">Planificați zborul în funcție de condiții, inspectați câmpul de aterizare, studiați hărțile de spațiul aerian și obstacolele aeriene. </answer>
+        </answers>
+    </question>
+    <question number="110">
+        <text>110. Care este cel mai important criteriu în alegerea unui loc de decolare? </text>
+        <answers>
+                <answer>Decolarea trebuie să fie echipată cu o mânecă de vânt. </answer>
+                <answer type="correct">Locul ar trebui să permită oprirea a manevrei de decolare în siguranță în orice moment. </answer>
+                <answer>Vântul trebuie să vină din față. </answer>
+                <answer>Locul de decolare trebuie să fie foarte abrupt pentru a facilita o manevră de decolare cât mai rapidă. </answer>
+        </answers>
+    </question>
+    <question number="111">
+        <text>111. La locul de decolare suflă vântul cu 15 km / h. Ce se poate aștepta în ceea ce privește distanța necesară și viteza de decolare? </text>
+        <answers>
+                <answer>Distanța de decolare este scurtă, viteza este ridicată. </answer>
+                <answer type="correct">Distanța de decolare este scurtă, viteza este scăzută. </answer>
+                <answer>Distanța de decolare este lungă, viteza este ridicată. </answer>
+                <answer>Distanța de decolare este lungă, viteza este scăzută. </answer>
+        </answers>
+    </question>
+    <question number="112">
+        <text>112. La locul de decolare este pantă lină și vântul nu suflă. Ce se poate aștepta în ceea ce privește distanța necesară și viteza de decolare? </text>
+        <answers>
+                <answer>Distanța de decolare este scurtă, viteza este ridicată. </answer>
+                <answer>Distanța de decolare este scurtă, viteza este scăzută. </answer>
+                <answer type="correct">Distanța de decolare este lungă, viteza este ridicată. </answer>
+                <answer>Distanța de decolare este lungă, viteza este scăzută. </answer>
+        </answers>
+    </question>
+    <question number="113">
+        <text>113. În zona de decolare nu suflă vântul, care sunt cele mai importante criterii pentru un loc de decolare adecvat? </text>
+        <answers>
+                <answer>Decolarea trebuie să fie echipată cu o mânecă de vânt. </answer>
+                <answer type="correct">Zona din fața parapantei trebuie să fie cât mai liberă de obstacole sau denivelări. </answer>
+                <answer>Zona din spatele parapantei trebuie să fie cât mai liberă de obstacole sau denivelări. </answer>
+                <answer>Locul de decolare trebuie să fie foarte abrupt pentru a facilita o manevră de decolare cât mai rapidă. </answer>
+        </answers>
+    </question>
+    <question number="114">
+        <text>114. În zona de decolare suflă vântul cu 20 km / h, care sunt cele mai importante criterii pentru un loc de decolare adecvat? </text>
+        <answers>
+                <answer>Decolarea trebuie să fie echipată cu o mânecă de vânt. </answer>
+                <answer>Zona din fața parapantei trebuie să fie cât mai liberă de obstacole sau denivelări. </answer>
+                <answer type="correct">Zona din spatele parapantei trebuie să fie cât mai liberă de obstacole sau denivelări. </answer>
+                <answer>Locul de decolare trebuie să fie foarte abrupt pentru a facilita o manevră de decolare cât mai rapidă. </answer>
+        </answers>
+    </question>
+    <question number="115">
+        <text>115. Atunci când decolați dintr-un coridor din pădure, trebuie să fiți conștienți de și pregătiți pentru această posibilitate: </text>
+        <answers>
+                <answer>datorită diferenței mari de temperatură între pădure și câmp, vor fi prezente termici puternice și frecvente cu turbulența asociată lor. </answer>
+                <answer type="correct">vântul este calm la nivelul solului, deși la vârful copacilor vânt suflă mai puternic, rezultând turbulențe puternice la acea înălțime. </answer>
+                <answer>în coridorul umbrit dintre pădurile însorite, vântul suflă invers la nivelul solului, ceea ce face dificilă trecerea peste arborii din față. </answer>
+                <answer>când se trece peste primii arbori, pot apărea termici puternice din cauza diferenței de temperatură între pădure și coridor. </answer>
+        </answers>
+    </question>
+    <question number="116">
+        <text>117. Când la locul de decolare vântul suflă cu 25 km / h, care este cea mai bună metodă de a decola? </text>
+        <answers>
+                <answer>Pilotul se poziționează pe o pantă abruptă cât mai aproape posibil de marginea posterioară a parapantei și accelerează cât mai repede posibil, pentru a gonfla energic parapanta. </answer>
+                <answer>Pilotul ar trebui să decoleze cu spatele la parapantă ori de câte ori condițiile o permit, deoarece aceasta este de departe cea mai sigură metodă de decolare. </answer>
+                <answer>Pilotul gonfleaza cu fața la parapantă pe o pantă abruptă, astfel încât acesta să fie ridicat de îndată ce parapanta este sus. </answer>
+                <answer type="correct">Pilotul gonfleaza cu fața la parapantă pe o pantă lină și are grijă să nu fie ridicat involuntar, înainte de a fi pregătit. </answer>
+        </answers>
+    </question>
+    <question number="117">
+        <text>118. Care dintre următoarele este verificarea celor 5 puncte a decolării corectă? </text>
+        <answers>
+                <answer type="correct">1. Seletă, cască și parașută de rezervă închisă și asigurată; 2. Chingile și suspantele dispuse corect; 3. Etalarea voalurii satisfăcătoare; 4. Direcția și intensitatea vântului; 5. Spațiul aerian. </answer>
+                <answer>1. Chingile și suspantele dispuse corect; 2. Etalarea voalurii satisfăcătoare;3. Direcția și intensitatea vântului; 4. Spațiul aerian; 5. Seletă, cască și parașută de rezervă închisă și asigurată. </answer>
+                <answer>1. Etalarea voalurii satisfăcătoare; 2. Direcția și intensitatea vântului; 3. Spațiul aerian; 4. Seletă, cască și parașută de rezervă închisă și asigurată; 5. Chingile și suspantele dispuse corect. </answer>
+                <answer>1. Direcția și intensitatea vântului; 2. Spațiul aerian; 3. Seletă, cască și parașută de rezervă închisă și asigurată; 4. Chingile și suspantele dispuse corect; 5. Etalarea voalurii satisfăcătoare. </answer>
+        </answers>
+    </question>
+    <question number="118">
+        <text>119. Se modifică verificarea celor 5 puncte atunci când decolarea se efectuează cu fața la voalură într-un vânt de 25 km / h? </text>
+        <answers>
+                <answer>Nu. </answer>
+                <answer>Da, prin aceea că nu se poate verifica direcția și forța vântului. </answer>
+                <answer>Da, prin faptul că nu se poate verifica voalura. </answer>
+                <answer type="correct">Da, după gonflare și întoarcere, trebuie să verificați din nou că spațiul de accelerare și spațiul aerian sunt libere. </answer>
+        </answers>
+    </question>
+    <question number="119">
+        <text>120. În ce moment ar trebui pilotul să se asigure că spațiul aerian și zona de accelerare sunt libere? </text>
+        <answers>
+                <answer>Înainte ca pilotul să se pregătească pentru decolare. </answer>
+                <answer>Înainte ca pilotul să etaleze parapanta pe locul de decolare. </answer>
+                <answer type="correct">Chiar înainte de manevra de decolare. </answer>
+                <answer>Când pilotul a terminat etalarea parapantei. </answer>
+        </answers>
+    </question>
+    <question number="120">
+        <text>121. Care sunt posibilele consecințe ale decolării cu chingile de la picioare ale seletei deschise? </text>
+        <answers>
+                <answer>Pilotul nu se poate simți confortabil în seletă. </answer>
+                <answer>Pilotul trebuie să lase frânele după decolare pentru a intra în seletă în mod corespunzător. </answer>
+                <answer type="correct">Pilotul poate aluneca din seletă, ducând la o cădere fatală. </answer>
+                <answer>Parapanta nu poate fi condusă prin schimbare de greutate a corpului. </answer>
+        </answers>
+    </question>
+    <question number="121">
+        <text>122. Care ar putea fi consecințele dacă chingile de la picioare ale seletei nu sunt strânse înaintea decolării? </text>
+        <answers>
+                <answer>Pilotul poate aluneca din seletă, ducând la o cădere fatală. </answer>
+                <answer type="correct">Pilotul ar putea fi nevoit, după decolare, să ia ambele comenzi într-o singură mână pentru a intra în seletă în mod corespunzător. </answer>
+                <answer>Parapanta trage constant într-o parte. </answer>
+                <answer>Parapanta nu poate fi condusă prin schimbare de greutate a corpului. </answer>
+        </answers>
+    </question>
+    <question number="122">
+        <text>123. Ce se întâplă dacă parapanta este udă? </text>
+        <answers>
+                <answer>Finețea parapantei este mult redusă. </answer>
+                <answer>Viteza de pdecolare, zbor și aterizare sunt considerabil mai mari. </answer>
+                <answer type="correct">Parapanta se gonflează greu și necesită mai mult efort pentru a o aduce deasupra capului. </answer>
+                <answer>Stabilitatea caracteristicilor de zbor va fi considerabil afectată. </answer>
+        </answers>
+    </question>
+    <question number="123">
+        <text>124. Un pilot găsește condițiile de la locul de decolare ca fiind provocatoare. El ar trebui să </text>
+        <answers>
+                <answer>lase pe alți piloți să decoleze mai întâi pentru a concluziona că, așa cum au decolat ei fără probleme, atunci poate și el. </answer>
+                <answer>decoleze, având în vedere că siguranța este garantată la locul de decolare oficial. </answer>
+                <answer type="correct">decoleze numai atunci când este convins că o poate face fără probleme. </answer>
+                <answer>decoleze, pentru că, în calitate de utilizator frecvent al acestui loc de decolare, concluzia e că va putea decola și de această dată în condiții de siguranță. </answer>
+        </answers>
+    </question>
+    <question number="124">
+        <text>125. Procedura de decolare cu parapanta are trei faze. Cum se numesc acestea? </text>
+        <answers>
+                <answer>1. Gonflare 2. Controlul / corecția 3. Frânarea </answer>
+                <answer>1. Control 2. Gonflare 3. Accelerare </answer>
+                <answer>1. Gonflare 2. Frânarea 3. Accelerare </answer>
+                <answer type="correct">1. Gonflare 2. Controlul / corecția 3. Accelerare </answer>
+        </answers>
+    </question>
+    <question number="125">
+        <text>126. În ce fază, cel mai târziu, puteți să renunțați la decolare? </text>
+        <answers>
+                <answer>În niciuna dintre faze. </answer>
+                <answer>În faza de gonflare. </answer>
+                <answer type="correct">În faza de control și corecție. </answer>
+                <answer>În faza de accelerare. </answer>
+        </answers>
+    </question>
+    <question number="126">
+        <text>127. Pe o decolare orientata spre sud veti avea un vant de la 120 ° la 5 noduri. Care este cea mai bună abordare? </text>
+        <answers>
+                <answer>Gonflați parapanta spre sud și apoi accelerați în direcția sud-vest pentru a compensa pentru vântul lateral. </answer>
+                <answer>Gonflați parapanta în vânt și accelerați în diagonală pe pantă, cu fața în vânt. </answer>
+                <answer type="correct">Gonflați parapanta în vânt și întoarceți-vă progresiv spre vale și accelerați. </answer>
+                <answer>Decolarea ar trebui întreruptă deoarece vântul lateral prezintă un risc prea mare. </answer>
+        </answers>
+    </question>
+    <question number="127">
+        <text>128. Decolarea cu vânt zero la 3.600m deasupra nivelului mării este diferită de decolarea cu vânt zero la 1.400m deasupra nivelului mării, în sensul că distnța pe care trebuie să o alergați la 3600m este </text>
+        <answers>
+                <answer>mai scurtă datorită performanței umane mai bune de la altitudine. </answer>
+                <answer>mai scurtă, deoarece accelerația poate fi mai mare datorită densității reduse a aerului. </answer>
+                <answer type="correct">mai lungă, deoarece densitatea mai mică a aerului trebuie compensată cu o viteză mai mare de decolare. </answer>
+                <answer>la fel - nu există nici o diferență. </answer>
+        </answers>
+    </question>
+    <question number="128">
+        <text>129. După decolare, un pilot nu se poate așeza corect în seletă, deoarece și-a lăsat chingile de la picioare ale seletei prea largi. Ce ar trebui acesta să facă? </text>
+        <answers>
+                <answer>Să libereze imediat comenzile pentru a trage placa seletei sub el. </answer>
+                <answer>Cu comenzile în mâini, să apuce imediat placa seletei și să o tragă sub el. </answer>
+                <answer type="correct">Să zboare de lângă pantă, să pună ambele comenzi într-o mână și cu cealaltă mână să tragă placa seletei sub el. </answer>
+                <answer>comenzile nu trebuie eliberate în timpul zborului. Dacă pilotul nu poate intra cu succes în sleltă fără a folosi mâinile acesta ar trebui să execute o aterizare de urgență. </answer>
+        </answers>
+    </question>
+    <question number="129">
+        <text>130. De ce comenzile nu trebuie niciodată eliberate imediat după decolare? </text>
+        <answers>
+                <answer>Deoarece la scurt timp după decolare există pericolul ca presiunea statică din parapantă să scadă și parapanta să se prăbușească. </answer>
+                <answer type="correct">În cazul unei închideri ale voalurii aproape de sol, un pilot nu poate compensa în timp util dacă trebuie să caute comenzile. </answer>
+                <answer>Deoarece parapanta trebuie să fie frânată puternic imediat după decolare, pentru a crește performanța parapantei suficient pentru a decola. </answer>
+                <answer>Datorită turbulențelor adesea prezente aproape de sol, pilotul are nevoie de comenzi pentru a se trage înapoi în poziție verticală dacă atinge din nou solul. </answer>
+        </answers>
+    </question>
+    <question number="130">
+        <text>131. Imediat după decolare, pilotul își dă seama că trebuie să frâneze mult în partea dreaptă pentru a zbura drept. Care ar putea fi cauza? </text>
+        <answers>
+                <answer>Vântul lateral din dreapta. </answer>
+                <answer>Vânt lateral puternic din stânga. </answer>
+                <answer type="correct">Are un nod în suspantele de pe partea stânga. </answer>
+                <answer>Are un nod în suspantele de pe partea stânga. </answer>
+        </answers>
+    </question>
+    <question number="131">
+        <text>132. Imediat după decolare, pilotul își dă seama că trebuie să frâneze din greu în partea dreaptă pentru a zbura direct în față. Observă un nod între suspantele D și suapantele comenzii din stânga. Care sunt consecințele? </text>
+        <answers>
+                <answer>Parapanta este mai sensibilă la turbulențe și se închide mai ușor. </answer>
+                <answer type="correct">Tendința de a intra în angajare parașutată este mai mare, iar atunci când se virează spre dreapta trebuie anticipată posibilitatea de angajare a parapantei. </answer>
+                <answer>Suspantele D s-ar putea rupe datorită frecării, ducând la un accident. </answer>
+                <answer>Parapanta are o tendință mai mare de a se închide pe partea dreaptă, iar la virajul spre stânga trebuie anticipată posibilitatea de angajare a parapantei. </answer>
+        </answers>
+    </question>
+    <question number="132">
+        <text>133. Imediat după decolare pilotul observă un nod între suspantele A și B din partea stângă a voalurii. Care sunt consecințele? </text>
+        <answers>
+                <answer type="correct">Parapanta este mai sensibilă la turbulențe și se închide mai ușor pe partea stângă. </answer>
+                <answer>Tendința de a intra în angajare parașutată este mai mare, iar atunci când se virează spre dreapta trebuie anticipată posibilitatea de angajare a parapantei. </answer>
+                <answer>Suspantele A sau B s-ar putea rupe datorită frecării, ducând la un accident. </answer>
+                <answer>Parapanta are o tendință mai mare de a se închide pe partea dreaptă, iar la virajul spre stânga trebuie anticipată posibilitatea de angajare a parapantei. </answer>
+        </answers>
+    </question>
+    <question number="133">
+        <text>134. Imediat după decolare pilotul realizează că comanda stângă nu funcționează și descoperă un nod la scripetele de ghidaj al suspantei, de pe chinga din spate. Ce ar trebui să facă? </text>
+        <answers>
+                <answer>Să se întoarcă spre dreapta pentru a executa imediat o aterizare de urgență. </answer>
+                <answer>Să tragă cu mai multă forță de comanda stângă, astfel încât nodul să cedeze puțin. </answer>
+                <answer type="correct">Să zboare la o distanță sigură de pantă, conducând cu chinga din spate stânga în loc de comandă, apoi să încerce să desfacă nodul. </answer>
+                <answer>Să tragă ambele comenzi pentru o clipă, rapid și cu forța, la 100% (pompare simetrică) pentru a elibera nodul. </answer>
+        </answers>
+    </question>
+    <question number="134">
+        <text>135. Un pilot dorește să zboare cât mai departe în aer calm. Ce ar trebui să facă? </text>
+        <answers>
+                <answer>Să zboare cât mai repede posibil și să elibereze și trimerele dacă sunt instalate. </answer>
+                <answer type="correct">Să zboare cu presiune ușoară în comanzi (1% - 10% frânată). </answer>
+                <answer>Să zboare cu comenzile aproximativ 20 - 30% frânate. </answer>
+                <answer>Să zboare cu comenzile aproximativ 50% frânate. </answer>
+        </answers>
+    </question>
+    <question number="135">
+        <text>136. Locul de decolare este la 1.600 m AMSL iar valea de mai jos este la 400 m AMSL. Finețea indicată de producător este de 6: 1. Care este distanța cea mai mare care se poate zbura în aer calm? </text>
+        <answers>
+                <answer>4,8 km </answer>
+                <answer>6,0 km </answer>
+                <answer type="correct">7,2 km </answer>
+                <answer>8,4 km </answer>
+        </answers>
+    </question>
+    <question number="136">
+        <text>137. Un pilot dorește să zboare cât mai mult timp în aer calm. Ce ar trebui să facă? </text>
+        <answers>
+                <answer>Să zboare cât mai repede posibil și să elibereze și trimerele dacă sunt instalate. </answer>
+                <answer>Să zboare cu presiune ușoară în comanzi (1% - 10% frânată). </answer>
+                <answer type="correct">Să zboare cu comenzile aproximativ 20 - 30% frânate. </answer>
+                <answer>Să zboare cu comenzile aproximativ 50% frânate. </answer>
+        </answers>
+    </question>
+    <question number="137">
+        <text>138. Poate viteza parapantei să fie influențată de poziția corpului pilotului? </text>
+        <answers>
+                <answer>Dacă în timpul zborului pilotul se apleacă înainte cu umerii apăsând chingile, parapanta se va accelera. </answer>
+                <answer type="correct">Dacă în timpul zborului se adoptă o poziție aerodinamică, rezisența la înaintare este redusă și viteza crește ușor. </answer>
+                <answer>Dacă picioarele sunt întinse, centrul masei se mișcă înainte, reducând astfel unghiul de atac și creșterea vitezei. </answer>
+                <answer>Nu. </answer>
+        </answers>
+    </question>
+    <question number="138">
+        <text>139. Un pilot dorește să zboare cât mai departe cu un vânt de față de 25 km / h. Ce ar trebui să facă? </text>
+        <answers>
+                <answer type="correct">Să zboare cât mai repede posibil și să elibereze și trimerele dacă sunt instalate. </answer>
+                <answer>Să zboare cu presiune ușoară în comanzi (1% - 10% frânată). </answer>
+                <answer>Să zboare cu comenzile cca. 20 - 30% frânate. </answer>
+                <answer>Să zboare cu comenzile aprox. 50% frânate. </answer>
+        </answers>
+    </question>
+    <question number="139">
+        <text>140. Un pilot dorește să zboare cât mai departe cu un vânt de spate de 25 km / h. Ce ar trebui să facă? </text>
+        <answers>
+                <answer>Să zboare cât mai repede posibil și să elibereze și trimerele dacă sunt instalate. </answer>
+                <answer>Să zboare cu presiune ușoară în comanzi (1% - 10% frânată). </answer>
+                <answer type="correct">Să zboare cu comenzile cca. 20 - 30% frânate. </answer>
+                <answer>Să zboare cu comenzile aprox. 50% frânate. </answer>
+        </answers>
+    </question>
+    <question number="140">
+        <text>141. Un zboară într-o termică care urcă cu 3 m / s. Ce ar trebui să facă? </text>
+        <answers>
+                <answer>Să zboare cât mai repede posibil și să elibereze și trimerele dacă sunt instalate. </answer>
+                <answer>Să zboare cu presiune ușoară în comanzi (1% - 10% frânată). </answer>
+                <answer type="correct">Să zboare cu comenzile cca. 20 - 30% frânate. </answer>
+                <answer>Să zboare cu comenzile aprox. 50% frânate. </answer>
+        </answers>
+    </question>
+    <question number="141">
+        <text>142. Un pilot zboară spre câmpul de aterizare exact la sud de poziția sa, cu un vânt de 25 km / h vest. Ce ar trebui să facă pentru a ajunge cât mai înalt posibil? </text>
+        <answers>
+                <answer>Ar trebui să îndrepte parapanta spre sud și să zboare cât mai repede posibil. </answer>
+                <answer>Ar trebui să îndrepte parapanta spre aterizare și să zboare ușor frânat. </answer>
+                <answer>Ar trebui să îndrepte parapanta spre aterizare și să zboare cât mai repede posibil. </answer>
+                <answer type="correct">Ar trebui să îndrepte parapanta spre sud-vest și să zboare cât mai repede posibil. </answer>
+        </answers>
+    </question>
+    <question number="142">
+        <text>143. Un pilot zboară spre câmpul de aterizare situat exact la sud de poziția sa, cu un vânt de 20 km / h vest. Dacă își îndreaptă parapanta exact spre terenul de aterizare, care va fi traiectul lui de zbor? </text>
+        <answers>
+                <answer>1 </answer>
+                <answer>2 </answer>
+                <answer>3 </answer>
+                <answer type="correct">4 </answer>
+        </answers>
+    </question>
+    <question number="143">
+        <text>144. Un pilot zboară spre câmpul de aterizare situat exact la sud de poziția sa, cu un vânt de 20 km / h vest. Dacă își îndreaptă parapanta exact spre sud, care va fi traiectul lui de zbor? </text>
+        <answers>
+                <answer>1 </answer>
+                <answer>2 </answer>
+                <answer type="correct">3 </answer>
+                <answer>4 </answer>
+        </answers>
+    </question>
+    <question number="144">
+        <text>145. Un pilot zboară spre câmpul de aterizare situat exact la sud de poziția sa, cu un vânt de 20 km / h vest. Dacă își îndreaptă parapanta exact spre sud-vest, care va fi traiectul lui de zbor? </text>
+        <answers>
+                <answer type="correct">1 </answer>
+                <answer>2 </answer>
+                <answer>3 </answer>
+                <answer>4 </answer>
+        </answers>
+    </question>
+    <question number="145">
+        <text>147. Unghiul de corecție pentru deriva vântului (unghiul de derivă) </text>
+        <answers>
+                <answer type="correct">crește pe măsura intensificarea vântului lateral. </answer>
+                <answer>scade cu intensificareaa vântului lateral. </answer>
+                <answer>este influențată de direcția, dar nu de intensitatea vântului lateral. </answer>
+                <answer>este influențată de intensitatea, dar nu de direcția vântului lateral. </answer>
+        </answers>
+    </question>
+    <question number="146">
+        <text>148. Pilotul A zboară cu 35 km / h iar pilotul B cu 50 km / h, ambii urmează aceeași traiectorie și au același vânt lateral. </text>
+        <answers>
+                <answer type="correct">Pilotul A trebuie să aleagă un unghi de derivă mai mare decât B. </answer>
+                <answer>Ambii trebuie să aleagă același unghi de derivă. </answer>
+                <answer>Pilotul B trebuie să aleagă un unghi de derivă mai mare decât A. </answer>
+                <answer>Unghiul de derivă este întotdeauna egal cu jumătate din unghiul dintre traiectorie și vântul lateral. </answer>
+        </answers>
+    </question>
+    <question number="147">
+        <text>149. Unghiul de corecție pentru deriva vântului (unghiul de derivă) </text>
+        <answers>
+                <answer>va deveni mai mare atunci când crește viteza de zbor. </answer>
+                <answer type="correct">va deveni mai mic atunci când crește viteza de zbor. </answer>
+                <answer>nu este influențată de viteza de zbor. </answer>
+                <answer>este întotdeauna jumătate din unghiul dintre direcția vântului și traiectorie. </answer>
+        </answers>
+    </question>
+    <question number="148">
+        <text>150. Marimea unghiului de derivă depinde de </text>
+        <answers>
+                <answer>viteza de înfundare a parapantei, direcția și intensitatea vântului. </answer>
+                <answer>viteza de înfundare a parapantei, direcția vântului și distanța de zbor. </answer>
+                <answer>viteza parapantei, direcția vântului și distanța de zbor. </answer>
+                <answer type="correct">viteza parapantei, direcția și intensitatea vântului. </answer>
+        </answers>
+    </question>
+    <question number="149">
+        <text>151. Un pilot zboară în vânt și ajunge sub un cumulus. Unde ar trebui să găsească termica? </text>
+        <answers>
+                <answer>De îndată ce se ajunge sub cumulus. </answer>
+                <answer>În centrul cumulusului. </answer>
+                <answer type="correct">În partea din vânt a cumulusului. </answer>
+                <answer>În partea de sub vânt a cumulusului. </answer>
+        </answers>
+    </question>
+    <question number="150">
+        <text>152. Pilotul constată că, după ce a spiralat timp de 10 minute într-o termică, poziția sa deasupra solului s-a schimbat cu 3 km. Ce putem spune despre intensitatea vântului? </text>
+        <answers>
+                <answer>Nu se poate stabili din informațiile furnizate. </answer>
+                <answer>Are o valoare medie de 30 km / h. </answer>
+                <answer type="correct">Are o valoare medie de 18 km / h. </answer>
+                <answer>Trebuie anticipat vânt puternic la nivelul solului. </answer>
+        </answers>
+    </question>
+    <question number="151">
+        <text>153. Un pilot găsește o masă de aer ascendentă și încearcă să spiraleze în ea. După un viraj de 90 ° variometrul îi indică că coboară. Ce ar trebui să facă? </text>
+        <answers>
+                <answer type="correct">Ar trebui să vireze 180 °, apoi să zboare drept, deoarece aerul ascendent trebuie să fie în fața lui și apoi să încerce să se centreze din nou în ascendență. </answer>
+                <answer>Ar trebui să continue să vireze, cu același unghi și viteză. </answer>
+                <answer>Ar trebui să schimbe imediat direcția de virare, întrucât cel mai probabil a virat prea devreme în termică. </answer>
+                <answer>Întrucât măsura orizontală sau circumferința masei de aer în urcare nu permite efectuarea unui cerc complet, ar trebui să caute o altă zonă de ascendență. </answer>
+        </answers>
+    </question>
+    <question number="152">
+        <text>154. În condiții fără vânt predominant, un pilot zboară într-o termică. Acest curent ascendent </text>
+        <answers>
+                <answer type="correct">se ridică vertical în sus. </answer>
+                <answer>se înclină spre nord cu creșterea altitudinii. </answer>
+                <answer>se înclină spre vest cu creșterea altitudinii. </answer>
+                <answer>se înclină spre est cu creșterea altitudinii. </answer>
+        </answers>
+    </question>
+    <question number="153">
+        <text>155. În condiții fără vânt predominant, un pilot zboară într-o termică. Ce se întâmplă când se îndepărteză prea mult de centrul termicii? </text>
+        <answers>
+                <answer>Încetează să urce și zboară cu viteza de înfundare normală. </answer>
+                <answer type="correct">El zboară în descendența din jur și își pierde rapid altitudinea. </answer>
+                <answer>Ascendența devine mai puternică și mai turbulentă. </answer>
+                <answer>Ascendența devine mai puternică și mai puțin turbulentă. </answer>
+        </answers>
+    </question>
+    <question number="154">
+        <text>156. În condiții fără vânt predominant, un pilot zboară într-o termică ca să câștige altitudine cât mai repede. Dintr-o data el pierde termica si variometrul lui indica o viteza mare de înfundare. Ce este, în general, cel mai bun lucru de făcut? </text>
+        <answers>
+                <answer type="correct">Un viraj strâns de 120 - 180 ° pentru a se întoarce cât mai repede posibil în termică. </answer>
+                <answer>Un viraj 120 - 180 ° cât mai plat, pentru a pierde cât mai puțin înălțime în descendență. </answer>
+                <answer>Zborul în cerc larg până când reapare ascendența. </answer>
+                <answer>Zbor drept și căutat o nouă zonă de ascendență. </answer>
+        </answers>
+    </question>
+    <question number="155">
+        <text>157. În condiții de vânt 5m/s din 270°, un pilot zboară într-o termică. Acest curent ascendent </text>
+        <answers>
+                <answer>se ridică vertical în sus. </answer>
+                <answer>se înclină spre nord cu creșterea altitudinii. </answer>
+                <answer>se înclină spre vest cu creșterea altitudinii. </answer>
+                <answer type="correct">se înclină spre est cu creșterea altitudinii. </answer>
+        </answers>
+    </question>
+    <question number="156">
+        <text>158. În condiții de vânt 5m/s din 270°, un pilot zboară într-o termică care se înclină spre est cu creșterea altitudinii. Pe care parte a termicii va fi descendența cea mai puternică? </text>
+        <answers>
+                <answer>Pe partea din vânt. </answer>
+                <answer type="correct">Pn partea de sub vânt. </answer>
+                <answer>Pe partea orientată spre soare. </answer>
+                <answer>Pe partea orientată opus soarelui. </answer>
+        </answers>
+    </question>
+    <question number="157">
+        <text>159. În condiții de vânt 5m/s din 270°, un pilot zboară într-o termică care se înclină spre est cu creșterea altitudinii. Pentru a nu pierde termica, pilotul </text>
+        <answers>
+                <answer type="correct">zboară, în general, mai mult în partea din vânt a termicii. </answer>
+                <answer>zboară, în general, mai mult în partea de sub vânt a termicii. </answer>
+                <answer>spiralează spre dreapta ori de câte ori este posibil. </answer>
+                <answer>spiralează spre stânga ori de câte ori este posibil. </answer>
+        </answers>
+    </question>
+    <question number="158">
+        <text>160. Un pilot zboară într-o termică și dorește să zboare cât mai departe posibil. Când ar trebui să părăsească termica? </text>
+        <answers>
+                <answer>Numai când el este cel mai sus. </answer>
+                <answer>Numai atunci când variometrul nu mai indică ascendență utilă. </answer>
+                <answer type="correct">Numai atunci când și-a ales următorul obiectiv și are suficientă înălțime pentru a ajunge la el. </answer>
+                <answer>Numai atunci când ajunge la 50m de baza norului. </answer>
+        </answers>
+    </question>
+    <question number="159">
+        <text>161. Ce măsuri de siguranță trebuie luate atunci când întâlniți turbulențele termice în timpul patrulării la pantă? </text>
+        <answers>
+                <answer>Nu zburați niciodată sub nivelul crestei. </answer>
+                <answer type="correct">Îndepărtați-vă de pantă și adaptați viteza corespunzător. </answer>
+                <answer>Eliberați trimerele pentru un flux de aer mai omogen peste parapantă, reducând astfel șansele de angajare. </answer>
+                <answer>Părăsiți panta, întrucât zborul dinamic în condiții de turbulență termică este prea periculos. </answer>
+        </answers>
+    </question>
+    <question number="160">
+        <text>162. În zborul dinamic, lângă o creastă, întotdeauna virați </text>
+        <answers>
+                <answer>pe partea pe care se simte ascendența. </answer>
+                <answer>pe aceeași parte cu cea mai apropiată parapantă. </answer>
+                <answer type="correct">dinspre creastă înspre vale. </answer>
+                <answer>dinspre creastă înspre vale sub înălțimea crestei și pe partea pe care se simte ascendența deasupra crestei. </answer>
+        </answers>
+    </question>
+    <question number="161">
+        <text>163. O parapantă în zor </text>
+        <answers>
+                <answer>nu produce turbulențe de siaj perceptibile atunci când zboară în intervalul inferior de viteză. </answer>
+                <answer type="correct">produce o zonă de turbulențe de siaj ce pot fi simțite de alte parapante. </answer>
+                <answer>produce o bandă de ascendență în spatele ei. </answer>
+                <answer>produce o bandă de descendență în spatele ei. </answer>
+        </answers>
+    </question>
+    <question number="162">
+        <text>164. Turbulențele cauzate de parapante </text>
+        <answers>
+                <answer>nu au nici o semnificație în practică. </answer>
+                <answer>devin mai însemnate cu creșterea înălțimii. </answer>
+                <answer type="correct">pot provoca dificultăți altor piloți care le urmăresc prea mult, mai ales la decolare și aterizare. </answer>
+                <answer>trebuie evitate cu orice cost când se zboară în aceeași termică. </answer>
+        </answers>
+    </question>
+    <question number="163">
+        <text>165. Care sunt consecințele posibile când o parapantă care zboară drept este frânată (pe ambele părți) prea mult sau prea puternic? </text>
+        <answers>
+                <answer>Parapanta are o închidere frontală. </answer>
+                <answer type="correct">Fluxul de aer se separă de aripă, ducând la o angajare parașutată sau aripa se balansează în spate angajându-se total. </answer>
+                <answer>Fluxul de aer se separă de o parte a aripii (angajare), rezultând plonjarea aripii spre acea parte și intrarea în vrie negativă. </answer>
+                <answer>Aripa intră într-o spirală care se accelerează constant. </answer>
+        </answers>
+    </question>
+    <question number="164">
+        <text>166. Ce simțim când parapanta este în angajare parașutată? </text>
+        <answers>
+                <answer>Vântul pe față, viteza peste sol este zero și parapanta se înfundă. </answer>
+                <answer type="correct">Nici o senzație de vânt pe față, nici o presiune în frâne, iar intradosul parapantei nu mai este tensionat, adică este concav între punctele de atașare ale suspantelor. </answer>
+                <answer>Parapanta are o viteză de înfundare mare și presiunea în comenzi este foarte mare. </answer>
+                <answer>Aripa intră într-o spirală care se accelerează constant. </answer>
+        </answers>
+    </question>
+    <question number="165">
+        <text>167. Un pilot se află într-o angajare parașutată la 500 m deasupra solului. Ce ar trebui să facă? </text>
+        <answers>
+                <answer>O parapantă certificată se va recupera dintr-o angajare paraușutală de la sine. Prin urmare, pilotul trebuie să aștepte cu comenzile ușor trase până când parapanta se va recupera. </answer>
+                <answer>Trageți o comandă brusc și complet jos, și eliberați-o imediat. </answer>
+                <answer type="correct">Trageți de chingile A până când parapanta zboară în mod normal din nou. </answer>
+                <answer>Trageți ambele comenzi brusc și complet jos, și eliberați-le imediat. </answer>
+        </answers>
+    </question>
+    <question number="166">
+        <text>168. Pe apropierea finală, la 10m deasupra solului, vă dați seama că parapanta a intrat într-o angajare parașută. Ce ar trebui să faceti? </text>
+        <answers>
+                <answer>Trageți imediat de chingile A. </answer>
+                <answer>Lăsați parapanta în angajare parașuată, ridicați-vă în poziție verticală și să trageți ambele comenzi complet, la o înălțime de aproximativ 4m deasupra solului. </answer>
+                <answer type="correct">Lăsați parapanta în angajare parașuată, ridicați-vă în poziție verticală, nu trageți de comenzi și pregătiți-vă pentru o cădere parasutată (PLF). </answer>
+                <answer>Aruncați rezerva. </answer>
+        </answers>
+    </question>
+    <question number="167">
+        <text>169. Cum poate un pilot să provoace ongajare parașutată, altfel decât să tragă prea mult comenzile? </text>
+        <answers>
+                <answer type="correct">Încărcarea insuficientă a parapantei sau ieșirea necorespunzătoare din angajare cu B-urile (B-stall). </answer>
+                <answer>Încărcarea excesivă a parapantei sau ieșirea necorespunzătoare din angajare cu B-urile (B-stall). </answer>
+                <answer>Încărcarea excesivă a parapantei sau zborul într-un vânt puternic din față. </answer>
+                <answer>Zborul într-un vânt puternic din față sau încărcarea insuficientă a parapantei. </answer>
+        </answers>
+    </question>
+    <question number="168">
+        <text>170. Care sunt consecințele comenzii prea ample într-un viraj? </text>
+        <answers>
+                <answer>Parapanta are o închidere frontală. </answer>
+                <answer>Fluxul de aer se separă de aripă, ducând la o angajare parașutată sau aripa se balansează în spate angajându-se total. </answer>
+                <answer type="correct">Fluxul de aer se separă de o parte a aripii (angajare), rezultând plonjarea aripii spre acea parte și intrarea în vrie negativă. </answer>
+                <answer>Aripa intră într-o spirală care se accelerează constant. </answer>
+        </answers>
+    </question>
+    <question number="169">
+        <text>171. Un pilot virează foarte brusc, cu un unghi de înclinare mare, din zbor drept. Care sunt consecințele? </text>
+        <answers>
+                <answer>Parapanta are o închidere frontală. </answer>
+                <answer>Fluxul de aer se separă de aripă, ducând la o angajare parașutată sau aripa se balansează în spate angajându-se total. </answer>
+                <answer type="correct">Fluxul de aer se separă de o parte a aripii (angajare), rezultând plonjarea aripii spre acea parte și intrarea în vrie negativă. </answer>
+                <answer>Ca rezultat al încărcării asimetrice ale parapantei, părți ale parapantei de pe acea parte ar putea deveni întinse, rezultând că parapanta să tragă într-o parte. </answer>
+        </answers>
+    </question>
+    <question number="170">
+        <text>172. Care sunt indiciile că o parte a parapantei s-a angajat (vrie negativă)? </text>
+        <answers>
+                <answer>Jumătatea parapantei de pe partea pe care se rotește se închide datorită scăderii presiunii din interiorul parapantei. </answer>
+                <answer type="correct">Tensiunea din comanda interioară scade brusc și comanda nu mai opune rezistență pe întreaga ei cursă. </answer>
+                <answer>Parapanta intră într-o spirală accentuată rezultând un factor de încărcare mare și constant. </answer>
+                <answer>Parapanta devine instabilă în jurul axei longitudinale și începe să penduleze. </answer>
+        </answers>
+    </question>
+    <question number="171">
+        <text>173. În timpul virajului, pilotul își dă seama că o parte a parapantei s-a angajat (vrie negativă). Care este cea mai potrivită acțiune? </text>
+        <answers>
+                <answer>Aplicarea imediată a comenzii exterioare pentru a stabiliza direcția. </answer>
+                <answer>Pompare comanzii interioare pentru a mări presiunea internă. </answer>
+                <answer type="correct">Eliberarea ambelor comenzi și lăsarea parapantei să recâștige viteză. </answer>
+                <answer>Apucarea chingilor și ținerea lor pentru a minimaliza riscul unei răsuciri. </answer>
+        </answers>
+    </question>
+    <question number="172">
+        <text>174. Riscul de vrie negativă poate fi minimizat dacă </text>
+        <answers>
+                <answer type="correct">Pilotul zboară mereu cu o rezervă de viteză și cu mult simț. </answer>
+                <answer>Parapanta este observată în mod constant și nu se execută viraje strânse. </answer>
+                <answer>Comanda exterioară este întotdeauna aplicată întimpul virajului, astfel încât parapanta să nu se poată angaja pe o parte. </answer>
+                <answer>Un anemometru este folosit în zbor pentru a verifica viteza aerului. </answer>
+        </answers>
+    </question>
+    <question number="173">
+        <text>175. Ce se întâmplă dacă un pilot trage numai de chingile A pentru a accelera? </text>
+        <answers>
+                <answer type="correct">Parapanta are o închidere frontală. </answer>
+                <answer>Fluxul de aer se separă de aripă, ducând la o angajare parașutată sau aripa se balansează în spate angajându-se total. </answer>
+                <answer>Fluxul de aer se separă de o parte a aripii (angajare), rezultând plonjarea aripii spre acea parte și intrarea în vrie negativă. </answer>
+                <answer>Aripa intră într-o spirală care se accelerează constant. </answer>
+        </answers>
+    </question>
+    <question number="174">
+        <text>176. Ce consecințe pot apărea atunci când mai mult de 50% din parapantă se închide și pilotul lasă parapanta să continue să zboare fără aplicarea comenzii. </text>
+        <answers>
+                <answer>Parapanta are o închidere frontală. </answer>
+                <answer>Fluxul de aer se separă de aripă, ducând la o angajare parașutată sau aripa se balansează în spate angajându-se total. </answer>
+                <answer>Fluxul de aer se separă de o parte a aripii (angajare), rezultând plonjarea aripii spre acea parte și intrarea în vrie negativă. </answer>
+                <answer type="correct">Aripa intră într-o spirală care se accelerează constant. </answer>
+        </answers>
+    </question>
+    <question number="175">
+        <text>177. În timpul zborului parapanta se închide brusc pe o parte. Care este acțiunea potrivită? </text>
+        <answers>
+                <answer>Pompați imediat, cu forță, comanda de pe partea închisă pentru a o redeschide cât mai repede posibil, minimizând astfel înălțimea pierdută. </answer>
+                <answer>Aplicați la maxim ambele comenzi până când planorul este redeschis. </answer>
+                <answer>Aplicați la maxim frâna de pe partea deschisă pentru a preveni întoarcerea parapantei spre partea închisă. </answer>
+                <answer type="correct">Stabilizați direcția prin deplasarea greutătii corpului și frânarea atentă pe partea deschisă, apoi, dacă este necesar, pompați pe partea închisă pentru a o redeschide. </answer>
+        </answers>
+    </question>
+    <question number="176">
+        <text>178. Zburați prin aer turbulent, parapanta începe să penduleze un pic în jurul axelor longitudinale și transversale. Care este acțiunea potrivită? </text>
+        <answers>
+                <answer type="correct">Așezați-vă relaxat în seletă și trageți ușor până la moderat comenzile fără a încerca să compensați pendulul. </answer>
+                <answer>Zburați fără comenzi și, dacă este necesar, accelerați cu ajutorul chingilor A și B pentru a scăpa de turbulență cât mai repede posibil. </answer>
+                <answer>Frânați parapanta cu 50% și țineți chingile pentru a stabiliza poziția corpului într-o anumită măsură. </answer>
+                <answer>Stabilizați pendulul folosind frânarea promptă și fermă pe partea opusă mișcării de pendulare. </answer>
+        </answers>
+    </question>
+    <question number="177">
+        <text>179. Termenul "răsucire de chingi" (twist) înseamnă </text>
+        <answers>
+                <answer>rotația rapidă a parapantei în jurul axei verticale, prin care o jumătate din parapantă zboară spre înainte iar cealaltă spre înapoi. </answer>
+                <answer>viraje rapide alternante, prin care parapanta are ocazional un unghi înclinare laterală de peste 90 °. </answer>
+                <answer>viraje foarte strânse prin care factorul de încărcare datorat forței centrifuge crește semnificativ. </answer>
+                <answer type="correct">răsucirea chingilor și a suspantelor provocate de rotația parapantei în jurul axei verticale. Datorită inerției pilotului, el nu se poate roti, în general, la fel de repede ca și parapanta. </answer>
+        </answers>
+    </question>
+    <question number="178">
+        <text>180. Termenul "vrie negativă" (spin) înseamnă </text>
+        <answers>
+                <answer type="correct">rotația rapidă a parapantei în jurul axei verticale, prin care o jumătate din parapantă zboară spre înainte iar cealaltă spre înapoi. </answer>
+                <answer>viraje rapide alternante, prin care parapanta are ocazional un unghi înclinare laterală de peste 90 °. </answer>
+                <answer>viraje foarte strânse prin care factorul de încărcare datorat forței centrifuge crește semnificativ. </answer>
+                <answer>răsucirea chingilor și a suspantelor provocate de rotația parapantei în jurul axei verticale. Datorită inerției pilotului, el nu se poate roti, în general, la fel de repede ca și parapanta. </answer>
+        </answers>
+    </question>
+    <question number="179">
+        <text>181. Termenul "wingover" înseamnă </text>
+        <answers>
+                <answer>rotația rapidă a parapantei în jurul axei verticale, prin care o jumătate din parapantă zboară spre înainte iar cealaltă spre înapoi. </answer>
+                <answer type="correct">viraje rapide alternante, prin care parapanta are ocazional un unghi înclinare laterală de peste 90 °. </answer>
+                <answer>viraje foarte strânse prin care factorul de încărcare datorat forței centrifuge crește semnificativ. </answer>
+                <answer>răsucirea chingilor și a suspantelor provocate de rotația parapantei în jurul axei verticale. Datorită inerției pilotului, el nu se poate roti, în general, la fel de repede ca și parapanta. </answer>
+        </answers>
+    </question>
+    <question number="180">
+        <text>182. Termenul "spirală" (spiral dive) înseamnă </text>
+        <answers>
+                <answer>rotația rapidă a parapantei în jurul axei verticale, prin care o jumătate din parapantă zboară spre înainte iar cealaltă spre înapoi. </answer>
+                <answer>viraje rapide alternante, prin care parapanta are ocazional un unghi înclinare laterală de peste 90 °. </answer>
+                <answer type="correct">viraje foarte strânse prin care factorul de încărcare datorat forței centrifuge crește semnificativ. </answer>
+                <answer>răsucirea chingilor și a suspantelor provocate de rotația parapantei în jurul axei verticale. Datorită inerției pilotului, el nu se poate roti, în general, la fel de repede ca și parapanta. </answer>
+        </answers>
+    </question>
+    <question number="181">
+        <text>183. Coborârea cu "urechi mari" are avantajul că </text>
+        <answers>
+                <answer type="correct">corpul pilotului nu este solicitat fizic în timpul manevrei și parapanta poate fi condusă spre direcția dorită. </answer>
+                <answer>parapanta nu este deformată și poate atinge o viteză mare de înfundare. </answer>
+                <answer>manevra este aplicată cu ușurință, se poate atinge o viteză de înfundare mare și fără solcitare fizică a corpului piotului. </answer>
+                <answer>o viteză mare de înfundare poate fi obținută fără probleme în timpul ieșirii din manevră. </answer>
+        </answers>
+    </question>
+    <question number="182">
+        <text>184. Coborârea în spirală are avantajul că </text>
+        <answers>
+                <answer>corpul pilotului nu este solicitat fizic în timpul manevrei și parapanta poate fi condusă spre direcția dorită. </answer>
+                <answer type="correct">parapanta nu este deformată și poate atinge o viteză mare de înfundare. </answer>
+                <answer>manevra este aplicată cu ușurință, se poate atinge o viteză de înfundare mare și fără solcitare fizică a corpului piotului. </answer>
+                <answer>o viteză mare de înfundare poate fi obținută fără probleme în timpul ieșirii din manevră. </answer>
+        </answers>
+    </question>
+    <question number="183">
+        <text>185. Coborârea în ”angajare cu B-urile” (B stall) are avantajul că </text>
+        <answers>
+                <answer>corpul pilotului nu este solicitat fizic în timpul manevrei și parapanta poate fi condusă spre direcția dorită. </answer>
+                <answer>parapanta nu este deformată și poate atinge o viteză mare de înfundare. </answer>
+                <answer type="correct">manevra este aplicată cu ușurință, se poate atinge o viteză de înfundare mare și fără solcitare fizică a corpului piotului. </answer>
+                <answer>parapanta nu este deformată și corpul pilotului nu este solicitat fizic în timpul manevrei. </answer>
+        </answers>
+    </question>
+    <question number="184">
+        <text>186. Când coborâți cu "urechi mari", este important să fiți conștienți de faptul că parapanta în această configurație </text>
+        <answers>
+                <answer type="correct">zboară cu un unghi considerabil mai mare de atac și, prin urmare, este mai susceptibilă de a se angaja parașutat în timpul sau la ieșirea din manevră. </answer>
+                <answer>zboară cu viteză de înaintare considerabil mai mare, mărind astfel riscul închiderilor frontale. </answer>
+                <answer>necesită abilități extraordinare ale pilotului, în special în aerul turbulent și solicită fizic pilotul pe perioade mai lungi. </answer>
+        </answers>
+    </question>
+    <question number="185">
+        <text>187. Când coborâți cu "urechi mari", este important să rețineți acest lucru </text>
+        <answers>
+                <answer type="correct">acceleratorul ar trebui să fie aplicat simultan pentru a minimiza riscul angajare parașutată și pentru a crește semnificativ viteza de înfundare. </answer>
+                <answer>acceleratorul nu trebuie aplicat simultan, astfel încât riscul de închidere frontală să fie minimizat. </answer>
+                <answer>există o mare solicitare fizică a corpului. </answer>
+                <answer>parapanta zboară extrem de instabil. </answer>
+        </answers>
+    </question>
+    <question number="186">
+        <text>188. Când deschideți "urechile mari", este important să rețineți că </text>
+        <answers>
+                <answer>cel târziu în timpul apropierii finale, acestea trebuie deschise complet prin pomparea comenzilor. </answer>
+                <answer type="correct">la altitudine mică nu trebuie deschise prin pomparea comenzilor. </answer>
+                <answer>trebuie deschise prin pompare simultană și forțată a ambelor frâne. </answer>
+                <answer>în timpul manevrei de aterizare, acestea trebuie deschise numai prin scuturarea suspantelor A din exterior. </answer>
+        </answers>
+    </question>
+    <question number="187">
+        <text>189. Când coborâți în spirală, este important să rețineți că </text>
+        <answers>
+                <answer>există riscul de angajare parașutată la ieșirea din manevră. </answer>
+                <answer>numai prin aplicarea simultană a acceleratorului crește considerabil viteza de înfundare. </answer>
+                <answer type="correct">necesită abilități extraordinare ale pilotului, în special în aerul turbulent și solicită fizic pilotul pe perioade mai lungi. </answer>
+                <answer>poate fi obținută doar o viteză de înfundare mică. </answer>
+        </answers>
+    </question>
+    <question number="188">
+        <text>190. Când executați o angajare cu B-urile, este important să rețineți că </text>
+        <answers>
+                <answer type="correct">există riscul de angajare parașutată la ieșirea din manevră. </answer>
+                <answer>numai prin aplicarea simultană a acceleratorului crește considerabil viteza de înfundare. </answer>
+                <answer>necesită abilități extraordinare ale pilotului, în special în aerul turbulent și solicită fizic pilotul pe perioade mai lungi. </answer>
+                <answer>parapanta zboară extrem de instabil. </answer>
+        </answers>
+    </question>
+    <question number="189">
+        <text>191. Riscul angajării parașutate în timp ce se iese din angajare cu B-urile poate fi redus la minim </text>
+        <answers>
+                <answer>ridicându-se mai întâi o chingă B, urmată de cea de-a doua imediat după. </answer>
+                <answer>lăsând libere ambele B-uri în același timp. </answer>
+                <answer type="correct">ridicând chingile cu mâinile, unde mișcarea din a doua jumătate a cursei trebuie să fie rapidă. </answer>
+                <answer>ridicând simultan ambele chingi B încet și cu atenție. </answer>
+        </answers>
+    </question>
+    <question number="190">
+        <text>192. Zborul deasupra locului de aterizare înainte de a pierde înălțime și de a începe abordarea aterizării este </text>
+        <answers>
+                <answer>nepermisă din cauza posibilității de a obstrucționa alte parapante la aterizare. </answer>
+                <answer>de evitat ori de câte ori este posibil datorită riscului de coliziune. </answer>
+                <answer type="correct">recomandat pentru a vă uita la mâneca de vânt. </answer>
+                <answer>obligatoriu. </answer>
+        </answers>
+    </question>
+    <question number="191">
+        <text>193. Dacă, atunci când zburați deasupra locului de aterizare, mâneca de vânt nu este vizibilă, ce alte semne ne pot da o idee despre direcția vântului? </text>
+        <answers>
+                <answer>direcția de zbor a păsărilor. </answer>
+                <answer type="correct">fumurile și steagurile din zonă, precum și derivarea laterală în timpul zborului. </answer>
+                <answer>Direcția de zbor inerentă a parapantei. (Parapantele cu caracteristici stabile de zbor au tendința de a vira împotriva vântului.) </answer>
+                <answer>mișcarea norilor de la înălțime. </answer>
+        </answers>
+    </question>
+    <question number="192">
+        <text>194. Când aterizați pe o pantă și situația nu vă permite să vă apropiați de-a lungul acesteia, numai contra sau în josul pantei. Care dintre următoarele afirmații este corectă în condiții de vânt zero? </text>
+        <answers>
+                <answer type="correct">Este mai ușor să aterizezi precis, dar mai greu să aterizezi lin contra pantei. </answer>
+                <answer>Este mai ușor să aterizezi precis și lin contra pantei. </answer>
+                <answer>Este mai ușor să aterizezi precis și lin în josul pantei. </answer>
+                <answer>Este mai ușor să aterizezi precis, dar mai greu să aterizezi lin în josul pantei. </answer>
+        </answers>
+    </question>
+    <question number="193">
+        <text>195. De ce facem priza de aterizare? </text>
+        <answers>
+                <answer>Ca formare pentru a trece examenul practic organizat de AZLR. </answer>
+                <answer>Ca un instrument de memorare pentru incepători. </answer>
+                <answer type="correct">Priza de aterizare este clar identificabilă pentru ceilalți utilizatori ai spațiului aerian și oferă, de asemenea, cea mai mare probabilitate de aterizare precisă. </answer>
+                <answer>Priza de aterizare nu mai are nici un înțeles practic pentru piloții licențiați. </answer>
+        </answers>
+    </question>
+    <question number="194">
+        <text>196. Care element al prizei de aterizare este # 1? </text>
+        <answers>
+                <answer>Segmentul cu vânt lateral. </answer>
+                <answer type="correct">Zona pentru pierderea înălțimii. </answer>
+                <answer>Segmentul cu vânt din spate. </answer>
+                <answer>Apropierea finală. </answer>
+        </answers>
+    </question>
+    <question number="195">
+        <text>197. Care element al prizei de aterizare este # 2? </text>
+        <answers>
+                <answer>Segmentul cu vânt lateral. </answer>
+                <answer>Zona pentru pierderea înălțimii. </answer>
+                <answer type="correct">Segmentul cu vânt din spate. </answer>
+                <answer>Apropierea finală. </answer>
+        </answers>
+    </question>
+    <question number="196">
+        <text>198. Care element al prizei de aterizare este # 3? </text>
+        <answers>
+                <answer type="correct">Segmentul cu vânt lateral. </answer>
+                <answer>Zona pentru pierderea înălțimii. </answer>
+                <answer>Segmentul cu vânt din spate. </answer>
+                <answer>Apropierea finală. </answer>
+        </answers>
+    </question>
+    <question number="197">
+        <text>199. Care element al prizei de aterizare este # 4? </text>
+        <answers>
+                <answer>Segmentul cu vânt lateral. </answer>
+                <answer>Zona pentru pierderea înălțimii. </answer>
+                <answer>Segmentul cu vânt din spate. </answer>
+                <answer type="correct">Apropierea finală. </answer>
+        </answers>
+    </question>
+    <question number="198">
+        <text>200. Cum pierdem excesul de înălțime înainte de a intra în segmentul cu vânt din spate? </text>
+        <answers>
+                <answer>Zurând în cerc spre stânga. </answer>
+                <answer>Zurând în cerc spre dreapta. </answer>
+                <answer type="correct">Zurând în cerc în aceeași sens ca și virajele din priza de aterizare. </answer>
+                <answer>Făcândo serie de viraje alternante. </answer>
+        </answers>
+    </question>
+    <question number="199">
+        <text>201. Dacă ești obligat să faci o priză de aterizare spre stânga, în ce sector ar trebui să pierzi înălțimea înainte de a intra în segmentul cu vânt din spate? </text>
+        <answers>
+                <answer>1 </answer>
+                <answer type="correct">2 </answer>
+                <answer>3 </answer>
+                <answer>4 </answer>
+        </answers>
+    </question>
+    <question number="200">
+        <text>202. Dacă ești obligat să faci o priză de aterizare spre dreapta, în ce sector ar trebui să pierzi înălțimea înainte de a intra în segmentul cu vânt din spate? </text>
+        <answers>
+                <answer>1 </answer>
+                <answer>2 </answer>
+                <answer type="correct">3 </answer>
+                <answer>4 </answer>
+        </answers>
+    </question>
+    <question number="201">
+        <text>203. Fiecare diagramă prezintă o priză de aterizare standard în vânt zero (linie punctată) și o priză de aterizare practică în funcție de condiții (linie solidă). Cum ar trebui abordată aterizarea cu vânt zero când pilotul își dă seama, după segmentul cu vânt din spate, că înălțimea lui este prea mică? </text>
+        <answers>
+                <answer>1 </answer>
+                <answer type="correct">2 </answer>
+                <answer>3 </answer>
+                <answer>4 </answer>
+        </answers>
+    </question>
+    <question number="202">
+        <text>204. Fiecare diagramă prezintă o priză de aterizare standard în vânt zero (linie punctată) și o priză de aterizare practică în funcție de condiții (linie solidă). Cum ar trebui abordată aterizarea cu vânt zero când pilotul își dă seama, în timpul segmentul cu vânt lateral, că înălțimea lui este prea mare? </text>
+        <answers>
+                <answer>1 </answer>
+                <answer>2 </answer>
+                <answer>3 </answer>
+                <answer type="correct">4 </answer>
+        </answers>
+    </question>
+    <question number="203">
+        <text>205. Fiecare diagramă prezintă o priză de aterizare standard în vânt zero (linie punctată) și o priză de aterizare practică în funcție de condiții (linie solidă). Cum ar trebui abordată aterizarea cu vânt 10-15 km/h? </text>
+        <answers>
+                <answer type="correct">1 </answer>
+                <answer>2 </answer>
+                <answer>3 </answer>
+                <answer>4 </answer>
+        </answers>
+    </question>
+    <question number="204">
+        <text>206. Fiecare diagramă prezintă o priză de aterizare standard în vânt zero (linie punctată) și o priză de aterizare practică în funcție de condiții (linie solidă). Cum ar trebui abordată aterizarea cu vânt 25-30 km/h? </text>
+        <answers>
+                <answer>1 </answer>
+                <answer>2 </answer>
+                <answer type="correct">3 </answer>
+                <answer>4 </answer>
+        </answers>
+    </question>
+    <question number="205">
+        <text>207. Un pilot ajunge locul de aterizare chiar înaintea altor doi piloți care se află la 50 de metri de el. Vântul este zero, nu există obstacole și nu există o direcție de aterizare convenită. Cum ar trebui să aterizeze? </text>
+        <answers>
+                <answer>Ar trebui să realizeze priza de aterizare, dar este liber să aleagă direcția de aterizare și sensul de întoarcere. </answer>
+                <answer type="correct">Fiind primul, poate alege direcția de aterizare, dar trebuie să execute o priză de aterizare spre stânga. </answer>
+                <answer>Fiind primul, poate alege sensul prizei de aterizare, dar trebuie să aterizeze la 90 ° față de axa văii. </answer>
+                <answer>Primul care aterizează trebuie să execute o priză de aterizare spre stânga și să aterizeze la 90 ° față de axa văii. </answer>
+        </answers>
+    </question>
+    <question number="206">
+        <text>208. Un pilot ajunge locul de aterizare chiar înaintea altor doi piloți care se află la 50 de metri de el. Vântul este zero, nu există obstacole și nu există o direcție de aterizare convenită. Cum ar trebui să aterizeze? El decide să aterizeze spre vest fîcând o priză de aterizare spre stânga. Pe segmentul cu vânt lateral realizează că există un vânt de est de 2-5 km / h. Ce ar trebui să facă? </text>
+        <answers>
+                <answer>Continuați cu priza de aterizare, alegeți un unghi de apropiere finală mai abrupt. </answer>
+                <answer>Opriți imediat priza de aterizare, zburați spre partea de sub vânt a locului de aterizare și aterizați în vânt. </answer>
+                <answer type="correct">Continuați cu priza de aterizare, alegeți un unghi de apropiere finală mai mic. </answer>
+                <answer>Considerați segmentul cu vânt din spate ca fiind segmentul cu vânt lateral și aterizați cu vânt lateral. </answer>
+        </answers>
+    </question>
+    <question number="207">
+        <text>209. Atunci când aterizați cu vânt de spate unghiul de apropiere este </text>
+        <answers>
+                <answer>mai mic și viteza de aterizare mai mică. </answer>
+                <answer>mai mare și viteza de aterizare mai mare. </answer>
+                <answer type="correct">mai mic și viteza de aterizare mai mare. </answer>
+                <answer>mai mare și viteza de aterizare mai mică. </answer>
+        </answers>
+    </question>
+    <question number="208">
+        <text>210. Atunci când aterizați cu vânt de față unghiul de apropiere este </text>
+        <answers>
+                <answer>mai mic și viteza de aterizare mai mică. </answer>
+                <answer>mai mare și viteza de aterizare mai mare. </answer>
+                <answer>mai mic și viteza de aterizare mai mare. </answer>
+                <answer type="correct">mai mare și viteza de aterizare mai mică. </answer>
+        </answers>
+    </question>
+    <question number="209">
+        <text>211. Pe segmentul cu vânt din spate al prizei de aterizare vă dați seama că sunteți prea sus. Ce ar trebui să faceți? </text>
+        <answers>
+                <answer>Zburați un cerc în sensul prizei de aterizare. </answer>
+                <answer>Frânați parapanta pentru a reduce finețea acesteia. </answer>
+                <answer>Reveniți în poziția de pierdere a înălțimii și reporniți cu segmentul cu vânt din spate. </answer>
+                <answer type="correct">Faceți mai lungi următoarele segmentele ale prizei de aterizare. </answer>
+        </answers>
+    </question>
+    <question number="210">
+        <text>212. Pe segmentul cu vânt din spate al prizei de aterizare vă dați seama că sunteți prea jos. Ce ar trebui să faceți? </text>
+        <answers>
+                <answer>Considerați segmentul cu vânt din spate ca fiind segmentul cu vânt lateral și aterizați cu vânt lateral. </answer>
+                <answer>Frânați ușor parapanta pentru a îmbunătăți finețea. </answer>
+                <answer>Zburați direct la punctul de aterizare planificat și zburați în cerc până aterizați. </answer>
+                <answer type="correct">Faceți mai scurte următoarele segmentele ale prizei de aterizare. </answer>
+        </answers>
+    </question>
+    <question number="211">
+        <text>213. Pe segmentul cu vânt lateral al prizei de aterizare vă dați seama că sunteți prea sus. Ce ar trebui să faceți? </text>
+        <answers>
+                <answer>Zburați încă un cerc în direcția de întoarcere a prizei de aterizare. </answer>
+                <answer>Frânați parapanta pentru a reduce finețea. </answer>
+                <answer type="correct">Lungiți segmentul cu vânt lateral și, dacă este necesar, repetați-l. </answer>
+                <answer>Reveniți în poziția de pierdere a înălțimii și reporniți cu segmentul cu vânt din spate. </answer>
+        </answers>
+    </question>
+    <question number="212">
+        <text>214. Pe segmentul cu vânt lateral al prizei de aterizare vă dați seama că sunteți prea jos. Ce ar trebui să faceți? </text>
+        <answers>
+                <answer type="correct">Scurtați segmentul cu vânt lateral sau abandonați-l în întregime. </answer>
+                <answer>Frânați ușor parapanta pentru a îmbunătăți finețea. </answer>
+                <answer>Zburați direct la punctul de aterizare planificat și zburați în cerc până aterizați. </answer>
+                <answer>Considerați segmentul cu vânt din spate ca fiind segmentul cu vânt lateral și aterizați cu vânt lateral. </answer>
+        </answers>
+    </question>
+    <question number="213">
+        <text>215. Pe apropierea finală a prizei de aterizare vă dați seama că sunteți puțin prea sus. Ce ar trebui să faceți? </text>
+        <answers>
+                <answer>Zburați încă un cerc în direcția de întoarcere a prizei de aterizare. </answer>
+                <answer type="correct">Frânați parapanta pentru a reduce finețea și ridicați-vă în poziție verticală pentru a crește rezistența la înaintare. </answer>
+                <answer>Zburați peste punctul de aterizare, virați 180 ° și aterizați din direcția opusă. </answer>
+                <answer>Creșteți viteza pentru a mări rezistența la înaintare. </answer>
+        </answers>
+    </question>
+    <question number="214">
+        <text>216. Pe segmentul cu vânt lateral, realizeați că sunteți prea jos. Ce ar trebui să faceți? </text>
+        <answers>
+                <answer>O aterizare inexactă este inevitabilă. </answer>
+                <answer>Frânați ușor parapanta pentru a îmbunătăți finețea. </answer>
+                <answer type="correct">Zburați cu zero comenzi până la nivelul solului, apoi trageți ușor și continuu comenzile. </answer>
+                <answer>Frânați parapanta 50% pentru a zbura cât mai mult posibil. </answer>
+        </answers>
+    </question>
+    <question number="215">
+        <text>217. În apropierea finală, pilotul aplică 80% comenzile fără să se angajeze, dacă menține comenzile frânate astfel mult timp </text>
+        <answers>
+                <answer type="correct">este foarte probabil ca după o vreme parapanta să se angajeze. </answer>
+                <answer>parapanta va zbura cu o viteză redusă, dar constantă. </answer>
+                <answer>viteza parapantei va crește încet și continuu. </answer>
+                <answer>viteza de înaintare și viteza de înfundare vor scădea continuu. </answer>
+        </answers>
+    </question>
+    <question number="216">
+        <text>218. Ce trebuie să faceți imediat după aterizare? </text>
+        <answers>
+                <answer>Scoateți imediat seleta și casca. </answer>
+                <answer type="correct">Părăsiți imediat zona de aterizare. </answer>
+                <answer>Împachetați imediat parapanta și băgăți-o în rucsac. </answer>
+                <answer>Înregistrați zborul în carnetul de zbor. </answer>
+        </answers>
+    </question>
+    <question number="217">
+        <text>219. La locul de aterizare bate vântul cu 25 km / h. De îndată ce picioarele ating pământul, </text>
+        <answers>
+                <answer>trageți comenzile cât mai mult posibil pentru a opri imediat zborul care zboară. </answer>
+                <answer>rotiți-vă 180 ° spre parapantă și trageți comenzile la maxim pentru a opri imediat parapanta din zbor. </answer>
+                <answer>trageți o comandă la maxim, astfel încât parapanta să coboare pe bordul de atac și să înceteze să producă portanță. </answer>
+                <answer type="correct">rotiți-vă 180 ° spre parapantă și trageți chingile B sau C pentru a opri imediat parapanta din zbor. </answer>
+        </answers>
+    </question>
+    <question number="218">
+        <text>220. Când se aterizează pe o pantă abruptă, apropierea finală ar trebui să fie </text>
+        <answers>
+                <answer>în contrapanta. </answer>
+                <answer type="correct">paralel cu panta. </answer>
+                <answer>în josul pantei. </answer>
+                <answer>contra vântului. </answer>
+        </answers>
+    </question>
+    <question number="219">
+        <text>221. Sunteți la altitudine și este necesar să alegeți un teren de aterizare situat într-o vale, cu vânt de de 25 km / h. Care dintre caracteristicile terenului de aterizare sunt cele mai importante pentru a efectua o aterizare sigură? </text>
+        <answers>
+                <answer>Latura câmpului trebuie să fie liberă de copaci sau clădiri pentru cel puțin 100 m pentru segmentul cu vânt lateral și apropierea finală. </answer>
+                <answer>Câmpul de aterizare trebuie să fie protejat de vânt cât mai mult posibil de denivelări, copaci sau clădiri. </answer>
+                <answer type="correct">Partea din vânt a terenului trebuie să fie cât se poate de plată și fără copaci și clădiri. </answer>
+                <answer>Terenul nu trebuie să se încline spre vânt. </answer>
+        </answers>
+    </question>
+    <question number="220">
+        <text>223. Care dintre următoarele măsuri de precauție ar trebui luate atunci când sunteți forțat să aterizați în apă stătătoare sau curgătoare? </text>
+        <answers>
+                <answer type="correct">Deschideți cât mai multe din chigile seletei înaintea aterizării. </answer>
+                <answer>Aruncați rezerva chiar înainte de a ateriza, astfel încât aceasta să asigure o flotabilitate suplimentară în apă. </answer>
+                <answer>Deconectați toate dispozitivele electronice (radio, variometru etc) și țineți-le deasupra capului, astfel încât să nu se ude. </answer>
+                <answer>Strângeți toate chingile seletei astfel încât să nu ieșiți din greșeală din seletă după aterizare, iar parapanta să se scufunde sau să fie luată de curent. </answer>
+        </answers>
+    </question>
+    <question number="221">
+        <text>224. În cazul aterizării într-un copac, ce provoacă cele mai grave răniri? </text>
+        <answers>
+                <answer>Ramurile se rup sub greutatea pilotului și a parapantei iar pilotul cade pe pământ. </answer>
+                <answer type="correct">Pilotul iese din seletă, fără a a se asigura cu o frânghie, ramurile se rup și cade din copac. </answer>
+                <answer>Pilotul este rănit prin impactul cu copacul. </answer>
+                <answer>Parapanta și pilotul alunecă pe coroana copacului si acesta cade pe pământ. </answer>
+        </answers>
+    </question>
+    <question number="222">
+        <text>225. După aterizare, parapanta se agață în coroana unui copac. Cum recuperăm parapanta cu minim de deteriorări parapantei? </text>
+        <answers>
+                <answer>Recuperați parapanta folosind un elicopter. </answer>
+                <answer>Desfaceți parapnat de la seletă. </answer>
+                <answer type="correct">Desfaceți carabinele rapide cu filet și eliberați supantele de pe chingi și mânerele comanzilor. </answer>
+                <answer>Conectați o coardă lungă la seletă și trageți de parapantă în plan orizontal de cât mai departe posibil. </answer>
+        </answers>
+    </question>
+    <question number="223">
+        <text>226. În ce situație în aer există risc maxim de coliziune între un deltaplan și o parapantă, mai ales că nici unul dintre piloți nu se poate vedea unul pe celălalt. </text>
+        <answers>
+                <answer>Deltaplanul se apropie de parapantă din față și de sus. </answer>
+                <answer type="correct">Deltaplanul se apropie de parapantă din spate și de jos. </answer>
+                <answer>Deltaplanul se apropie de parapantă din față și de jos. </answer>
+                <answer>Deltaplanul se apropie de parapantă din spate și de sus. </answer>
+        </answers>
+    </question>
+    <question number="224">
+        <text>227. O parapantă zboară în aceeași termică și la aceeași altitudine cu un deltaplan. Cum poate pilotul de parapantă să se pună și pe el si pe pilotul de deltaplan în pericol? </text>
+        <answers>
+                <answer>Dacă zboară cercuri foarte strânse. </answer>
+                <answer type="correct">Schimbând brusc direcția de rotație. </answer>
+                <answer>Zborând încet. </answer>
+                <answer>Întorcând în aceeași direcție ca și deltaplanul. </answer>
+        </answers>
+    </question>
+    <question number="225">
+        <text>228. Când folosim parașutul de rezervă? </text>
+        <answers>
+                <answer>De îndată ce aripa se închide (închidere frontală completă pe întreaga anvergură a aripii). </answer>
+                <answer type="correct">De îndată ce situația pare a fi incontrolabilă. </answer>
+                <answer>Când este aspirat într-un nor cumulos și variometrul indică o viteză de urcare de peste 6 m / s. </answer>
+                <answer>Când avem o închidere asimetrică în apropierea finală la aterizare. </answer>
+        </answers>
+    </question>
+    <question number="226">
+        <text>229. În care din următoarele situații ar trebui aruncată parașuta de rezervă, imediat și fără ezitare? </text>
+        <answers>
+                <answer>O treimedin parapantă este închisă și prinsă în conul de suspantaj (cravată). </answer>
+                <answer>Parapanta este aspirată într-un nor cumulus și urcă cu 8 m / s. </answer>
+                <answer>O parte a parapantei se angajează și parapanta intră în rotație (vrie negativă). </answer>
+                <answer type="correct">În urma coliziunii între un deltaplan și o parapantă. </answer>
+        </answers>
+    </question>
+    <question number="227">
+        <text>230. În care din următoarele situații ar trebui aruncată parașuta de rezervă, imediat și fără ezitare? </text>
+        <answers>
+                <answer>O treimedin parapantă este închisă și prinsă în conul de suspantaj (cravată). </answer>
+                <answer>Parapanta este aspirată într-un nor cumulus și urcă cu 8 m / s. </answer>
+                <answer type="correct">După o vrie negativă, când chingile sunt răsucite de câteva ori și parapanta începe să intre într-o spirală accentuată de la sine. </answer>
+                <answer>O parte a parapantei se angajează și parapanta intră în rotație (vrie negativă). </answer>
+        </answers>
+    </question>
+    <question number="228">
+        <text>231. Ce trebuie să facă un pilot imediat după ce a aruncat parașuta de rezervă? </text>
+        <answers>
+                <answer type="correct">Pilotul trebuie să împiedice parapanta să continue să zboare prin tragerea simetrică a chingilor B, C sau D și să se ridice într-o poziție verticală. </answer>
+                <answer>Pilotul își asumă o poziție cât mai orizontal posibilă și își trage brațele și picioarele aproape de corp (poziția embrionului). </answer>
+                <answer>Parapanta trebuie să fie pilotată cu comenzile astfel încât să nu se apropie și să se încurce cu parașuta. </answer>
+                <answer>Pilotul începe să deschidă seleta din timpul coborârii, pentru a se separa de parapantă cât mai repede posibil. </answer>
+        </answers>
+    </question>
+    <question number="229">
+        <text>232. Atunci când un pilot este primul la locul unui accident, el ar trebui să urmeze următoarele etape: </text>
+        <answers>
+                <answer type="correct">1. Căile aeriene libere? - 2. Este necesară respirația artificială? - 3. Masaj cardiorespirator necesar? </answer>
+                <answer>1. Ce sa întâmplat? - 2. Cine este responsabil? - 3. Ce măsuri trebuie luate? </answer>
+                <answer>1. Este conștient? - 2. Poate să se ridice? - 3. Poate merge? </answer>
+                <answer>1. Este rănit? - 2. Este în stare de șoc? - 3. Trebuie să fie transportat? </answer>
+        </answers>
+    </question>
+    <question number="230">
+        <text>233. Ce măsuri trebuie luate în cazul descoperirii victimei unui accident care nu răspunde, dar care respiră, nu are leziuni externe și are puls. Victima ar trebui să fie </text>
+        <answers>
+                <answer>întinsă pe spate cu picioarele ridicate. </answer>
+                <answer type="correct">poziționată pe o parte (poziția laterală de siguranță) și protejat de vreme (soare, vânt, frig și umiditate). </answer>
+                <answer>întinsă pe burtă și să i se dea băuturi răcoritoare ca să-l trezească. </answer>
+                <answer>adus în poziție șezând și protejat de vreme (soare, vânt, frig și umiditate). </answer>
+        </answers>
+    </question>
+    <question number="231">
+        <text>234. Dacă o persoană accidentată prezintă semne de leziuni ale coloanei vertebrale, victima ar trebui să fie </text>
+        <answers>
+                <answer>întinsă pe burtă și protejată de vreme. </answer>
+                <answer type="correct">împiedicată să se miște, să șeadă sau să încerce să meargă. </answer>
+                <answer>adusă în poziție șezând și protejată de vreme. </answer>
+                <answer>ridicată imediat pentru a verifica dacă poate merge sau nu. </answer>
+        </answers>
+    </question>
+    <question number="232">
+        <text>235. Care simptome semnalează leziunea coloanei vertebrale? </text>
+        <answers>
+                <answer>Victima este palidă, are buze albastre, sudoare rece, un puls rapid și slab și vorbește incoerent. </answer>
+                <answer>Victima are dureri puternice la picioare. </answer>
+                <answer type="correct">Victima are dureri de spate, nu are simț în picioare, brațe sau mâini. </answer>
+                <answer>Victima este inconștientă. </answer>
+        </answers>
+    </question>
+    <question number="233">
+        <text>236. Când victima unui accident trebuie să fie transportată cu elicopterul, înainte de sosirea acestuia ar trebui să </text>
+        <answers>
+                <answer>scoateți casca și seleta victimei și puneți-le în rucsac. </answer>
+                <answer type="correct">opriți imediat toate zborurile în imediata vecinătate a zonei accidentului, îndepărtați toate parapantele, jachetele și alte obiecte libere din zona accidentului și din împrejurimi. </answer>
+                <answer>marcați scena accidentului cu parapanta. </answer>
+                <answer>părăsiți imediat zona accidentului. </answer>
+        </answers>
+    </question>
+</questions>
