@@ -67,6 +67,7 @@ do
         answers=()
     else
         if [[ $line =~ ^[[:space:]]*[a-z](\.|\)) ]]; then
+            line=${line:3:${#line}}
             answers+=("$line")
             if [ ${#question} -gt 0 ]; then
                 xmlContent+="$NEWLINE${TAB}<question>$(SerializeQuestionText "$question")";
