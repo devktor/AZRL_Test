@@ -1,0 +1,1147 @@
+Column1,Column2,Column3,Column4
+,,,
+F1.,,Finetea aerodinamica este: ,
+,a.,raportul dintre Cx si Cz ,X
+,b.,raportul dintre vectorul viteza si greutate ,
+,c.,descrie calitatea suprafetei portante,
+F2.,,Finetea aerodinamica este influentata de : ,
+,a.,lungimea suspantelor  ,X
+,b.,clasa de omologare a parapantei ,
+,c.,directia vantului,
+F3.,,Forta portanta se genereaza: ,
+,a.,2/3 pe extrados  ,X
+,b.,2/3 pe intrados ,
+,c.,½ pe extrados si ½ pe intrados,
+F4.,,Viteza minima de infundare este influentata de : ,
+,a.,viteza de zbor  ,X
+,b.,lungimea suspantelor ,
+,c.,directia si viteza vantului,
+F5.,,Unghiul de incidenta este dat de : ,
+,a.,coarda profilului si directia curentului de aer relativ  ,X
+,b.,extradosul aripii si orizontala ,
+,c.,coarda profilului si orizontala,
+F6.,,Cand unghiul de incidenta creste: ,
+,a.,"creste portanta, scade viteza  ",X
+,b.,"creste portanta, creste viteza ",
+,c.,"scade portanta, scade viteza",
+F7.,,Desprinderea stratului limita apare cand:,
+,a.,creste unghiul de incidenta pana la unghi critic  ,X
+,b.,scade unghiul de incidenta la o valoare inferioara unghiului critic,
+,c.,se elibereaza comenzile,
+F8.,,Forta portanta este influentata de : ,
+,a.,unghiul de incidenta  ,X
+,b.,viteza vantului ,
+,c.,directia vantului,
+F9.,,Unghiul de atac critic duce la: ,
+,a.,desprinderea stratului limita  ,X
+,b.,cresterea portantei la nivel maxim ,
+,c.,lipirea fileurilor de aer de extrados,
+F10.,,Centrul de presiune este: ,
+,a.,mobil sau fix functie de tipul profilului aerodinamic  ,X
+,b.,fix. ,
+,c.,mobil in toate cazurile ,
+F11.,,Angajarea apare : ,
+,a.,la viteza maxima de zbor ,
+,b.,la atingerea vitezei minime de infundare,
+,c.,la atingerea unghiului de incidenta critic ,X
+F12.,,Dupa legea lui Bernoulli: ,
+,a.,"cand viteza creste, scade presiunea  ",X
+,b.,"cand viteza creste, creste si presiunea ",
+,c.,nu are legatura cu viteza de curgere a fluidelor,
+F13.,,Din polara putem deduce: ,
+,a.,viteza minima de infundare  ,X
+,b.,greutatea maxima de zbor ,
+,c.,unghiul maxim de inclinare in zbor normal,
+F14.,,Alungirea aripii este: ,
+,a.,raportul dintre coarda medie si anvergura ,X
+,b.,raportul dintre profunzimea maxima a aripii si anvergura ,
+,c.,raportul dintre grosimea maxima relativa a profilului si anvergura,
+F15.,,Rezistenta indusa este data de : ,
+,a.,turbioanele de la capetele aripii  ,X
+,b.,rezistenta la inaintare a intregii aripii plus cea a suspantelor,
+,c.,rezistenta la inaintare generata de voalura,
+F16.,,"In cazul aripii eliptice, la aripa fara torsiune geometrica, stratul limita se desprinde incepand cu:",
+,a.,capetele de aripa  ,X
+,b.,zona centrala a aripii ,
+,c.,"paralel cu bordul de atac, in acelasi timp de-a lungul anvergurii",
+F17.,,Aripa de parapanta prezinta torsiune geometrica: ,
+,a.,da ,X
+,b.,nu ,
+,c.,torsiunea geometrica nu are legatura cu mecanica zborului,
+F18.,,Coarda profilului defineste:,
+,a.,"linia ce uneste punctele extreme ale profilului, din zona bordului de atac si din zona bordului de fuga ",X
+,b.,linia ce uneste bordul de fuga cu directia de curgere a fileurilor de aer ,
+,c.,curbura liniei extradosului ,
+F19.,,Care dintre urmatoarele afirmatii este adevarata:,
+,a.,la cresterea unghiului de incidenta scade viteza  ,X
+,b.,la cresterea unghiului de incidenta scade portanta ,
+,c.,la cresterea unghiului creste viteza,
+F20.,,Care dintre urmatoarele afirmatii este adevarata:,
+,a.,rezistenta indusa este influentata de inaltimea de zbor  ,X
+,b.,rezistenta indusa are legatura cu rezistenta la rupere a suspantelor ,
+,c.,rezistenta indusa nu are lagatura cu zborul,
+F21.,,Care dintre urmatoarele afirmatii este adevarata: ,
+,a.,rezistenta la inaintare este direct proportionala cu patratul vitezei  ,X
+,b.,rezistenta la inaintare este invers proportinala cu patratul vitezei ,
+,c.,rezistenta la inaintare este direct proportionala doar cu aria sectiunii,
+F22.,,Teoria care sta la baza zborului cu parapanta face parte din: ,
+,a.,domeniul fluidelor compresibile  ,X
+,b.,domeniul fluidelor incompresibile ,
+,c.,nu are lagatura cu compresibilitatea,
+F23.,,Care dintre urmatoarele nu face parte din domeniul aerodinamicii: ,
+,a.,rezistenta ohmica  ,X
+,b.,rezistenta indusa ,
+,c.,rezistenta parazita,
+F24.,,Viteza de curgere a fileurilor de aer pe un profil aerodinamic este: ,
+,a.,mai mare pe extrados decat pe intrados ,X
+,b.,mai mare pe intrados decat pe extrados,
+,c.,egala intrados cu extrados,
+F25.,,Turbioanele terminale responsabile pentru rezistenta indusa apar: ,
+,a.,pe capetele aripii  ,X
+,b.,in spatele aripii (siaj) ,
+,c.,in spate si sub aripa,
+F26.,,Centrul de presiune este: ,
+,a.,fix sau mobil functie de tipul profilului  ,X
+,b.,mobil ,
+,c.,nu exista aceasta notiune in aviatie,
+F27.,,Centrul de presiune se regaseste intotdeauna la nivelul: ,
+,a.,in jumatatea dinainte a aripii  ,X
+,b.,bordului de fuga in zona centrala a aripii ,
+,c.,bordului de atac al aripii,
+F28.,,In care din urmatoarele cazuri viteza de angajare creste: ,
+,a.,creste incarcarea alara  ,X
+,b.,scade viteza de zbor fata de sol ,
+,c.,micsoram numarul de suspante,
+F29.,,La atingerea unghiului de atac critic: ,
+,a.,"portanta scade brusc, iar rezistenta la inaintare creste brusc  ",X
+,b.,portanta creste proportional cu scaderea vitezei ,
+,c.,portanta creste proportional cu viteza,
+F30.,,Desprinderea stratului limita apare: ,
+,a.,la atingerea unghiului de atac critic  ,X
+,b.,la atingerea vitezei minime de zbor ,
+,c.,la atingerea vitezei maxime de zbor,
+F31.,,Conform teoremei lui Bernoulli atunci cand sectiunea unui tub se micsoreaza: ,
+,a.,viteza de curgere creste iar presiunea statica scade  ,X
+,b.,viteza de curgere creste iar presiunea statica creste ,
+,c.,viteza de curgere scade iar presiunea statica creste,
+F32.,,Din polara vitezelor putem deduce:,
+,a.,"viteza minima de infundare, viteza la finete maxima, viteza maxima de zbor ",X
+,b.,viteza maxima in viraj ,
+,c.,viteza de zbor in functie de altitudine,
+F33.,,Infundarea minima se obtine : ,
+,a.,la o viteza inferioara vitezei la finete maxima ,X
+,b.,la o viteza egala cu viteza la finete maxima ,
+,c.,la o viteza mai mare decat viteza la finete maxima,
+F34.,,Finetea parapantei reprezinta: ,
+,a.,unghiul de panta in zbor exprimat printr-un raport  ,X
+,b.,calitatea finisajului extradosului si intradosului ,
+,c.,"coeficientul de frecare cu aerul al intregului ansamblu: voalura, suspante, pilot",
+F35.,,Finetea aerodinamica a parapantei este influentata de : ,
+,a.,valoarea rezistentei la inaintare  ,X
+,b.,valoarea vitezei maxime de zbor ,
+,c.,valoarea vitezei de angajare,
+F36.,,Care dintre urmatoarele afirmatii este adevarata: ,
+,a.,presiunea dinamica este influentata de viteza  ,X
+,b.,presiunea statica este intotdeauna egala cu presiunea dinamica,
+,c.,presiunea dinamica este influentata de altitudine,
+F37.,,Pentru a imbunatati finetea unei parapante putem sa: ,
+,a.,folosim o seleta profilata (cocon)  ,X
+,b.,marim suprafata portanta ,
+,c.,sa micsoram suprafata portanta,
+F38.,,In zbor planat stabilizat forta portanta este: ,
+,a.,mai mica decat greutatea  ,X
+,b.,mai mare decat greutatea ,
+,c.,egala cu greutatea,
+F39.,,Angajarea in limita de viteza apare ca urmare: ,
+,a.,ruperii fileurilor de aer de pe extrados  ,X
+,b.,ruperii fileurilor de aer de pe intrados ,
+,c.,zborului la viteza minima,
+F40.,,In timpul procedurii de decolare unghiul de atac este: ,
+,a.,variabil  ,X
+,b.,fix ,
+,c.,variaza doar daca se actioneaza acceleratorul,
+F41.,,Care din urmatoarele au drept consecinta cresterea finetei unei parapante: ,
+,a.,micsorarea numarului de suspante  ,X
+,b.,scaderea incarcarii alare ,
+,c.,cresterea greutatii totale,
+F42.,,Profilul aripii este dat de : ,
+,a.,membranele intercheson  ,X
+,b.,proiectia aripii pe un plan orizontal ,
+,c.,suprafata aripii desfasurata,
+F43.,,Viteza minima de infundare este: ,
+,a.,mai mica decat viteza la finete maxima ,X
+,b.,mai mare decat viteza la finete ,
+,c.,egala cu viteza la finete,
+F44.,,Regimurile de zbor ale parapantei sunt: ,
+,a.,"viteza minima, viteza maxima, viteza accelerata",
+,b.,"viteza la infundare minima, viteza la finete maxima, viteza maxima ",X
+,c.,"viteza de angajare, viteza maxima, viteza la finete",
+F45.,,Stratul limita este: ,
+,a.,stratul de aer din imediata vecinatate a aeronavei în care viteza creste de la zero la viteza de zbor ,X
+,b.,stratul de aer format când avionul este în limita de viteza ,
+,c.,stratul de aer care inconjoara profilul aerodinamic la unghi de incidenta critic,
+F46.,,Grosimea unui profil aerodinamic este:,
+,a.,cea mai mare distanta dintre extrados si intrados  ,X
+,b.,media grosimilor sectiunilor profilului ,
+,c.,constanta.,
+F47.,,Rezultanta fortelor aerodinamice profilului are punctul de aplicatie în: ,
+,a.,centrul de presiune  ,X
+,b.,centrul geometric al aripii ,
+,c.,centrul de greutate,
+F48.,,In zbor orizontal centrul de greutate este situat: ,
+,a.,sub centrul de presiune  ,X
+,b.,deasupra centrului de presiune ,
+,c.,coincide cu centrul de presiune,
+F49.,,Cantitativ forta portanta este :,
+,a.,variabila in functie de viteza de zbor  ,X
+,b.,constanta in functie de viteza de zbor ,
+,c.,constanta in toate cazurile cu exceptia angajarii,
+F50.,,Lungimea suspantelor poate influenta finetea parapantei: ,
+,a.,da ,X
+,b.,nu ,
+,c.,numai o data cu cresterea incarcarii alare.,
+F51.,,Incarcarea alara se refera la : ,
+,a.,raportul dintre greutatea totala in zbor si suprafata portanta  ,X
+,b.,greutatea mazima in zbor ,
+,c.,greutatea maxima suspendata,
+F52.,,Cresterea incarcarii alare modifica performantele parapantei: ,
+,a.,da  ,X
+,b.,nu ,
+,c.,incarcarea alara nu are legatura cu domeniul zborului,
+F53.,,La actionarea in jos a comenzilor unghiul de incidenta: ,
+,a.,creste  ,X
+,b.,scade ,
+,c.,ramane constant,
+F54.,,La cresterea vitezei de scurgere a fileurilor de aer pe extrados: ,
+,a.,scade presiunea statica  ,X
+,b.,creste presiunea statica. ,
+,c.,presiunea statica ramane constanta,
+F55.,,Care dintre urmatoarele fenomene nu au legatura cu aerodinamica: ,
+,a.,legea distributiei maselor  ,X
+,b.,"legea lui Bernoulli, ",
+,c.,efectul Coanda,
+F56.,,Efectul Coanda este influentat de unghiul de incidenta? ,
+,a.,da  ,X
+,b.,nu ,
+,c.,doar la unghiuri de incidenta subcritice,
+F57.,,La micsorarea unghiului de incidenta : ,
+,a.,viteza de zbor creste  ,X
+,b.,viteza de zbor scade,
+,c.,viteza de zbor ramane constanta,
+F58.,,La cresterea unghiului de incidenta se poate ajunge la angajare numai cand: ,
+,a.,se atinge unghiul critic  ,X
+,b.,se atinge viteza minima de infundare ,
+,c.,se atinge viteza la finete ,
+F59.,,"Fata de zborul orizontal, in timpul virajului, viteza de angajare : ",
+,a.,creste  ,X
+,b.,scade ,
+,c.,ramane neschimbata,
+F60.,,Forta centrifuga actioneaza toteauna: ,
+,a.,spre exteriorul virajului  ,X
+,b.,spre interiorul virajului ,
+,c.,spre in sus,
+F61.,,Cele 4 forte care actioneaza pe un profil aerodinamic sunt: ,
+,a.,"greutatea, portanta, rezistenta la inaintare, viteza ",X
+,b.,"greutatea, portanta, forta centrifuga viteza ",
+,c.,"portanta, greutatea, forta centrifuga, rezistenta la inaintare",
+F62.,,Fortei portante i se opune: ,
+,a.,greutatea  ,X
+,b.,viteza ,
+,c.,rezistenta la inaintare,
+F63.,,Rugozitatea unei suprafete portante duce la: ,
+,a.,cresterea rezistentei la inaintare  ,X
+,b.,cresterea vitezei de zbor ,
+,c.,scaderea sarcinii maxime admise,
+F64.,,Care dintre urmatoarele afirmatii este adevarata:,
+,a.,finetea depinde de viteza de zbor  ,X
+,b.,finetea maxima se obtine la viteza de angajare (minima de zbor) ,
+,c.,finetea maxima se obtine la viteza maxima de zbor.,
+F65.,,Care dintre urmatoarele afirmatii este adevarata: ,
+,a.,viteza minima de infundare si finetea sunt caracteristici importante ale parapantei  ,X
+,b.,viteza de infundare a parapantei este indiferenta de viteza de zbor ,
+,c.,viteza minima de infundare a parapantei se obtine la viteza minima de zbor,
+F66.,,Presiunea dinamica masurata in interiorul aripii variaza: ,
+,a.,in functie de viteza de zbor  ,X
+,b.,in functie alungirea parapantei ,
+,c.,in functie de grosimea maxima relativa a profilului parapantei,
+F67.,,Trompa lui Venturi demonstreaza: ,
+,a.,legea Bernoulli  ,X
+,b.,efectul Coanda ,
+,c.,aparitia rezistentei la inaintare,
+F68.,,Polara aripii de parapanta descrie: ,
+,a.,caracteristicile de zbor ale parapantei  ,X
+,b.,forma aripii in plan ,
+,c.,forma sheletului profilului aerodinamic,
+F69.,,"La parapanta, relatia de ordonare intre Vangajare, Vmax, Vfinete-maxima si Vinfundare-minima este:",
+,a.,Vinfundare-minima < Vangajare < Vfinete-maxima < Vmax,
+,b.,Vangajare < Vinfundare-minima < Vfinete-maxima < Vmax ,X
+,c.,Vangajare < Vfinete-maxima < Vinfundare-minima < Vmax,
+F70.,,In momentul angajarii unei parapante,
+,a.,Presiunea in comenzi scade brusc ,X
+,b.,Viteza de inaintare creste brusc,
+,c.,Viteza de infundare creste brusc ,X
+F71.,,Incarcarea aripii in zbor planat stabilizat este definita ca si,
+,a.,Tensiunea din suspante exprimata in Kg/ml,
+,b.,Greutatea pilotului plus greutatea seletei si a aparatelor de zbor,
+,c.,Raportul dintre greutatea totala in zbor si suprafata aripii ,X
+F72.,,Ce se intampla daca marim incarcarea pe aripa:,
+,a.,creste finetea maxima,
+,b.,"toate vitezele cresc, inclusiv viteza de angajare ",X
+,c.,viteza de angajare ramine nemodificata deoarece este o caracteristica a profilului,
+F73.,,Intr-un viraj strans cu unghi de inclinare accentuat sarcina pe aripa,
+,a.,scade,
+,b.,creste ,X
+,c.,ramine constanta doarece greutatea sistemului si suprafata aripii nu se modifica,
+F74.,,Rezistenta la inaintare se datoreaza:,
+,a.,formei profilului ,X
+,b.,rezistentei induse  ,X
+,c.,frecarii aerului cu toate componentele aflate in zbor ,X
+F75.,,"La parapanta, stabilitatea in jurul axei transversale (axa ce uneste capetele aripii) se datoreaza in special",
+,a.,vitezei relativ mici la care zboara,
+,b.,profilului aripii ,X
+,c.,efectului de pendul (centrul de greutate se afla mult mai jos decit centrul de presiune) ,X
+F76.,, Alegeti afirmatia falsa:,
+,a.,parapanta are profil aerodinamic,
+,b.,parapanta nu are profil aerodinamic ,X
+,c.,profilul aerodinamic al parapantei poate fi identificat ca proiectia acesteia pe un plan orizontal ,X
+F77.,,Care dintre urmatoarele notiuni se regasesc in aviatie:,
+,a.,"bord de atac, intrados ",X
+,b.,"tribord, velatura",
+,c.,"cordaj, rezistenta ohmica",
+F78.,,Alegeti afirmatia falsa:,
+,a.,intradosul aripii este in partea inferioara a profilului,
+,b.,extradosul aripii este in partea superioara a profilului,
+,c.,intradosul este in partea superioara a profilului ,X
+F79.,,Alegeti afirmatia corecta:,
+,a.,distanta dintre punctele de acrosaj a seletei modifica comportamentul parapantei in zbor ,X
+,b.,distanta dintre punctele de acrosaj a seletei modifica nu comportamentul parapantei in zbor,
+,c.,distanta dintre punctele de acrosaj a seletei este importanta la testele de omologare ,X
+F80.,,Uzura parapantei apare ca urmare a :,
+,a.,expunerii la radiatia solara (UV) ,X
+,b.,frecarii cu solul si cu microparticulele din aer ,X
+,c.,presiunii dinamice din interiorul voalurii in zbor,
+F81.,,Greutatea totala in zbor se calculeaza:,
+,a.,parapanta+seleta+pilot complet echipat+parasuta de siguranta ,X
+,b.,pilot+seleta+parasuta de siguranta,
+,c.,pilot+seleta,
+F82.,,In timpul unui viraj strans :,
+,a.,viteza de angajare creste ,X
+,b.,viteza de angajare scade,
+,c.,viteza de angajare ramane neschimbata,
+F83.,,Cum se explica tendinta de viraj in cazul inchiderilor asimetrice:,
+,a.,aripa deformata (inchisa) are rezistenta la inaintare mai mare decat cea ramasa deschisa ,X
+,b.,"comanda corespunzatoare aripii inchise are efect mai mare, la aceeasi cursa",
+,c.,inchiderile asimetrice nu duc la tendinte de viraj sau autorotatie,
+F84.,,Care este diferenta dintre vrie si spirala picata:,
+,a.,in cazul vriei (negativa) fileurile de aer se desprind de pe extrados ,X
+,b.,in cazul spiralei picate fileurile de aer se desprind de pe extrados,
+,c.,"ambele manevre sunt identice din punct de vedere aerodinamic, este doar o diferenta de terminologie",
+F85.,,La ce viteza de zbor se obtine infundarea minima:,
+,a.,mai mare decat viteza la finete maxima,
+,b.,la viteza minima de zbor,
+,c.,la viteza mai mica decat viteza la finete maxima ,X
+F86.,,Alegeti afirmatia corecta:,
+,a.,finetea aerodinamica si finetea in zbor (adevarata) pot fi diferite ,X
+,b.,finetea aerodinamica si finetea in zbor (adevarata) sunt identice,
+,c.,finetea nu se regaseste in domeniul zborului cu parapanta,
+F87.,,Trecerea printr-o masa de aer descendenta are ca efect:,
+,a.,micsorarea finetei in zbor ,X
+,b.,micsorarea finetei aerodinamice,
+,c.,"cresterea finetei in zbor, prin cresterea componentei verticale a vitezei",
+F88.,,Alegeti afirmatia corecta:,
+,a.,comenzile actioneaza asupra bordului de atac,
+,b.,cu ajutorul comenzilor modificam unghiul de incidenta ,X
+,c.,manevra URECHI se face cu ajutorul comenzilor,
+F89.,,Stabilitatea pe directie a parapantei este asigurata de:,
+,a.,bordul de fuga,
+,b.,efectul de pendul,
+,c.,stabilizatoare (capetele de plan) ,X
+F90.,,Membranele intercheson au rolul :,
+,a.,de a mentine presiunea dinamica in interiorul voalurii,
+,b.,de a prelua sarcina de pe extrados ,
+,c.,de a materializa profilul aerodinamic al parapantei ,X
+F91.,,Polara aripii reprezinta:,
+,a.,curbura extradosului,
+,b.,curbura bordului de fuga reprezentata in plan,
+,c.,o sinteza a caracteristicilor de zbor,X
+F92.,,Alegeti care dintre cele 3 obiecte are rezistenta la inaintare mai mica:,
+,a.,picatura de apa ,X
+,b.,sfera,
+,c.,paralelipiped,
+F93.,,Alegeti afirmatia corecta:,
+,a.,din polara putem deduce regimurile de zbor ale parapantei ,X
+,b.,din polara putem deduce sarcina utila a parapantei,
+,c.,din polara putem deduce raza maxima de viraj a parapantei,
+F94.,,Alegeti afirmatia corecta:,
+,a.,portanta este generata 50% pe extrados,
+,b.,portanta este generata 2/3 pe extrados ,X
+,c.,portanta este generata exclusiv pe intrados,
+F95.,,Portanta este generata de :,
+,a.,presiunea din voalura,
+,b.,presiunea dinamica din zona bordului de fuga,
+,c.,diferenta de presiune dintre extrados si intrados ,X
+F96.,,Care dintre urmatoarele forte se regasesc in principiul celor 4 forte:,
+,a.,"portanta, rezistenta la inaintare, viteza, greutate ",X
+,b.,"portanta, rezistenta ohmica, viteza verticala, viteza orizontala",
+,c.,"portanta, viteza verticala, viteza orizontala, greutate",
+F97.,,Alegeti afirmatia corecta:,
+,a.,portanta este liniara,
+,b.,rezistenta la inaintare este direct proportionala cu patratul vitezei ,X
+,c.,rezistenta la inaintare scade brusc la unghi critic,
+F98.,,Alegeti afirmatia corecta:,
+,a.,traseul fileurilor de aer pe extrados este egal cu cel pe intrados,
+,b.,traseul fileurilor de aer pe extrados este mai lung ,X
+,c.,traseul fileurilor de aer pe intrados este mai lung,
+F99.,,Grosimea stratului limita este influentata de:,
+,a.,rugozitatea (calitatea) suprafetei aripii ,X
+,b.,porozitatea materialului ,X
+,c.,sarcina alara,
+F100.,,Unghiul de incidenta se masoara:,
+,a.,fata de orizontala,
+,b.,fata de directia de zbor,
+,c.,intre corda profilului si directia de curgere a fileurilor de aer ,X
+F101.,,Functionarea parasutei de rezerva de tip circular (calota) se bazeaza pe:,
+,a.,efect coanda,
+,b.,rezistenta la inaintare ,X
+,c.,portanta la viteza zero,
+Column1,Column2,Column3,Column4,,
+FF107,,107. Care din următoarele caracteristici are cea mai mare influență asupra rezistenței la inaintare a unui corp?,,b,b
+,a,Greutatea corpului.,,0,b
+,b,Mărimea corpului.,X,X,b
+,c,Caracteristicile materialului din care este construit corpul.,,0,
+,d,Masa corpului.,,0,
+FF108,,Care este efectul asupra rezistenței la inaintare a unui corp dacă se dublează suprafața corpului expusă fluxului de aer?,,c,c
+,a,Se injumătățește.,,0,c
+,b,Nu se modifică.,,0,c
+,c,Se dublează.,X,X,c
+,d,Se inmulțește cu 4.,,0,
+FF109,,109. Care este efectul asupra rezistenței la inaintare a unui corp dacă crește de 4 ori suprafața corpului expusă fluxului de aer?,,c,c
+,a,Se imparte la 4.,,0,c
+,b,Nu se modifică.,,0,c
+,c,Se înmulțește cu 4.,X,X,c
+,d,Se inmulțește cu 16.,,0,
+FF110,,Care este efectul asupra rezistenței la inaintare a unui corp dacă se injumătățește suprafața corpului expusă fluxului de aer?,,a,a
+,a,Se înjumătățește.,X,X,a
+,b,Nu se modifică.,,0,
+,c,Se dublează.,,0,
+,d,Se inmulțește cu 4.,,0,
+FF111,,"111. Un obiect cu o suprafață de 2 metri pătrați expusă unui flux de aer de 30 km/h produce o rezistență la inaintare de 300 N la nivelul mării. In aceleași condiții, ce rezistență la inaintare produce un obiect de formă similară dar cu o suprafață expusă de 4 metri pătrați?",,c,c
+,a,In jur de 150 N.,,0,c
+,b,In jur de 300 N.,,0,c
+,c,În jur de 600 N.,X,X,c
+,d,In jur de 900 N.,,0,
+FF112,,"112. Un obiect cu o suprafață de 2 metri pătrați expusă unui flux de aer de 30 km/h produce o rezistență la inaintare de 300 N la nivelul mării. In aceleași condiții, ce rezistență la inaintare produce un obiect de formă similară dar cu o suprafață expusă de 1 metru pătrat?",,a,a
+,a,În jur de 150 N.,X,X,a
+,b,In jur de 300 N.,,0,
+,c,In jur de 600 N.,,0,
+,d,In jur de 900 N.,,0,
+FF113,,"113. Un obiect cu o suprafață de 8 metri pătrați expusă unui flux de aer de 30 km/h produce o rezistență la inaintare de 1200 N la nivelul mării. In aceleași condiții, ce rezistență la inaintare produce un obiect de formă similară dar cu o suprafață expusă de 2 metri pătrați?",,b,b
+,a,In jur de 150 N.,,0,b
+,b,În jur de 300 N.,X,X,b
+,c,In jur de 600 N.,,0,
+,d,In jur de 900 N.,,0,
+FF114,,"114. Un obiect cu o suprafață de 0,5 metri pătrați expusă unui flux de aer de 30 km/h produce o rezistență la inaintare de 150 N la nivelul mării. In aceleași condiții, ce rezistență la inaintare produce un obiect de formă similară dar cu o suprafață expusă de 3 metri pătrați?",,d,d
+,a,In jur de 150 N.,,0,d
+,b,In jur de 300 N.,,0,d
+,c,In jur de 600 N.,,0,d
+,d,În jur de 900 N.,X,X,d
+FF115,,115. Care din următorii factori are un efect semnificativ asupra rezistenței la inaintare a unui obiect?,,d,d
+,a,Greutatea obiectului.,,0,d
+,b,Umiditatea relativă a aerului.,,0,d
+,c,Caracteristicile materialului din care este construit obiectul.,,0,d
+,d,Viteza fluxului de aer.,X,X,d
+FF116,,"116. Dacă viteza fluxului de aer la care expus un corp se dublează,",,b,b
+,a,rezistența la inaintare se va dubla.,,0,b
+,b,rezistența la înaintare se va înmulți cu 4.,X,X,b
+,c,rezistența la inaintare se va inmulți cu 8.,,0,
+,d,rezistența la inaintare se va inmulți cu 16.,,0,
+FF117,,"117. Dacă viteza fluxului de aer la care expus un corp se triplează,",,c,c
+,a,rezistența la inaintare se va inmulți cu 3.,,0,c
+,b,rezistența la inaintare se va inmulți cu 6.,,0,c
+,c,rezistența la înaintare se va înmulți cu 9.,X,X,c
+,d,rezistența la inaintare se va inmulți cu 12.,,0,
+FF118,,"118. Dacă viteza fluxului de aer la care expus un corp crește de 4 ori,",,d,d
+,a,rezistența la inaintare se va dubla.,,0,d
+,b,rezistența la inaintare se va inmulți cu 4.,,0,d
+,c,rezistența la inaintare se va inmulți cu 8.,,0,d
+,d,rezistența la înaintare se va înmulți cu 16.,X,X,d
+FF119,,"119. Dacă viteza fluxului de aer la care expus un corp se injumătățește,",,d,d
+,a,rezistența la inaintare se va dubla.,,0,d
+,b,rezistența la inaintare se va inmulți cu 4.,,0,d
+,c,rezistența la inaintare se vaimpărți cu 2.,,0,d
+,d,rezistența la înaintare se vaimpărți cu 4.,X,X,d
+FF120,,120. Un obiect cu o suprafață de 2 metri pătrați expusă unui flux de aer de 30 km/h produce o rezistență la inaintare de 300 N la nivelul mării. Care va fi rezistența la inaintare a aceluiași obiect intr-un flux de aer de 60 km/h?,,d,d
+,a,In jur de 300 N.,,0,d
+,b,In jur de 600 N.,,0,d
+,c,In jur de 900 N.,,0,d
+,d,În jur de 1200 N.,X,X,d
+FF121,,"121. Un obiect cu o suprafață de 0,75 metri pătrați expusă unui flux de aer de 30 km/h produce o rezistență la inaintare de 100 N la nivelul mării. Care va fi rezistența la inaintare a aceluiași obiect intr-un flux de aer de 60 km/h?",,c,c
+,a,In jur de 300 N.,,0,c
+,b,In jur de 600 N.,,0,c
+,c,În jur de 900 N.,X,X,c
+,d,In jur de 1200 N.,,0,
+FF122,,122. Un obiect cu o suprafață de 2 metri pătrați expusă unui flux de aer de 80 km/h produce o rezistență la inaintare de 1200 N la nivelul mării. Care va fi rezistența la inaintare a aceluiași obiect intr-un flux de aer de 40 km/h?,,a,a
+,a,În jur de 300 N.,X,X,a
+,b,In jur de 600 N.,,0,
+,c,In jur de 900 N.,,0,
+,d,In jur de 1200 N.,,0,
+FF123,,"123. Un obiect cu o suprafață de 0,75 metri pătrați expusă unui flux de aer de 20 km/h produce o rezistență la inaintare de 100 N la nivelul mării. Care va fi rezistența la inaintare a aceluiași obiect intr-un flux de aer de 60 km/h?",,c,c
+,a,In jur de 300 N.,,0,c
+,b,In jur de 600 N.,,0,c
+,c,În jur de 900 N.,X,X,c
+,d,In jur de 1200 N.,,0,
+FF124,,124. Care din următoarele caracteristici are cea mai mare influență asupra rezistenței la inaintare a unui corp?,,c,c
+,a,Umiditatea absolută a aerului.,,0,c
+,b,Gradientul presiunii.,,0,c
+,c,Densitataea aerului.,X,X,c
+,d,Diferența dintre temperatură și punctul de rouă.,,0,
+FF125,,"125. Dacă densitea fluxului de aer la care este expus un corp se dublează, ce se va intămpla cu rezistența la inaintare a corpului?",,c,c
+,a,Se injumătățește.,,0,c
+,b,Nu se modifică.,,0,c
+,c,Se dublează.,X,X,c
+,d,Crește de 4 ori.,,0,
+FF126,,"126. Dacă densitea fluxului de aer la care este expus un corp se injumătățește, ce se va intămpla cu rezistența la inaintare a corpului?",,a,a
+,a,Se înjumătățește.,X,X,a
+,b,Nu se modifică.,,0,
+,c,Se dublează.,,0,
+,d,Crește de 4 ori.,,0,
+FF127,,127. Dacă un obiect expus unui flux de aer se indepărteză de suprafața pamăntului ce se va intampla cu rezistența la inaintare a acestuia?,,d,d
+,a,Va crește.,,0,d
+,b,Nu se modifică.,,0,d
+,c,Va scădea pană la troposferă după care va crește din cauza schimbării temperaturii.,,0,d
+,d,Va scădea.,X,X,d
+FF128,,128. Dacă un obiect expus unui flux de aer se indepărteză de suprafața pamăntului ce se va intampla cu rezistența la inaintare a acestuia?,,b,b
+,a,Scade liniar.,,0,b
+,b,Scade mai repede în straturile inferioare ale atmosferei de cât în cele superioare.,X,X,b
+,c,Scade mai repede in straturile superioare ale atmosferei de cat in cele inferioare.,,0,
+,d,Scade in straturile inferioare ale atmosferei și crește in straturile superioare.,,0,
+FF129,,"129. Un corp expus unui flux de aer la altitudinea de 4.400 m deasupra nivelului mării va avea,",,d,d
+,a,aproximativ 90 % din rezistența la inaintare de la nivelul mării.,,0,d
+,b,aproximativ 81 % din rezistența la inaintare de la nivelul mării.,,0,d
+,c,aproximativ 72 % din rezistența la inaintare de la nivelul mării.,,0,d
+,d,aproximativ 64 % din rezistența la înaintare de la nivelul mării.,X,X,d
+FF130,,"130. Un corp expus unui flux de aer la altitudinea de 3.300 m deasupra nivelului mării va avea,",,c,c
+,a,aproximativ 90 % din rezistența la inaintare de la nivelul mării.,,0,c
+,b,aproximativ 81 % din rezistența la inaintare de la nivelul mării.,,0,c
+,c,aproximativ 72 % din rezistența la înaintare de la nivelul mării.,X,X,c
+,d,aproximativ 64 % din rezistența la inaintare de la nivelul mării.,,0,
+FF131,,"131. Un corp expus unui flux de aer la altitudinea de 2.200 m deasupra nivelului mării va avea,",,b,b
+,a,aproximativ 90 % din rezistența la inaintare de la nivelul mării.,,0,b
+,b,aproximativ 81 % din rezistența la înaintare de la nivelul mării.,X,X,b
+,c,aproximativ 72 % din rezistența la inaintare de la nivelul mării.,,0,
+,d,aproximativ 64 % din rezistența la inaintare de la nivelul mării.,,0,
+FF132,,"132. Un corp expus unui flux de aer la altitudinea de 1.100 m deasupra nivelului mării va avea,",,a,a
+,a,aproximativ 90 % din rezistența la înaintare de la nivelul mării.,X,X,a
+,b,aproximativ 81 % din rezistența la inaintare de la nivelul mării.,,0,
+,c,aproximativ 72 % din rezistența la inaintare de la nivelul mării.,,0,
+,d,aproximativ 64 % din rezistența la inaintare de la nivelul mării.,,0,
+FF133,,133. Care din următoarele caracteristici are cea mai mare influență asupra rezistenței la inaintare a unui corp?,,a,a
+,a,Forma corpului.,X,X,a
+,b,Greutatea corpului.,,0,
+,c,Masa corpului.,,0,
+,d,Caracteristicile materialului din care este construit corpul.,,0,
+FF134,,134. Care din următorii coeficenți este folosit pentru calcularea rezistenței la inaintare a unui corp?,,c,c
+,a,"Ca (sau Cl in engleză, l de la lift)",,0,c
+,b,Cb,,0,c
+,c,"Cx (sau Cd în engleză, d de la drag)",X,X,c
+,d,Cy,,0,
+FF135,,"135. Un corp cu un coeficient aerodinamic de 1,3 comparativ cu un corp cu coeficient aerodinamic de 1 are in aceleași condiții,",,c,c
+,a,aproximativ de 3 ori mai multă rezistență la inaintare.,,0,c
+,b,aproximativ de 3 ori mai puțină rezistență la inaintare.,,0,c
+,c,aproximativ cu 30 % mai multă rezistență la înaintare.,X,X,c
+,d,aproximativ cu 30 % mai puțină rezistență la inaintare.,,0,
+FF136,,"136. Un corp cu un coeficient aerodinamic de 0,33 comparativ cu un corp cu coeficient aerodinamic de 1 are in aceleași condiții,",,b,b
+,a,aproximativ de 3 ori mai multă rezistență la inaintare.,,0,b
+,b,aproximativ de 3 ori mai puțină rezistență la înaintare.,X,X,b
+,c,aproximativ cu 30 % mai multă rezistență la inaintare.,,0,
+,d,aproximativ cu 30 % mai puțină rezistență la inaintare.,,0,
+FF137,,"137. Un corp cu un coeficient aerodinamic de 0,05 comparativ cu un corp cu coeficient aerodinamic de 1 are in aceleași condiții,",,d,d
+,a,aproximativ de 5 ori mai multă rezistență la inaintare.,,0,d
+,b,aproximativ de 50 ori mai puțină rezistență la inaintare.,,0,d
+,c,aproximativ de 2 ori mai puțină rezistență la inaintare.,,0,d
+,d,aproximativ de 20 ori mai puțină rezistență la înaintare.,X,X,d
+FF138,,"138. Obiectele desenate mai jos au coeficientul aerodinamic Cx de 0,08 0,17 1 și 1,3. Care dintre ele are coeficientul Cx 0,08?",,c,c
+,a,a),,0,c
+,b,b),,0,c
+,c,c),X,X,c
+,d,d),,0,
+FF139,,"139. Obiectele desenate mai jos au coeficientul aerodinamic Cx de 0,08 0,17 1 și 1,3. Care dintre ele are coeficientul Cx 0,17?",,d,d
+,a,a),,0,d
+,b,b),,0,d
+,c,c),,0,d
+,d,d),X,X,d
+FF140,,"140. Obiectele desenate mai jos au coeficientul aerodinamic Cx de 0,08 0,17 1 și 1,3. Care dintre ele are coeficientul Cx 1?",,a,a
+,a,a),X,X,a
+,b,b),,0,
+,c,c),,0,
+,d,d),,0,
+FF141,,"141. Obiectele desenate mai jos au coeficientul aerodinamic Cx de 0,08 0,17 1 și 1,3. Care dintre ele are coeficientul Cx 1,3?",,b,b
+,a,a),,0,b
+,b,b),X,X,b
+,c,c),,0,
+,d,d),,0,
+FF142,,142. Care dintre următorii parametri vor avea cea mai mare influență asupra aerodinamici unui corp?,,d,d
+,a,densitatea moleculară a corpului.,,0,d
+,b,masa corpului.,,0,d
+,c,greutatea specifică a corpului.,,0,d
+,d,caracteristicile suprafeței corpului.,X,X,d
+FF143,,143. Care dintre următoarele numere reprezintă coarda profilului?,,b,b
+,a,1,,0,b
+,b,2,X,X,b
+,c,3,,0,
+,d,4,,0,
+FF144,,144. Care dintre următoarele numere reprezintă grosimea profilului?,,b,b
+,a,1,,0,b
+,b,2,X,X,b
+,c,3,,0,
+,d,4,,0,
+FF145,,145. Care dintre următoarele numere reprezintă adancimea profilului?,,a,a
+,a,1,X,X,a
+,b,2,,0,
+,c,3,,0,
+,d,4,,0,
+FF146,,146. Care dintre următoarele numere reprezintă bordul de atac al profilului?,,b,b
+,a,1,,0,b
+,b,2,X,X,b
+,c,3,,0,
+,d,4,,0,
+FF147,,147. Care dintre următoarele numere reprezintă bordul de fugă al profilului?,,c,c
+,a,1,,0,c
+,b,2,,0,c
+,c,3,X,X,c
+,d,4,,0,
+FF148,,148. Profilul aripii,,b,b
+,a,este practic identic pentru toate aeronavele nemotorizate.,,0,b
+,b,este determinat pentru fiecare aeronavă în funcție de caracteristicile de zbor dorite.,X,X,b
+,c,"are o influență redusă asupra performanței aeronavei, deoarece aceasta este determinată in primul rand de greutatea totală.",,0,
+,d,este determinat de unghiul de atac.,,0,
+FF149,,"149. In majoritatea cazurilor, profilulurile aripilor aeronavelor care se deplasează lent, cum ar fi aeronavele lansate de pe picioare sunt profiluri",,d,d
+,a,relativ groase și simetrice.,,0,d
+,b,relativ subțiri și asimetrice.,,0,d
+,c,relativ subțiri și simetrice.,,0,d
+,d,relativ groase și asimetrice.,X,X,d
+FF150,,"150. Termenul ""unghi de atac"" reprezintă unghiul dintre",,b,b
+,a,coarda profilului și orizontală.,,0,b
+,b,coarda profilului și vântul relativ.,X,X,b
+,c,intradosul și extradosul aripilor la marginea posterioară.,,0,
+,d,orizontala si vantul relativ.,,0,
+FF151,,"151. Dacă aripă produce portanță sau nu depinde, printre altele, de",,a,a
+,a,unghiul de atac.,X,X,a
+,b,suprafața sa.,,0,
+,c,indicele derezistențăla inaintare Cx al profilului aripii.,,0,
+,d,greutatea ei.,,0,
+FF152,,152. Care dintre următoarele profiluri expuse vantului are cel mai mare unghi de atac?,,a,a
+,a,1,X,X,a
+,b,2,,0,
+,c,3,,0,
+,d,4,,0,
+FF153,,153. Care dintre următoarele profiluri expuse vantului are unghi negativ de atac de -10°?,,b,b
+,a,1,,0,b
+,b,2,X,X,b
+,c,3,,0,
+,d,4,,0,
+FF154,,154. Care dintre următoarele profiluri expuse vantului are unghi de atac de 0°?,,d,d
+,a,1,,0,d
+,b,2,,0,d
+,c,3,,0,d
+,d,4,X,X,d
+FF155,,155. Care este mai mult sau mai puțin distribuția portanței pe o aripă care este expusă unui vant relativ cu un unghi de atac de + 10 °?,,c,c
+,a,"1/2 pe extrados, 1/2 pe intrados.",,0,c
+,b,"1/3 pe extrados, 2/3 pe intrados.",,0,c
+,c,"2/3 pe extrados, 1/3 pe intrados.",X,X,c
+,d,"1/4 pe extrados, 3/4 pe intrados.",,0,
+FF156,,156. Care dintre următoarele afirmații despre distribuția portanței este corectă pentru o aripă cambrată care zboară cu un unghi de atac pozitiv de 10 °?,,a,a
+,a,2/3 din portanță este creată pe prima treime a aripii.,X,X,a
+,b,1/2 din portanță este creată pe prima treime a aripii.,,0,
+,c,1/3 din portanță este creată pe prima treime a aripii.,,0,
+,d,2/3 din portanță este creată pe cea de-a doua treime a aripii.,,0,
+FF157,,157. Care dintre următoarele seturi de patru factori influențează portanța generată de o aripă?,,d,d
+,a,"suprafața aripii, coeficientul de portanță, coeficientul de rezistență la inaintare, densitatea aerului.",,0,d
+,b,"coeficientul de portanță, densitatea aerului, viteza fluxului de aer, greutatea.",,0,d
+,c,"densitatea aerului, viteza fluxului de aer, coeficientul de portanță, coeficientul de rezistență la inaintare.",,0,d
+,d,"dsuprafața aripii, coeficientul de portanță, densitatea aerului, viteza fluxului de aer.",X,X,d
+FF158,,158. Dacă unghiul de atac al unei parapante care zboară cu cea mai bună finețe este redus cu 2° atunci,,c,c
+,a,viteza de zbor se reduce.,,0,c
+,b,viteza de zbor nu se modifică.,,0,c
+,c,crește viteza zborului.,X,X,c
+,d,viteza de zbor crește inițial și apoi se stabilizează la valoarea inițială.,,0,
+FF159,,159. Dacă unghiul de atac al unei parapante care zboară cu cea mai bună finețe este redus cu 2° atunci,,c,c
+,a,coeficiențul de portanță Cz (CL) crește.,,0,c
+,b,coeficiențul de portanță Cz (CL) nu se modifică.,,0,c
+,c,coeficiențul de portanță Cz (CL) scade.,X,X,c
+,d,coeficiențul de portanță Cz (CL) crește inițial și momentan inainte de a reveni la valoarea sa anterioară.,,0,
+FF160,,160. Dacă unghiul de atac al unei parapante care zboară cu cea mai bună finețe crește cu 2 ° atunci,,a,a
+,a,viteza zborului scade.,X,X,a
+,b,viteza de zbor nu se modifică.,,0,
+,c,crește viteza zborului.,,0,
+,d,viteza de zbor crește inițial și apoi se stabilizează la valoarea inițială.,,0,
+FF161,,161. Dacă unghiul de atac al unei parapante care zboară cu cea mai bună finețe crește cu 2 ° atunci,,a,a
+,a,coeficiențul de portanță Cz (CL) crește.,X,X,a
+,b,coeficiențul de portanță Cz (CL) nu se modifică.,,0,
+,c,coeficiențul de portanță Cz (CL) scade.,,0,
+,d,coeficiențul de portanță Cz (CL) crește inițial și momentan inainte de a reveni la valoarea sa anterioară.,,0,
+FF162,,162. Relația dintre portanța și rezistențala inaintare unei aripi depinde in principal de,,c,c
+,a,suprafața aripii.,,0,c
+,b,densitatea aerului.,,0,c
+,c,unghiul de atac.,X,X,c
+,d,viteza fluxului de aer.,,0,
+FF163,,163. Care dintre literele din următoarea diagramă indică punctul de stagnare?,,a,a
+,a,1,X,X,a
+,b,2,,0,
+,c,3,,0,
+,d,4,,0,
+FF164,,164. Care dintre literele din următoarea diagramă indică centrulpresiunii?,,c,c
+,a,1,,0,c
+,b,2,,0,c
+,c,3,X,X,c
+,d,4,,0,
+FF165,,165. Care dintre literele din următoarea diagramă indică punctul de angajare?,,d,d
+,a,1,,0,d
+,b,2,,0,d
+,c,3,,0,d
+,d,4,X,X,d
+FF166,,"166. Termenul ""punct de angajare"" descrie",,d,d
+,a,punctul in care fluxul de aer de pe extrados a aripii intalnește din nou fluxul de pe intrados.,,0,d
+,b,punctul de aplicare al forței aerodinamice rezultate.,,0,d
+,c,punctul in care fluxul de aer este impărțit intre extradosul și intradosul pfofilului.,,0,d
+,d,punctul în care fluxul de aer se separă de aripă.,X,X,d
+FF167,,"167. Cand o parapantă zboară la incărcare maximă, punctul de angajare",,a,a
+,a,are loc la o viteză mai mare decât la încărcarea minimă.,X,X,a
+,b,apare la aceeași viteză și unghi de atac independent de sarcină.,,0,
+,c,nu apare niciodată.,,0,
+,d,are loc la o viteză mai mică decat cea la icărcare minimă.,,0,
+FF168,,"168. Atunci cand o parapantă zboară la incărcare minimă, punctul de angajare apare",,d,d
+,a,la o viteză mai mare decat la incărcare maximă.,,0,d
+,b,la aceeași viteză și unghi de atac independent de sarcină.,,0,d
+,c,la un unghi mai mic de atac.,,0,d
+,d,la o viteză mai mică decat la incărcare maximă.,X,X,d
+FF169,,169. Termenul de punct de stagnare definește,,c,c
+,a,trecerea de la stratul laminar la stratul de graniță turbulent.,,0,c
+,b,punctul de aplicare al forței aerodinamice rezultate.,,0,c
+,c,punctul în care fluxul de aer este împărțit între extradosul și intradosul aripilor.,X,X,c
+,d,punctul in care fluxul de aer se separă de aripă.,,0,
+FF170,,"170. Dacă unghiul pozitiv de atac al unei aripi intr-un flux de aer se mărește, punctul de stagnare se deplasează",,b,b
+,a,pe extradosul aripii spre bordul de fugă.,,0,b
+,b,pe intradosul aripii spre bordul de fugă.,X,X,b
+,c,pe extradosul aripii spre bordul de atac.,,0,
+,d,pe intradosul aripii spre bordul de atac.,,0,
+FF171,,"171. Dacă unghiul pozitiv de atac al unei aripi intr-un flux de aer scade, punctul de stagnare",,d,d
+,a,rămane staționar.,,0,d
+,b,se deplasează spre bordul de fugă pe intradosul aripii.,,0,d
+,c,se deplasează spre bordul de atac pe extradosul aripii.,,0,d
+,d,se deplasează spre bordul de atac pe intradosul aripii.,X,X,d
+FF172,,"172. Termenul ""centru de presiune"" inseamnă:",,b,b
+,a,trecerea de la un flux laminar la flux turbulent a stratului limită.,,0,b
+,b,punctul de aplicare al forței aerodinamice rezultate.,X,X,b
+,c,punctul in care fluxul de aer este impărțit intre intradosul și extradosul aripilor.,,0,
+,d,centrul de masă a pilotului și a intregului echipament combinat.,,0,
+FF173,,"173. Termenul ""anvergura aripii"" este definit ca",,b,b
+,a,distanța medie dintre dordul de atac și bordul de fugă ale unei aripi.,,0,b
+,b,distanța dintre colțurile stângi și drepte ale aripii.,X,X,b
+,c,diferența de unghi de atac a secțiunii transversale a aripii in diferite puncte dealungul aripii.,,0,
+,d,incărcarea medie pe unitate a suprafeței aripii.,,0,
+FF174,,"174. Termenul ""coardă medie"" este definit ca",,a,a
+,a,distanța medie dintre dordul de atac și bordul de fugă ale unei aripi.,X,X,a
+,b,distanța dintre colțurile stangi și drepte ale aripii.,,0,
+,c,diferența de unghi de atac a secțiunii transversale a aripii in diferite puncte dealungul aripii.,,0,
+,d,incărcarea medie pe unitate a suprafeței aripii.,,0,
+FF175,,"175. Termenul ""incărcarea alară"" este definit ca",,d,d
+,a,distanța medie dintre dordul de atac și bordul de fugă ale unei aripi.,,0,d
+,b,distanța dintre colțurile stangi și drepte ale aripii.,,0,d
+,c,diferența de unghi de atac a secțiunii transversale a aripii in diferite puncte dealungul aripii.,,0,d
+,d,încărcarea medie pe unitate a suprafeței aripii.,X,X,d
+FF176,,176. Incărcarea alară a unui parapante este,,c,c
+,a,incărcare / suprafața aripii.,,0,c
+,b,(presiunea aerului / 2) x (viteza aerului) 2.,,0,c
+,c,greutatea totală / suprafața aripii.,X,X,c
+,d,(greutatea pilotului + greutatea echipamentului) / (aripă) 2.,,0,
+FF177,,"177. Termenul ""alungirea aripii"" este definit ca relația dintre",,b,b
+,a,profunzimea profilului și coarda medie a aripii.,,0,b
+,b,anvergura aripii și coarda medie a aripii.,X,X,b
+,c,pătratul anvergurii și pătratul coardei medii.,,0,
+,d,cea mai mare și mai mică coardă a aripii.,,0,
+FF178,,178. Alungirea unei aripi este calculată in modul următor,,a,a
+,a,(anvergura) 2 / suprafața aripii.,X,X,a
+,b,(coarda medie) 2 / suprafața aripii.,,0,
+,c,anvergura x coarda medie.,,0,
+,d,coarda medie x suprafața aripii.,,0,
+FF179,,179. Aripile cu o alungire mare au,,d,d
+,a,anvergura mare și coarda medie mare.,,0,d
+,b,anvergura mică și coarda medie mare.,,0,d
+,c,anvergura mică și coarda medie mică.,,0,d
+,d,anvergura mare și coarda medie mică.,X,X,d
+FF180,,180. Aripile cu o alungire mică au,,b,b
+,a,anvergura mare și coarda medie mare.,,0,b
+,b,anvergura mică și coarda medie mare.,X,X,b
+,c,anvergura mică și coarda medie mică.,,0,
+,d,anvergura mare și coarda medie mică.,,0,
+FF181,,181. Alungirea unei aripi este 5. Care dintre următoarele afirmații este corectă?,,b,b
+,a,Suprafața sa este de cinci ori mai mare decat anvergura sa.,,0,b
+,b,Anvergura sa este de cinci ori mai mare decât coarda medie.,X,X,b
+,c,Coarda medie este de cinci ori mai mare decat anvergura sa.,,0,
+,d,Anvergura sa este de cinci ori mai mare decat suprafața sa.,,0,
+FF182,,182. Alungirea unei aripi este 5. Care dintre următoarele afirmații este corectă?,,c,c
+,a,Suprafața sa este de cinci ori mai mică decat anvergura sa.,,0,c
+,b,Anvergura sa este de cinci ori mai mică decat coarda medie.,,0,c
+,c,Coarda medie este de cinci ori mai mică decât anvergura sa.,X,X,c
+,d,Anvergura sa este de cinci ori mai mică decat suprafața sa.,,0,
+FF183,,"183. Care este alungirea unei parapante cu următoarele caracteristici: Anvergură 10 m, Suprafață 25 m2, Incărcare minimă 70 kg, Incărcare maximă 95 kg și Greutatea parapantei 5 kg?",,c,c
+,a,"2,5",,0,c
+,b,"3,5",,0,c
+,c,"4,0",X,X,c
+,d,"4,5",,0,
+FF184,,"184. Care este coarda medie a unei parapante cu următoarele caracteristici: Anvergură 10 m, Suprafață 25 m2, Incărcare minimă 70 kg, Incărcare maximă 95 kg și Greutatea parapantei 5 kg?",,a,a
+,a,"2,5",X,X,a
+,b,"3,5",,0,
+,c,"4,0",,0,
+,d,"4,5",,0,
+FF185,,"185. Care este incărcarea alară a unei parapante la incărcare maximă, cu următoarele caracteristici: Anvergură 10 m, Suprafață 25 m2, Incărcare minimă 70 kg, Incărcare maximă 95 kg și Greutatea parapantei 5 kg?",,c,c
+,a,"3,0 kg / m2",,0,c
+,b,"3,5 kg / m2",,0,c
+,c,"4,0 kg / m2",X,X,c
+,d,"4,5 kg / m2",,0,
+FF186,,"186. Care este incărcarea alară a unei parapante la incărcare minimă, cu următoarele caracteristici: Anvergură 10 m, Suprafață 25 m2, Incărcare minimă 70 kg, Incărcare maximă 95 kg și Greutatea parapantei 5 kg?",,a,a
+,a,"3,0 kg / m2",X,X,a
+,b,"3,5 kg / m2",,0,
+,c,"4,0 kg / m2",,0,
+,d,"4,5 kg / m2",,0,
+FF187,,"187. Care este alungirea deltaplanului cu următoarele caracteristici: Anvergură 10 m, Suprafață 12,5m2, Incărcare minimă 60 kg, Incărcare maximă 80 kg, Greutatea delatplanului 30kg?",,c,c
+,a,4,,0,c
+,b,6,,0,c
+,c,8,X,X,c
+,d,10,,0,
+FF188,,"188. Care este coarda medie a deltaplanului cu următoarele caracteristici: anvergură 10m, incărcare minimă 65kg, greutate deltaplan 35kg, suprafață 12,5m2, incărcare maximă 90kg?",,b,b
+,a,"0,75 m",,0,b
+,b,"1,25m",X,X,b
+,c,1.75m,,0,
+,d,2.50m,,0,
+FF189,,"189. Care este incărcarea alară a aripii la incăcare maximă, cu următoarele caracteristici: anvergură 10m, suprafață 12,5m2, incărcare minimă 65kg, incărcare maximă 90kg, greutate 35kg.",,c,c
+,a,6 kg / m2,,0,c
+,b,8 kg / m2,,0,c
+,c,10 kg / m2,X,X,c
+,d,12 kg / m2,,0,
+FF190,,"190. Care este incărcarea alară a aripii la incăcare minimă, cu următoarele caracteristici: anvergură 10m, suprafață 12,5m2, incărcare minimă 65kg, incărcare maximă 90kg, greutate 35kg.",,b,b
+,a,6 kg / m2,,0,b
+,b,8 kg / m2,X,X,b
+,c,10 kg / m2,,0,
+,d,12 kg / m2,,0,
+FF191,,191. Care este alungirea unei parapante moderne de nivel intermediar?,,b,b
+,a,aproximativ 3,,0,b
+,b,aproximativ 5,X,X,b
+,c,aproximativ 8,,0,
+,d,aproximativ 12,,0,
+FF192,,192. Care este alungirea unui deltaplan modern de nivel intermediar?,,c,c
+,a,aproximativ 3,,0,c
+,b,aproximativ 5,,0,c
+,c,aproximativ 8,X,X,c
+,d,aproximativ 20,,0,
+FF193,,193. Care dintre aripile cu următoarele caracteristici au cea mai mare alungire?,,d,d
+,a,"suprafață: 32m2, anvergură: 8m",,0,d
+,b,"suprafață: 25m2, anvergură: 10m",,0,d
+,c,"suprafață: 20m2, anvergură: 10m",,0,d
+,d,"suprafață: 24m2, anvergură: 12m",X,X,d
+FF194,,194. Care dintre aripile cu următoarele caracteristici au cea mai mică alungire?,,a,a
+,a,"suprafață: 32m2, anvergură: 8m",X,X,a
+,b,"suprafață: 25m2, anvergură: 10m",,0,
+,c,"suprafață: 20m2, anvergură: 10m",,0,
+,d,"suprafață: 24m2, anvergură: 12m",,0,
+FF195,,195. Care dintre aripile cu următoarele caracteristici au cea mai mare alungire?,,c,c
+,a,"suprafață: 16m2, anvergură: 12m",,0,c
+,b,"suprafață: 20m2, anvergură: 10m",,0,c
+,c,"suprafață: 12m2, anvergură: 12m",X,X,c
+,d,"suprafață: 12,5m2, anvergură: 10m",,0,
+FF196,,196. Care dintre aripile cu următoarele caracteristici au cea mai mică alungire?,,b,b
+,a,"suprafață: 16m2, anvergură: 12m",,0,b
+,b,"suprafață: 20m2, anvergură: 10m",X,X,b
+,c,"suprafață: 12m2, anvergură: 12m",,0,
+,d,"suprafață: 12,5m2, anvergură: 10m",,0,
+FF197,,197. Cand apar virtejurile?,,b,b
+,a,Cand stratul limită din spatele punctului de desprindere trece la curgere turbulentă.,,0,b
+,b,Atunci când există o diferență de presiune între intrados și extrados.,X,X,b
+,c,Atunci cand colțurile aripilor sunt slab proiectate.,,0,
+,d,Atunci cand suspantele produc vartejuri care sunt deviate in sus.,,0,
+FF198,,198. Unde ar trebui să ne așteptăm să găsim vărtejuri langă o prapantă cand aceasta zboară?,,d,d
+,a,la marginea aripii din fața bordului de atac.,,0,d
+,b,aproximativ cu o anvergură deasupra centrului presiunii / tracțiunii.,,0,d
+,c,in mijlocul aripii și in fața bordului de atac.,,0,d
+,d,în spatele bordului de fugă.,X,X,d
+FF199,,199. Dacă crește rezistența la inaintare a unei aripi,,c,c
+,a,acest lucru nu are nici un efect asupra unghiului de planare.,,0,c
+,b,unghiul de planare scade.,,0,c
+,c,unghiul de planare crește.,X,X,c
+,d,unghiul de planare scade pană la un punct și apoi crește brusc.,,0,
+FF200,,200. Dacă scade rezistența la inaintare a unei aripi,,c,c
+,a,acest lucru nu are nici un efect asupra unghiului de planare.,,0,c
+,b,finețea scade.,,0,c
+,c,finețea crește.,X,X,c
+,d,finețea scade pană la un punct și apoi crește brusc.,,0,
+FF201,,201. Suprafața proiectată este,,a,a
+,a,mai mică sau identică cu suprafața desfășurată.,X,X,a
+,b,"la un deltaplan mai mică, la o parapantă mai mare decat suprafața desfășurată.",,0,
+,c,"la un deltaplan mai mare, la o parapantă mai mmică decat suprafața desfășurată.",,0,
+,d,mai mare decat suprafața desfășurată.,,0,
+FF202,,202. Rezultanta forțelor aerodinamice este intre forțele,,a,a
+,a,portanță și rezistență la înaintare.,X,X,a
+,b,tracțiune și portanță.,,0,
+,c,greutate și tracțiune.,,0,
+,d,greutate și portanță.,,0,
+FF203,,"203. In timpul zborului stabil, rezultanta forțelor aerodinamice are aceeași valoare ca",,b,b
+,a,portanța.,,0,b
+,b,greutatea totală.,X,X,b
+,c,tracțiunea.,,0,
+,d,rezistența la inaintare.,,0,
+FF204,,"204. In timpul zborului stabil, tracțiunea are aceeași valoare ca",,d,d
+,a,portanța.,,0,d
+,b,rezultanta forțelor aerodinamice.,,0,d
+,c,greutatea totală .,,0,d
+,d,rezistența la înaintare.,X,X,d
+FF205,,205. Care forță se opune forței greutății in zbor stabil?,,c,c
+,a,portanța,,0,c
+,b,tracțiunea,,0,c
+,c,rezultanta forțelor aerodinamice,X,X,c
+,d,rezistența la inaintare,,0,
+FF206,,206. Care forță se opune rezistenței la inaintare in zbor stabil?,,b,b
+,a,portanța,,0,b
+,b,tracțiunea,X,X,b
+,c,rezultanta forțelor aerodinamice,,0,
+,d,greutatea totală,,0,
+FF207,,207. Rezistența la inaintare este o componentă a,,b,b
+,a,forței de greutate care acționează paralel cu traiectoria de zbor și produce mișcarea de inaintare a planorului.,,0,b
+,b,rezultantei forțelor aerodinamice și acționează în direcția fluxului de aer.,X,X,b
+,c,forța de greutate și acționează in direcția opusă fluxului de aer.,,0,
+,d,forței portante și acționează intotdeauna vertical.,,0,
+FF208,,208. Care dintre următoarele numere reprezintă finețea și tracțiunea?,,c,c
+,a,4 și 7,,0,c
+,b,4 și 8,,0,c
+,c,1 și 7,X,X,c
+,d,1 și 8,,0,
+FF209,,209. Care dintre următoarele numere reprezintă portanța și rezistența la inaintare?,,d,d
+,a,6 și 7,,0,d
+,b,5 și 7,,0,d
+,c,6 și 8,,0,d
+,d,5 și 8,X,X,d
+FF210,,210. Care dintre următoarele numere reprezintă finețea și a greutatea totală?,,b,b
+,a,1 și 7,,0,b
+,b,1 și 2,X,X,b
+,c,4 și 7,,0,
+,d,2 și 4,,0,
+FF211,,211. Care dintre următoarele numere reprezintă rezultanta forțelor erodinamice și tracțiunea?,,d,d
+,a,2 și 7,,0,d
+,b,6 și 8,,0,d
+,c,2 și 8,,0,d
+,d,6 și 7,X,X,d
+FF212,,"212. La o parapantă, mișcarea in jurul axei longitudinale se numește",,d,d
+,a,spin.,,0,d
+,b,girație.,,0,d
+,c,tangaj.,,0,d
+,d,ruliu.,X,X,d
+FF213,,"213. La o parapantă, mișcarea in jurul axei transversale se numește",,d,d
+,a,pendul.,,0,d
+,b,girație.,,0,d
+,c,ruliu.,,0,d
+,d,tangaj.,X,X,d
+FF214,,"214. La o parapantă, mișcarea in jurul axei verticale se numește",,a,a
+,a,girație.,X,X,a
+,b,tangaj.,,0,
+,c,ruliu.,,0,
+,d,spin.,,0,
+FF215,,215. O parapantă care se accelerează continuu dacă pilotul nu intervine in mod activ are,,d,d
+,a,caracteristici de zbor stabile.,,0,d
+,b,caracteristici de zbor indiferente.,,0,d
+,c,caracteristici inverse de zbor.,,0,d
+,d,caracteristici de zbor instabile.,X,X,d
+FF216,,"216. O parapantă care, după fiecare comandă de la pilot, cntinuă să-și mențină comportementul are",,b,b
+,a,caracteristici de zbor stabile.,,0,b
+,b,caracteristici de zbor indiferente.,X,X,b
+,c,caracteristici inverse de zbor.,,0,
+,d,caracteristici de zbor instabile.,,0,
+FF217,,"217. O parapantă, care revine din zbor rectiliniu accelerat la viteza normală chiar dacă pilotul nu intervine in mod activ, are",,a,a
+,a,caracteristici de zbor stabile.,X,X,a
+,b,caracteristici de zbor indiferente.,,0,
+,c,caracteristici inverse de zbor.,,0,
+,d,caracteristici de zbor instabile.,,0,
+FF218,,"218. O parapantă care in condiții line de zbor are o mișcare continuă de girație, fără ca pilotul să intervină, nu este",,a,a
+,a,stabilă direcțional.,X,X,a
+,b,stabililă transversal.,,0,
+,c,stabilă longitudinal.,,0,
+,d,stabilă pe verticală / inălțime.,,0,
+FF219,,"219. O parapantă care in condiții line de zbor iți reduce sesizabil unghiul de planare, fără ca pilotul să intervină, nu este",,c,c
+,a,stabilă direcțional.,,0,c
+,b,stabililă transversal.,,0,c
+,c,stabilă longitudinal.,X,X,c
+,d,stabilă pe verticală / inălțime.,,0,
+FF220,,"220. O parapantă care in condiții line de zbor pendulează de-a lungul axei longitudinale, fără ca pilotul să intervină, nu este",,b,b
+,a,stabilă direcțional.,,0,b
+,b,stabililă transversal.,X,X,b
+,c,stabilă longitudinal.,,0,
+,d,stabilă pe verticală / inălțime.,,0,
+FF221,,221. Finețea unui planor oferă informații despre relația dintre,,d,d
+,a,portanță și greutatea totală.,,0,d
+,b,tracțiune și rezistență la inaintare.,,0,d
+,c,tracțiune și greutate totală.,,0,d
+,d,portanță și rezistență la înaintare.,X,X,d
+FF222,,222. Finețea unui planor oferă informații despre relația dintre,,b,b
+,a,portanța pe extrados și intrados ale aripii.,,0,b
+,b,valoarea coeficienților Cz (portanță) și Cx (coeficientul aerodinamic) ale aripii.,X,X,b
+,c,presiunea statică și dinamică asupra profilului aripii.,,0,
+,d,anvergura și coarda medie a aripii.,,0,
+FF223,,223. Finețea unui planor oferă informații despre relația dintre,,b,b
+,a,viteza la finețe maximă și viteza la infundare minimă a planorului.,,0,b
+,b,viteza pe orizontală (înaintare) și viteza pe verticală (viteza de înfundare).,X,X,b
+,c,viteza aerului și viteza aeronavei in raport cu solul.,,0,
+,d,viteza minimă și maximă.,,0,
+FF224,,224. Finețea unui planor oferă informații despre relația dintre,,c,c
+,a,anvergura și coarda medie a planorului.,,0,c
+,b,tracțiunea și greutatea totală.,,0,c
+,c,distanța pe orizontală și diferența de altitudine.,X,X,c
+,d,viteza la cel mai bun unghi de planare și viteza la infundare minimă.,,0,
+FF225,,225. O parapantă cu o finețe de 8 zboară la 800 m deasupra solului. Care este cea mai lunga distanță pe care o poate zbura in aer calm?,,b,b
+,a,"24,0 km",,0,b
+,b,"6,4 km",X,X,b
+,c,"10,0 km",,0,
+,d,"8,1 km",,0,
+FF226,,226. O parapantă cu o finețe de 12 zboară la 2.400 m deasupra solului. Care este cea mai lunga distanță pe care o poate zbura in aer calm?,,c,c
+,a,"12,0 km",,0,c
+,b,"24,0 km",,0,c
+,c,"28,8 km",X,X,c
+,d,"23,0 km",,0,
+FF227,,227. O parapantă a parcurs 5.4 km cu o altitudine de 900 m. Care este finețea ei?,,c,c
+,a,4,,0,c
+,b,5,,0,c
+,c,6,X,X,c
+,d,7,,0,
+FF228,,228. O parapantă a parcurs 7 km cu o altitudine de 1.400 m. Care este finețea ei?,,b,b
+,a,4,,0,b
+,b,5,X,X,b
+,c,6,,0,
+,d,7,,0,
+FF229,,"229. Dacă crește finețea, unghiul de planare",,b,b
+,a,crește.,,0,b
+,b,scade.,X,X,b
+,c,rămane același.,,0,
+,d,"crește mai intai, apoi scade.",,0,
+FF230,,"230. Dacă crește unghiul de planare, finețea",,b,b
+,a,crește.,,0,b
+,b,scade.,X,X,b
+,c,rămane același.,,0,
+,d,"crește mai intai, apoi scade.",,0,
+FF231,,231. Cum numim reprezentarea grafică a relației dintre viteza de inaintare și viteza de infundare pe intregul interval de viteze al planorului?,,c,c
+,a,Emmagram.,,0,c
+,b,curba polară a profilului.,,0,c
+,c,curba polară a vitezelor.,X,X,c
+,d,Barogram.,,0,
+FF232,,232. Care este viteza parapantei la finețe maximă?,,c,c
+,a,"5,6 m / s (20 km / h)",,0,c
+,b,"7,2 m / s (26 km / h)",,0,c
+,c,"9,2 m / s (33 km / h)",X,X,c
+,d,"11,3 m / s (41 km / h)",,0,
+FF233,,233. Care este cea mai bună finețe a parapantei?,,c,c
+,a,3.7,,0,c
+,b,4.7,,0,c
+,c,5.3,X,X,c
+,d,6.8,,0,
+FF234,,234. Care este viteza corespunzătoare infundării minime a următoarei parapante?,,b,b
+,a,"5,6 m / s (20 km / h)",,0,b
+,b,"7,2 m / s (26 km / h)",X,X,b
+,c,"9,2 m / s (33 km / h)",,0,
+,d,"11,3 m / s (41 km / h)",,0,
+FF235,,235. Care este finețea parapantei dacă zboară la infundare minimă?,,c,c
+,a,"2,0",,0,c
+,b,"3,7",,0,c
+,c,"4,6",X,X,c
+,d,"5,3",,0,
+FF236,,236. Care este viteza minimă a următoarei parapante?,,b,b
+,a,"4,2 m / s (15 km / h)",,0,b
+,b,"5,6 m / s (20 km / h)",X,X,b
+,c,"7,2 m / s (26 km / h)",,0,
+,d,"9,2 m / s (33 km / h)",,0,
+FF237,,237. Care este finețea următoarei parapante dacă aceasta zboară la viteză minimă?,,a,a
+,a,"2,0",X,X,a
+,b,"3,7",,0,
+,c,"4,6",,0,
+,d,"5,3",,0,
+FF238,,238. Care este finețea următoarei parapante dacă aceasta zboară la viteză maximă?,,b,b
+,a,"2,0",,0,b
+,b,"3,7",X,X,b
+,c,"4,6",,0,
+,d,"5,3",,0,
+FF239,,239. La ce viteză ar trebui să zboare următoarea parapantă pentru a ajunge cat mai departe dacă are un vant de față de 8 m / s (29 km / h)?,,d,d
+,a,7 m / s (25 km / h),,0,d
+,b,9 m / s (32 km / h),,0,d
+,c,11 m / s (40 km / h),,0,d
+,d,"13,5 m / s (48 km / h)",X,X,d
+FF240,,240. Parapanta X are o finețe de 10 și parapanta Y are o finețe de 5. Care concluzii pot fi trase?,,c,c
+,a,Y are o viteză de infundare dublă față de aceea a lui X.,,0,c
+,b,Y are o viteză de infundare jumătate din cea a lui X.,,0,c
+,c,X zboară de două ori distanța pe care o zboară Y.,X,X,c
+,d,X zboară jumătate din distanța pe care o zboară Y.,,0,
+FF241,,241. O parapantă zboară intr-o zonă de descendență. Pentru a obține cea mai bună finețe acesta va zbura la,,d,d
+,a,viteza pentru cea mai bună finețe in aer calm.,,0,d
+,b,viteza pentru infundare minimă.,,0,d
+,c,media dintre viteza pentru cea mai bună finețe și viteza pentru infundare minimă.,,0,d
+,d, o viteză mai mare decât viteza pentru cea mai bună finețe în aer calm.,X,X,d
+FF242,,"242. Pentru a obține cea mai bună finețe in raport cu solul intr-un vant de față, o parapantă va zbura la",,d,d
+,a,viteza pentru cea mai bună finețe in aer calm.,,0,d
+,b,viteza pentru infundare minimă.,,0,d
+,c,media dintre viteza pentru cea mai bună finețe și viteza pentru infundare minimă.,,0,d
+,d,o viteză mai mare decât viteza pentru cea mai bună finețe în aer calm.,X,X,d
+FF243,,"243. O parapantă zboară la o viteză de 36 km / h (10m / s), iar viteza de infundare este de 1m / s. Parapanta intanește un curent descendent de aer de 1 m / s. Care este viteza de inaintare și viteza de infundare in acest curent?",,c,c
+,a,Viteza: 36km / h (10m / s); viteza de infundare: 1m / s,,0,c
+,b,Viteza: 18km / h (05m / s); viteza de infundare: 1m / s,,0,c
+,c,Viteza: 36km / h (10m / s); viteza de înfundare: 2m / s,X,X,c
+,d,"Viteza: 36km / h (10m / s); viteza de infundare: 0,5 m / s",,0,
+FF244,,"244. Un deltaplan zboară la o viteză de 36 km / h (10 m / s), cu o viteză de infundare de 1 m / s. El ajunge intr-o zonă de descendență in care aerul coboară cu 1 m / s. Ce se intamplă dacă planorul iși menține viteza?",,a,a
+,a,Finețea se va schimba de la 10 la 5.,X,X,a
+,b,Finețea va crește de la 5 la 10.,,0,
+,c,Viteza de infundare și finețea cresc.,,0,
+,d,Viteza de infundare și finețea scad.,,0,
+FF245,,245. O parapantă zboară la o viteză de 54 km / h (15m / s) și are o viteză de infundare de 2 m / s. Ea intalnește un vant de față de 18 km / h (5m / s). Care sunt viteza de infundare și viteza de inaintare in raport cu solul?,,d,d
+,a,"viteza de infundare: 2m / s, viteza la sol: 54 km / h (15m / s)",,0,d
+,b,"viteza de infundare: 3m / s, viteza la sol: 54 km / h (15m / s)",,0,d
+,c,"viteza de infundare: 2m / s, viteza la sol: 72 km / h (20m / s)",,0,d
+,d,"viteza de înfundare: 2m / s, viteza la sol: 36 km / h (10m / s)",X,X,d
+FF246,,246. O parapantă zboară la o viteză de 54 km / h (15m / s) și are o viteză de infundare de 2m / s. Ea intalnește un vant de față de 18 km / h (5m / s). Care va fi finețea?,,d,d
+,a,"10,0",,0,d
+,b,"6,0",,0,d
+,c,"7,5",,0,d
+,d,"5,0",X,X,d
+FF247,,"247. O parapantă zboară in aer calm, cu o finețe de 10 și o viteză de 43 km / h (aproximativ 12 m / s). Viteza de infundare este:",,b,b
+,a,"aproximativ 1,0 m / s.",,0,b
+,b,"aproximativ 1,2 m / s.",X,X,b
+,c,"aproximativ 1,5 m / s.",,0,
+,d,"aproximativ 1,8 m / s.",,0,
+FF248,,248. O parapantă zboară cu o finețe de 8. Dacaă parcurge o distanță de 1.600 de metri in aer calm cată altitudine va pierde?,,c,c
+,a,150 m,,0,c
+,b,180 m,,0,c
+,c,200 m,X,X,c
+,d,240 m,,0,
+FF249,,"249. O parapantă zboară cu o finețe de 9 in aer calm, cu o viteză de infundare de 1m / s. Care este viteza sa de inaintare?",,d,d
+,a,"43,2 km / h (12 m / s)",,0,d
+,b,"39,6 km / h (11 m / s)",,0,d
+,c,"36,0 km / h (10 m / s)",,0,d
+,d,"32,4 km / h (9 m / s)",X,X,d
+FF250,,"250. O parapantă zboară cu o viteză de 32,4 km / h (9m / s) in aer calm cu o viteză de infundare de 1,5 m / s. Care este finețea?",,b,b
+,a,"5,5",,0,b
+,b,"6,0",X,X,b
+,c,"6,5",,0,
+,d,"7,0",,0,
+FF251,,251. Viteza de zbor pentru infundare minimă este,,d,d
+,a,"puțin mai mică intr-un curent de aer ascendent și puțin mai mare intr-un curent de aer descendent, decat in aer calm.",,0,d
+,b,Puțin mai mare intr-un curent de aer ascendent și puțin mai mică intr-un curent de aer decat in aer calm.,,0,d
+,c,Puțin mai mică in curenții de aer ascendenți și descendențo decat in aer calm.,,0,d
+,d,Același lucru se întâmplă într-un curent de aer ascendent sau descendent ca în aer calm.,X,X,d
+FF252,,"252. Termenul de ""factor de incărcare"" definește",,c,c
+,a,incărcarea aripilor.,,0,c
+,b,capacitatea de incărcare suplimentară pe care producătorul a inclus-o pentru siguranță.,,0,c
+,c,relația dintre încărcarea reală a unui planor în zbor în comparație cu greutatea totală la sol.,X,X,c
+,d,relația dintre incărcarea minimă și maximă a unei parapante.,,0,
+FF253,,253. Greutatea totală a unui parapante (pilot și echipament) este de 100 kg. Intr-un viraj strans parapanta este supusă unei incărcării de 250 kg. Care este factorul de incărcare?,,b,b
+,a,"0,25 g",,0,b
+,b,"2,5 g",X,X,b
+,c,25 g,,0,
+,d,250 g,,0,
+FF254,,254. Ce se intamplă atunci cand o parapantă in zbor stabilizat intră intr-un viraj?,,b,b
+,a,Nu există schimbări in incărcarea aripii și viteza minimă.,,0,b
+,b,Încărcarea aripii și viteza minimă cresc.,X,X,b
+,c,Incărcarea aripii crește iar viteza minimă rămane aceeași.,,0,
+,d,Incărcarea aripii rămane aceeași și crește viteza minimă.,,0,

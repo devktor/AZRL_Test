@@ -1,0 +1,157 @@
+Column1,Column2,Column3,Column4
+E1,,Durata tipului de zbor: Deal Vale - DV in conditii de vant anabatic comparativ cu vant catabatic este:,
+,a,mai lunga pe anabatic,
+,b,mai scurta pe catabatic,X
+,c,la fel,
+E2,,Ce reguli de zbor se aplica categoriei de aeronave din care face parte parapanta:,
+,a,reguli de zbor IFR,
+,b,reguli de zbor VFR,X
+,c,c)VFR si IFR,
+E3,,La efectuarea informarii de zbor VFR in spatiul clasa G:,
+,a,"se comunica: locatia, inaltimea, persoana de contact, ora de incepere",X
+,b,"aveti obligatia de a respecta cerintele, limitarile si restrictiile aplicabile publicate",X
+,c,in spatiul aerian de clasa G nu este necesar autorizarea zborurilor,
+E4,,Cresterea vitezei fata de sol duce la:,
+,a,cresterea rezistentei la înaintare,
+,b,cresterea finetei,X
+,c,solicitarea mai mare a structurii aripii,
+E5,,La decolare este indicat sa se planifice o distanta de rezerva pentru alergare?,
+,a,"da, daca vantul este slab",X
+,b,"da, daca incarcarea aripii este mai mare",X
+,c,"nu, daca terenul are o inclinatie mica",
+E6,,Vântul influenteaza distanta de aterizare astfel:,
+,a,vântul de fata reduce distanta,X
+,b,vântul de fata mareste distanta,
+,c,vântul de spate reduce distanta,
+E7,,Aeronavele nemotorizate care zboara în spatiul aerian necontrolat sunt obligate sa respecte înaltimile minime de siguranta publicate în:,
+,a,AIP Romania,
+,b,RACR-RA,X
+,c,Zborurile VFR nu sunt supuse restrictilor referitoare la inaltimi minime.,
+E8,,Care sunt clasele de spatiu aerian în care sunt obligatorii comunicatiile radio pentru zborurile VFR:,
+,a,"A,",X
+,b,"C,",X
+,c,"G,",
+E9,,Cand nu este recomandat de a zbura in afara intervalului de greutate stabilit de producator:,
+,a,sub limita inferioara,
+,b,peste limita superioara,
+,c,niciodata,X
+E10,,Care sunt riscurile daca se zboara cu aripa uda,
+,a,"nici un risc, umezeala nu afecteaza performantele",
+,b,aripa se poate angaja,X
+,c,aripa nu-si mai revine din eventualele evolutii,X
+E11,,Prin efectuarea manevrei urechi mari este posibil sa:,
+,a,creasca unghiul de incidenta pana la unghiul critic de angajare,X
+,b,scada unghiul de incidenta si aripa va zbura mai rapid,
+,c,nu afecteze unghiul de incidenta,
+E12,,Prin actionarea acceleratorului se muta:,
+,a,centrul de greutate,
+,b,centrul de presiune,X
+,c,centrul geometric,
+E13,,Cand nu este recomandat a zbura cu aripa incarcata la limitele inferioare,
+,a,pe vant cu intensitate ridicata,
+,b,pe conditii cu turbulente accentuate,
+,c,pe nici una din conditiile de mai sus,X
+E14,,Daca forta portanta (Fz) este egala cu greutatea (G).,
+,a,se obtine zborul orizontal,X
+,b,se obtine viteza maxima,
+,c,se obtine finetea maxima fata de sol,X
+E15,,Viteza vantului este egal cu viteaza de trim a aripii,
+,a,la decolare aripa va decola in verticala,X
+,b,la aterizare va cobori in verticala,X
+,c,cu vant de spate vom obtine viteza dubla,X
+E16,,Finetea maxima obtinem fata de sol,
+,a,cu vant de fata,
+,b,cu vant de spate,X
+,c,prin incarcarea maxima a aripii,
+E17,,Care sunt factorii prin care se pot obtine performante mai bune de zbor,
+,a,parapanta,X
+,b,conditia meteo,X
+,c,pilotul,X
+E18,,De unde obtinem urmatoarea informatie: la ce viteaza si infundare se atinge finetea maxima fata de fileele de aer,
+,a,din polara aripii,X
+,b,din gps cu datele masurate fata de sol,
+,c,din manualul aripii,
+E19,,Care dintre urmatoarele factori influenteaza decolarea aeronavei:,
+,a,greutatea totala in zbor,X
+,b,directia si intensitatea vantului,X
+,c,panta decolarii,X
+E20,,Distante maxime in zbor pot fi atinse:,
+,a,cu vant de spate,X
+,b,cu vant de fata,
+,c,cu vant nul,
+E21,,O aripa incarcata spre limita maxima va avea distanta:,
+,a,mai mare de alergare la aterizare pe vant nul,X
+,b,mai mare de alergare pe vant de fata,
+,c,mai mare de alergare pe vant de spate,X
+E22,,"Cazul in care intensitatea vantului este mare, priza de aterizare se face:",X
+,a,mai aproape de punctul fix si cu vant de fata,X
+,b,de mai departe si cu vant de fata,
+,c,de mai aproape si cu vant de spate,
+E23,,Elementele planificarii zborului sunt:,
+,a,"Verificarea disponibilitatii spatiului aerian, eventualele restrictii",X
+,b,informare de zbor,X
+,c,"conditiile meteo, alegerea locului de zbor",X
+E24,,Pentru selectarea rutei zborului se va tine cont de:,
+,a,"performantele aripii,",X
+,b,"meteo, relieful",X
+,c,spatiul aerian,X
+E25,,"In spatiul aerian de clasa G, Autorizarea ATC:",
+,a,este obligatorie pentru zborurile VFR,
+,b,nu este obligatorie pentru zborurile VFR,X
+,c,este obligatorie pentru zborurile IFR,
+E26,,In Spatiul aerian de clasa G,
+,a,este obligatoriu comunicare radio pentru zborurile VFR,
+,b,nu este obligatorie comunicatiile radio pentru zborurile VFR,X
+,c,zborurile IFR nu sunt permise,
+E27,,Aeronavele ultrausoare clasa parapanta fara comunicare radio pot zbura in spatiul aerian de clasa,
+,a,G,X
+,b,C,
+,c,A,
+E28,,28.Informatiile necesare pentru a efectua o informare de zbor sunt:,
+,a,"nume, prenume, ora inceperii, nr de parapante, locatia, inaltimea, nr de telefon,",X
+,b,"nume, prenume, nr de parapante, locatia, inaltimea, nr de telefon,",
+,c,"nume, prenume, ora inceperii, locatia, inaltimea, nr de telefon,",
+E29,,"Planificarea, respectiv efectuarea zborului este influentata de:",
+,a,ploaie,X
+,b,ceata,X
+,c,turbulenta puternica,X
+E30,,Pentru decolare se va alege o panta care sa îndeplineasca urmatoarele condi?ii:,
+,a,vântul sa fie de fa?a,X
+,b,între locul de decolare ?i aterizare sa nu fie obstacole ,
+,c,de la locul de decolare sa se vada locul de aterizare,
+E31,,La intrarea în termica:,
+,a,parapanta va avea unghi de inciden?a mic,X
+,b,se va frîna parapanta cât mai mult,
+,c,aripa ramîne în spatele pilotului,X
+E32,,Manevra de spirala poate fi periculoasa deoarece:,
+,a,datorita fortei centrifuge mari parapanta se poate rupe,X
+,b,pilotul poate sa le?ine,X
+,c,parapanta se poate angaja,
+E33,,În cazul în care doua aparate de zbor se întâlnesc se vor ocoli:,
+,a,prin stânga,
+,b,prin dreapta,X
+,c,ambii pilo?i vor reduce viteza,
+E34,,Aterizarea pe o panta cu înclina?ie mare in situa?ia în care vîntul bate perfect de fa?a se va face:,
+,a,în contrapanta ,
+,b,paralel cu panta,
+,c,cu vânt de fa?a,X
+E35,,Aripile care sunt recomandate unui elev pilot fara experien?a de zbor cu parapanta sunt cele care au omologarea:,
+,a,LTF 1,X
+,b,LTF 2,
+,c,LTF 3,
+E36,,Când calculam încarcarea voalurii luam în calcul:,
+,a,greutatea parapantei,X
+,b,greutatea pilotului,X
+,c,greutatea seletei,X
+E37,,Zborul cu parapanta în nor:,
+,a,este permis doar daca norii nu au dezvoltare pe verticala,
+,b,nu este permis,X
+,c,este permis în cazul norilor de tip cumulus,
+E38,,Modificarea unghiului de inciden?a la o parapanta se poate face prin:,
+,a,prin sistemul de speed,X
+,b,nu este posibil ,
+,c,prin trimere,X
+E39,,Viteza maxima de zbor a unei parapante poate fi influen?ata de:,
+,a,forma ?i marimea seletei,X
+,b,greutatea pilotului,X
+,c,nu poate fi influen?at,

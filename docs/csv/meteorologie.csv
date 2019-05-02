@@ -1,0 +1,1540 @@
+Column1,Column2,Column3,Column4,,
+CC60,,60. Aerul este un amestec de diferite gaze. Cele mai importante gaze și proporțiile lor sunt,,b,b
+,a,aproximativ 78% oxigen și 21% azot.,,0,b
+,b,aproximativ 78% azot și 21% oxigen.,X,X,b
+,c,aproximativ 78% dioxid de carbon și 21% oxigen.,,0,
+,d,aproximativ 78% oxigen și 21% dioxid de carbon.,,0,
+CC61,,61. Cum variază temperatura aerului în troposferă cu creșterea altitudinii?,,d,d
+,a,"Scade liniar cu 0,65°C/100m până la tropopauză.",,0,d
+,b,Scade liniar cu 1°C/100m până la tropopauză.,,0,d
+,c,"Scade, nu liniar, dar depinzând de straturile de aer variază între 0,1°C și 1,2°C.",,0,d
+,d,"Depinzând de stratul de aer poate scădea, rămâne la fel sau crește, dar înmedie scade cu 0,65°C/100m.",X,X,d
+CC62,,"62. Pentru a se asigura că toți utilizatorii spațiului aerian au altimetrele reglate la fel, atmosfera a fost standardizată. Care sunt valorile pentru atmosfera standard în regiunea troposferei? Presiunea la nivelul mării și temperatura/gradientul termic",,d,d
+,a,"1033,6 hPa 15°C 1°C/100m",,0,d
+,b,"1013,2 hPa 15°C 0.65°C/100m",,0,d
+,c,"033,6 hPa 15°C 0,5°C/100m",,0,d
+,d,"1013,2 hPa 15°C 1°C/100m",X,X,d
+CC63,,63. Altitudinea medie a tropopauzei la latitudinea noastră este,,c,c
+,a,4.000 m deasupra nivelului mării.,,0,c
+,b,5.500 m deasupra nivelului mării.,,0,c
+,c,11.000 m deasupra nivelului mării.,X,X,c
+,d,50.000 m deasupra nivelului mării.,,0,
+CC64,,64. Presiune aerului rezultă din,,d,d
+,a,rotația pământului.,,0,d
+,b,polii magnetici.,,0,d
+,c,particulele de apă și de praf ce plutesc în aer.,,0,d
+,d,gravitație.,X,X,d
+CC65,,65. Cum variază presiunea aerului o dată cu creșterea altitudinii?,,c,c
+,a,Se reduce la jumătate până la tropopauză și după aceea rămâne constant.,,0,c
+,b,Se reduce cu aproximativ 80hPa / 100m de altitudine.,,0,c
+,c,Se reduce cu jumătate la aproximativ fiecare 5.500 m de altitudine.,X,X,c
+,d,Se reduce cu jumătate la aproximativ fiecare 11.000 m de altitudine.,,0,
+CC66,,66. Care este presiunea medie de la nivelul măriii (atmosfera standard) folosită de meteorologiști?,,a,a
+,a,"1013,2 hPa",X,X,a
+,b,"1033,6 hPa",,0,
+,c,"760,0 hPa",,0,
+,d,"998,7 hPa",,0,
+CC67,,67. Presiunea la nivelul mării,,d,d
+,a,este întotdeauna constantă.,,0,d
+,b,poate în cazuri mai rare să crească față de medie.,,0,d
+,c,poate în cazuri mai rare să scadă față de medie.,,0,d
+,d,d)poate fi mai mare sau mai mică față de valoarea medie depinzând de situația vremii.,X,X,d
+CC68,,68. Presiunea intr-un punct dat la nivelul mării depinde de,,b,b
+,a,maree.,,0,b
+,b,circulația globală a aerului.,X,X,b
+,c,caracteristicile suprafeței.,,0,
+,d,longitudine.,,0,
+CC69,,69. Barometrul arată o presiune de 980 hPa la nivelul mării. Care este cea mai probabilă presiune la o altitudine de 5.500 mdeasupra nivelului mări?,,d,d
+,a,1035 hPa,,0,d
+,b,980 hPa,,0,d
+,c,650 hPa,,0,d
+,d,490 hPa,X,X,d
+CC70,,70. Un copil elibereaza un balon cu volum aproximativ de 5 dm3 la nivelul mării. Care este volumul aproximativ al balonului când ajunge la altitudinea de 5.500 m deasupra nivelului mării.,,c,c
+,a,"2,5 dm3",,0,c
+,b,5 dm3,,0,c
+,c,10 dm3,X,X,c
+,d,20 dm3,,0,
+CC71,,71. Care este partea atmosferei unde condițiile meteorologice ne determină vremea?,,d,d
+,a,Ionosfera,,0,d
+,b,Mezosfera,,0,d
+,c,Stratosfera,,0,d
+,d,Troposfera,X,X,d
+CC72,,72. Temperatura stratului de aer de lângă sol este influențată cel mai mult de,,a,a
+,a,temperatura solului.,X,X,a
+,b,acțiunea radiației solare supra particulelor de aer.,,0,
+,c,umiditatea relativă a aerului.,,0,
+,d,unghiul de incidență a razelor solare asupra particulelor de aer.,,0,
+CC73,,"73. Pentru aceeași intensitate și unghi de incidență a razelor solare, care din următoarele tipuri de sol încălzește cel mai mult stratul de aer adiacent?",,d,d
+,a,Solul pietros.,,0,d
+,b,Pădure tânără.,,0,d
+,c,O mlaștină.,,0,d
+,d,Pășune uscată.,X,X,d
+CC74,,74. La aceeași altitudine deasupra nivelului mării,,c,c
+,a,aerul cald e mai dens decât aerul rece.,,0,c
+,b,aerul cald are aceeași densitate ca aerul rece.,,0,c
+,c,aerul cald e mai puțin dens ca aerul rece.,X,X,c
+,d,densitatea aerului depinde de gradientul adiabatic.,,0,
+CC75,,75. Cum variază temperatura unei bule de aer pe măsură ce se ridică de la sol fără a creea un nor?,,c,c
+,a,Temperatura crește cu aproximativ 0.5°C /100m pentru că radiația solară devine tot mai intensă.,,0,c
+,b,"Nu se poate determina, pentru că temperatura se egalizează cu cea a aerului din jur.c) Temperatura se reduce cu aproximativ 0.65°C /100m, cum de fapt e cazul în toată troposfera.",,0,c
+,c,Temperatura se reduce cu aproximativ 1°C /100m pentru că presiunea se reduce o dată cu creșterea altitudinii.,X,X,c
+CC76,,76. Cum variază temperatura unei bule de aer care urcă?,,a,a
+,a,Pentru că presiunea scade o dată cu creșterea altitudinii rezultă extinderea bulei și pierdere de energie sub formă de căldură.,X,X,a
+,b,"Bula se va răci pentru că s-a îndepărtat de sursa de căldură, adică suprafata solului.",,0,
+,c,"Pentru că unghiul radiației solare se reduce o dată cu creșterea altitudinii, deci bula de aer primește mai puțină căldură de cât la nivelul solului.",,0,
+,d,"Din cauză că bula de aer trebuie să evapore apă pe măsură ce urcă, există o relație între creșterea altitudinii și reducerea temperaturii.",,0,
+CC77,,77. Cum variază volumul și temperatura unei mase de aer care coboară?,,c,c
+,a,"Volumul crește, temperatura scade.",,0,c
+,b,"Volumul crește, temperatura crește.",,0,c
+,c,"Volumul scade, temperatura crește.",X,X,c
+,d,"Volumul scade, temperatura scade.",,0,
+CC78,,78. Care este principalul mod de încălzire în timpul zilei a unei mase de aer la 100m deasupra solului?,,a,a
+,a,Aerul adiacent solului se încălzește și urcă în timp ce aerul de la altitudine coboară la sol unde este încălzit.,X,X,a
+,b,"Radiația UV solară este absorbită de sol iar spectrul infraroșu este reflectat de sol, încălzind aerul mai mult sau mai puțin, proporțional cu distanța de la suprafața solului.",,0,
+,c,"Radiația solară încarcă particulele de aer cu energie (ionizare), care este ulterior eliberată bub formă de căldură.",,0,
+,d,"Stratul de aer adiacent solului se încălzește și, fiind un bun conductor termic,transferă căldura straturilor superioare de aer.",,0,
+CC79,,"79. În medie temperatura din troposferă se reduce o dată cu creșterea altitudinii. Totuși, se poate întâmpla ca în anumite zone temperatura să crească. Cum se numește acest fenomen?",,d,d
+,a,Superadiabatic,,0,d
+,b,Izoterm,,0,d
+,c,Restitutie,,0,d
+,d,Inversiune,X,X,d
+CC80,,"80. În medie temperatura din troposferă se reduce o dată cu creșterea altitudinii. Totuși, se poate întâmpla ca în anumite zone temperatura să rămănă constantă. Cum se numește acest fenomen?",,b,b
+,a,Superadiabatic,,0,b
+,b,Izotermă,X,X,b
+,c,Restituție,,0,
+,d,Inversiune,,0,
+CC81,,"81. O bulă de aer se încălzește, se desprinde de sol și începe să se ridice. Cât de sus se poate ridica bula?",,c,c
+,a,Până se reduce transferul de căldură de la sol.,,0,c
+,b,Până când presiunea bulei este mai mică de cât cea a aerului din jur.,,0,c
+,c,Până când diferența dintre temperatura ei si a aerului din jur se reduce la 0.,X,X,c
+,d,Până când diferența dintre temperatura ei și punctul de rouă se reduce la 0.,,0,
+CC82,,82. O inversiune este un strat de aer în care temperatura,,b,b
+,a,scade o dată cu creșterea altitudinii.,,0,b
+,b,crește o dată cu creșterea altitudinii.,X,X,b
+,c,este deasupra nivelului de îngheț.,,0,
+,d,este constantă.,,0,
+CC83,,83. O izotermă este un strat de aer în care temperatura,,d,d
+,a,scade o dată cu creșterea altitudinii.,,0,d
+,b,crește o dată cu creșterea altitudinii.,,0,d
+,c,este deasupra nivelului de îngheț.,,0,d
+,d,este constantă.,X,X,d
+CC84,,84. Inversiunile și izotermele sunt,,d,d
+,a,puncte de origine și declanșare ale aerului termic care urcă.,,0,d
+,b,elemente instabile stratificate ale troposferei.,,0,d
+,c,stabile sau instabile depinzând de temperatură.,,0,d
+,d,bariere pentru masele de aer termic care urcă.,X,X,d
+CC85,,85. Gradientul de temperatură este definit ca fiind,,d,d
+,a,diferența de altitudine per °C într-o masă de aer.,,0,d
+,b,diferența de presiune per km între două puncte geografice diferite.,,0,d
+,c,unitatea de măsură a temperaturii.,,0,d
+,d,diferența de temperatură pentru o creștere de 100 m a altitudinii.,X,X,d
+CC86,,86. Gradientul temperaturii unui strat izotermic este,,a,a
+,a,0°C / 100m,X,X,a
+,b,0.5°C / 100m,,0,
+,c,0.65°C / 100m,,0,
+,d,1°C / 100m,,0,
+CC87,,87. Unde găsim de obicei o inversiune?,,b,b
+,a,La baza norilor cumulus.,,0,b
+,b,La granița dintre un strat de aer cețos de la sol și un strat de aer clar de la altitudine.,X,X,b
+,c,Unde este o diferență temperatură-punct de rouă de 0.,,0,
+,d,Deasupra unei convergențe.,,0,
+CC88,,88. Care din următoarele semne indică prezența unei inversiuni?,,c,c
+,a,Un nor cumulus.,,0,c
+,b,Un nor lenticular.,,0,c
+,c,Un strat de ceață.,X,X,c
+,d,Un nor cirus.,,0,
+CC89,,89. Care din următoarele sondaje de temperatură măsurate la ora 02:00 indică prezența unei inversiuni la altitudine.,,c,c
+,a,1,,0,c
+,b,2,,0,c
+,c,3,X,X,c
+,d,4,,0,
+CC90,,90. Care din următoarele sondaje de temperatură măsurate la ora 02:00 indică prezența unei inversiuni la nivelul solului.,,a,a
+,a,1,X,X,a
+,b,2,,0,
+,c,3,,0,
+,d,4,,0,
+CC91,,91. Care din următoarele sondaje de temperatură măsurate la ora 02:00 indică prezența unei zoterme.,,d,d
+,a,1,,0,d
+,b,2,,0,d
+,c,3,,0,d
+,d,4,X,X,d
+CC92,,92. Ce presupune condensarea?,,c,c
+,a,Trecerea din stare lichidă în stare solidă.,,0,c
+,b,Trecerea din stare lichidă în stare gazoasă.,,0,c
+,c,Trecerea din stare gazoasă în stare lichidă.,X,X,c
+,d,Trecerea din stare gazoasă în stare solidă.,,0,
+CC93,,93. Care din următoarele schimbări de stare necesită energie sub formă de căldură?,,b,b
+,a,Trecerea din stare lichidă în stare solidă.,,0,b
+,b,Trecerea din stare solidă în stare lichidă.,X,X,b
+,c,Trecerea din stare gazoasă în stare lichidă.,,0,
+,d,Trecerea din stare gazoasă în stare solidă.,,0,
+CC94,,94. Care din următoarele schimbări de stare necesită energie sub formă de căldură?,,d,d
+,a,Trecerea din stare lichidă în stare solidă.,,0,d
+,b,Trecerea din stare gazoasă în stare lichidă.,,0,d
+,c,Trecerea din stare gazoasă în stare solidă.,,0,d
+,d,Trecerea din stare lichidă în stare gazoasă.,X,X,d
+CC95,,95. Care din următoarele schimbări de stare cedează energie sub formă de căldură?,,c,c
+,a,Trecerea din stare lichidă în stare gazoasă.,,0,c
+,b,Trecerea din stare solidă în stare gazoasă.,,0,c
+,c,Trecerea din stare gazoasă în stare lichidă.,X,X,c
+,d,Trecerea din stare solidă în stare lichidă.,,0,
+CC96,,96. Care din următoarele schimbări de stare cedează energie sub formă de căldură?,,a,a
+,a,Trecerea din stare lichidă în stare solidă.,X,X,a
+,b,Trecerea din stare solidă în stare gazoasă.,,0,
+,c,Trecerea din stare lichidă în stare gazoasă.,,0,
+,d,Trecerea din stare solidă în stare lichidă.,,0,
+CC97,,97. Care din următoarele schimbări de stare cedează energie sub formă de căldură?,,d,d
+,a,Trecerea din stare lichidă în stare gazoasă.,,0,d
+,b,Trecerea din stare solidă în stare gazoasă.,,0,d
+,c,Trecerea din stare solidă în stare lichidă.,,0,d
+,d,Trecerea din stare gazoasă în stare solidă.,X,X,d
+CC98,,98. Termenul de ”punct de rouă” este definit în meteorologie ca fiind,,b,b
+,a,temperatura specifică substanței la care se face trecere din stare solidă în stare lichidă.,,0,b
+,b,temperatura la care trebuie răcit aerul ca vaporii de apă să îceapă să condenseze.,X,X,b
+,c,cantitatea de umiditate din aer când este atinsă temperatura de condensare.,,0,
+,d,temperatura radiației solului de pe timpul nopții necesară ca să apară condensarea pe solul rece.,,0,
+CC99,,99. Cât de mare este gradientul temperaturii al aerului saturat (umed) în România în nivelele joase ale troposferei?,,a,a
+,a,< 1°C / 100 m,X,X,a
+,b,"1,0°C / 100 m",,0,
+,c,"1,5°C / 100 m",,0,
+,d,> 2°C / 100 m,,0,
+CC100,,100. Ce are cea mai mare influență asupra gradientului temperaturii aerului saturat (umed) în timp ce acesta se ridică?,,b,b
+,a,Umiditatea relativă.,,0,b
+,b,Volumul de vapori care condendează.,X,X,b
+,c,Diferența temperaturii bulei și temperaturii aerului din jur.,,0,
+,d,Intensitatea radiației solare.,,0,
+CC101,,101. De ce aerul saturat (umed) care se ridică se răcește mai lent dacât aerul nesaturat (uscat) care se ridică.,,c,c
+,a,Pentru că apa se răcește mai lent de cât aerul.,,0,c
+,b,"Pentru că aerul saturat (umed) se ridică mai repede , răcirea este ușor întârziată.",,0,c
+,c,Pentru că energia eliberată prin condensare influențează masa de aer care se ridică.,X,X,c
+,d,"Pentru că vaporii de apă sunt mai ușori ca aerul, prin urmare aerul saturat (umed) care se ridică are nevoie de mai puțină energie sub formă de căldură.",,0,
+CC102,,102. Ce formă de nor este un semn de termici bune?,,b,b
+,a,Cirrus,,0,b
+,b,Cumulus,X,X,b
+,c,Stratus,,0,
+,d,Lenticular,,0,
+CC103,,103. Apariția norilor altocumulus castellanus la două ore după răsărit indică,,a,a
+,a,un strat instabil de aer la înălțimea norilor.,X,X,a
+,b,apropierea unui front cald.,,0,
+,c,centrul unui anticiclon.,,0,
+,d,o regiune mare de stabilitate în straturile de jos ale troposferei.,,0,
+CC104,,104. Vreme însorită la altitudini mai mari cu ceață la altitudine mică în același timp înseamnă,,d,d
+,a,un nivel mic de stabilitate în partea de jos a troposferei.,,0,d
+,b,un front rece care se apropie.,,0,d
+,c,centrul unu ciclon.,,0,d
+,d,un nivel mare de stabilitate în partea de jos a troposferei.,X,X,d
+CC105,,105. Pentru care din următoarele condiții meteorologice este cea mai probabilă formarea ceții la sol (ceață de radiație)?,,c,c
+,a,"Cer acoperit, vânt zero, diferență mică temperatură-punct de rouă.",,0,c
+,b,"Cer senin, vânt zero, diferență mare temperatură-punct de rouă.",,0,c
+,c,"Cer senin, vânt zero, diferență mică temperatură-punct de rouă.",X,X,c
+,d,"Cer senin, vânt 270° 10m/s, diferență mică temperatură-punct de rouă.",,0,
+CC106,,106. Norii se formează când,,c,c
+,a,se evaporă mari cantități de apă (de exemplu peste ocean).,,0,c
+,b,aerul cald continental este împins peste ocean.,,0,c
+,c,aerul este răcit pânâ atinge punctul de rouă.,X,X,c
+,d,aerul care se ridică este oprit de o inversiune.,,0,
+CC107,,107. Baza norului este,,a,a
+,a,nivelul de jos al norului și este la înălțimea la care temperatura aerului care urcă atinge punctul de rouă.,X,X,a
+,b,nivelul de sus al norului și este la înălțimea la care temperatura aerului care urcă atinge temperatura aerului din jur.,,0,
+,c,nivelul de jos al norului și este la înălțimea la care temperatura aerului care urcă atinge temperatura aerului din jur.,,0,
+,d,nivelul de sus al norului și este la înălțimea la care temperatura aerului care urcă atinge punctul de rouă.,,0,
+CC108,,108. Cum se numește stratul de nori care acoperă cerul și are o altitudine de 4.000 m?,,d,d
+,a,Cirostratus,,0,d
+,b,Altocumulus,,0,d
+,c,Nimbostratus,,0,d
+,d,Altostratus,X,X,d
+CC109,,109. Cum se numesc norii care au formă de mici aglomerații cu baza la o altitudine de 4.500 m?,,b,b
+,a,Cirostratus,,0,b
+,b,Altocumulus,X,X,b
+,c,Nimbostratus,,0,
+,d,Altostratus,,0,
+CC110,,"110. Cum se numește stratul de nori care acoperă cerul, are o altitudine de 1.000 m și generează precipitații?",,c,c
+,a,Cirostratus,,0,c
+,b,Cumulonimbus,,0,c
+,c,Nimbostratus,X,X,c
+,d,Altostratus,,0,
+CC111,,111. Care din următoarele tipuri de nori are baza cel mai sus?,,b,b
+,a,Cumulus,,0,b
+,b,Cirocumulus,X,X,b
+,c,Stratocumulus,,0,
+,d,Cumulonimbus,,0,
+CC112,,112. Care din următorii nori nu au partea de sus la același nivel cu ceilalți?,,c,c
+,a,Cirrus,,0,c
+,b,Cirocumulus,,0,c
+,c,Cumulus humilis,X,X,c
+,d,Cirostratus,,0,
+CC113,,113. Cum se numește tipul de nori care generează precipitații?,,d,d
+,a,Cirostratus,,0,d
+,b,Stratocumulus,,0,d
+,c,Cumulus humilis,,0,d
+,d,Nimbostratus,X,X,d
+CC114,,114. Care din următorii nori sunt formați în principal din cristale de gheață?,,a,a
+,a,Cirocumulus,X,X,a
+,b,Stratocumulus,,0,
+,c,Cumulus humilis,,0,
+,d,Nimbostratus,,0,
+CC115,,115. Care din următoarele tipuri de nori indică prezența termicilor bune pentru zborul cu parapanta și deltaplanul?,,c,c
+,a,Cirocumulus,,0,c
+,b,Cumulonimbus,,0,c
+,c,Cumulus humilis,X,X,c
+,d,Lenticularis,,0,
+CC116,,116. În apropierea cărui tip de nori este periculos zborul cu parapanta și deltaplanul?,,b,b
+,a,Cirocumulus,,0,b
+,b,Cumulonimbus,X,X,b
+,c,Cumulus humilis,,0,
+,d,Stratocumulus,,0,
+CC117,,117. Norii lenticulari apar când,,a,a
+,a,masa de aer curge peste un teren muntos cu viteză mare.,X,X,a
+,b,termicile puternice se ridică și se răcesc urmărind adiabata uscată.,,0,
+,c,aer instabil de la sufrafață se ridică repede.,,0,
+,d,termicile puternice cauzează un efect de foehn.,,0,
+CC118,,118. Norii lenticulari,,c,c
+,a,"sunt formați exclusiv din apă, niciodată din gheață.",,0,c
+,b,apar în România numai pe timpul iernii.,,0,c
+,c,își schimbă foarte puțin poziția în ciuda vânturilor puternice.,X,X,c
+,d,generează precipitații.,,0,
+CC119,,119. Care din următoarele sunt semne vizibile din depărtare că un cumulus congestius sau cumlonimbus generează precipitații?,,a,a
+,a,"O perdea gri care atârnă sub nor, orientată spre sol.",X,X,a
+,b,Dezvoltarea pe verticală a norului este mai mare de cât cea pe orizontală.,,0,
+,c,Urme fibroase de condensare între baza norului și sol.,,0,
+,d,Baza norului are culoarea neagră.,,0,
+CC120,,120. De îndată ce precipitațiile sunt vizibile sub un nor cumulus congestus sau cumulonimbus,,b,b
+,a,ei devin inofensivi pentru parapantele din zona pentru că se află într-o stare de disipare.,,0,b
+,b,aerul va fi răcit de evaporarea apei și vor apărea local vânturi puternice și rafaloase.,X,X,b
+,c,înseamnă că sub norl nu mai este termică.,,0,
+,d,vor apărea întotdeuna și descărcările electrice.,,0,
+CC121,,121. Care din următoarele afirmații este falsă?,,b,b
+,a,Norii cumulus congestus și cumulonimbus pot produce curenți ascendenți sau descendenți cu rafale de peste 30 m/s.,,0,b
+,b,Apariția norilor cumulus congestus și cumulonimbus duce întotdeauna la căderi de grindină.,X,X,b
+,c,Norii cumulonimbus pot produce bucați de grindină de mărimea pumnului.,,0,
+,d,"Norii cumulus congestus și cumulonimbus pot produce, prin evaporare, mari volume de aer rece care se înfundă cu viteze mari până la sol în zonele din jurul norului.",,0,
+CC122,,122. de la nivelul mării nu e întotdeauna la fel,,a,a
+,a,"pentru că sunt variații de temperatură pe suprafațata pământului care răcesc sau încălzesc aerul, cauzând schimbări în densitatea aerului.",X,X,a
+,b,pentru că masele de aer oceanice sunt mai umede și deci mai grele de cât masele de aer continentaleși deci produc o presiune atmosferică mai mare.â,,0,
+,c,pentru că masele de aer continentale sunt mai uscate și deci mai grele de cât cele oceanice și produc o presiune mai mare.,,0,
+,d,pentru că presiunea scade o dată cu cresterea vitezei fluxului de aer și vice versa.,,0,
+CC123,,123. O presiunea atmosferică mărită poate fi întâlnită într-o zonă care,,b,b
+,a,"este mai uscată decât zonele învecinate, pentru o perioadă mai lungă.",,0,b
+,b,"este mai rece decât zonele învecinate, pentru o perioadă mai lungă.",X,X,b
+,c,"primește radiație solară mai intensă decât zonele învecinate, pentru o perioadă mai lungă.",,0,
+,d,"este mai caldă decât zonele învecinate, pentru o perioadă mai lungă.",,0,
+CC124,,124. O presiunea atmosferică mai mică poate fi întâlnită într-o zonă care,,d,d
+,a,"este mai uscată decât zonele învecinate, pentru o perioadă mai lungă.",,0,d
+,b,"este mai rece decât zonele învecinate, pentru o perioadă mai lungă.",,0,d
+,c,"primește radiație solară mai puțin intensă decât zonele învecinate, pentru o perioadă mai lungă.",,0,d
+,d,"este mai caldă decât zonele învecinate, pentru o perioadă mai lungă.",X,X,d
+CC125,,"125. În regiunea noastră, presiunea atmosferică la nivelul mării al unui ciclon însemnat poate fi",,c,c
+,a,1.035 hPa,,0,c
+,b,1.055 hPa,,0,c
+,c,955 hPa,X,X,c
+,d,915 hPa,,0,
+CC126,,"126. În regiunea noastră, presiunea atmosferică la nivelul mării al unui anticiclonciclon însemnat poate fi",,a,a
+,a,1.035 hPa,X,X,a
+,b,1.055 hPa,,0,
+,c,955 hPa,,0,
+,d,915 hPa,,0,
+CC127,,127. Într-un ciclon în emisfera nordică,,b,b
+,a,masele de aer se învârt în sensul acelor de ceasornic și se înfundă pe o zonă mare.,,0,b
+,b,masele de aer se învârt invers sensului acelor de ceasornic și se ridică pe o zonă mare.,X,X,b
+,c,masele de aer se învârt în sensul acelor de ceasornic și se ridică pe o zonă mare.,,0,
+,d,masele de aer se învârt invers sensului acelor de ceasornic și se înfundă pe o zonă mare.,,0,
+CC128,,128. Într-un anticiclon în emisfera nordică,,a,a
+,a,masele de aer se învârt în sensul acelor de ceasornic și se înfundă pe o zonă mare.,X,X,a
+,b,masele de aer se învârt invers sensului acelor de ceasornic și se ridică pe o zonă mare.,,0,
+,c,masele de aer se învârt în sensul acelor de ceasornic și se ridică pe o zonă mare.,,0,
+,d,masele de aer se învârt invers sensului acelor de ceasornic și se înfundă pe o zonă mare.,,0,
+CC129,,129. O izobară este o linie care unește punctele care,,b,b
+,a,au aceeași temperatură redusă la nivelul mării.,,0,b
+,b,au aceeași presiune redusă la nivelul mării.,X,X,b
+,c,au aceeași înălțime cu o presiune de 500 hPa.,,0,
+,d,au presiune egală pe exa dintre ciclon și anticiclon.,,0,
+CC130,,130. Din distribuția izobarelor pe harta sinoptică se pot face următoarele previziuni,,c,c
+,a,direcția predominantă a vântului și tendința de precipitații.,,0,c
+,b,gradientul temperaturii și intensitatea vântului.,,0,c
+,c,direcția și intensitatea predominantă avantlui.,X,X,c
+,d,tendința de precipitații.,,0,
+CC131,,131. Vântul de suprafață bate,,b,b
+,a,direct de la anticiclon spre ciclon.,,0,b
+,b,aproape paralel cu izobarele de la anticiclon spre ciclon.,X,X,b
+,c,direct de la.,,0,
+,d,aproape paralel cu izobarele de la ciclon spre anticiclon.,,0,
+CC132,,"132. Când distanța dintre izobare este mică,",,c,c
+,a,gradientul presiunii este mai abrupt și este probabilitate mare de vânturi slabe.,,0,c
+,b,gradientul presiunii este mai plat și este probabilitate mare de vânturi slabe.,,0,c
+,c,gradientul presiunii este mai abrupt și este probabilitate mare de vânturi puternice.,X,X,c
+,d,gradientul presiunii este mai plat și este probabilitate mare de vânturi puternice.,,0,
+CC133,,"133. Când distanța dintre izobare este mare,",,b,b
+,a,gradientul presiunii este mai abrupt și este probabilitate mare de vânturi slabe.,,0,b
+,b,gradientul presiunii este mai plat și este probabilitate mare de vânturi slabe.,X,X,b
+,c,gradientul presiunii este mai abrupt și este probabilitate mare de vânturi puternice.,,0,
+,d,gradientul presiunii este mai plat și este probabilitate mare de vânturi puternice.,,0,
+CC134,,134. Termicele se dezvoltă cel mai bine,,d,d
+,a,"în centrul unui ciclon, unde masele de aer au tendința să se ridice sub influența acestuia.",,0,d
+,b,"unde gradientul presiunii este mai abrupt, și aerul rece este suflat în continu pe o suprafață încălzită, eliminând nevoia ca masele de aer termic să coboare din nou.",,0,d
+,c,"în centrul unui anticiclon, unde datorită cerului senin radiația solară este cea mai intensă.",,0,d
+,d,"unde gradientul presiunii este mai plat, aerul poate fi încălzit fără a fi agitat de vânt, și nu există inversiune.",X,X,d
+CC135,,135. Vântul care bate din direcția 135° este,,d,d
+,a,vânt nordvestic.,,0,d
+,b,vânt nordestic.,,0,d
+,c,vânt sudvestic.,,0,d
+,d,vânt sudestic.,X,X,d
+CC136,,136. Vântul din nordvest are ununghi de,,b,b
+,a,45°,,0,b
+,b,315°,X,X,b
+,c,225°,,0,
+,d,135°,,0,
+CC137,,137. Vântul care bate cu 25 kt are,,d,d
+,a,15 km/h,,0,d
+,b,25 km/h,,0,d
+,c,35 km/h,,0,d
+,d,45 km/h,X,X,d
+CC138,,138. Un vânt din 270°/10kt este,,d,d
+,a,vânt estic cu o intensitate de aproximativ 18 km/h.,,0,d
+,b,vânt vestic cu o intensitate de aproximativ 10 km/h.,,0,d
+,c,vânt estic cu o intensitate de aproximativ 10 km/h.,,0,d
+,d,vânt vestic cu o intensitate de aproximativ 18 km/h.,X,X,d
+CC139,,"139. Care din următoarele afirmații este în concordanță cu prognoza direcției și intensității vântului la 1.000 m altitudine. 1000 m: 070°/15kt, 2000 m: 080°/10kt, 3000 m: 230°/10 kt, 4000 m: 240°/10 kt",,d,d
+,a,"Vânt din sudvest, 28 km/h.",,0,d
+,b,"Vânt din nordest, 15 km/h.",,0,d
+,c,"Vânt din sudvest, 15 km/h.",,0,d
+,d,"Vânt din nordest, 28 km/h.",X,X,d
+CC140,,"140. Avem progoza direcției și intensității vântului pentru planoare: 070°/15kt, 2000 m: 080°/10kt, 3000 m: 230°/10 kt, 4000 m: 240°/10 kt La ce nivel este un vânt de forfecare sesizabil?",,b,b
+,a,Între 1.000m și 2.000m.,,0,b
+,b,Între 2.000m și 3.000m.,X,X,b
+,c,Între 3.000m și 4.000m.,,0,
+,d,Pe toate nivelele.,,0,
+CC141,,"141. Dacă comparăm vântul de suprață cu vântul de la 3.000 m ASL pe un teren plat, vântul de suprață este în general.",,b,b
+,a,mai puternic și mai turbulent.,,0,b
+,b,mai slab și mai turbulent.,X,X,b
+,c,mai puternic și mai puțin turbulent.,,0,
+,d,mai slab și mai puțin turbulent.,,0,
+CC142,,"142. Dacă comparăm vântul de suprață cu vântul de la 3.000 m ASL pe un teren plat, vântul de la 3.000 m ASL este în general",,c,c
+,a,mai puternic și mai turbulent.,,0,c
+,b,mai slab și mai turbulent.,,0,c
+,c,mai puternic și mai puțin turbulent.,X,X,c
+,d,mai slab și mai puțin turbulent.,,0,
+CC143,,143. Vântul de munte (catabatic) bate,,c,c
+,a,în timpul zileli și la vale (în jos).,,0,c
+,b,în timpul zileli și la deal (înspre munți).,,0,c
+,c,în timpul nopții și la vale (în jos).,X,X,c
+,d,în timpul nopții și la deal (înspre munți).,,0,
+CC144,,144. Vântul de vale (anabatic) bate,,b,b
+,a,în timpul zileli și la vale (în jos).,,0,b
+,b,în timpul zileli și la deal (înspre munți).,X,X,b
+,c,în timpul nopții și la vale (în jos).,,0,
+,d,în timpul nopții și la deal (înspre munți).,,0,
+CC145,,"145. Când este vânt de vale, putem gâsi termicile",,b,b
+,a,în general pe mijlocul văii.,,0,b
+,b,în general pe partea de sus a fețelor văii.,X,X,b
+,c,pe mijlocul văii cât și pe partea de sus a fețelor văii.,,0,
+,d,nu pe mijlocul văii și nici pe partea de sus a fețelor văii.,,0,
+CC146,,"146. Când este vânt de munte, putem gâsi termicile",,a,a
+,a,în general pe mijlocul văii.,X,X,a
+,b,în general pe partea de sus a fețelor văii.,,0,
+,c,pe mijlocul văii cât și pe partea de sus a fețelor văii.,,0,
+,d,nu pe mijlocul văii și nici pe partea de sus a fețelor văii.,,0,
+CC147,,147. Vântul de vale se creează din cauză că aerul,,d,d
+,a,se încălzește mai repede în vale decât în munți în timpul zilei.,,0,d
+,b,se răcește mai repede în munți de cât în vale când slăbește radiația solară.,,0,d
+,c,se răcește mai repede în vale de cât în munți când slăbește radiația solară.,,0,d
+,d,se încălzește mai repede în munți decât în vale în timpul zilei.,X,X,d
+CC148,,148. Vântul de munte se creează din cauză că aerul,,b,b
+,a,se încălzește mai repede în vale decât în munți în timpul zilei.,,0,b
+,b,se răcește mai repede în munți de cât în vale când slăbește radiația solară.,X,X,b
+,c,se răcește mai repede în vale de cât în munți când slăbește radiația solară.,,0,
+,d,se încălzește mai repede în munți decât în vale în timpul zilei.,,0,
+CC149,,149. Aproximativ de la ce oră este probabil vântul de vale în munții Carpați?,,b,b
+,a,ora 08:00,,0,b
+,b,ora 11:00,X,X,b
+,c,ora 18:00,,0,
+,d,ora 22:00,,0,
+CC150,,150. Aproximativ de la ce oră este probabil vântul de munte în munții Carpați?,,c,c
+,a,ora 08:00am,,0,c
+,b,ora 11:00am,,0,c
+,c,ora 18:00pm,X,X,c
+,d,ora 22:00pm,,0,
+CC151,,151. Vântul de vale în munții Carpați,,a,a
+,a,e mai puternic în perioada iulie-septembrie de cât în perioada decembrieaprilie.,X,X,a
+,b,e mai puternic în perioada octombrie-februarie de cât în perioada iulie-septembrie.,,0,
+,c,e mai puternic în perioada decembrie-aprilie de cât în perioada decembrie-aprilie.,,0,
+,d,are aceași intensitate indiferent de perioada anului.,,0,
+CC152,,152. Care din următoarele afirmații este corectă?,,c,c
+,a,Vântul de vale bate mai slab lângă sol și crește în intensitate continuu o dată cu creșterea altitudinii.,,0,c
+,b,Vântul de vale are aceeași intensitate la 50 m deasupra solului cu intensitatea de la 800 m deasupra solului.,,0,c
+,c,Intensitatea vântului de vale crește o dată cu scăderea altitudinii.,X,X,c
+,d,Vântul de vale e cel mai puternic la aproximativ 500 m deasupra solului și se reduce deasupra și sub acest nivel.,,0,
+CC153,,153. În care din următoare condiții este cea mai probabilă apariția vântului de vale în zonele alpine?,,c,c
+,a,"30 decembrie, 14:00pm, cer fără nori.",,0,c
+,b,"30 iulie, 14:00pm, cer acoperit total.",,0,c
+,c,"30 august, 15:00pm, acoperire 3/8 până la 5/8 cu nori cumulus.",X,X,c
+,d,"30 iunie, 20:00pm, cer fără nori.",,0,
+CC154,,"154. Termenul de ”turbulență mecanică” descrie, din punct de vedere al meteorologiei, mișcarea maselor de aer cauzată de",,b,b
+,a,bule de aer cald care se desprind de sol și se ridică.,,0,b
+,b,"o masă de aer care se mișcă aproape de sol și care este perturbată de teren, case, pomi, etc.",X,X,b
+,c,echipamente tehnice cum ar fi aeronavele care se mișcă în masa de aer.,,0,
+,d,frecarea a două mase de aer alăturate care de deplasează în direcții diferite sau cu viteze diferite.,,0,
+CC155,,"155. Termenul de ”tubulență de forfecare” descrie, din punct de vedere al meteorologiei, mișcarea maselor de aer cauzată de",,d,d
+,a,bule de aer cald care se desprind de sol și se ridică.,,0,d
+,b,"o masă de aer care se mișcă aproape de sol și care este perturbată de teren, case, pomi, etc.",,0,d
+,c,un flux de aer care este separat în straturi de către un obstacol.,,0,d
+,d,frecarea a două mase de aer alăturate care de deplasează în direcții diferite sau cu viteze diferite.,X,X,d
+CC156,,"156. Termenul de ”tubulență termică” descrie, din punct de vedere al meteorologiei, mișcarea maselor de aer cauzată de",,a,a
+,a,bule de aer cald care se desprind de sol și se ridică.,X,X,a
+,b,"o masă de aer care se mișcă aproape de sol și care este perturbată de teren, case, pomi, etc.",,0,
+,c,"două mase de aer care, freacându-se între ele, se încălzesc și se ridică .",,0,
+,d,frecarea a două mase de aer alăturate care de deplasează în direcții diferite sau cu viteze diferite.,,0,
+CC157,,"157. La ora 14 pm într-o zonă montană, zi de vară, cu vânt general de nordvest de după trecerea unui front rece, vântul de vale are intensitea de 25 km/h pe fundul văii. La ce fel de turbulență ne putem aștepta în mijlocul văii la 500m deasupra solului?",,d,d
+,a,turbulență mecanică,,0,d
+,b,nici un fel de turbulență,,0,d
+,c,turbulență de inversiune,,0,d
+,d,turbulență de forfecare,X,X,d
+CC158,,"158. La ora 14 pm într-o zi de vară, vântul de vale are intensitea de 25 km/h pe fundul văii. La ce fel de turbulență ne putem aștepta în mijlocul văii la 20m deasupra solului?",,a,a
+,a,turbulență mecanică,X,X,a
+,b,nici un fel de turbulență,,0,
+,c,turbulență de gradient,,0,
+,d,turbulență de forfecare,,0,
+CC159,,"159. Ce tip de turbulență putem întâlni în văile alpine cu vânt puternic de vale, pe o față sudică, la o altitudine de 2000m ASL, într-o zi de vară la ora 13:00pm.",,b,b
+,a,turbulență mecanică,,0,b
+,b,turbulență termică,X,X,b
+,c,turbulență de gradient,,0,
+,d,turbulență de forfecare,,0,
+CC160,,"160. Când ne putem aștepta la cele mai puține turbulențe, într-o zi cu vreme frumoasă de iulie, în văile alpine în care este de obicei vânt puternic de vale.",,a,a
+,a,În jur de ora 9 am.,X,X,a
+,b,În jur de ora 11 am.,,0,
+,c,În jur de ora 13 pm.,,0,
+,d,În jur de ora 18 pm.,,0,
+CC161,,"161. Când ne putem aștepta la cele mai puternice turbulențe, într-o zi cu vreme frumoasă de iulie, în văile alpine în care este de obicei vânt puternic de vale.",,c,c
+,a,În jur de ora 9 am.,,0,c
+,b,În jur de ora 11 am.,,0,c
+,c,În jur de ora 13 pm.,X,X,c
+,d,În jur de ora 18 pm.,,0,
+CC162,,"162. Când ne putem aștepta la mai multe termici și cele mai puține turbulențe de forfecare, într-o zi cu vreme frumoasă de iulie, în văile alpine în care este de obicei vânt puternic de vale.",,b,b
+,a,În jur de ora 9 am.,,0,b
+,b,În jur de ora 11 am.,X,X,b
+,c,În jur de ora 13 pm.,,0,
+,d,În jur de ora 18 pm.,,0,
+CC163,,163. Ce se înțelege prin ”masă de aer”?,,a,a
+,a,Un corp de aer cu aceleași caracteritici.,X,X,a
+,b,Greutatea unui metru cub de aer la temperatura de 15°.,,0,
+,c,O zonă cu o concentrație mai mare de aer în centrul unui anticiclon.,,0,
+,d,O parte a atmosferei cu aceeași densitate a aerului.,,0,
+CC164,,"164. În ceea ce privește dezvoltarea frontală, masa de aer este definită ca fiind caldă atunci când temperatura acesteia este mai mare decât",,b,b
+,a,"15°C la nivelul mării cu 1013,2 hPa.",,0,b
+,b,temperatura maselor de aer din jur.,X,X,b
+,c,temperatura medie pentru sezon.,,0,
+,d,temperatura care a avut-o de unde provenit masa de aer.,,0,
+CC165,,"165. În meteorologie, se descrie termenul de ""front"" ca fiind",,d,d
+,a,linia de separare la nivelul mării dintre două mase de aer.,,0,d
+,b,o linie de zone de precipitații.,,0,d
+,c,o zonă de precipitații cu vânturi mari.,,0,d
+,d,suprafața de separare dintre două mase de aer diferite.,X,X,d
+CC166,,166. Care afirmație este adevărată?,,c,c
+,a,Trecerea fronturilor calde și reci începe la altitudine mare și apoi la nivelul solului.,,0,c
+,b,Trecerea fronturilor calde și reci începe la nivelul solului și apoi la altitudine.,,0,c
+,c,"Trecerea unui front cald are loc la început la altitudine, apoi la nivelul solului. Trecerea unui front rece are loc la început la nivelul solului, apoi la altitudine.",X,X,c
+,d,"Trecerea unei front cald are loc la început la nivelul solului, apoi la altitudine. Trecerea unui front rece are loc la început la altitudine, apoi la nivelul solului.",,0,
+CC167,,167. Care afirmație este adevărată?,,c,c
+,a,Un front cald se mișcă mai repede decât un front rece.,,0,c
+,b,Fronturile calde și reci se mișcă la aproximativ aceeași viteză.,,0,c
+,c,Un front rece se mișcă mai repede decât un front cald.,X,X,c
+,d,"În timpul iernii, frontul rece se mișcă mai repede, iar vara, frontul cald se mișcă mai repede.",,0,
+CC168,,168. Care ordine a tipurilor de nor este tipică pentru trecerea unei front cald?,,c,c
+,a,"Cumulus, cumulus congestus, cumulus calvus, cumulonimbus.",,0,c
+,b,"Altocumulus, stratocumulus, altostratus, nimbostratus.",,0,c
+,c,"Cirrus, cirstratus, altostratus, nimbostratus.",X,X,c
+,d,"Lenticular, cumulus congestus, cirocumulus, altocumulus.",,0,
+CC169,,169. Cum arată de obicei vremea cu o oră înainte de sosirea unui front cald?,,c,c
+,a,"Cer albastru, fără vânt, turbulențe nu prea mari, briză constantă la decolare, termici bune, largi și line, cumulus congestius și cumulonimbus în depărtare.",,0,c
+,b,"Cerul este acoperit 5/8 cu cumulus, vânt puternic, termici putermici cu înfundare puternică în jurul lor.",,0,c
+,c,"Vizibilitate slabă, baza norilor scăzută, ploaie, vânt constant.",X,X,c
+,d,"Nori acoperă munții din depărtare, nori cumulus și lenticulari în porțiunea albastră a cerului, schimbări de direcție de vânt pe pământ, vânt puternic de sud-vest la decolare.",,0,
+CC170,,170. Ce semne indică fohn-ul de sud pe partea de nord a Alpilor?,,d,d
+,a,"Cerul albastru, fără vânt, turbulențe mici, vânt constant la decolare, ascendență uniformă pe suprafețe mari, cumulus congestius și cumulonimbus la orizont.",,0,d
+,b,"Cerul este acoperit cu 5/8 cumulus, vânturi puternice crescânde, termici puternice cu înfundări mari în jur.",,0,d
+,c,"Vizibilitate proastă, bază norilor joasă, ploaie și vânt constant.",,0,d
+,d,Munții de pe orizontul sudic au nori în jurul lor. Există nori cumulus și lenticulari în partea albastră a cerului. Vântul la sol vine din toate direcțiile și e preponderent din sud-vest la locul de decolare.,X,X,d
+CC172,,172. Un front oclus apare când,,d,d
+,a,un front cald depășește un front rece la altitudine.,,0,d
+,b,un front rece trece peste un front cald la altitudine.,,0,d
+,c,un front cald depășește un front rece la nivelul solului.,,0,d
+,d,un front rece trece peste un front cald la nivelul solului.,X,X,d
+CC173,,173. Un front oclus are,,d,d
+,a,caracteristicile unui front cald.,,0,d
+,b,caracteristicile unui front rece.,,0,d
+,c,"caracteristicile inofensive ale unui front cald și rece, pe măsură ce ambele se neutralizează reciproc.",,0,d
+,d,"caracteristicile meteorologice ale unei front fie cald fie rece, în funcție de temperatura fluxului de aer rece.",X,X,d
+CC174,,174. Ce reprezintă următoarea imagine?,,b,b
+,a,Un front cald.,,0,b
+,b,Un front rece.,X,X,b
+,c,O ocluzie cu caracteristicile unei front cald.,,0,
+,d,d) O ocluzie cu caracteristicile unui front rece.,,0,
+CC175,,175. Ce reprezintă următoarea imagine?,,c,c
+,a,Un front cald.,,0,c
+,b,Un front rece.,,0,c
+,c,O ocluzie cu caracteristicile unei front cald.,X,X,c
+,d, O ocluzie cu caracteristicile unui front rece.,,0,
+CC176,,176. Ce reprezintă următoarea imagine?,,a,a
+,a,Un front cald.,X,X,a
+,b,Un front rece.,,0,
+,c,O ocluzie cu caracteristicile unei front cald.,,0,
+,d,O ocluzie cu caracteristicile unui front rece.,,0,
+CC177,,177. Ce reprezintă următoarea imagine?,,d,d
+,a,Un front cald.,,0,d
+,b,Un front rece.,,0,d
+,c,O ocluzie cu caracteristicile unei front cald.,,0,d
+,d,O ocluzie cu caracteristicile unui front rece.,X,X,d
+CC178,,"178. Formarea de nori cumulonimbus și, prin urmare, formarea de furtuni înainte de sosirea unui front este cel mai probabil cu",,c,c
+,a,fronturi reci în ianuarie.,,0,c
+,b,fronturi calde în ianuarie.,,0,c
+,c,fronturi reci în luna august.,X,X,c
+,d,fronturi calde în luna august.,,0,
+CC179,,179. O masă de aer cald și umed se află deasupra României. Prognoza prezice sosirea unei mase polare de aer rece din nord-vest în timpul zilei. La ce tip de vreme ne poatem aștepta pentru această zi?,,c,c
+,a,Condiții foarte favorabile pentru zborurile termice și la distanță din cauza aerului rece încălzit rapid de sol.,,0,c
+,b,"Aerul rece care va sosi va stabiliza atmosfera, făcând astfel zborurile termice imposibile pentru ceva timp.",,0,c
+,c,Furtuni frontale care aduc grindină si vânturi puternice.,X,X,c
+,d,Răcirea continuă a aerului umed și cald și începutul treptat al precipitațiilor.,,0,
+CC180,,180. În ce perioadă a zilei sunt furtunile termice (locale) cele mai probabile?,,b,b
+,a,Dimineața.,,0,b
+,b,După-amiaza târziu.,X,X,b
+,c,La scurt timp după amiază.,,0,
+,d,Timpul zilei nu are nici o influență asupra furtunilor termice (locale).,,0,
+CC181,,181. În ce moment al zilei sunt probabile furtunile frontale?,,d,d
+,a,10 am,,0,d
+,b,15 pm,,0,d
+,c,20 pm,,0,d
+,d,Timpul zilei nu are nici o influență asupra furtunilor frontale.,X,X,d
+CC182,,"182. În general, ce condiții cauzează o inversiune la nivelul solului?",,b,b
+,a,"Încălzirea aerului care coboară, cu rata adiabatului uscat, în fața și în centrul unei presiuni ridicate.",,0,b
+,b,Radiația nocturnă a căldurii din sol atunci când există cer senin.,X,X,b
+,c,Masele de aer continentale care se stratifică aproape de sol.,,0,
+,d,Încălzirea straturilor de aer adiacente solui pe parcursul zilei.,,0,
+CC183,,183. Ce cauzează dispariția unei inversiuni de la nivelul solului?,,b,b
+,a,Încălzirea aerului cald care coboară în fața și în centrul unei presiuni ridicate.,,0,b
+,b,Radiația nocturnă a căldurii de pe pământ atunci când există cer senin.,X,X,b
+,c,Aerul cald intrat în straturile superioare de aer.,,0,
+,d,Încălzirea straturilor de aer aproape de sol pe parcursul zilei.,,0,
+CC184,,184. Care sunt cele mai bune condiții pentru crearea unor termici bune într-o anumită zonă?,,b,b
+,a,"Unghi mare de incidență al razelor solare, reflexie puternică.",,0,b
+,b,"Unghi mare de incidență a razelor solare, reflexie slabă.",X,X,b
+,c,"Unghi scăzut de incidență a razelor solare, reflexie slabă.",,0,
+,d,"Unghi scăzut de incidență a razelor solare, reflexie puternică.",,0,
+CC185,,185. Care sunt cele mai bune condiții pentru crearea unor termici bune într-o anumită zonă?,,d,d
+,a,Zonă umedă și expusă vântului.,,0,d
+,b,Zonă uscată și expusă vântului.,,0,d
+,c,Zonă umedă și protejată de vânt.,,0,d
+,d,Zonă uscată și protejată de vânt.,X,X,d
+CC186,,186. În care din următoarele luni sunt cele mai pronunțate termici înzonele deluroase?,,b,b
+,a,ianuarie,,0,b
+,b,mai,X,X,b
+,c,august,,0,
+,d,octombrie,,0,
+CC187,,187. În care din următoarele luni ajung termicile din munți la cele mai mari altitudini?,,c,c
+,a,ianuarie,,0,c
+,b,mai,,0,c
+,c,august,X,X,c
+,d,octombrie,,0,
+CC188,,"188. Termenul ""termică de sub vânt"" înseamnă",,b,b
+,a,Curentul descendent de pe partea protejată de vânt a unei mase de aer cald în urcare.,,0,b
+,b,Aerul cald care se ridică de pe partea protejată de vânt a unui munte.,X,X,b
+,c,Aerul cald creat de turbulența rotorului pe partea protejată de vânt a unui munte.,,0,
+,d,Curent termic ascendent format în partea de sub vânt a altui curent termic ascendent.,,0,
+CC189,,189. Termicile de sub vânt sunt cel mai probabil întâlnite,,d,d
+,a,pe pantele nordice în timp ce bate vântul din nord.,,0,d
+,b,pe pantele nordice în timp ce bate vântul din sud.,,0,d
+,c,pe pantele sudice în timp ce bate vântul din sud.,,0,d
+,d,pe pantele sudice în timp ce bate vântul din nord.,X,X,d
+CC190,,"190. Termenul ""termică albastră"" înseamnă",,a,a
+,a,aerul cald în urcare în care umiditatea este atât de mică încât nu permite dezvoltarea norilor cumulus.,X,X,a
+,b,aerul cald în urcare în care umiditatea este atât de ridicată încât formează nori care generează precipitații.,,0,
+,c,"aerul cald în urcare de peste corpuri întinse de apă, pe timpul nopții.",,0,
+,d,"aerul cald în urcare, care este ridicat de o masă continentală de aer rece.",,0,
+CC191,,191. Ar trebui să ne așteptăm la termici albastre când,,b,b
+,a,"termica nu provine de la sol, ci dintr-un strat de aer mai înalt.",,0,b
+,b,diferența de temperatură - punct de rouă a masei de aer în urcare este atât de mare încât punctul de rouă nu este atins.,X,X,b
+,c,solul se răcește atât de mult în timpul nopții încât este mai rece decât un corp de apă învecinat.,,0,
+,d,stratificarea atmosferică este atât de stabilă încât curenții termici sunt suprimați.,,0,
+CC192,,"192. Termenul ""ascendență de restituție"" se referă la",,b,b
+,a,"masele de aer care coboară în timpul zilei deasupra suprafețelor reci, cum ar fi ghețarii și lacurile.",,0,b
+,b,"masele de aer în urcare din mijlocul văii, după apariția vântului de munte (catabatic).",X,X,b
+,c,masele de aer descendente din apropierea curenților termici.,,0,
+,d,curentul descendent din cauza temperaturii.,,0,
+CC193,,"193. Pe o hartă meteorologică, acest simbol definește",,b,b
+,a,o izobară.,,0,b
+,b,un front rece.,X,X,b
+,c,un front cald.,,0,
+,d,un front oclus.,,0,
+CC194,,"194. Pe o hartă meteorologică, acest simbol definește",,c,c
+,a,o izobară.,,0,c
+,b,un front rece.,,0,c
+,c,un front cald.,X,X,c
+,d,un front oclus.,,0,
+CC195,,"195. Pe o hartă meteorologică, acest simbol definește",,a,a
+,a,o izobară.,X,X,a
+,b,un front rece.,,0,
+,c,un front cald.,,0,
+,d,un front oclus.,,0,
+CC196,,"196. Pe o hartă meteorologică, acest simbol definește",,d,d
+,a,o izobară.,,0,d
+,b,un front rece.,,0,d
+,c,un front cald.,,0,d
+,d,un front oclus.,X,X,d
+CC197,,197. Unde este centrul ciclonului?,,d,d
+,a,lângă Tunis,,0,d
+,b,deasupra golfului Biscaya (Golf von Biskaya),,0,d
+,c,lângă Stockholm,,0,d
+,d,lângă Lulea,X,X,d
+CC198,,198. Unde este centrul anticiclonului?,,b,b
+,a,lângă Tunis,,0,b
+,b,deasupra golfului Biscaya (Golf von Biskaya),X,X,b
+,c,lângă Stockholm,,0,
+,d,lângă Lulea,,0,
+CC199,,199. Unde este gradientul presiunii cel mai plat?,,a,a
+,a,lângă Tunis,X,X,a
+,b,deasupra golfului Biscaya (Golf von Biskaya),,0,
+,c,lângă Stockholm,,0,
+,d,lângă Lulea,,0,
+CC200,,200. Unde este gradientul presiunii cel mai abrupt?,,c,c
+,a,lângă Tunis,,0,c
+,b,deasupra golfului Biscaya (Golf von Biskaya),,0,c
+,c,lângă Stockholm,X,X,c
+,d,lângă Lulea,,0,
+CC201,,201. Unde e cel mai puternic vânt?,,c,c
+,a,În nordul Africii.,,0,c
+,b,În Elveția.,,0,c
+,c,În sudul Scandinaviei.,X,X,c
+,d,În Islanda.,,0,
+CC202,,202. Unde e cel mai slab vânt?,,a,a
+,a,În nordul Africii.,X,X,a
+,b,În Elveția.,,0,
+,c,În sudul Scandinaviei.,,0,
+,d,În Islanda.,,0,
+CC203,,203. Care este direcția vântului în Alger?,,c,c
+,a,100 °,,0,c
+,b,190 °,,0,c
+,c,280 °,X,X,c
+,d,320 °,,0,
+CC204,,204. Care este direcția vântului în Londra?,,d,d
+,a,130 °,,0,d
+,b,190 °,,0,d
+,c,270 °,,0,d
+,d,310 °,X,X,d
+CC205,,205. Care este direcția vântului în Atena?,,a,a
+,a,130 °,X,X,a
+,b,190 °,,0,
+,c,270 °,,0,
+,d,310 °,,0,
+CC206,,206. Care este direcția vântului în Zurich?,,b,b
+,a,100 °,,0,b
+,b,210 °,X,X,b
+,c,280 °,,0,
+,d,030 °,,0,
+CC207,,207. Care este direcția vântului în Lisabona?,,d,d
+,a,100 °,,0,d
+,b,190 °,,0,d
+,c,250 °,,0,d
+,d,320 °,X,X,d
+CC208,,208. Care dintre următoarele orașe se află într-un sector cald?,,b,b
+,a,Lulea și Sankt-Petersburg,,0,b
+,b,Zurich și Stockholm,X,X,b
+,c,Lisabona și Atena,,0,
+,d,Paris și Londra,,0,
+CC209,,209. În care dintre următoarele orașe sunt condiții meteo de după front?,,d,d
+,a,Lulea și Sankt-Petersburg,,0,d
+,b,Zurich și Stockholm,,0,d
+,c,Lisabona și Atena,,0,d
+,d,Paris și Londra,X,X,d
+CC210,,210. Care dintre următoarele orașe sunt sub influența anticiclonului?,,c,c
+,a,Lulea și Sankt-Petersburg,,0,c
+,b,Zurich și Stockholm,,0,c
+,c,Lisabona și Atena,X,X,c
+,d,Paris și Londra,,0,
+CC211,,211. Care este distribuția de nori cea mai probabilă în Lulea?,,b,b
+,a,3/8 - 5/8 cumulus,,0,b
+,b,5/8 - 7/8 cirostratus,X,X,b
+,c,8/8 nimbostratus,,0,
+,d,"5/8 - 7/8 cumulonimbus, lenticulari izolați în est",,0,
+CC212,,212. Care este distribuția de nori cea mai probabilă în Paris?,,a,a
+,a,3/8 - 5/8 cumulus,X,X,a
+,b,5/8 - 7/8 cirostratus,,0,
+,c,8/8 nimbostratus,,0,
+,d,"5/8 - 7/8 cumulonimbus, lenticulari izolați în est",,0,
+CC213,,213. Care este distribuția de nori cea mai probabilă în nordvestul Elveției?,,d,d
+,a,5/8 - 7/8 cirocumulus,,0,d
+,b,5/8 - 7/8 cirostratus,,0,d
+,c,8/8 nimbostratus,,0,d
+,d,"5/8 - 7/8 cumulonimbus, lenticulari izolați în est",X,X,d
+CC214,,214. Care este distribuția de nori cea mai probabilă în St. Petersburg?,,c,c
+,a,3/8 - 5/8 cumulus,,0,c
+,b,5/8 - 7/8 cirostratus,,0,c
+,c,8/8 nimbostratus,X,X,c
+,d,"5/8 - 7/8 cumulonimbus, lenticulari izolați în est",,0,
+Column1,Column2,Column3,Column4,,
+CC60,,60. Aerul este un amestec de diferite gaze. Cele mai importante gaze și proporțiile lor sunt,,b,b
+,a,aproximativ 78% oxigen și 21% azot.,,0,b
+,b,aproximativ 78% azot și 21% oxigen.,X,X,b
+,c,aproximativ 78% dioxid de carbon și 21% oxigen.,,0,
+,d,aproximativ 78% oxigen și 21% dioxid de carbon.,,0,
+CC61,,61. Cum variază temperatura aerului în troposferă cu creșterea altitudinii?,,d,d
+,a,"Scade liniar cu 0,65°C/100m până la tropopauză.",,0,d
+,b,Scade liniar cu 1°C/100m până la tropopauză.,,0,d
+,c,"Scade, nu liniar, dar depinzând de straturile de aer variază între 0,1°C și 1,2°C.",,0,d
+,d,"Depinzând de stratul de aer poate scădea, rămâne la fel sau crește, dar înmedie scade cu 0,65°C/100m.",X,X,d
+CC62,,"62. Pentru a se asigura că toți utilizatorii spațiului aerian au altimetrele reglate la fel, atmosfera a fost standardizată. Care sunt valorile pentru atmosfera standard în regiunea troposferei? Presiunea la nivelul mării și temperatura/gradientul termic",,d,d
+,a,"1033,6 hPa 15°C 1°C/100m",,0,d
+,b,"1013,2 hPa 15°C 0.65°C/100m",,0,d
+,c,"033,6 hPa 15°C 0,5°C/100m",,0,d
+,d,"1013,2 hPa 15°C 1°C/100m",X,X,d
+CC63,,63. Altitudinea medie a tropopauzei la latitudinea noastră este,,c,c
+,a,4.000 m deasupra nivelului mării.,,0,c
+,b,5.500 m deasupra nivelului mării.,,0,c
+,c,11.000 m deasupra nivelului mării.,X,X,c
+,d,50.000 m deasupra nivelului mării.,,0,
+CC64,,64. Presiune aerului rezultă din,,d,d
+,a,rotația pământului.,,0,d
+,b,polii magnetici.,,0,d
+,c,particulele de apă și de praf ce plutesc în aer.,,0,d
+,d,gravitație.,X,X,d
+CC65,,65. Cum variază presiunea aerului o dată cu creșterea altitudinii?,,c,c
+,a,Se reduce la jumătate până la tropopauză și după aceea rămâne constant.,,0,c
+,b,Se reduce cu aproximativ 80hPa / 100m de altitudine.,,0,c
+,c,Se reduce cu jumătate la aproximativ fiecare 5.500 m de altitudine.,X,X,c
+,d,Se reduce cu jumătate la aproximativ fiecare 11.000 m de altitudine.,,0,
+CC66,,66. Care este presiunea medie de la nivelul măriii (atmosfera standard) folosită de meteorologiști?,,a,a
+,a,"1013,2 hPa",X,X,a
+,b,"1033,6 hPa",,0,
+,c,"760,0 hPa",,0,
+,d,"998,7 hPa",,0,
+CC67,,67. Presiunea la nivelul mării,,d,d
+,a,este întotdeauna constantă.,,0,d
+,b,poate în cazuri mai rare să crească față de medie.,,0,d
+,c,poate în cazuri mai rare să scadă față de medie.,,0,d
+,d,d)poate fi mai mare sau mai mică față de valoarea medie depinzând de situația vremii.,X,X,d
+CC68,,68. Presiunea intr-un punct dat la nivelul mării depinde de,,b,b
+,a,maree.,,0,b
+,b,circulația globală a aerului.,X,X,b
+,c,caracteristicile suprafeței.,,0,
+,d,longitudine.,,0,
+CC69,,69. Barometrul arată o presiune de 980 hPa la nivelul mării. Care este cea mai probabilă presiune la o altitudine de 5.500 mdeasupra nivelului mări?,,d,d
+,a,1035 hPa,,0,d
+,b,980 hPa,,0,d
+,c,650 hPa,,0,d
+,d,490 hPa,X,X,d
+CC70,,70. Un copil elibereaza un balon cu volum aproximativ de 5 dm3 la nivelul mării. Care este volumul aproximativ al balonului când ajunge la altitudinea de 5.500 m deasupra nivelului mării.,,c,c
+,a,"2,5 dm3",,0,c
+,b,5 dm3,,0,c
+,c,10 dm3,X,X,c
+,d,20 dm3,,0,
+CC71,,71. Care este partea atmosferei unde condițiile meteorologice ne determină vremea?,,d,d
+,a,Ionosfera,,0,d
+,b,Mezosfera,,0,d
+,c,Stratosfera,,0,d
+,d,Troposfera,X,X,d
+CC72,,72. Temperatura stratului de aer de lângă sol este influențată cel mai mult de,,a,a
+,a,temperatura solului.,X,X,a
+,b,acțiunea radiației solare supra particulelor de aer.,,0,
+,c,umiditatea relativă a aerului.,,0,
+,d,unghiul de incidență a razelor solare asupra particulelor de aer.,,0,
+CC73,,"73. Pentru aceeași intensitate și unghi de incidență a razelor solare, care din următoarele tipuri de sol încălzește cel mai mult stratul de aer adiacent?",,d,d
+,a,Solul pietros.,,0,d
+,b,Pădure tânără.,,0,d
+,c,O mlaștină.,,0,d
+,d,Pășune uscată.,X,X,d
+CC74,,74. La aceeași altitudine deasupra nivelului mării,,c,c
+,a,aerul cald e mai dens decât aerul rece.,,0,c
+,b,aerul cald are aceeași densitate ca aerul rece.,,0,c
+,c,aerul cald e mai puțin dens ca aerul rece.,X,X,c
+,d,densitatea aerului depinde de gradientul adiabatic.,,0,
+CC75,,75. Cum variază temperatura unei bule de aer pe măsură ce se ridică de la sol fără a creea un nor?,,c,c
+,a,Temperatura crește cu aproximativ 0.5°C /100m pentru că radiația solară devine tot mai intensă.,,0,c
+,b,"Nu se poate determina, pentru că temperatura se egalizează cu cea a aerului din jur.c) Temperatura se reduce cu aproximativ 0.65°C /100m, cum de fapt e cazul în toată troposfera.",,0,c
+,c,Temperatura se reduce cu aproximativ 1°C /100m pentru că presiunea se reduce o dată cu creșterea altitudinii.,X,X,c
+CC76,,76. Cum variază temperatura unei bule de aer care urcă?,,a,a
+,a,Pentru că presiunea scade o dată cu creșterea altitudinii rezultă extinderea bulei și pierdere de energie sub formă de căldură.,X,X,a
+,b,"Bula se va răci pentru că s-a îndepărtat de sursa de căldură, adică suprafata solului.",,0,
+,c,"Pentru că unghiul radiației solare se reduce o dată cu creșterea altitudinii, deci bula de aer primește mai puțină căldură de cât la nivelul solului.",,0,
+,d,"Din cauză că bula de aer trebuie să evapore apă pe măsură ce urcă, există o relație între creșterea altitudinii și reducerea temperaturii.",,0,
+CC77,,77. Cum variază volumul și temperatura unei mase de aer care coboară?,,c,c
+,a,"Volumul crește, temperatura scade.",,0,c
+,b,"Volumul crește, temperatura crește.",,0,c
+,c,"Volumul scade, temperatura crește.",X,X,c
+,d,"Volumul scade, temperatura scade.",,0,
+CC78,,78. Care este principalul mod de încălzire în timpul zilei a unei mase de aer la 100m deasupra solului?,,a,a
+,a,Aerul adiacent solului se încălzește și urcă în timp ce aerul de la altitudine coboară la sol unde este încălzit.,X,X,a
+,b,"Radiația UV solară este absorbită de sol iar spectrul infraroșu este reflectat de sol, încălzind aerul mai mult sau mai puțin, proporțional cu distanța de la suprafața solului.",,0,
+,c,"Radiația solară încarcă particulele de aer cu energie (ionizare), care este ulterior eliberată bub formă de căldură.",,0,
+,d,"Stratul de aer adiacent solului se încălzește și, fiind un bun conductor termic,transferă căldura straturilor superioare de aer.",,0,
+CC79,,"79. În medie temperatura din troposferă se reduce o dată cu creșterea altitudinii. Totuși, se poate întâmpla ca în anumite zone temperatura să crească. Cum se numește acest fenomen?",,d,d
+,a,Superadiabatic,,0,d
+,b,Izoterm,,0,d
+,c,Restitutie,,0,d
+,d,Inversiune,X,X,d
+CC80,,"80. În medie temperatura din troposferă se reduce o dată cu creșterea altitudinii. Totuși, se poate întâmpla ca în anumite zone temperatura să rămănă constantă. Cum se numește acest fenomen?",,b,b
+,a,Superadiabatic,,0,b
+,b,Izotermă,X,X,b
+,c,Restituție,,0,
+,d,Inversiune,,0,
+CC81,,"81. O bulă de aer se încălzește, se desprinde de sol și începe să se ridice. Cât de sus se poate ridica bula?",,c,c
+,a,Până se reduce transferul de căldură de la sol.,,0,c
+,b,Până când presiunea bulei este mai mică de cât cea a aerului din jur.,,0,c
+,c,Până când diferența dintre temperatura ei si a aerului din jur se reduce la 0.,X,X,c
+,d,Până când diferența dintre temperatura ei și punctul de rouă se reduce la 0.,,0,
+CC82,,82. O inversiune este un strat de aer în care temperatura,,b,b
+,a,scade o dată cu creșterea altitudinii.,,0,b
+,b,crește o dată cu creșterea altitudinii.,X,X,b
+,c,este deasupra nivelului de îngheț.,,0,
+,d,este constantă.,,0,
+CC83,,83. O izotermă este un strat de aer în care temperatura,,d,d
+,a,scade o dată cu creșterea altitudinii.,,0,d
+,b,crește o dată cu creșterea altitudinii.,,0,d
+,c,este deasupra nivelului de îngheț.,,0,d
+,d,este constantă.,X,X,d
+CC84,,84. Inversiunile și izotermele sunt,,d,d
+,a,puncte de origine și declanșare ale aerului termic care urcă.,,0,d
+,b,elemente instabile stratificate ale troposferei.,,0,d
+,c,stabile sau instabile depinzând de temperatură.,,0,d
+,d,bariere pentru masele de aer termic care urcă.,X,X,d
+CC85,,85. Gradientul de temperatură este definit ca fiind,,d,d
+,a,diferența de altitudine per °C într-o masă de aer.,,0,d
+,b,diferența de presiune per km între două puncte geografice diferite.,,0,d
+,c,unitatea de măsură a temperaturii.,,0,d
+,d,diferența de temperatură pentru o creștere de 100 m a altitudinii.,X,X,d
+CC86,,86. Gradientul temperaturii unui strat izotermic este,,a,a
+,a,0°C / 100m,X,X,a
+,b,0.5°C / 100m,,0,
+,c,0.65°C / 100m,,0,
+,d,1°C / 100m,,0,
+CC87,,87. Unde găsim de obicei o inversiune?,,b,b
+,a,La baza norilor cumulus.,,0,b
+,b,La granița dintre un strat de aer cețos de la sol și un strat de aer clar de la altitudine.,X,X,b
+,c,Unde este o diferență temperatură-punct de rouă de 0.,,0,
+,d,Deasupra unei convergențe.,,0,
+CC88,,88. Care din următoarele semne indică prezența unei inversiuni?,,c,c
+,a,Un nor cumulus.,,0,c
+,b,Un nor lenticular.,,0,c
+,c,Un strat de ceață.,X,X,c
+,d,Un nor cirus.,,0,
+CC89,,89. Care din următoarele sondaje de temperatură măsurate la ora 02:00 indică prezența unei inversiuni la altitudine.,,c,c
+,a,1,,0,c
+,b,2,,0,c
+,c,3,X,X,c
+,d,4,,0,
+CC90,,90. Care din următoarele sondaje de temperatură măsurate la ora 02:00 indică prezența unei inversiuni la nivelul solului.,,a,a
+,a,1,X,X,a
+,b,2,,0,
+,c,3,,0,
+,d,4,,0,
+CC91,,91. Care din următoarele sondaje de temperatură măsurate la ora 02:00 indică prezența unei zoterme.,,d,d
+,a,1,,0,d
+,b,2,,0,d
+,c,3,,0,d
+,d,4,X,X,d
+CC92,,92. Ce presupune condensarea?,,c,c
+,a,Trecerea din stare lichidă în stare solidă.,,0,c
+,b,Trecerea din stare lichidă în stare gazoasă.,,0,c
+,c,Trecerea din stare gazoasă în stare lichidă.,X,X,c
+,d,Trecerea din stare gazoasă în stare solidă.,,0,
+CC93,,93. Care din următoarele schimbări de stare necesită energie sub formă de căldură?,,b,b
+,a,Trecerea din stare lichidă în stare solidă.,,0,b
+,b,Trecerea din stare solidă în stare lichidă.,X,X,b
+,c,Trecerea din stare gazoasă în stare lichidă.,,0,
+,d,Trecerea din stare gazoasă în stare solidă.,,0,
+CC94,,94. Care din următoarele schimbări de stare necesită energie sub formă de căldură?,,d,d
+,a,Trecerea din stare lichidă în stare solidă.,,0,d
+,b,Trecerea din stare gazoasă în stare lichidă.,,0,d
+,c,Trecerea din stare gazoasă în stare solidă.,,0,d
+,d,Trecerea din stare lichidă în stare gazoasă.,X,X,d
+CC95,,95. Care din următoarele schimbări de stare cedează energie sub formă de căldură?,,c,c
+,a,Trecerea din stare lichidă în stare gazoasă.,,0,c
+,b,Trecerea din stare solidă în stare gazoasă.,,0,c
+,c,Trecerea din stare gazoasă în stare lichidă.,X,X,c
+,d,Trecerea din stare solidă în stare lichidă.,,0,
+CC96,,96. Care din următoarele schimbări de stare cedează energie sub formă de căldură?,,a,a
+,a,Trecerea din stare lichidă în stare solidă.,X,X,a
+,b,Trecerea din stare solidă în stare gazoasă.,,0,
+,c,Trecerea din stare lichidă în stare gazoasă.,,0,
+,d,Trecerea din stare solidă în stare lichidă.,,0,
+CC97,,97. Care din următoarele schimbări de stare cedează energie sub formă de căldură?,,d,d
+,a,Trecerea din stare lichidă în stare gazoasă.,,0,d
+,b,Trecerea din stare solidă în stare gazoasă.,,0,d
+,c,Trecerea din stare solidă în stare lichidă.,,0,d
+,d,Trecerea din stare gazoasă în stare solidă.,X,X,d
+CC98,,98. Termenul de ”punct de rouă” este definit în meteorologie ca fiind,,b,b
+,a,temperatura specifică substanței la care se face trecere din stare solidă în stare lichidă.,,0,b
+,b,temperatura la care trebuie răcit aerul ca vaporii de apă să îceapă să condenseze.,X,X,b
+,c,cantitatea de umiditate din aer când este atinsă temperatura de condensare.,,0,
+,d,temperatura radiației solului de pe timpul nopții necesară ca să apară condensarea pe solul rece.,,0,
+CC99,,99. Cât de mare este gradientul temperaturii al aerului saturat (umed) în România în nivelele joase ale troposferei?,,a,a
+,a,< 1°C / 100 m,X,X,a
+,b,"1,0°C / 100 m",,0,
+,c,"1,5°C / 100 m",,0,
+,d,> 2°C / 100 m,,0,
+CC100,,100. Ce are cea mai mare influență asupra gradientului temperaturii aerului saturat (umed) în timp ce acesta se ridică?,,b,b
+,a,Umiditatea relativă.,,0,b
+,b,Volumul de vapori care condendează.,X,X,b
+,c,Diferența temperaturii bulei și temperaturii aerului din jur.,,0,
+,d,Intensitatea radiației solare.,,0,
+CC101,,101. De ce aerul saturat (umed) care se ridică se răcește mai lent dacât aerul nesaturat (uscat) care se ridică.,,c,c
+,a,Pentru că apa se răcește mai lent de cât aerul.,,0,c
+,b,"Pentru că aerul saturat (umed) se ridică mai repede , răcirea este ușor întârziată.",,0,c
+,c,Pentru că energia eliberată prin condensare influențează masa de aer care se ridică.,X,X,c
+,d,"Pentru că vaporii de apă sunt mai ușori ca aerul, prin urmare aerul saturat (umed) care se ridică are nevoie de mai puțină energie sub formă de căldură.",,0,
+CC102,,102. Ce formă de nor este un semn de termici bune?,,b,b
+,a,Cirrus,,0,b
+,b,Cumulus,X,X,b
+,c,Stratus,,0,
+,d,Lenticular,,0,
+CC103,,103. Apariția norilor altocumulus castellanus la două ore după răsărit indică,,a,a
+,a,un strat instabil de aer la înălțimea norilor.,X,X,a
+,b,apropierea unui front cald.,,0,
+,c,centrul unui anticiclon.,,0,
+,d,o regiune mare de stabilitate în straturile de jos ale troposferei.,,0,
+CC104,,104. Vreme însorită la altitudini mai mari cu ceață la altitudine mică în același timp înseamnă,,d,d
+,a,un nivel mic de stabilitate în partea de jos a troposferei.,,0,d
+,b,un front rece care se apropie.,,0,d
+,c,centrul unu ciclon.,,0,d
+,d,un nivel mare de stabilitate în partea de jos a troposferei.,X,X,d
+CC105,,105. Pentru care din următoarele condiții meteorologice este cea mai probabilă formarea ceții la sol (ceață de radiație)?,,c,c
+,a,"Cer acoperit, vânt zero, diferență mică temperatură-punct de rouă.",,0,c
+,b,"Cer senin, vânt zero, diferență mare temperatură-punct de rouă.",,0,c
+,c,"Cer senin, vânt zero, diferență mică temperatură-punct de rouă.",X,X,c
+,d,"Cer senin, vânt 270° 10m/s, diferență mică temperatură-punct de rouă.",,0,
+CC106,,106. Norii se formează când,,c,c
+,a,se evaporă mari cantități de apă (de exemplu peste ocean).,,0,c
+,b,aerul cald continental este împins peste ocean.,,0,c
+,c,aerul este răcit pânâ atinge punctul de rouă.,X,X,c
+,d,aerul care se ridică este oprit de o inversiune.,,0,
+CC107,,107. Baza norului este,,a,a
+,a,nivelul de jos al norului și este la înălțimea la care temperatura aerului care urcă atinge punctul de rouă.,X,X,a
+,b,nivelul de sus al norului și este la înălțimea la care temperatura aerului care urcă atinge temperatura aerului din jur.,,0,
+,c,nivelul de jos al norului și este la înălțimea la care temperatura aerului care urcă atinge temperatura aerului din jur.,,0,
+,d,nivelul de sus al norului și este la înălțimea la care temperatura aerului care urcă atinge punctul de rouă.,,0,
+CC108,,108. Cum se numește stratul de nori care acoperă cerul și are o altitudine de 4.000 m?,,d,d
+,a,Cirostratus,,0,d
+,b,Altocumulus,,0,d
+,c,Nimbostratus,,0,d
+,d,Altostratus,X,X,d
+CC109,,109. Cum se numesc norii care au formă de mici aglomerații cu baza la o altitudine de 4.500 m?,,b,b
+,a,Cirostratus,,0,b
+,b,Altocumulus,X,X,b
+,c,Nimbostratus,,0,
+,d,Altostratus,,0,
+CC110,,"110. Cum se numește stratul de nori care acoperă cerul, are o altitudine de 1.000 m și generează precipitații?",,c,c
+,a,Cirostratus,,0,c
+,b,Cumulonimbus,,0,c
+,c,Nimbostratus,X,X,c
+,d,Altostratus,,0,
+CC111,,111. Care din următoarele tipuri de nori are baza cel mai sus?,,b,b
+,a,Cumulus,,0,b
+,b,Cirocumulus,X,X,b
+,c,Stratocumulus,,0,
+,d,Cumulonimbus,,0,
+CC112,,112. Care din următorii nori nu au partea de sus la același nivel cu ceilalți?,,c,c
+,a,Cirrus,,0,c
+,b,Cirocumulus,,0,c
+,c,Cumulus humilis,X,X,c
+,d,Cirostratus,,0,
+CC113,,113. Cum se numește tipul de nori care generează precipitații?,,d,d
+,a,Cirostratus,,0,d
+,b,Stratocumulus,,0,d
+,c,Cumulus humilis,,0,d
+,d,Nimbostratus,X,X,d
+CC114,,114. Care din următorii nori sunt formați în principal din cristale de gheață?,,a,a
+,a,Cirocumulus,X,X,a
+,b,Stratocumulus,,0,
+,c,Cumulus humilis,,0,
+,d,Nimbostratus,,0,
+CC115,,115. Care din următoarele tipuri de nori indică prezența termicilor bune pentru zborul cu parapanta și deltaplanul?,,c,c
+,a,Cirocumulus,,0,c
+,b,Cumulonimbus,,0,c
+,c,Cumulus humilis,X,X,c
+,d,Lenticularis,,0,
+CC116,,116. În apropierea cărui tip de nori este periculos zborul cu parapanta și deltaplanul?,,b,b
+,a,Cirocumulus,,0,b
+,b,Cumulonimbus,X,X,b
+,c,Cumulus humilis,,0,
+,d,Stratocumulus,,0,
+CC117,,117. Norii lenticulari apar când,,a,a
+,a,masa de aer curge peste un teren muntos cu viteză mare.,X,X,a
+,b,termicile puternice se ridică și se răcesc urmărind adiabata uscată.,,0,
+,c,aer instabil de la sufrafață se ridică repede.,,0,
+,d,termicile puternice cauzează un efect de foehn.,,0,
+CC118,,118. Norii lenticulari,,c,c
+,a,"sunt formați exclusiv din apă, niciodată din gheață.",,0,c
+,b,apar în România numai pe timpul iernii.,,0,c
+,c,își schimbă foarte puțin poziția în ciuda vânturilor puternice.,X,X,c
+,d,generează precipitații.,,0,
+CC119,,119. Care din următoarele sunt semne vizibile din depărtare că un cumulus congestius sau cumlonimbus generează precipitații?,,a,a
+,a,"O perdea gri care atârnă sub nor, orientată spre sol.",X,X,a
+,b,Dezvoltarea pe verticală a norului este mai mare de cât cea pe orizontală.,,0,
+,c,Urme fibroase de condensare între baza norului și sol.,,0,
+,d,Baza norului are culoarea neagră.,,0,
+CC120,,120. De îndată ce precipitațiile sunt vizibile sub un nor cumulus congestus sau cumulonimbus,,b,b
+,a,ei devin inofensivi pentru parapantele din zona pentru că se află într-o stare de disipare.,,0,b
+,b,aerul va fi răcit de evaporarea apei și vor apărea local vânturi puternice și rafaloase.,X,X,b
+,c,înseamnă că sub norl nu mai este termică.,,0,
+,d,vor apărea întotdeuna și descărcările electrice.,,0,
+CC121,,121. Care din următoarele afirmații este falsă?,,b,b
+,a,Norii cumulus congestus și cumulonimbus pot produce curenți ascendenți sau descendenți cu rafale de peste 30 m/s.,,0,b
+,b,Apariția norilor cumulus congestus și cumulonimbus duce întotdeauna la căderi de grindină.,X,X,b
+,c,Norii cumulonimbus pot produce bucați de grindină de mărimea pumnului.,,0,
+,d,"Norii cumulus congestus și cumulonimbus pot produce, prin evaporare, mari volume de aer rece care se înfundă cu viteze mari până la sol în zonele din jurul norului.",,0,
+CC122,,122. de la nivelul mării nu e întotdeauna la fel,,a,a
+,a,"pentru că sunt variații de temperatură pe suprafațata pământului care răcesc sau încălzesc aerul, cauzând schimbări în densitatea aerului.",X,X,a
+,b,pentru că masele de aer oceanice sunt mai umede și deci mai grele de cât masele de aer continentaleși deci produc o presiune atmosferică mai mare.â,,0,
+,c,pentru că masele de aer continentale sunt mai uscate și deci mai grele de cât cele oceanice și produc o presiune mai mare.,,0,
+,d,pentru că presiunea scade o dată cu cresterea vitezei fluxului de aer și vice versa.,,0,
+CC123,,123. O presiunea atmosferică mărită poate fi întâlnită într-o zonă care,,b,b
+,a,"este mai uscată decât zonele învecinate, pentru o perioadă mai lungă.",,0,b
+,b,"este mai rece decât zonele învecinate, pentru o perioadă mai lungă.",X,X,b
+,c,"primește radiație solară mai intensă decât zonele învecinate, pentru o perioadă mai lungă.",,0,
+,d,"este mai caldă decât zonele învecinate, pentru o perioadă mai lungă.",,0,
+CC124,,124. O presiunea atmosferică mai mică poate fi întâlnită într-o zonă care,,d,d
+,a,"este mai uscată decât zonele învecinate, pentru o perioadă mai lungă.",,0,d
+,b,"este mai rece decât zonele învecinate, pentru o perioadă mai lungă.",,0,d
+,c,"primește radiație solară mai puțin intensă decât zonele învecinate, pentru o perioadă mai lungă.",,0,d
+,d,"este mai caldă decât zonele învecinate, pentru o perioadă mai lungă.",X,X,d
+CC125,,"125. În regiunea noastră, presiunea atmosferică la nivelul mării al unui ciclon însemnat poate fi",,c,c
+,a,1.035 hPa,,0,c
+,b,1.055 hPa,,0,c
+,c,955 hPa,X,X,c
+,d,915 hPa,,0,
+CC126,,"126. În regiunea noastră, presiunea atmosferică la nivelul mării al unui anticiclonciclon însemnat poate fi",,a,a
+,a,1.035 hPa,X,X,a
+,b,1.055 hPa,,0,
+,c,955 hPa,,0,
+,d,915 hPa,,0,
+CC127,,127. Într-un ciclon în emisfera nordică,,b,b
+,a,masele de aer se învârt în sensul acelor de ceasornic și se înfundă pe o zonă mare.,,0,b
+,b,masele de aer se învârt invers sensului acelor de ceasornic și se ridică pe o zonă mare.,X,X,b
+,c,masele de aer se învârt în sensul acelor de ceasornic și se ridică pe o zonă mare.,,0,
+,d,masele de aer se învârt invers sensului acelor de ceasornic și se înfundă pe o zonă mare.,,0,
+CC128,,128. Într-un anticiclon în emisfera nordică,,a,a
+,a,masele de aer se învârt în sensul acelor de ceasornic și se înfundă pe o zonă mare.,X,X,a
+,b,masele de aer se învârt invers sensului acelor de ceasornic și se ridică pe o zonă mare.,,0,
+,c,masele de aer se învârt în sensul acelor de ceasornic și se ridică pe o zonă mare.,,0,
+,d,masele de aer se învârt invers sensului acelor de ceasornic și se înfundă pe o zonă mare.,,0,
+CC129,,129. O izobară este o linie care unește punctele care,,b,b
+,a,au aceeași temperatură redusă la nivelul mării.,,0,b
+,b,au aceeași presiune redusă la nivelul mării.,X,X,b
+,c,au aceeași înălțime cu o presiune de 500 hPa.,,0,
+,d,au presiune egală pe exa dintre ciclon și anticiclon.,,0,
+CC130,,130. Din distribuția izobarelor pe harta sinoptică se pot face următoarele previziuni,,c,c
+,a,direcția predominantă a vântului și tendința de precipitații.,,0,c
+,b,gradientul temperaturii și intensitatea vântului.,,0,c
+,c,direcția și intensitatea predominantă avantlui.,X,X,c
+,d,tendința de precipitații.,,0,
+CC131,,131. Vântul de suprafață bate,,b,b
+,a,direct de la anticiclon spre ciclon.,,0,b
+,b,aproape paralel cu izobarele de la anticiclon spre ciclon.,X,X,b
+,c,direct de la.,,0,
+,d,aproape paralel cu izobarele de la ciclon spre anticiclon.,,0,
+CC132,,"132. Când distanța dintre izobare este mică,",,c,c
+,a,gradientul presiunii este mai abrupt și este probabilitate mare de vânturi slabe.,,0,c
+,b,gradientul presiunii este mai plat și este probabilitate mare de vânturi slabe.,,0,c
+,c,gradientul presiunii este mai abrupt și este probabilitate mare de vânturi puternice.,X,X,c
+,d,gradientul presiunii este mai plat și este probabilitate mare de vânturi puternice.,,0,
+CC133,,"133. Când distanța dintre izobare este mare,",,b,b
+,a,gradientul presiunii este mai abrupt și este probabilitate mare de vânturi slabe.,,0,b
+,b,gradientul presiunii este mai plat și este probabilitate mare de vânturi slabe.,X,X,b
+,c,gradientul presiunii este mai abrupt și este probabilitate mare de vânturi puternice.,,0,
+,d,gradientul presiunii este mai plat și este probabilitate mare de vânturi puternice.,,0,
+CC134,,134. Termicele se dezvoltă cel mai bine,,d,d
+,a,"în centrul unui ciclon, unde masele de aer au tendința să se ridice sub influența acestuia.",,0,d
+,b,"unde gradientul presiunii este mai abrupt, și aerul rece este suflat în continu pe o suprafață încălzită, eliminând nevoia ca masele de aer termic să coboare din nou.",,0,d
+,c,"în centrul unui anticiclon, unde datorită cerului senin radiația solară este cea mai intensă.",,0,d
+,d,"unde gradientul presiunii este mai plat, aerul poate fi încălzit fără a fi agitat de vânt, și nu există inversiune.",X,X,d
+CC135,,135. Vântul care bate din direcția 135° este,,d,d
+,a,vânt nordvestic.,,0,d
+,b,vânt nordestic.,,0,d
+,c,vânt sudvestic.,,0,d
+,d,vânt sudestic.,X,X,d
+CC136,,136. Vântul din nordvest are ununghi de,,b,b
+,a,45°,,0,b
+,b,315°,X,X,b
+,c,225°,,0,
+,d,135°,,0,
+CC137,,137. Vântul care bate cu 25 kt are,,d,d
+,a,15 km/h,,0,d
+,b,25 km/h,,0,d
+,c,35 km/h,,0,d
+,d,45 km/h,X,X,d
+CC138,,138. Un vânt din 270°/10kt este,,d,d
+,a,vânt estic cu o intensitate de aproximativ 18 km/h.,,0,d
+,b,vânt vestic cu o intensitate de aproximativ 10 km/h.,,0,d
+,c,vânt estic cu o intensitate de aproximativ 10 km/h.,,0,d
+,d,vânt vestic cu o intensitate de aproximativ 18 km/h.,X,X,d
+CC139,,"139. Care din următoarele afirmații este în concordanță cu prognoza direcției și intensității vântului la 1.000 m altitudine. 1000 m: 070°/15kt, 2000 m: 080°/10kt, 3000 m: 230°/10 kt, 4000 m: 240°/10 kt",,d,d
+,a,"Vânt din sudvest, 28 km/h.",,0,d
+,b,"Vânt din nordest, 15 km/h.",,0,d
+,c,"Vânt din sudvest, 15 km/h.",,0,d
+,d,"Vânt din nordest, 28 km/h.",X,X,d
+CC140,,"140. Avem progoza direcției și intensității vântului pentru planoare: 070°/15kt, 2000 m: 080°/10kt, 3000 m: 230°/10 kt, 4000 m: 240°/10 kt La ce nivel este un vânt de forfecare sesizabil?",,b,b
+,a,Între 1.000m și 2.000m.,,0,b
+,b,Între 2.000m și 3.000m.,X,X,b
+,c,Între 3.000m și 4.000m.,,0,
+,d,Pe toate nivelele.,,0,
+CC141,,"141. Dacă comparăm vântul de suprață cu vântul de la 3.000 m ASL pe un teren plat, vântul de suprață este în general.",,b,b
+,a,mai puternic și mai turbulent.,,0,b
+,b,mai slab și mai turbulent.,X,X,b
+,c,mai puternic și mai puțin turbulent.,,0,
+,d,mai slab și mai puțin turbulent.,,0,
+CC142,,"142. Dacă comparăm vântul de suprață cu vântul de la 3.000 m ASL pe un teren plat, vântul de la 3.000 m ASL este în general",,c,c
+,a,mai puternic și mai turbulent.,,0,c
+,b,mai slab și mai turbulent.,,0,c
+,c,mai puternic și mai puțin turbulent.,X,X,c
+,d,mai slab și mai puțin turbulent.,,0,
+CC143,,143. Vântul de munte (catabatic) bate,,c,c
+,a,în timpul zileli și la vale (în jos).,,0,c
+,b,în timpul zileli și la deal (înspre munți).,,0,c
+,c,în timpul nopții și la vale (în jos).,X,X,c
+,d,în timpul nopții și la deal (înspre munți).,,0,
+CC144,,144. Vântul de vale (anabatic) bate,,b,b
+,a,în timpul zileli și la vale (în jos).,,0,b
+,b,în timpul zileli și la deal (înspre munți).,X,X,b
+,c,în timpul nopții și la vale (în jos).,,0,
+,d,în timpul nopții și la deal (înspre munți).,,0,
+CC145,,"145. Când este vânt de vale, putem gâsi termicile",,b,b
+,a,în general pe mijlocul văii.,,0,b
+,b,în general pe partea de sus a fețelor văii.,X,X,b
+,c,pe mijlocul văii cât și pe partea de sus a fețelor văii.,,0,
+,d,nu pe mijlocul văii și nici pe partea de sus a fețelor văii.,,0,
+CC146,,"146. Când este vânt de munte, putem gâsi termicile",,a,a
+,a,în general pe mijlocul văii.,X,X,a
+,b,în general pe partea de sus a fețelor văii.,,0,
+,c,pe mijlocul văii cât și pe partea de sus a fețelor văii.,,0,
+,d,nu pe mijlocul văii și nici pe partea de sus a fețelor văii.,,0,
+CC147,,147. Vântul de vale se creează din cauză că aerul,,d,d
+,a,se încălzește mai repede în vale decât în munți în timpul zilei.,,0,d
+,b,se răcește mai repede în munți de cât în vale când slăbește radiația solară.,,0,d
+,c,se răcește mai repede în vale de cât în munți când slăbește radiația solară.,,0,d
+,d,se încălzește mai repede în munți decât în vale în timpul zilei.,X,X,d
+CC148,,148. Vântul de munte se creează din cauză că aerul,,b,b
+,a,se încălzește mai repede în vale decât în munți în timpul zilei.,,0,b
+,b,se răcește mai repede în munți de cât în vale când slăbește radiația solară.,X,X,b
+,c,se răcește mai repede în vale de cât în munți când slăbește radiația solară.,,0,
+,d,se încălzește mai repede în munți decât în vale în timpul zilei.,,0,
+CC149,,149. Aproximativ de la ce oră este probabil vântul de vale în munții Carpați?,,b,b
+,a,ora 08:00,,0,b
+,b,ora 11:00,X,X,b
+,c,ora 18:00,,0,
+,d,ora 22:00,,0,
+CC150,,150. Aproximativ de la ce oră este probabil vântul de munte în munții Carpați?,,c,c
+,a,ora 08:00am,,0,c
+,b,ora 11:00am,,0,c
+,c,ora 18:00pm,X,X,c
+,d,ora 22:00pm,,0,
+CC151,,151. Vântul de vale în munții Carpați,,a,a
+,a,e mai puternic în perioada iulie-septembrie de cât în perioada decembrieaprilie.,X,X,a
+,b,e mai puternic în perioada octombrie-februarie de cât în perioada iulie-septembrie.,,0,
+,c,e mai puternic în perioada decembrie-aprilie de cât în perioada decembrie-aprilie.,,0,
+,d,are aceași intensitate indiferent de perioada anului.,,0,
+CC152,,152. Care din următoarele afirmații este corectă?,,c,c
+,a,Vântul de vale bate mai slab lângă sol și crește în intensitate continuu o dată cu creșterea altitudinii.,,0,c
+,b,Vântul de vale are aceeași intensitate la 50 m deasupra solului cu intensitatea de la 800 m deasupra solului.,,0,c
+,c,Intensitatea vântului de vale crește o dată cu scăderea altitudinii.,X,X,c
+,d,Vântul de vale e cel mai puternic la aproximativ 500 m deasupra solului și se reduce deasupra și sub acest nivel.,,0,
+CC153,,153. În care din următoare condiții este cea mai probabilă apariția vântului de vale în zonele alpine?,,c,c
+,a,"30 decembrie, 14:00pm, cer fără nori.",,0,c
+,b,"30 iulie, 14:00pm, cer acoperit total.",,0,c
+,c,"30 august, 15:00pm, acoperire 3/8 până la 5/8 cu nori cumulus.",X,X,c
+,d,"30 iunie, 20:00pm, cer fără nori.",,0,
+CC154,,"154. Termenul de ”turbulență mecanică” descrie, din punct de vedere al meteorologiei, mișcarea maselor de aer cauzată de",,b,b
+,a,bule de aer cald care se desprind de sol și se ridică.,,0,b
+,b,"o masă de aer care se mișcă aproape de sol și care este perturbată de teren, case, pomi, etc.",X,X,b
+,c,echipamente tehnice cum ar fi aeronavele care se mișcă în masa de aer.,,0,
+,d,frecarea a două mase de aer alăturate care de deplasează în direcții diferite sau cu viteze diferite.,,0,
+CC155,,"155. Termenul de ”tubulență de forfecare” descrie, din punct de vedere al meteorologiei, mișcarea maselor de aer cauzată de",,d,d
+,a,bule de aer cald care se desprind de sol și se ridică.,,0,d
+,b,"o masă de aer care se mișcă aproape de sol și care este perturbată de teren, case, pomi, etc.",,0,d
+,c,un flux de aer care este separat în straturi de către un obstacol.,,0,d
+,d,frecarea a două mase de aer alăturate care de deplasează în direcții diferite sau cu viteze diferite.,X,X,d
+CC156,,"156. Termenul de ”tubulență termică” descrie, din punct de vedere al meteorologiei, mișcarea maselor de aer cauzată de",,a,a
+,a,bule de aer cald care se desprind de sol și se ridică.,X,X,a
+,b,"o masă de aer care se mișcă aproape de sol și care este perturbată de teren, case, pomi, etc.",,0,
+,c,"două mase de aer care, freacându-se între ele, se încălzesc și se ridică .",,0,
+,d,frecarea a două mase de aer alăturate care de deplasează în direcții diferite sau cu viteze diferite.,,0,
+CC157,,"157. La ora 14 pm într-o zonă montană, zi de vară, cu vânt general de nordvest de după trecerea unui front rece, vântul de vale are intensitea de 25 km/h pe fundul văii. La ce fel de turbulență ne putem aștepta în mijlocul văii la 500m deasupra solului?",,d,d
+,a,turbulență mecanică,,0,d
+,b,nici un fel de turbulență,,0,d
+,c,turbulență de inversiune,,0,d
+,d,turbulență de forfecare,X,X,d
+CC158,,"158. La ora 14 pm într-o zi de vară, vântul de vale are intensitea de 25 km/h pe fundul văii. La ce fel de turbulență ne putem aștepta în mijlocul văii la 20m deasupra solului?",,a,a
+,a,turbulență mecanică,X,X,a
+,b,nici un fel de turbulență,,0,
+,c,turbulență de gradient,,0,
+,d,turbulență de forfecare,,0,
+CC159,,"159. Ce tip de turbulență putem întâlni în văile alpine cu vânt puternic de vale, pe o față sudică, la o altitudine de 2000m ASL, într-o zi de vară la ora 13:00pm.",,b,b
+,a,turbulență mecanică,,0,b
+,b,turbulență termică,X,X,b
+,c,turbulență de gradient,,0,
+,d,turbulență de forfecare,,0,
+CC160,,"160. Când ne putem aștepta la cele mai puține turbulențe, într-o zi cu vreme frumoasă de iulie, în văile alpine în care este de obicei vânt puternic de vale.",,a,a
+,a,În jur de ora 9 am.,X,X,a
+,b,În jur de ora 11 am.,,0,
+,c,În jur de ora 13 pm.,,0,
+,d,În jur de ora 18 pm.,,0,
+CC161,,"161. Când ne putem aștepta la cele mai puternice turbulențe, într-o zi cu vreme frumoasă de iulie, în văile alpine în care este de obicei vânt puternic de vale.",,c,c
+,a,În jur de ora 9 am.,,0,c
+,b,În jur de ora 11 am.,,0,c
+,c,În jur de ora 13 pm.,X,X,c
+,d,În jur de ora 18 pm.,,0,
+CC162,,"162. Când ne putem aștepta la mai multe termici și cele mai puține turbulențe de forfecare, într-o zi cu vreme frumoasă de iulie, în văile alpine în care este de obicei vânt puternic de vale.",,b,b
+,a,În jur de ora 9 am.,,0,b
+,b,În jur de ora 11 am.,X,X,b
+,c,În jur de ora 13 pm.,,0,
+,d,În jur de ora 18 pm.,,0,
+CC163,,163. Ce se înțelege prin ”masă de aer”?,,a,a
+,a,Un corp de aer cu aceleași caracteritici.,X,X,a
+,b,Greutatea unui metru cub de aer la temperatura de 15°.,,0,
+,c,O zonă cu o concentrație mai mare de aer în centrul unui anticiclon.,,0,
+,d,O parte a atmosferei cu aceeași densitate a aerului.,,0,
+CC164,,"164. În ceea ce privește dezvoltarea frontală, masa de aer este definită ca fiind caldă atunci când temperatura acesteia este mai mare decât",,b,b
+,a,"15°C la nivelul mării cu 1013,2 hPa.",,0,b
+,b,temperatura maselor de aer din jur.,X,X,b
+,c,temperatura medie pentru sezon.,,0,
+,d,temperatura care a avut-o de unde provenit masa de aer.,,0,
+CC165,,"165. În meteorologie, se descrie termenul de ""front"" ca fiind",,d,d
+,a,linia de separare la nivelul mării dintre două mase de aer.,,0,d
+,b,o linie de zone de precipitații.,,0,d
+,c,o zonă de precipitații cu vânturi mari.,,0,d
+,d,suprafața de separare dintre două mase de aer diferite.,X,X,d
+CC166,,166. Care afirmație este adevărată?,,c,c
+,a,Trecerea fronturilor calde și reci începe la altitudine mare și apoi la nivelul solului.,,0,c
+,b,Trecerea fronturilor calde și reci începe la nivelul solului și apoi la altitudine.,,0,c
+,c,"Trecerea unui front cald are loc la început la altitudine, apoi la nivelul solului. Trecerea unui front rece are loc la început la nivelul solului, apoi la altitudine.",X,X,c
+,d,"Trecerea unei front cald are loc la început la nivelul solului, apoi la altitudine. Trecerea unui front rece are loc la început la altitudine, apoi la nivelul solului.",,0,
+CC167,,167. Care afirmație este adevărată?,,c,c
+,a,Un front cald se mișcă mai repede decât un front rece.,,0,c
+,b,Fronturile calde și reci se mișcă la aproximativ aceeași viteză.,,0,c
+,c,Un front rece se mișcă mai repede decât un front cald.,X,X,c
+,d,"În timpul iernii, frontul rece se mișcă mai repede, iar vara, frontul cald se mișcă mai repede.",,0,
+CC168,,168. Care ordine a tipurilor de nor este tipică pentru trecerea unei front cald?,,c,c
+,a,"Cumulus, cumulus congestus, cumulus calvus, cumulonimbus.",,0,c
+,b,"Altocumulus, stratocumulus, altostratus, nimbostratus.",,0,c
+,c,"Cirrus, cirstratus, altostratus, nimbostratus.",X,X,c
+,d,"Lenticular, cumulus congestus, cirocumulus, altocumulus.",,0,
+CC169,,169. Cum arată de obicei vremea cu o oră înainte de sosirea unui front cald?,,c,c
+,a,"Cer albastru, fără vânt, turbulențe nu prea mari, briză constantă la decolare, termici bune, largi și line, cumulus congestius și cumulonimbus în depărtare.",,0,c
+,b,"Cerul este acoperit 5/8 cu cumulus, vânt puternic, termici putermici cu înfundare puternică în jurul lor.",,0,c
+,c,"Vizibilitate slabă, baza norilor scăzută, ploaie, vânt constant.",X,X,c
+,d,"Nori acoperă munții din depărtare, nori cumulus și lenticulari în porțiunea albastră a cerului, schimbări de direcție de vânt pe pământ, vânt puternic de sud-vest la decolare.",,0,
+CC170,,170. Ce semne indică fohn-ul de sud pe partea de nord a Alpilor?,,d,d
+,a,"Cerul albastru, fără vânt, turbulențe mici, vânt constant la decolare, ascendență uniformă pe suprafețe mari, cumulus congestius și cumulonimbus la orizont.",,0,d
+,b,"Cerul este acoperit cu 5/8 cumulus, vânturi puternice crescânde, termici puternice cu înfundări mari în jur.",,0,d
+,c,"Vizibilitate proastă, bază norilor joasă, ploaie și vânt constant.",,0,d
+,d,Munții de pe orizontul sudic au nori în jurul lor. Există nori cumulus și lenticulari în partea albastră a cerului. Vântul la sol vine din toate direcțiile și e preponderent din sud-vest la locul de decolare.,X,X,d
+CC172,,172. Un front oclus apare când,,d,d
+,a,un front cald depășește un front rece la altitudine.,,0,d
+,b,un front rece trece peste un front cald la altitudine.,,0,d
+,c,un front cald depășește un front rece la nivelul solului.,,0,d
+,d,un front rece trece peste un front cald la nivelul solului.,X,X,d
+CC173,,173. Un front oclus are,,d,d
+,a,caracteristicile unui front cald.,,0,d
+,b,caracteristicile unui front rece.,,0,d
+,c,"caracteristicile inofensive ale unui front cald și rece, pe măsură ce ambele se neutralizează reciproc.",,0,d
+,d,"caracteristicile meteorologice ale unei front fie cald fie rece, în funcție de temperatura fluxului de aer rece.",X,X,d
+CC174,,174. Ce reprezintă următoarea imagine?,,b,b
+,a,Un front cald.,,0,b
+,b,Un front rece.,X,X,b
+,c,O ocluzie cu caracteristicile unei front cald.,,0,
+,d,d) O ocluzie cu caracteristicile unui front rece.,,0,
+CC175,,175. Ce reprezintă următoarea imagine?,,c,c
+,a,Un front cald.,,0,c
+,b,Un front rece.,,0,c
+,c,O ocluzie cu caracteristicile unei front cald.,X,X,c
+,d, O ocluzie cu caracteristicile unui front rece.,,0,
+CC176,,176. Ce reprezintă următoarea imagine?,,a,a
+,a,Un front cald.,X,X,a
+,b,Un front rece.,,0,
+,c,O ocluzie cu caracteristicile unei front cald.,,0,
+,d,O ocluzie cu caracteristicile unui front rece.,,0,
+CC177,,177. Ce reprezintă următoarea imagine?,,d,d
+,a,Un front cald.,,0,d
+,b,Un front rece.,,0,d
+,c,O ocluzie cu caracteristicile unei front cald.,,0,d
+,d,O ocluzie cu caracteristicile unui front rece.,X,X,d
+CC178,,"178. Formarea de nori cumulonimbus și, prin urmare, formarea de furtuni înainte de sosirea unui front este cel mai probabil cu",,c,c
+,a,fronturi reci în ianuarie.,,0,c
+,b,fronturi calde în ianuarie.,,0,c
+,c,fronturi reci în luna august.,X,X,c
+,d,fronturi calde în luna august.,,0,
+CC179,,179. O masă de aer cald și umed se află deasupra României. Prognoza prezice sosirea unei mase polare de aer rece din nord-vest în timpul zilei. La ce tip de vreme ne poatem aștepta pentru această zi?,,c,c
+,a,Condiții foarte favorabile pentru zborurile termice și la distanță din cauza aerului rece încălzit rapid de sol.,,0,c
+,b,"Aerul rece care va sosi va stabiliza atmosfera, făcând astfel zborurile termice imposibile pentru ceva timp.",,0,c
+,c,Furtuni frontale care aduc grindină si vânturi puternice.,X,X,c
+,d,Răcirea continuă a aerului umed și cald și începutul treptat al precipitațiilor.,,0,
+CC180,,180. În ce perioadă a zilei sunt furtunile termice (locale) cele mai probabile?,,b,b
+,a,Dimineața.,,0,b
+,b,După-amiaza târziu.,X,X,b
+,c,La scurt timp după amiază.,,0,
+,d,Timpul zilei nu are nici o influență asupra furtunilor termice (locale).,,0,
+CC181,,181. În ce moment al zilei sunt probabile furtunile frontale?,,d,d
+,a,10 am,,0,d
+,b,15 pm,,0,d
+,c,20 pm,,0,d
+,d,Timpul zilei nu are nici o influență asupra furtunilor frontale.,X,X,d
+CC182,,"182. În general, ce condiții cauzează o inversiune la nivelul solului?",,b,b
+,a,"Încălzirea aerului care coboară, cu rata adiabatului uscat, în fața și în centrul unei presiuni ridicate.",,0,b
+,b,Radiația nocturnă a căldurii din sol atunci când există cer senin.,X,X,b
+,c,Masele de aer continentale care se stratifică aproape de sol.,,0,
+,d,Încălzirea straturilor de aer adiacente solui pe parcursul zilei.,,0,
+CC183,,183. Ce cauzează dispariția unei inversiuni de la nivelul solului?,,b,b
+,a,Încălzirea aerului cald care coboară în fața și în centrul unei presiuni ridicate.,,0,b
+,b,Radiația nocturnă a căldurii de pe pământ atunci când există cer senin.,X,X,b
+,c,Aerul cald intrat în straturile superioare de aer.,,0,
+,d,Încălzirea straturilor de aer aproape de sol pe parcursul zilei.,,0,
+CC184,,184. Care sunt cele mai bune condiții pentru crearea unor termici bune într-o anumită zonă?,,b,b
+,a,"Unghi mare de incidență al razelor solare, reflexie puternică.",,0,b
+,b,"Unghi mare de incidență a razelor solare, reflexie slabă.",X,X,b
+,c,"Unghi scăzut de incidență a razelor solare, reflexie slabă.",,0,
+,d,"Unghi scăzut de incidență a razelor solare, reflexie puternică.",,0,
+CC185,,185. Care sunt cele mai bune condiții pentru crearea unor termici bune într-o anumită zonă?,,d,d
+,a,Zonă umedă și expusă vântului.,,0,d
+,b,Zonă uscată și expusă vântului.,,0,d
+,c,Zonă umedă și protejată de vânt.,,0,d
+,d,Zonă uscată și protejată de vânt.,X,X,d
+CC186,,186. În care din următoarele luni sunt cele mai pronunțate termici înzonele deluroase?,,b,b
+,a,ianuarie,,0,b
+,b,mai,X,X,b
+,c,august,,0,
+,d,octombrie,,0,
+CC187,,187. În care din următoarele luni ajung termicile din munți la cele mai mari altitudini?,,c,c
+,a,ianuarie,,0,c
+,b,mai,,0,c
+,c,august,X,X,c
+,d,octombrie,,0,
+CC188,,"188. Termenul ""termică de sub vânt"" înseamnă",,b,b
+,a,Curentul descendent de pe partea protejată de vânt a unei mase de aer cald în urcare.,,0,b
+,b,Aerul cald care se ridică de pe partea protejată de vânt a unui munte.,X,X,b
+,c,Aerul cald creat de turbulența rotorului pe partea protejată de vânt a unui munte.,,0,
+,d,Curent termic ascendent format în partea de sub vânt a altui curent termic ascendent.,,0,
+CC189,,189. Termicile de sub vânt sunt cel mai probabil întâlnite,,d,d
+,a,pe pantele nordice în timp ce bate vântul din nord.,,0,d
+,b,pe pantele nordice în timp ce bate vântul din sud.,,0,d
+,c,pe pantele sudice în timp ce bate vântul din sud.,,0,d
+,d,pe pantele sudice în timp ce bate vântul din nord.,X,X,d
+CC190,,"190. Termenul ""termică albastră"" înseamnă",,a,a
+,a,aerul cald în urcare în care umiditatea este atât de mică încât nu permite dezvoltarea norilor cumulus.,X,X,a
+,b,aerul cald în urcare în care umiditatea este atât de ridicată încât formează nori care generează precipitații.,,0,
+,c,"aerul cald în urcare de peste corpuri întinse de apă, pe timpul nopții.",,0,
+,d,"aerul cald în urcare, care este ridicat de o masă continentală de aer rece.",,0,
+CC191,,191. Ar trebui să ne așteptăm la termici albastre când,,b,b
+,a,"termica nu provine de la sol, ci dintr-un strat de aer mai înalt.",,0,b
+,b,diferența de temperatură - punct de rouă a masei de aer în urcare este atât de mare încât punctul de rouă nu este atins.,X,X,b
+,c,solul se răcește atât de mult în timpul nopții încât este mai rece decât un corp de apă învecinat.,,0,
+,d,stratificarea atmosferică este atât de stabilă încât curenții termici sunt suprimați.,,0,
+CC192,,"192. Termenul ""ascendență de restituție"" se referă la",,b,b
+,a,"masele de aer care coboară în timpul zilei deasupra suprafețelor reci, cum ar fi ghețarii și lacurile.",,0,b
+,b,"masele de aer în urcare din mijlocul văii, după apariția vântului de munte (catabatic).",X,X,b
+,c,masele de aer descendente din apropierea curenților termici.,,0,
+,d,curentul descendent din cauza temperaturii.,,0,
+CC193,,"193. Pe o hartă meteorologică, acest simbol definește",,b,b
+,a,o izobară.,,0,b
+,b,un front rece.,X,X,b
+,c,un front cald.,,0,
+,d,un front oclus.,,0,
+CC194,,"194. Pe o hartă meteorologică, acest simbol definește",,c,c
+,a,o izobară.,,0,c
+,b,un front rece.,,0,c
+,c,un front cald.,X,X,c
+,d,un front oclus.,,0,
+CC195,,"195. Pe o hartă meteorologică, acest simbol definește",,a,a
+,a,o izobară.,X,X,a
+,b,un front rece.,,0,
+,c,un front cald.,,0,
+,d,un front oclus.,,0,
+CC196,,"196. Pe o hartă meteorologică, acest simbol definește",,d,d
+,a,o izobară.,,0,d
+,b,un front rece.,,0,d
+,c,un front cald.,,0,d
+,d,un front oclus.,X,X,d
+CC197,,197. Unde este centrul ciclonului?,,d,d
+,a,lângă Tunis,,0,d
+,b,deasupra golfului Biscaya (Golf von Biskaya),,0,d
+,c,lângă Stockholm,,0,d
+,d,lângă Lulea,X,X,d
+CC198,,198. Unde este centrul anticiclonului?,,b,b
+,a,lângă Tunis,,0,b
+,b,deasupra golfului Biscaya (Golf von Biskaya),X,X,b
+,c,lângă Stockholm,,0,
+,d,lângă Lulea,,0,
+CC199,,199. Unde este gradientul presiunii cel mai plat?,,a,a
+,a,lângă Tunis,X,X,a
+,b,deasupra golfului Biscaya (Golf von Biskaya),,0,
+,c,lângă Stockholm,,0,
+,d,lângă Lulea,,0,
+CC200,,200. Unde este gradientul presiunii cel mai abrupt?,,c,c
+,a,lângă Tunis,,0,c
+,b,deasupra golfului Biscaya (Golf von Biskaya),,0,c
+,c,lângă Stockholm,X,X,c
+,d,lângă Lulea,,0,
+CC201,,201. Unde e cel mai puternic vânt?,,c,c
+,a,În nordul Africii.,,0,c
+,b,În Elveția.,,0,c
+,c,În sudul Scandinaviei.,X,X,c
+,d,În Islanda.,,0,
+CC202,,202. Unde e cel mai slab vânt?,,a,a
+,a,În nordul Africii.,X,X,a
+,b,În Elveția.,,0,
+,c,În sudul Scandinaviei.,,0,
+,d,În Islanda.,,0,
+CC203,,203. Care este direcția vântului în Alger?,,c,c
+,a,100 °,,0,c
+,b,190 °,,0,c
+,c,280 °,X,X,c
+,d,320 °,,0,
+CC204,,204. Care este direcția vântului în Londra?,,d,d
+,a,130 °,,0,d
+,b,190 °,,0,d
+,c,270 °,,0,d
+,d,310 °,X,X,d
+CC205,,205. Care este direcția vântului în Atena?,,a,a
+,a,130 °,X,X,a
+,b,190 °,,0,
+,c,270 °,,0,
+,d,310 °,,0,
+CC206,,206. Care este direcția vântului în Zurich?,,b,b
+,a,100 °,,0,b
+,b,210 °,X,X,b
+,c,280 °,,0,
+,d,030 °,,0,
+CC207,,207. Care este direcția vântului în Lisabona?,,d,d
+,a,100 °,,0,d
+,b,190 °,,0,d
+,c,250 °,,0,d
+,d,320 °,X,X,d
+CC208,,208. Care dintre următoarele orașe se află într-un sector cald?,,b,b
+,a,Lulea și Sankt-Petersburg,,0,b
+,b,Zurich și Stockholm,X,X,b
+,c,Lisabona și Atena,,0,
+,d,Paris și Londra,,0,
+CC209,,209. În care dintre următoarele orașe sunt condiții meteo de după front?,,d,d
+,a,Lulea și Sankt-Petersburg,,0,d
+,b,Zurich și Stockholm,,0,d
+,c,Lisabona și Atena,,0,d
+,d,Paris și Londra,X,X,d
+CC210,,210. Care dintre următoarele orașe sunt sub influența anticiclonului?,,c,c
+,a,Lulea și Sankt-Petersburg,,0,c
+,b,Zurich și Stockholm,,0,c
+,c,Lisabona și Atena,X,X,c
+,d,Paris și Londra,,0,
+CC211,,211. Care este distribuția de nori cea mai probabilă în Lulea?,,b,b
+,a,3/8 - 5/8 cumulus,,0,b
+,b,5/8 - 7/8 cirostratus,X,X,b
+,c,8/8 nimbostratus,,0,
+,d,"5/8 - 7/8 cumulonimbus, lenticulari izolați în est",,0,
+CC212,,212. Care este distribuția de nori cea mai probabilă în Paris?,,a,a
+,a,3/8 - 5/8 cumulus,X,X,a
+,b,5/8 - 7/8 cirostratus,,0,
+,c,8/8 nimbostratus,,0,
+,d,"5/8 - 7/8 cumulonimbus, lenticulari izolați în est",,0,
+CC213,,213. Care este distribuția de nori cea mai probabilă în nordvestul Elveției?,,d,d
+,a,5/8 - 7/8 cirocumulus,,0,d
+,b,5/8 - 7/8 cirostratus,,0,d
+,c,8/8 nimbostratus,,0,d
+,d,"5/8 - 7/8 cumulonimbus, lenticulari izolați în est",X,X,d
+CC214,,214. Care este distribuția de nori cea mai probabilă în St. Petersburg?,,c,c
+,a,3/8 - 5/8 cumulus,,0,c
+,b,5/8 - 7/8 cirostratus,,0,c
+,c,8/8 nimbostratus,X,X,c
+,d,"5/8 - 7/8 cumulonimbus, lenticulari izolați în est",,0,

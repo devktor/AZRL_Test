@@ -1,0 +1,406 @@
+Column1,Column2,Column3,Column4
+D1.,,Ce este navigatia aeriana ,
+,a,o informare,
+,b,un sistem de deplasare al aeronavelor,
+,c,o stiinta,X
+D2.,,Care este metoda de navigatie pentru zborul in VFR,
+,a,observata,X
+,b,estimata,
+,c,izobarica,
+D3.,,Cum sunt numerotate meridianele,
+,a,de la est la vest,
+,b,de la vest la est ,
+,c,in ambele sensuri,X
+D4.,,Cum sunt numerotate paralelele ,
+,a,de la nord la sud,
+,b,de la ecuator spre sud,
+,c,de la ecuator spre nord si sud  ,X
+D5.,,Ce reprezinta nivelmentul,
+,a,totalitatea formelor de relief,X
+,b,forme de relief specifice hartilor,
+,c,reprezinta planeitatea terenului,
+D6.,,Care sunt directiile principale  ,
+,a,"N , NV ,  E, SE",
+,b,"N , S , E , V",X
+,c,"E, SE, V, NV",
+D7.,,Care sunt Nordurile folosite in navigatie,
+,a,Nordul adevarat,X
+,b,Nordul magnetic,X
+,c,Nordul izobaric,
+D8.,,Ce este declinatia magnetica ,
+,a,directia compas,
+,b,unghiul dintre aeronava si Nord,
+,c,unghiul dintre Nordul magnetic si Nordul adevarat,X
+D9.,,Ce este distanta ,
+,a,spatiul dintre doua puncte,X
+,b,lungimea liniei care le uneste,
+,c,unitatea de masura,
+D10.,,Ce unitate de masura este folosit pentru inaltime in normele OACI,
+,a,yardul,
+,b,foot,X
+,c,inch-ul,
+D11.,,Care este scara hartii pentru zborul in VFR ,
+,a,1: 200 000,
+,b,1: 50 000,
+,c,1: 500 000 ,X
+D12.,,Cum se numeste meridianul prim,
+,a,Pascal ,
+,b,Greenwich,X
+,c,Hecto,
+D13.,,Cum se numeste traseul de la decolare pana la aterizare ,
+,a,itinerar,
+,b,traiect,X
+,c,ruta,
+D14.,,Pentru un zbor in VFR este nevoie de o harta ,
+,a,informativa,X
+,b,operativa,
+,c,de ruta,
+D15.,,Care sunt reperele liniare pe o harta ,
+,a,"orase, lacuri, terenuri",
+,b,"caii ferate , sosele, rauri",X
+,c,"poduri mari, fabrici izolate, silozuri",
+D16.,, La o rotatie de 24 de ore a pamantului corespund ,
+,a,1800 longitudine,
+,b,2300 longitudine,
+,c,3600 longitudine,X
+D17.,, In ce se masoara viteza vantului ,
+,a,m/s,X
+,b,noduri,X
+,c,km/h,X
+D18.,, Ce este UTC ,
+,a,timpul local ,
+,b,ora actuala,
+,c,timpul universal coordonat,X
+D19.,, Care sunt etapele planificarii zborului ,
+,a,alegerea hartilor,X
+,b,estimarea meteo,X
+,c,trasarea traiectului,X
+D20.,,  Ce este GPS ,
+,a,sistem de navigatie,
+,b,sistem de control,
+,c,sistem de pozitie,X
+D21.,, Pozitionarea in sistem GPS se face prin,
+,a,sistem radio,
+,b,triangulatie,X
+,c,balize,
+D22.,,  Cate surse minim foloseste sistemul GPS pentru stabilirea pozitiei si altitudinii,
+,a,3,
+,b,5,
+,c,4,X
+D23.,, Cate surse minim foloseste sistemul GPS pentru stabilirea pozitiei ,
+,a,3  ,X
+,b,12,
+,c,9,
+D24.,,  Ce este o altitudine barometrica ,
+,a,inaltime de la nivelul marii,X
+,b,inaltime care corespunde presiunii standard,
+,c,inaltime dintr-un punct de referinta,
+D25.,,Din ce directie bate vantul la 1350,
+,a,NE,
+,b,E,
+,c,SE,X
+D26.,,Din ce directie bate vantul la 2700,
+,a,N,
+,b,W,X
+,c,SW,
+D27.,,Din ce directie bate vantul la O0,
+,a,N,X
+,b,NE,
+,c,NW,
+D28.,,Care este inaltimea minima a unui obstacol pentru a fi reprezentat pe o harta de navigatie,
+,a,50m,
+,b,100m,X
+,c,300m,
+D29.,,Inaltimea unui punct este distanta dintre acel punct si,
+,a,nivelul mediu al marii,
+,b,izobara de 1013mb,
+,c,terenul survolat,X
+D30.,,Care sunt coordonatele geografice,
+,a,latitudine,X
+,b,altitudine,
+,c,longitudine,X
+D31.,,Cate secunde are 1 grad de latitudine sau longitudine,
+,a,60,
+,b,3600,X
+,c,600,
+D32.,,O mila nautica (1NM) este echivalenta cu,
+,a,1 minut de longitudine in orice punct de pe pamant,
+,b,1 minut de latitudine in orice punct de pe pamant,X
+,c,1 grad de latitudine in orice punct de pe pamant,
+D33.,,Cati kilometri are 1 mila nautica (NM) ,
+,a,1.8,X
+,b,1.5,
+,c,2.2,
+D34.,,Cate minute au 0.250,
+,a,45 minute,
+,b,15 minute,X
+,c,25 minute,
+D35.,,Ce este o zona interzisa,
+,a,un spatiu definit unde zborul nu este permis,X
+,b,un spatiu definit unde zborul se face dupa reguli stricte,
+,c,un spatiu definit ca fiind temporar restrictionat,
+D36.,, Ce este o zona restrictionata,
+,a,un spatiu definit unde este restrictionat zborul,
+,b,un spatiu definit unde zborul se face in conditii specificate,X
+,c,un spatiu definit unde au loc activiati periculoase zborului,
+D37.,,Deplasarea aeronavei fata de sol este compusa din,
+,a,viteza aeronavei fata de aer,X
+,b,viteza aeronavei fata de vant,
+,c,viteza aerului fata de sol,X
+D38.,,Viteza vantului se descompune in,
+,a,componenta verticala,
+,b,componenta laterala,X
+,c,componenta longitudinala,X
+D39.,,Ce este deriva ,
+,a,unghiul dintre directia vantului si directia de deplasare fata de sol ,
+,b,unghiul dintre directia de orientare si directia de deplasare fata de aer,
+,c,unghiul dintre directia de orientare si directia de deplasare fata de sol,X
+D40.,,Acul busolei se va alinia cu Nordul,
+,a,adevarat,
+,b,magnetic,X
+,c,izobaric,
+D41.,,FL50 observat pe o harta reprezinta cu aproximatie,
+,a,5000m,
+,b,5000ft,X
+,c,500m,
+D42.,,In conditii de vant calm directia de deplasare a aeronavei este,
+,a,perpendiculara pe directia vantului,
+,b,paralela cu directia vantului,
+,c,neinfluentata de vant,X
+D43.,,Cu vant din spate viteza aeronavei fata de aer este,
+,a,mai mare,
+,b,mai mica,
+,c,nu difera,X
+D44.,,Cum afiseaza sistemul GPS coordonatele geografice,
+,a,"grade, minute, secunde",X
+,b,"grade, minute",X
+,c,"grade, secunde",
+D45.,,Hartile trebuie sa fie,
+,a,digitale,
+,b,cu scara constanta,X
+,c,conforme (sa respecte unghiurile reale),X
+D46.,,Scara unei harti poate fi reprezentata ca,
+,a,fractie reprezentativa (1:500.000),X
+,b,linie gradata,X
+,c,text descriptiv (1cm egal 5km),X
+D47.,,Ce ii trebuie unui sistem GPS pentru determinarea pozitiei,
+,a,cer senin,
+,b,spatiu neacoperit,X
+,c,conexiune la Internet,
+D48.,,O viteza a vantului de 20 de noduri (20kts) reprezinta,
+,a,15m/s,
+,b,10km/h,
+,c,10m/s,X
+D49.,,Vantul este din sector sud vestic (SW). Va asteptati ca directia sa fie din,
+,a,0000 - 0450,
+,b,2250 - 3150,
+,c,1800 - 2700,X
+D50.,,Linia care uneste pe o harta punctele cu aceeasi altitudine se numeste,
+,a,ortodroma,
+,b,curba de nivel,X
+,c,izoclina,
+D51.,,Cota este:,
+,a,înaltimea obstacolului masurata fata de nivelul mediu al marii;,X
+,b,înaltimea obstacolului fata de un nivel de referinta.,
+,c,distanta obstacolului masurata fata de nivelul marii;,
+Column1,Column2,Column3,Column4,,
+DD52,,În cazul navigației estimate:,,b,b
+,a,determinarea poziției aeronavei nu este exactă,,0,b
+,b,determinarea poziției aeronavei se face după instrumente de la bord,X,X,b
+,c,nu se folosește la determinarea poziției aeronavei,,0,
+DD53,,Metoda navigației observate,,c,c
+,a,este utilizat la zborurile IFR,,0,c
+,b,nu poate fi utilizat de către piloții de parapantă,,0,c
+,c,implică folosirea unei hărți,X,X,c
+DD54,,. Reperele folosite in navigatie pot fi:,,b,b
+,a,repere fixe sau repere mobile,,0,b
+,b,repere punctiforme sau repere lineare,X,X,b
+,c,repere statice sau dinamice,,0,
+DD55,,. Reperele de suprafață pot fi:,,a,a
+,a,"orașe, lacuri",X,X,a
+,b,"căi ferate, șosele, râuri",,0,
+,c,"poduri, fabrici, ferme",,0,
+DD56,,. Vizibilitatea scăzută:,,c,c
+,a,nu influențeaza zborurile VFR,,0,c
+,b,reprezintă distanța pe verticală de la care se pot observa reperele de la sol,,0,c
+,c,"c)poate fi cauzat de fum, ceață, ploaie",X,X,c
+DD57,,. Meridianul Greenwich se află la:,,a,a
+,a,longitudinea 0,X,X,a
+,b,longitudinea 45 si latitudinea 45,,0,
+,c,latitudinea 90,,0,
+DD58,,. Directia vest corespunde cu:,,c,c
+,a,90 grade,,0,c
+,b,180 grade,,0,c
+,c,270 grade,X,X,c
+DD59,,. Documentul de bază pentru informarea tuturor operatorilor în vederea efectuării activității de zbor pe teritoriul României este:,,b,b
+,a,F.I.R,,0,b
+,b,A.I.P,X,X,b
+,c,N.A.V,,0,
+DD60,,. Alegeți afirmația adevărată cu privire la viteza indicata a unei aeronave IAS (viteza indicată de vitezometru aflat la bordul aeronavei bazat pe capsula manometrică):,,b,b
+,a,"în cazul în care viteza vântul WS este 0, va fi întotdeauna egal cu viteza aeronavei fațăde sol GS",,0,b
+,b,este influențat de densitatea aerului,X,X,b
+,c,nu depinde de înălțimea de zbor,,0,
+DD61,,. Ora universala coordinata UTC este:,,a,a
+,a,ora locală la meridianul 0,X,X,a
+,b,ora locală de la aerodromul de plecare,,0,
+,c,este ora de la miezul nopții,,0,
+DD62,,. Diferența între LMT și UTC este aceeași :,,a,a
+,a,de a lungul aceluiași meridian de longitudine,X,X,a
+,b,indiferent de poziția pe glob,,0,
+,c,de a lungul aceluiași meridian de latitudine,,0,
+DD63,,. Ora apusului și răsăritului la o anumită dată:,,c,c
+,a,nu depinde de latitudine,,0,c
+,b,nu depinde de longitudine,,0,c
+,c,depinde atât de latitudine cît și de longitudine,X,X,c
+DD64,,. Ora apusului și răsăritului:,,a,a
+,a,se schimbă în cursul anului,X,X,a
+,b,nu se schimbă față de UTC,,0,
+,c,diferă în funcție de condițiile meteorologice,,0,
+DD65,,. Următoarea caracteristică a unei hărți ne ajută la calcularea directă a distanței prin măsurare pe hartă:,,c,c
+,a,nivelmentul,,0,c
+,b,planimetria,,0,c
+,c,scara hărții,X,X,c
+DD66,,Daca o harta are scala de scala 1:50.000 două puncte aflate la o distanță de 32 cm vor fi în realitate la:,,b,b
+,a,50 km,,0,b
+,b,16 km,X,X,b
+,c,32 km,,0,
+DD67,,. Conditiile de vizibilitate minimă pentru zborurile VFR sunt stabilite prin:,,c,c
+,a,RACR LPAS,,0,c
+,b,RACR AUN,,0,c
+,c,RACR RA,X,X,c
+DD68,,. Pentru efectuarea cu parapanta unui zbor de 300 de km:,,a,a
+,a,se va alege o hartă de navigție la scara de 1:500000 în care sunt marcate mai multe detalii necesare desfășurării zborului,X,X,a
+,b,se va alege harta lumii unde exista posibilitatea marcării ortodromei în vederea determinării elementelor de zbor,,0,
+,c,nu este necesară folosirea unei hărți deoarece cu parapanta se zboară la vedere,,0,
+DD69,,. Paralelele de latitudine sunt:,,c,c
+,a,paralele cu meridianul Greenwich,,0,c
+,b,paralele cu loxodroma,,0,c
+,c,paralele cu ecuatorul,X,X,c
+DD70,,. Prescurtarea AWY semnifică:,,c,c
+,a,pistă de decolare/aterizare,,0,c
+,b,regiune de control aerodrom,,0,c
+,c,cale aeriană,X,X,c
+DD71,,. Regiunile terminale de control:,,b,b
+,a,sunt spații aeriene rezervate,,0,b
+,b,sunt spații aeriene controlate,X,X,b
+,c,sunt spații aeriene necontrolate,,0,
+DD72,,Zonele de control de aerodrom sunt spații aeriene cu dimensiuni stabilite pe verticală:,,b,b
+,a,de la o anumită altitudine/înălțime pînă la o anumită altitudine/înălțime,,0,b
+,b,de la nivelul solului pînă la o anumită altitudine/înălțime,X,X,b
+,c,"nu are limite stabilite pe verticală, doar pe orizontală",,0,
+DD73,,. Alegeți care clasă de spațiu aerian se regăsește în FIR București:,,b,b
+,a,clasa B,,0,b
+,b,clasa C,X,X,b
+,c,clasa D,,0,
+DD74,,În spațiul aerian de clasa C sunt permise:,,a,a
+,a,numai zboruri IFR,X,X,a
+,b,numai zboruri VFR,,0,
+,c,zboruri VFR și IFR,,0,
+DD75,,. Pentru efectuarea unui zbor în spațiu aerian de clasa C este obligatorie:,,b,b
+,a,efectuarea unei informări de trafic VFR,,0,b
+,b,depunerea unui plan de zbor,X,X,b
+,c,obținerea autorizației de survol,,0,
+DD76,,. Comunicațiile radio bilaterale în cazul zborurilor VFR:,,a,a
+,a,sunt obligatorii în spațiul aerian de clasă C,X,X,a
+,b,sunt obligatorii în spațiul aerian de clasă G,,0,
+,c,în spațiile aeriene din FIR București nu sunt obligatorii,,0,
+DD77,,Spațiu aerian de clasă G are limita superioară la maxim:,,c,c
+,a,FL195,,0,c
+,b,4000 metrii ASL,,0,c
+,c,FL100,X,X,c
+DD78,,În ce condiții un zbor VFR efectuat în întregime în spațiu aerian de clasa G se consider autorizat:,,b,b
+,a,s-a obținut o autorizație de survol,,0,b
+,b,s-a depus un plan de zbor sau o informare de trafic,X,X,b
+,c,s-a obținut avizul Ministerului Apărării Naționale,,0,
+DD79,,Zonele de control de aerodrom pe hărțile de navigație sunt prescurtate:,,b,b
+,a,ZCA,,0,b
+,b,CTR,X,X,b
+,c,TRA,,0,
+DD80,,În FIR București spațiile aeriene de tip TMA pot fi:,,c,c
+,a,clasa C si clasa G,,0,c
+,b,clasa A și clasa B,,0,c
+,c,clasa A și clasa C,X,X,c
+DD81,,". Conform RACR RA un zbor VFR (cu excepția: decolării, aterizării sau  autorizării corespunzătoare acordate de autoritatea competentă) nu va fi efectuat:",,c,c
+,a,la o înălțime mai mare de 2000 de metrii AGL,,0,c
+,b,peste nivelul FL 105,,0,c
+,c,la o înălțimea mai mică de 150 de metrii AGL,X,X,c
+DD82,,În cazul în care planul de zbor se depune de la sol acesta va fi depus înaintea decolării cu cel puțin:,,c,c
+,a,10 minute,,0,c
+,b,24 ore,,0,c
+,c,o oră,X,X,c
+DD83,,. Conform HG 912/2017 decolarea și aterizarea parapantelor se poate face:,,c,c
+,a,numai de pe aerodromuri certificate,,0,c
+,b,de pe aerodromuri certificate și de pe terenuri extravilane cu acordul Primăriei,,0,c
+,c,de pe orice teren cu acordul proprietarului,X,X,c
+DD84,,. Pentru a efectua un zbor în spațiu aerian de clasă G pilotul este obligat să se informeze cu privire la limitările și restricțiile aplicabile zborului respectiv din următoarele surse:,,abc,abc
+,a,AIP,X,X,abc
+,b,circularele aeronautice,X,X,bc
+,c,mesajele de tip Notam,X,X,c
+DD85,,". Pentru a zbura în spațiu aerian rezervat, segregat sau restricționat un pilot trebuie obligatoriu să aibă:",,b,b
+,a,transponder,,0,b
+,b,"autorizarea unității de trafic sau a entității care a făcut rezervarea, respectiv a cerut utilizarea exclusiva a zonei respective",X,X,b
+,c,plan de zbor și statie radio în bandă de aviație pentru a realiza comunicații radio bilaterale,,0,
+DD86,,. Radiofarul nondirectional NDB este:,,c,c
+,a,un mijloc de radio comunicație,,0,c
+,b,sistem de localizare a aeronavelor aflate în pericol,,0,c
+,c,un mijloc de radionavigație,X,X,c
+DD87,,. Echipamentul DME asociat unei stații terestre VOR:,,b,b
+,a,înbunătățește semnalul VHF transmis de stația terestră VOR,,0,b
+,b,este un echipament de măsurare a distanței,X,X,b
+,c,nu se folosește la noi în țară,,0,
+DD88,,. Care din următoarele tipuri de spațiu aerian aflate în FIR București este de clasă A:,,b,b
+,a,CTR Otopeni,,0,b
+,b,TMA București,X,X,b
+,c,AWY Cluj Napoca – Budapesta,,0,
+DD89,,Ce clasă de spațiu aerian sunt rutele ATS din FIR București:,,b,b
+,a,clasa A,,0,b
+,b,clasa C,X,X,b
+,c,clasa G,,0,
+DD90,,. Ce clasă de spațiu aerian este TMA NAPOC,,c,c
+,a,clasa A,,0,c
+,b,clasa B,,0,c
+,c,clasa C,X,X,c
+DD91,,. Peste nivelul FL105 în FIR București putem avea spațiu aerian de clasa:,,a,a
+,a,A și C,X,X,a
+,b,"A, C și G",,0,
+,c,"A, B și C",,0,
+DD92,,. Pe o hartă aeronautică prescurtarea LR P semnifică o zonă restricționată de tip:,,c,c
+,a,restricționat,,0,c
+,b,periculos,,0,c
+,c,interzis,X,X,c
+DD93,,În interiorul unei zone notate cu LR D:,,a,a
+,a,se pot desfășura activități periculoase pentru zborul aeronavelor,X,X,a
+,b,zborul aeronavelor este interzis,,0,
+,c,nu sunt activități care să restricționeze zborul aeronavelor,,0,
+DD94,,În zonele de tip TRA:,,a,a
+,a,se poate zbura dacă s-a obținut o autorizare ATC,X,X,a
+,b,nu se poate zbura zona fiind segregată pentru utilizare exclusivă,,0,
+,c,se poate zbura dacă s-a făcut o informare de trafic,,0,
+DD95,,În zonele de tip TSA:,,b,b
+,a,se poate zbura dacă s-a obținut o autorizare ATC,,0,b
+,b,nu se poate zbura zona fiind segregată pentru utilizare exclusivă,X,X,b
+,c,se poate zbura dacă s-a făcut o informare de trafic,,0,
+DD96,,. Pentru definirea pe verticală a unei zone de tip TMA avem:,,b,b
+,a,numai limită inferioară,,0,b
+,b,limită inferioară și superioară,X,X,b
+,c,numai limită superioară,,0,
+DD97,,. Pentru definirea pe verticală a unei zone de tip CTR avem:,,c,c
+,a,numai limită inferioară,,0,c
+,b,limită inferioară și superioară,,0,c
+,c,numai limită superioară,X,X,c
+DD98,,În FIR București între nivelul FL105 și nivelul FL190 putem avea următoarele clase de spațiu aerian:,,c,c
+,a,"A, C, G",,0,c
+,b,numai A,,0,c
+,c,c) A și C,X,X,c
+DD99,,În FIR București spațiu aerian de clasă G cuprinde:,,abc,abc
+,a,toate zonele de control ale aviației utilitare și sportive,X,X,abc
+,b,întregul spațiu aerian din FIR București care nu este desemnat ca având o altă clasă,X,X,bc
+,c,zonele restricționate,X,X,c
+DD100,,În FIR București zonele de tip CTR sunt spații aeriene de:,,b,b
+,a,clasă A,,0,b
+,b,clasă C,X,X,b
+,c,clasă G,,0,
+DD101,,În spațiu aerian de clasă A,,a,a
+,a,sunt numai zboruri IFR,X,X,a
+,b,sunt zboruri VFR și IFR,,0,
+,c,sunt numai zboruri VFR,,0,

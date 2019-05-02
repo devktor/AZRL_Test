@@ -1,0 +1,184 @@
+<questions>
+    <question number="1">
+        <text> Simptomele oboselii includ:</text>
+        <answers>
+                <answer type="correct"> greşeli mari, un slab raţionament, decizii slabe sau indecizia</answer>
+                <answer> concentrare marita</answer>
+                <answer type="correct"> reacţii încetinite, slaba coordonare ochi-mână </answer>
+        </answers>
+    </question>
+    <question number="2">
+        <text> Dupa un consun exagerat de alcool,trebuie tinut cont de faptul ca alcoolul poate sa ramana in corp :</text>
+        <answers>
+                <answer> cel mult 8 ore</answer>
+                <answer> cel mult 24 ore</answer>
+                <answer type="correct"> cel putin 30 ore</answer>
+        </answers>
+    </question>
+    <question number="3">
+        <text> Corpul uman reacţionează şi la viteza unghiulară sau la acceleraţia unghiulară atunci când vă rotiţi.Într-un viraj de 60 grade, acceleraţia gravitaţională creste si ajunge la :</text>
+        <answers>
+                <answer type="correct"> 2G</answer>
+                <answer> 9,8G</answer>
+                <answer> 4G</answer>
+        </answers>
+    </question>
+    <question number="4">
+        <text> Atunci când condiţiile meteo nu sunt tocmai favorabile cel mai mult contează:</text>
+        <answers>
+                <answer> pregătirea teoretică a pilotului</answer>
+                <answer> nivelul tehnic al pilotului</answer>
+                <answer type="correct"> atitudinea pilotului</answer>
+        </answers>
+    </question>
+    <question number="5">
+        <text> Absenţa oxigenului din corp (şi creier) se numeşte :</text>
+        <answers>
+                <answer> rau de inaltime</answer>
+                <answer> lesin</answer>
+                <answer type="correct"> hipoxie</answer>
+        </answers>
+    </question>
+    <question number="6">
+        <text> Hipoxia apare datorita :</text>
+        <answers>
+                <answer> deshidratarii</answer>
+                <answer type="correct"> lipsei oxigenului</answer>
+                <answer> stresului</answer>
+        </answers>
+    </question>
+    <question number="7">
+        <text> Inainte de zbor este obligatoriu:</text>
+        <answers>
+                <answer type="correct">  un timp de odihna de minim 8 h</answer>
+                <answer>  nu este cazul la acest tip de aeronava</answer>
+                <answer>  program de pregatire fizica</answer>
+        </answers>
+    </question>
+    <question number="8">
+        <text>Echiparea cu parasuta este obligatorie:</text>
+        <answers>
+                <answer>  in zborurile de antrenament</answer>
+                <answer>  indiferent de inaltime</answer>
+                <answer>  nu este obligatorie, ramane la hotararea comandantului de aeronava</answer>
+        </answers>
+    </question>
+    <question number="9">
+        <text> Vârsta până la care se poate practica parapantismul este:</text>
+        <answers>
+                <answer> 40 de ani</answer>
+                <answer> 45 de ani</answer>
+                <answer type="correct"> nu există limite dacă starea de sănătate permite</answer>
+        </answers>
+    </question>
+    <question number="10">
+        <text> Ce masuri sunt recomandate inaintea zborului pentru prevenirea raului de zbor ?</text>
+        <answers>
+                <answer type="correct"> somul suficient de noapte, de minim 8 ore</answer>
+                <answer type="correct"> o alimentatie adecvata</answer>
+                <answer> o echipare corespunzatoare</answer>
+        </answers>
+    </question>
+    <question number="11">
+        <text> Ce efect asupra organismului poate avea o succesiune de viraje cu inclinare mare ?</text>
+        <answers>
+                <answer type="correct"> tulburare de vedere</answer>
+                <answer> respiratie dificila pe nas</answer>
+                <answer type="correct"> pierderea cunostintei</answer>
+        </answers>
+    </question>
+    <question number="12">
+        <text> Este considerat sub influenta bauturilor alcoolice pilotul care are o imbibatie alcoolica in sange intre :</text>
+        <answers>
+                <answer> 0,01 si 1</answer>
+                <answer type="correct"> 0,5 si 1</answer>
+                <answer> peste 1</answer>
+        </answers>
+    </question>
+    <question number="13">
+        <text> Este considerat in stare de ebrietate pilotul care are o imbibatie alcoolicain sange :</text>
+        <answers>
+                <answer> mai mare de 0,5</answer>
+                <answer> mai mare de 0,9</answer>
+                <answer type="correct"> mai mare de 1</answer>
+        </answers>
+    </question>
+    <question number="14">
+        <text> Este important ca un elev pilot să fie odihnit înainte de a veni la cursuri de parapantism ?</text>
+        <answers>
+                <answer> să se simtă bine, asta e important</answer>
+                <answer type="correct"> întotdeauna este bine ca un pilot să fie odihnit înainte de decolare.</answer>
+                <answer> chiar dacă nu s-a dormit o noapte, dacă este obişnuit poate face cîteva zboruri.</answer>
+        </answers>
+    </question>
+    <question number="15">
+        <text> Care sunt cele mai importante decizii de luat cînd se decolează pe condiţii periculoase ?</text>
+        <answers>
+                <answer> menţinerea aripii deasupra capului şi conducerea aripi cu multă atenţie.</answer>
+                <answer> deschiderea paraşutei de rezerve dacă avem un incident grav.</answer>
+                <answer type="correct"> nu se decolează niciodată în condiţii periculoase.</answer>
+        </answers>
+    </question>
+    <question number="16">
+        <text> Organismul uman poate suporta condiţiile atmosferice întâlnite peste 5000 de m ?</text>
+        <answers>
+                <answer> fară echipament adecvat nu.</answer>
+                <answer> doar dacă se poartă echipament cu mască de oxigen şi haine extrem de groase.</answer>
+                <answer type="correct"> Nu este recomandat să se zboare cu parapante peste altitudini mai mari de 5000 m.</answer>
+        </answers>
+    </question>
+    <question number="17">
+        <text> Ce se poate întâmpla din cauza suprasarcinilor produse la manevrele de acrobaţie ?</text>
+        <answers>
+                <answer type="correct"> pilotul îşi poate pierde cunoştinţa.</answer>
+                <answer> fara o pregătire fizică şi psihică bună nu se execută manevre de acrobaţie.</answer>
+                <answer type="correct"> suprasolicitarea poate duce la deteriorarea ariipi daca acesta este uzată.</answer>
+        </answers>
+    </question>
+    <question number="18">
+        <text> Instrutorul de parapantism trebuie să fie un pilot bun ?</text>
+        <answers>
+                <answer type="correct"> trebuie să cunoască pedagogia predării dar şi să fie un pilot care să poată demonstra cea ce predă</answer>
+                <answer> există reglementări specific</answer>
+        </answers>
+    </question>
+    <question number="19">
+        <text> Cum este recomandat să se încarce parapanta în zbor ?</text>
+        <answers>
+                <answer type="correct"> se respectă tot timpul marjele de încărcare date de fabricant.</answer>
+                <answer> în funcţie de condiţiile meteo se poate zbura şi cu aripi slab încărcate ca urcă mai bine.</answer>
+                <answer> numai aripile de competiţie trebuie încărcate conform standardelor.</answer>
+        </answers>
+    </question>
+    <question number="20">
+        <text> Dacă avem o aripa nouă de ultimă generaţie este nevoie de paraşută de rezervă ?</text>
+        <answers>
+                <answer type="correct"> da întodeauna este indicat purtarea paraşutei de rezervă.</answer>
+                <answer> dacă este o aripă de şcoală, nu.</answer>
+                <answer> numai la zborurile tandem (în dublă comandă).</answer>
+        </answers>
+    </question>
+    <question number="21">
+        <text> Este riscant să folosim paraşuta de siguranţă ?</text>
+        <answers>
+                <answer type="correct"> la nevoie se utilizează întodeauna paraşuta de rezervă.</answer>
+                <answer> numai dacă vrem să aterizăm întrun locul dorit</answer>
+                <answer> paraşuta de rezervă este doar pentru piloţii de competiţie.</answer>
+        </answers>
+    </question>
+    <question number="22">
+        <text> Este foarte cald, e bine să ne suprasolicităm ca să facem cit mai multe zboruri profitînd de vremea bună ?</text>
+        <answers>
+                <answer> întodeauna se decolează pentru a profita de condiţiile meteo cît mai mult.</answer>
+                <answer> numai dacă se transpiră din greu se obţin rezultate foarte rapid.</answer>
+                <answer type="correct"> întotdeauna trebuie să ne cunoaştem limitele şi să nu ne suprasolicităm înainte de decolare.</answer>
+        </answers>
+    </question>
+    <question number="23">
+        <text> Care este vârsta legală de la care se poate practica parapantismul:</text>
+        <answers>
+                <answer> 21 de ani</answer>
+                <answer type="correct"> sub supravegherea unui instructor se poate practica de la vârsta de 16 ani.</answer>
+        </answers>
+    </question>
+</questions>

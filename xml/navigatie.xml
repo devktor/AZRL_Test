@@ -1,0 +1,810 @@
+<questions>
+    <question number="1">
+        <text>Ce este navigatia aeriana </text>
+        <answers>
+                <answer>o informare</answer>
+                <answer>un sistem de deplasare al aeronavelor</answer>
+                <answer type="correct">o stiinta</answer>
+        </answers>
+    </question>
+    <question number="2">
+        <text>Care este metoda de navigatie pentru zborul in VFR</text>
+        <answers>
+                <answer type="correct">observata</answer>
+                <answer>estimata</answer>
+                <answer>izobarica</answer>
+        </answers>
+    </question>
+    <question number="3">
+        <text>Cum sunt numerotate meridianele</text>
+        <answers>
+                <answer>de la est la vest</answer>
+                <answer>de la vest la est </answer>
+                <answer type="correct">in ambele sensuri</answer>
+        </answers>
+    </question>
+    <question number="4">
+        <text>Cum sunt numerotate paralelele </text>
+        <answers>
+                <answer>de la nord la sud</answer>
+                <answer>de la ecuator spre sud</answer>
+                <answer type="correct">de la ecuator spre nord si sud  </answer>
+        </answers>
+    </question>
+    <question number="5">
+        <text>Ce reprezinta nivelmentul</text>
+        <answers>
+                <answer type="correct">totalitatea formelor de relief</answer>
+                <answer>forme de relief specifice hartilor</answer>
+                <answer>reprezinta planeitatea terenului</answer>
+        </answers>
+    </question>
+    <question number="6">
+        <text>Care sunt directiile principale  </text>
+        <answers>
+                <answer>N , NV ,  E, SE</answer>
+                <answer type="correct">N , S , E , V</answer>
+                <answer>E, SE, V, NV</answer>
+        </answers>
+    </question>
+    <question number="7">
+        <text>Care sunt Nordurile folosite in navigatie</text>
+        <answers>
+                <answer type="correct">Nordul adevarat</answer>
+                <answer type="correct">Nordul magnetic</answer>
+                <answer>Nordul izobaric</answer>
+        </answers>
+    </question>
+    <question number="8">
+        <text>Ce este declinatia magnetica </text>
+        <answers>
+                <answer>directia compas</answer>
+                <answer>unghiul dintre aeronava si Nord</answer>
+                <answer type="correct">unghiul dintre Nordul magnetic si Nordul adevarat</answer>
+        </answers>
+    </question>
+    <question number="9">
+        <text>Ce este distanta </text>
+        <answers>
+                <answer type="correct">spatiul dintre doua puncte</answer>
+                <answer>lungimea liniei care le uneste</answer>
+                <answer>unitatea de masura</answer>
+        </answers>
+    </question>
+    <question number="10">
+        <text>Ce unitate de masura este folosit pentru inaltime in normele OACI</text>
+        <answers>
+                <answer>yardul</answer>
+                <answer type="correct">foot</answer>
+                <answer>inch-ul</answer>
+        </answers>
+    </question>
+    <question number="11">
+        <text>Care este scara hartii pentru zborul in VFR </text>
+        <answers>
+                <answer>1: 200 000</answer>
+                <answer>1: 50 000</answer>
+                <answer type="correct">1: 500 000 </answer>
+        </answers>
+    </question>
+    <question number="12">
+        <text>Cum se numeste meridianul prim</text>
+        <answers>
+                <answer>Pascal </answer>
+                <answer type="correct">Greenwich</answer>
+                <answer>Hecto</answer>
+        </answers>
+    </question>
+    <question number="13">
+        <text>Cum se numeste traseul de la decolare pana la aterizare </text>
+        <answers>
+                <answer>itinerar</answer>
+                <answer type="correct">traiect</answer>
+                <answer>ruta</answer>
+        </answers>
+    </question>
+    <question number="14">
+        <text>Pentru un zbor in VFR este nevoie de o harta </text>
+        <answers>
+                <answer type="correct">informativa</answer>
+                <answer>operativa</answer>
+                <answer>de ruta</answer>
+        </answers>
+    </question>
+    <question number="15">
+        <text>Care sunt reperele liniare pe o harta </text>
+        <answers>
+                <answer>orase, lacuri, terenuri</answer>
+                <answer type="correct">caii ferate , sosele, rauri</answer>
+                <answer>poduri mari, fabrici izolate, silozuri</answer>
+        </answers>
+    </question>
+    <question number="16">
+        <text> La o rotatie de 24 de ore a pamantului corespund </text>
+        <answers>
+                <answer>1800 longitudine</answer>
+                <answer>2300 longitudine</answer>
+                <answer type="correct">3600 longitudine</answer>
+        </answers>
+    </question>
+    <question number="17">
+        <text> In ce se masoara viteza vantului </text>
+        <answers>
+                <answer type="correct">m/s</answer>
+                <answer type="correct">noduri</answer>
+                <answer type="correct">km/h</answer>
+        </answers>
+    </question>
+    <question number="18">
+        <text> Ce este UTC </text>
+        <answers>
+                <answer>timpul local </answer>
+                <answer>ora actuala</answer>
+                <answer type="correct">timpul universal coordonat</answer>
+        </answers>
+    </question>
+    <question number="19">
+        <text> Care sunt etapele planificarii zborului </text>
+        <answers>
+                <answer type="correct">alegerea hartilor</answer>
+                <answer type="correct">estimarea meteo</answer>
+                <answer type="correct">trasarea traiectului</answer>
+        </answers>
+    </question>
+    <question number="20">
+        <text>  Ce este GPS </text>
+        <answers>
+                <answer>sistem de navigatie</answer>
+                <answer>sistem de control</answer>
+                <answer type="correct">sistem de pozitie</answer>
+        </answers>
+    </question>
+    <question number="21">
+        <text> Pozitionarea in sistem GPS se face prin</text>
+        <answers>
+                <answer>sistem radio</answer>
+                <answer type="correct">triangulatie</answer>
+                <answer>balize</answer>
+        </answers>
+    </question>
+    <question number="22">
+        <text>  Cate surse minim foloseste sistemul GPS pentru stabilirea pozitiei si altitudinii</text>
+        <answers>
+                <answer>3</answer>
+                <answer>5</answer>
+                <answer type="correct">4</answer>
+        </answers>
+    </question>
+    <question number="23">
+        <text> Cate surse minim foloseste sistemul GPS pentru stabilirea pozitiei </text>
+        <answers>
+                <answer type="correct">3  </answer>
+                <answer>12</answer>
+                <answer>9</answer>
+        </answers>
+    </question>
+    <question number="24">
+        <text>  Ce este o altitudine barometrica </text>
+        <answers>
+                <answer type="correct">inaltime de la nivelul marii</answer>
+                <answer>inaltime care corespunde presiunii standard</answer>
+                <answer>inaltime dintr-un punct de referinta</answer>
+        </answers>
+    </question>
+    <question number="25">
+        <text>Din ce directie bate vantul la 1350</text>
+        <answers>
+                <answer>NE</answer>
+                <answer>E</answer>
+                <answer type="correct">SE</answer>
+        </answers>
+    </question>
+    <question number="26">
+        <text>Din ce directie bate vantul la 2700</text>
+        <answers>
+                <answer>N</answer>
+                <answer type="correct">W</answer>
+                <answer>SW</answer>
+        </answers>
+    </question>
+    <question number="27">
+        <text>Din ce directie bate vantul la O0</text>
+        <answers>
+                <answer type="correct">N</answer>
+                <answer>NE</answer>
+                <answer>NW</answer>
+        </answers>
+    </question>
+    <question number="28">
+        <text>Care este inaltimea minima a unui obstacol pentru a fi reprezentat pe o harta de navigatie</text>
+        <answers>
+                <answer>50m</answer>
+                <answer type="correct">100m</answer>
+                <answer>300m</answer>
+        </answers>
+    </question>
+    <question number="29">
+        <text>Inaltimea unui punct este distanta dintre acel punct si</text>
+        <answers>
+                <answer>nivelul mediu al marii</answer>
+                <answer>izobara de 1013mb</answer>
+                <answer type="correct">terenul survolat</answer>
+        </answers>
+    </question>
+    <question number="30">
+        <text>Care sunt coordonatele geografice</text>
+        <answers>
+                <answer type="correct">latitudine</answer>
+                <answer>altitudine</answer>
+                <answer type="correct">longitudine</answer>
+        </answers>
+    </question>
+    <question number="31">
+        <text>Cate secunde are 1 grad de latitudine sau longitudine</text>
+        <answers>
+                <answer>60</answer>
+                <answer type="correct">3600</answer>
+                <answer>600</answer>
+        </answers>
+    </question>
+    <question number="32">
+        <text>O mila nautica (1NM) este echivalenta cu</text>
+        <answers>
+                <answer>1 minut de longitudine in orice punct de pe pamant</answer>
+                <answer type="correct">1 minut de latitudine in orice punct de pe pamant</answer>
+                <answer>1 grad de latitudine in orice punct de pe pamant</answer>
+        </answers>
+    </question>
+    <question number="33">
+        <text>Cati kilometri are 1 mila nautica (NM) </text>
+        <answers>
+                <answer type="correct">1.8</answer>
+                <answer>1.5</answer>
+                <answer>2.2</answer>
+        </answers>
+    </question>
+    <question number="34">
+        <text>Cate minute au 0.250</text>
+        <answers>
+                <answer>45 minute</answer>
+                <answer type="correct">15 minute</answer>
+                <answer>25 minute</answer>
+        </answers>
+    </question>
+    <question number="35">
+        <text>Ce este o zona interzisa</text>
+        <answers>
+                <answer type="correct">un spatiu definit unde zborul nu este permis</answer>
+                <answer>un spatiu definit unde zborul se face dupa reguli stricte</answer>
+                <answer>un spatiu definit ca fiind temporar restrictionat</answer>
+        </answers>
+    </question>
+    <question number="36">
+        <text> Ce este o zona restrictionata</text>
+        <answers>
+                <answer>un spatiu definit unde este restrictionat zborul</answer>
+                <answer type="correct">un spatiu definit unde zborul se face in conditii specificate</answer>
+                <answer>un spatiu definit unde au loc activiati periculoase zborului</answer>
+        </answers>
+    </question>
+    <question number="37">
+        <text>Deplasarea aeronavei fata de sol este compusa din</text>
+        <answers>
+                <answer type="correct">viteza aeronavei fata de aer</answer>
+                <answer>viteza aeronavei fata de vant</answer>
+                <answer type="correct">viteza aerului fata de sol</answer>
+        </answers>
+    </question>
+    <question number="38">
+        <text>Viteza vantului se descompune in</text>
+        <answers>
+                <answer>componenta verticala</answer>
+                <answer type="correct">componenta laterala</answer>
+                <answer type="correct">componenta longitudinala</answer>
+        </answers>
+    </question>
+    <question number="39">
+        <text>Ce este deriva </text>
+        <answers>
+                <answer>unghiul dintre directia vantului si directia de deplasare fata de sol </answer>
+                <answer>unghiul dintre directia de orientare si directia de deplasare fata de aer</answer>
+                <answer type="correct">unghiul dintre directia de orientare si directia de deplasare fata de sol</answer>
+        </answers>
+    </question>
+    <question number="40">
+        <text>Acul busolei se va alinia cu Nordul</text>
+        <answers>
+                <answer>adevarat</answer>
+                <answer type="correct">magnetic</answer>
+                <answer>izobaric</answer>
+        </answers>
+    </question>
+    <question number="41">
+        <text>FL50 observat pe o harta reprezinta cu aproximatie</text>
+        <answers>
+                <answer>5000m</answer>
+                <answer type="correct">5000ft</answer>
+                <answer>500m</answer>
+        </answers>
+    </question>
+    <question number="42">
+        <text>In conditii de vant calm directia de deplasare a aeronavei este</text>
+        <answers>
+                <answer>perpendiculara pe directia vantului</answer>
+                <answer>paralela cu directia vantului</answer>
+                <answer type="correct">neinfluentata de vant</answer>
+        </answers>
+    </question>
+    <question number="43">
+        <text>Cu vant din spate viteza aeronavei fata de aer este</text>
+        <answers>
+                <answer>mai mare</answer>
+                <answer>mai mica</answer>
+                <answer type="correct">nu difera</answer>
+        </answers>
+    </question>
+    <question number="44">
+        <text>Cum afiseaza sistemul GPS coordonatele geografice</text>
+        <answers>
+                <answer type="correct">grade, minute, secunde</answer>
+                <answer type="correct">grade, minute</answer>
+                <answer>grade, secunde</answer>
+        </answers>
+    </question>
+    <question number="45">
+        <text>Hartile trebuie sa fie</text>
+        <answers>
+                <answer>digitale</answer>
+                <answer type="correct">cu scara constanta</answer>
+                <answer type="correct">conforme (sa respecte unghiurile reale)</answer>
+        </answers>
+    </question>
+    <question number="46">
+        <text>Scara unei harti poate fi reprezentata ca</text>
+        <answers>
+                <answer type="correct">fractie reprezentativa (1:500.000)</answer>
+                <answer type="correct">linie gradata</answer>
+                <answer type="correct">text descriptiv (1cm egal 5km)</answer>
+        </answers>
+    </question>
+    <question number="47">
+        <text>Ce ii trebuie unui sistem GPS pentru determinarea pozitiei</text>
+        <answers>
+                <answer>cer senin</answer>
+                <answer type="correct">spatiu neacoperit</answer>
+                <answer>conexiune la Internet</answer>
+        </answers>
+    </question>
+    <question number="48">
+        <text>O viteza a vantului de 20 de noduri (20kts) reprezinta</text>
+        <answers>
+                <answer>15m/s</answer>
+                <answer>10km/h</answer>
+                <answer type="correct">10m/s</answer>
+        </answers>
+    </question>
+    <question number="49">
+        <text>Vantul este din sector sud vestic (SW). Va asteptati ca directia sa fie din</text>
+        <answers>
+                <answer>0000 - 0450</answer>
+                <answer>2250 - 3150</answer>
+                <answer type="correct">1800 - 2700</answer>
+        </answers>
+    </question>
+    <question number="50">
+        <text>Linia care uneste pe o harta punctele cu aceeasi altitudine se numeste</text>
+        <answers>
+                <answer>ortodroma</answer>
+                <answer type="correct">curba de nivel</answer>
+                <answer>izoclina</answer>
+        </answers>
+    </question>
+    <question number="51">
+        <text>Cota este:</text>
+        <answers>
+                <answer type="correct">înaltimea obstacolului masurata fata de nivelul mediu al marii;</answer>
+                <answer>înaltimea obstacolului fata de un nivel de referinta.</answer>
+                <answer>distanta obstacolului masurata fata de nivelul marii;</answer>
+        </answers>
+    </question>
+    <question number="52">
+        <text>În cazul navigației estimate:</text>
+        <answers>
+                <answer>determinarea poziției aeronavei nu este exactă</answer>
+                <answer type="correct">determinarea poziției aeronavei se face după instrumente de la bord</answer>
+                <answer>nu se folosește la determinarea poziției aeronavei</answer>
+        </answers>
+    </question>
+    <question number="53">
+        <text>Metoda navigației observate</text>
+        <answers>
+                <answer>este utilizat la zborurile IFR</answer>
+                <answer>nu poate fi utilizat de către piloții de parapantă</answer>
+                <answer type="correct">implică folosirea unei hărți</answer>
+        </answers>
+    </question>
+    <question number="54">
+        <text>. Reperele folosite in navigatie pot fi:</text>
+        <answers>
+                <answer>repere fixe sau repere mobile</answer>
+                <answer type="correct">repere punctiforme sau repere lineare</answer>
+                <answer>repere statice sau dinamice</answer>
+        </answers>
+    </question>
+    <question number="55">
+        <text>. Reperele de suprafață pot fi:</text>
+        <answers>
+                <answer type="correct">orașe, lacuri</answer>
+                <answer>căi ferate, șosele, râuri</answer>
+                <answer>poduri, fabrici, ferme</answer>
+        </answers>
+    </question>
+    <question number="56">
+        <text>. Vizibilitatea scăzută:</text>
+        <answers>
+                <answer>nu influențeaza zborurile VFR</answer>
+                <answer>reprezintă distanța pe verticală de la care se pot observa reperele de la sol</answer>
+                <answer type="correct">c)poate fi cauzat de fum, ceață, ploaie</answer>
+        </answers>
+    </question>
+    <question number="57">
+        <text>. Meridianul Greenwich se află la:</text>
+        <answers>
+                <answer type="correct">longitudinea 0</answer>
+                <answer>longitudinea 45 si latitudinea 45</answer>
+                <answer>latitudinea 90</answer>
+        </answers>
+    </question>
+    <question number="58">
+        <text>. Directia vest corespunde cu:</text>
+        <answers>
+                <answer>90 grade</answer>
+                <answer>180 grade</answer>
+                <answer type="correct">270 grade</answer>
+        </answers>
+    </question>
+    <question number="59">
+        <text>. Documentul de bază pentru informarea tuturor operatorilor în vederea efectuării activității de zbor pe teritoriul României este:</text>
+        <answers>
+                <answer>F.I.R</answer>
+                <answer type="correct">A.I.P</answer>
+                <answer>N.A.V</answer>
+        </answers>
+    </question>
+    <question number="60">
+        <text>. Alegeți afirmația adevărată cu privire la viteza indicata a unei aeronave IAS (viteza indicată de vitezometru aflat la bordul aeronavei bazat pe capsula manometrică):</text>
+        <answers>
+                <answer>în cazul în care viteza vântul WS este 0, va fi întotdeauna egal cu viteza aeronavei fațăde sol GS</answer>
+                <answer type="correct">este influențat de densitatea aerului</answer>
+                <answer>nu depinde de înălțimea de zbor</answer>
+        </answers>
+    </question>
+    <question number="61">
+        <text>. Ora universala coordinata UTC este:</text>
+        <answers>
+                <answer type="correct">ora locală la meridianul 0</answer>
+                <answer>ora locală de la aerodromul de plecare</answer>
+                <answer>este ora de la miezul nopții</answer>
+        </answers>
+    </question>
+    <question number="62">
+        <text>. Diferența între LMT și UTC este aceeași :</text>
+        <answers>
+                <answer type="correct">de a lungul aceluiași meridian de longitudine</answer>
+                <answer>indiferent de poziția pe glob</answer>
+                <answer>de a lungul aceluiași meridian de latitudine</answer>
+        </answers>
+    </question>
+    <question number="63">
+        <text>. Ora apusului și răsăritului la o anumită dată:</text>
+        <answers>
+                <answer>nu depinde de latitudine</answer>
+                <answer>nu depinde de longitudine</answer>
+                <answer type="correct">depinde atât de latitudine cît și de longitudine</answer>
+        </answers>
+    </question>
+    <question number="64">
+        <text>. Ora apusului și răsăritului:</text>
+        <answers>
+                <answer type="correct">se schimbă în cursul anului</answer>
+                <answer>nu se schimbă față de UTC</answer>
+                <answer>diferă în funcție de condițiile meteorologice</answer>
+        </answers>
+    </question>
+    <question number="65">
+        <text>. Următoarea caracteristică a unei hărți ne ajută la calcularea directă a distanței prin măsurare pe hartă:</text>
+        <answers>
+                <answer>nivelmentul</answer>
+                <answer>planimetria</answer>
+                <answer type="correct">scara hărții</answer>
+        </answers>
+    </question>
+    <question number="66">
+        <text>Daca o harta are scala de scala 1:50.000 două puncte aflate la o distanță de 32 cm vor fi în realitate la:</text>
+        <answers>
+                <answer>50 km</answer>
+                <answer type="correct">16 km</answer>
+                <answer>32 km</answer>
+        </answers>
+    </question>
+    <question number="67">
+        <text>. Conditiile de vizibilitate minimă pentru zborurile VFR sunt stabilite prin:</text>
+        <answers>
+                <answer>RACR LPAS</answer>
+                <answer>RACR AUN</answer>
+                <answer type="correct">RACR RA</answer>
+        </answers>
+    </question>
+    <question number="68">
+        <text>. Pentru efectuarea cu parapanta unui zbor de 300 de km:</text>
+        <answers>
+                <answer type="correct">se va alege o hartă de navigție la scara de 1:500000 în care sunt marcate mai multe detalii necesare desfășurării zborului</answer>
+                <answer>se va alege harta lumii unde exista posibilitatea marcării ortodromei în vederea determinării elementelor de zbor</answer>
+                <answer>nu este necesară folosirea unei hărți deoarece cu parapanta se zboară la vedere</answer>
+        </answers>
+    </question>
+    <question number="69">
+        <text>. Paralelele de latitudine sunt:</text>
+        <answers>
+                <answer>paralele cu meridianul Greenwich</answer>
+                <answer>paralele cu loxodroma</answer>
+                <answer type="correct">paralele cu ecuatorul</answer>
+        </answers>
+    </question>
+    <question number="70">
+        <text>. Prescurtarea AWY semnifică:</text>
+        <answers>
+                <answer>pistă de decolare/aterizare</answer>
+                <answer>regiune de control aerodrom</answer>
+                <answer type="correct">cale aeriană</answer>
+        </answers>
+    </question>
+    <question number="71">
+        <text>. Regiunile terminale de control:</text>
+        <answers>
+                <answer>sunt spații aeriene rezervate</answer>
+                <answer type="correct">sunt spații aeriene controlate</answer>
+                <answer>sunt spații aeriene necontrolate</answer>
+        </answers>
+    </question>
+    <question number="72">
+        <text>Zonele de control de aerodrom sunt spații aeriene cu dimensiuni stabilite pe verticală:</text>
+        <answers>
+                <answer>de la o anumită altitudine/înălțime pînă la o anumită altitudine/înălțime</answer>
+                <answer type="correct">de la nivelul solului pînă la o anumită altitudine/înălțime</answer>
+                <answer>nu are limite stabilite pe verticală, doar pe orizontală</answer>
+        </answers>
+    </question>
+    <question number="73">
+        <text>. Alegeți care clasă de spațiu aerian se regăsește în FIR București:</text>
+        <answers>
+                <answer>clasa B</answer>
+                <answer type="correct">clasa C</answer>
+                <answer>clasa D</answer>
+        </answers>
+    </question>
+    <question number="74">
+        <text>În spațiul aerian de clasa C sunt permise:</text>
+        <answers>
+                <answer type="correct">numai zboruri IFR</answer>
+                <answer>numai zboruri VFR</answer>
+                <answer>zboruri VFR și IFR</answer>
+        </answers>
+    </question>
+    <question number="75">
+        <text>. Pentru efectuarea unui zbor în spațiu aerian de clasa C este obligatorie:</text>
+        <answers>
+                <answer>efectuarea unei informări de trafic VFR</answer>
+                <answer type="correct">depunerea unui plan de zbor</answer>
+                <answer>obținerea autorizației de survol</answer>
+        </answers>
+    </question>
+    <question number="76">
+        <text>. Comunicațiile radio bilaterale în cazul zborurilor VFR:</text>
+        <answers>
+                <answer type="correct">sunt obligatorii în spațiul aerian de clasă C</answer>
+                <answer>sunt obligatorii în spațiul aerian de clasă G</answer>
+                <answer>în spațiile aeriene din FIR București nu sunt obligatorii</answer>
+        </answers>
+    </question>
+    <question number="77">
+        <text>Spațiu aerian de clasă G are limita superioară la maxim:</text>
+        <answers>
+                <answer>FL195</answer>
+                <answer>4000 metrii ASL</answer>
+                <answer type="correct">FL100</answer>
+        </answers>
+    </question>
+    <question number="78">
+        <text>În ce condiții un zbor VFR efectuat în întregime în spațiu aerian de clasa G se consider autorizat:</text>
+        <answers>
+                <answer>s-a obținut o autorizație de survol</answer>
+                <answer type="correct">s-a depus un plan de zbor sau o informare de trafic</answer>
+                <answer>s-a obținut avizul Ministerului Apărării Naționale</answer>
+        </answers>
+    </question>
+    <question number="79">
+        <text>Zonele de control de aerodrom pe hărțile de navigație sunt prescurtate:</text>
+        <answers>
+                <answer>ZCA</answer>
+                <answer type="correct">CTR</answer>
+                <answer>TRA</answer>
+        </answers>
+    </question>
+    <question number="80">
+        <text>În FIR București spațiile aeriene de tip TMA pot fi:</text>
+        <answers>
+                <answer>clasa C si clasa G</answer>
+                <answer>clasa A și clasa B</answer>
+                <answer type="correct">clasa A și clasa C</answer>
+        </answers>
+    </question>
+    <question number="81">
+        <text>. Conform RACR RA un zbor VFR (cu excepția: decolării, aterizării sau  autorizării corespunzătoare acordate de autoritatea competentă) nu va fi efectuat:</text>
+        <answers>
+                <answer>la o înălțime mai mare de 2000 de metrii AGL</answer>
+                <answer>peste nivelul FL 105</answer>
+                <answer type="correct">la o înălțimea mai mică de 150 de metrii AGL</answer>
+        </answers>
+    </question>
+    <question number="82">
+        <text>În cazul în care planul de zbor se depune de la sol acesta va fi depus înaintea decolării cu cel puțin:</text>
+        <answers>
+                <answer>10 minute</answer>
+                <answer>24 ore</answer>
+                <answer type="correct">o oră</answer>
+        </answers>
+    </question>
+    <question number="83">
+        <text>. Conform HG 912/2017 decolarea și aterizarea parapantelor se poate face:</text>
+        <answers>
+                <answer>numai de pe aerodromuri certificate</answer>
+                <answer>de pe aerodromuri certificate și de pe terenuri extravilane cu acordul Primăriei</answer>
+                <answer type="correct">de pe orice teren cu acordul proprietarului</answer>
+        </answers>
+    </question>
+    <question number="84">
+        <text>. Pentru a efectua un zbor în spațiu aerian de clasă G pilotul este obligat să se informeze cu privire la limitările și restricțiile aplicabile zborului respectiv din următoarele surse:</text>
+        <answers>
+                <answer type="correct">AIP</answer>
+                <answer type="correct">circularele aeronautice</answer>
+                <answer type="correct">mesajele de tip Notam</answer>
+        </answers>
+    </question>
+    <question number="85">
+        <text>. Pentru a zbura în spațiu aerian rezervat, segregat sau restricționat un pilot trebuie obligatoriu să aibă:</text>
+        <answers>
+                <answer>transponder</answer>
+                <answer type="correct">autorizarea unității de trafic sau a entității care a făcut rezervarea, respectiv a cerut utilizarea exclusiva a zonei respective</answer>
+                <answer>plan de zbor și statie radio în bandă de aviație pentru a realiza comunicații radio bilaterale</answer>
+        </answers>
+    </question>
+    <question number="86">
+        <text>. Radiofarul nondirectional NDB este:</text>
+        <answers>
+                <answer>un mijloc de radio comunicație</answer>
+                <answer>sistem de localizare a aeronavelor aflate în pericol</answer>
+                <answer type="correct">un mijloc de radionavigație</answer>
+        </answers>
+    </question>
+    <question number="87">
+        <text>. Echipamentul DME asociat unei stații terestre VOR:</text>
+        <answers>
+                <answer>înbunătățește semnalul VHF transmis de stația terestră VOR</answer>
+                <answer type="correct">este un echipament de măsurare a distanței</answer>
+                <answer>nu se folosește la noi în țară</answer>
+        </answers>
+    </question>
+    <question number="88">
+        <text>. Care din următoarele tipuri de spațiu aerian aflate în FIR București este de clasă A:</text>
+        <answers>
+                <answer>CTR Otopeni</answer>
+                <answer type="correct">TMA București</answer>
+                <answer>AWY Cluj Napoca – Budapesta</answer>
+        </answers>
+    </question>
+    <question number="89">
+        <text>Ce clasă de spațiu aerian sunt rutele ATS din FIR București:</text>
+        <answers>
+                <answer>clasa A</answer>
+                <answer type="correct">clasa C</answer>
+                <answer>clasa G</answer>
+        </answers>
+    </question>
+    <question number="90">
+        <text>. Ce clasă de spațiu aerian este TMA NAPOC</text>
+        <answers>
+                <answer>clasa A</answer>
+                <answer>clasa B</answer>
+                <answer type="correct">clasa C</answer>
+        </answers>
+    </question>
+    <question number="91">
+        <text>. Peste nivelul FL105 în FIR București putem avea spațiu aerian de clasa:</text>
+        <answers>
+                <answer type="correct">A și C</answer>
+                <answer>A, C și G</answer>
+                <answer>A, B și C</answer>
+        </answers>
+    </question>
+    <question number="92">
+        <text>. Pe o hartă aeronautică prescurtarea LR P semnifică o zonă restricționată de tip:</text>
+        <answers>
+                <answer>restricționat</answer>
+                <answer>periculos</answer>
+                <answer type="correct">interzis</answer>
+        </answers>
+    </question>
+    <question number="93">
+        <text>În interiorul unei zone notate cu LR D:</text>
+        <answers>
+                <answer type="correct">se pot desfășura activități periculoase pentru zborul aeronavelor</answer>
+                <answer>zborul aeronavelor este interzis</answer>
+                <answer>nu sunt activități care să restricționeze zborul aeronavelor</answer>
+        </answers>
+    </question>
+    <question number="94">
+        <text>În zonele de tip TRA:</text>
+        <answers>
+                <answer type="correct">se poate zbura dacă s-a obținut o autorizare ATC</answer>
+                <answer>nu se poate zbura zona fiind segregată pentru utilizare exclusivă</answer>
+                <answer>se poate zbura dacă s-a făcut o informare de trafic</answer>
+        </answers>
+    </question>
+    <question number="95">
+        <text>În zonele de tip TSA:</text>
+        <answers>
+                <answer>se poate zbura dacă s-a obținut o autorizare ATC</answer>
+                <answer type="correct">nu se poate zbura zona fiind segregată pentru utilizare exclusivă</answer>
+                <answer>se poate zbura dacă s-a făcut o informare de trafic</answer>
+        </answers>
+    </question>
+    <question number="96">
+        <text>. Pentru definirea pe verticală a unei zone de tip TMA avem:</text>
+        <answers>
+                <answer>numai limită inferioară</answer>
+                <answer type="correct">limită inferioară și superioară</answer>
+                <answer>numai limită superioară</answer>
+        </answers>
+    </question>
+    <question number="97">
+        <text>. Pentru definirea pe verticală a unei zone de tip CTR avem:</text>
+        <answers>
+                <answer>numai limită inferioară</answer>
+                <answer>limită inferioară și superioară</answer>
+                <answer type="correct">numai limită superioară</answer>
+        </answers>
+    </question>
+    <question number="98">
+        <text>În FIR București între nivelul FL105 și nivelul FL190 putem avea următoarele clase de spațiu aerian:</text>
+        <answers>
+                <answer>A, C, G</answer>
+                <answer>numai A</answer>
+                <answer type="correct">c) A și C</answer>
+        </answers>
+    </question>
+    <question number="99">
+        <text>În FIR București spațiu aerian de clasă G cuprinde:</text>
+        <answers>
+                <answer type="correct">toate zonele de control ale aviației utilitare și sportive</answer>
+                <answer type="correct">întregul spațiu aerian din FIR București care nu este desemnat ca având o altă clasă</answer>
+                <answer type="correct">zonele restricționate</answer>
+        </answers>
+    </question>
+    <question number="100">
+        <text>În FIR București zonele de tip CTR sunt spații aeriene de:</text>
+        <answers>
+                <answer>clasă A</answer>
+                <answer type="correct">clasă C</answer>
+                <answer>clasă G</answer>
+        </answers>
+    </question>
+    <question number="101">
+        <text>În spațiu aerian de clasă A</text>
+        <answers>
+                <answer type="correct">sunt numai zboruri IFR</answer>
+                <answer>sunt zboruri VFR și IFR</answer>
+                <answer>sunt numai zboruri VFR</answer>
+        </answers>
+    </question>
+</questions>

@@ -1,0 +1,314 @@
+<questions>
+    <question number="1">
+        <text>Durata tipului de zbor: Deal Vale - DV in conditii de vant anabatic comparativ cu vant catabatic este:</text>
+        <answers>
+                <answer>mai lunga pe anabatic</answer>
+                <answer type="correct">mai scurta pe catabatic</answer>
+                <answer>la fel</answer>
+        </answers>
+    </question>
+    <question number="2">
+        <text>Ce reguli de zbor se aplica categoriei de aeronave din care face parte parapanta:</text>
+        <answers>
+                <answer>reguli de zbor IFR</answer>
+                <answer type="correct">reguli de zbor VFR</answer>
+                <answer>c)VFR si IFR</answer>
+        </answers>
+    </question>
+    <question number="3">
+        <text>La efectuarea informarii de zbor VFR in spatiul clasa G:</text>
+        <answers>
+                <answer type="correct">se comunica: locatia, inaltimea, persoana de contact, ora de incepere</answer>
+                <answer type="correct">aveti obligatia de a respecta cerintele, limitarile si restrictiile aplicabile publicate</answer>
+                <answer>in spatiul aerian de clasa G nu este necesar autorizarea zborurilor</answer>
+        </answers>
+    </question>
+    <question number="4">
+        <text>Cresterea vitezei fata de sol duce la:</text>
+        <answers>
+                <answer>cresterea rezistentei la înaintare</answer>
+                <answer type="correct">cresterea finetei</answer>
+                <answer>solicitarea mai mare a structurii aripii</answer>
+        </answers>
+    </question>
+    <question number="5">
+        <text>La decolare este indicat sa se planifice o distanta de rezerva pentru alergare?</text>
+        <answers>
+                <answer type="correct">da, daca vantul este slab</answer>
+                <answer type="correct">da, daca incarcarea aripii este mai mare</answer>
+                <answer>nu, daca terenul are o inclinatie mica</answer>
+        </answers>
+    </question>
+    <question number="6">
+        <text>Vântul influenteaza distanta de aterizare astfel:</text>
+        <answers>
+                <answer type="correct">vântul de fata reduce distanta</answer>
+                <answer>vântul de fata mareste distanta</answer>
+                <answer>vântul de spate reduce distanta</answer>
+        </answers>
+    </question>
+    <question number="7">
+        <text>Aeronavele nemotorizate care zboara în spatiul aerian necontrolat sunt obligate sa respecte înaltimile minime de siguranta publicate în:</text>
+        <answers>
+                <answer>AIP Romania</answer>
+                <answer type="correct">RACR-RA</answer>
+                <answer>Zborurile VFR nu sunt supuse restrictilor referitoare la inaltimi minime.</answer>
+        </answers>
+    </question>
+    <question number="8">
+        <text>Care sunt clasele de spatiu aerian în care sunt obligatorii comunicatiile radio pentru zborurile VFR:</text>
+        <answers>
+                <answer type="correct">A,</answer>
+                <answer type="correct">C,</answer>
+                <answer>G,</answer>
+        </answers>
+    </question>
+    <question number="9">
+        <text>Cand nu este recomandat de a zbura in afara intervalului de greutate stabilit de producator:</text>
+        <answers>
+                <answer>sub limita inferioara</answer>
+                <answer>peste limita superioara</answer>
+                <answer type="correct">niciodata</answer>
+        </answers>
+    </question>
+    <question number="10">
+        <text>Care sunt riscurile daca se zboara cu aripa uda</text>
+        <answers>
+                <answer>nici un risc, umezeala nu afecteaza performantele</answer>
+                <answer type="correct">aripa se poate angaja</answer>
+                <answer type="correct">aripa nu-si mai revine din eventualele evolutii</answer>
+        </answers>
+    </question>
+    <question number="11">
+        <text>Prin efectuarea manevrei urechi mari este posibil sa:</text>
+        <answers>
+                <answer type="correct">creasca unghiul de incidenta pana la unghiul critic de angajare</answer>
+                <answer>scada unghiul de incidenta si aripa va zbura mai rapid</answer>
+                <answer>nu afecteze unghiul de incidenta</answer>
+        </answers>
+    </question>
+    <question number="12">
+        <text>Prin actionarea acceleratorului se muta:</text>
+        <answers>
+                <answer>centrul de greutate</answer>
+                <answer type="correct">centrul de presiune</answer>
+                <answer>centrul geometric</answer>
+        </answers>
+    </question>
+    <question number="13">
+        <text>Cand nu este recomandat a zbura cu aripa incarcata la limitele inferioare</text>
+        <answers>
+                <answer>pe vant cu intensitate ridicata</answer>
+                <answer>pe conditii cu turbulente accentuate</answer>
+                <answer type="correct">pe nici una din conditiile de mai sus</answer>
+        </answers>
+    </question>
+    <question number="14">
+        <text>Daca forta portanta (Fz) este egala cu greutatea (G).</text>
+        <answers>
+                <answer type="correct">se obtine zborul orizontal</answer>
+                <answer>se obtine viteza maxima</answer>
+                <answer type="correct">se obtine finetea maxima fata de sol</answer>
+        </answers>
+    </question>
+    <question number="15">
+        <text>Viteza vantului este egal cu viteaza de trim a aripii</text>
+        <answers>
+                <answer type="correct">la decolare aripa va decola in verticala</answer>
+                <answer type="correct">la aterizare va cobori in verticala</answer>
+                <answer type="correct">cu vant de spate vom obtine viteza dubla</answer>
+        </answers>
+    </question>
+    <question number="16">
+        <text>Finetea maxima obtinem fata de sol</text>
+        <answers>
+                <answer>cu vant de fata</answer>
+                <answer type="correct">cu vant de spate</answer>
+                <answer>prin incarcarea maxima a aripii</answer>
+        </answers>
+    </question>
+    <question number="17">
+        <text>Care sunt factorii prin care se pot obtine performante mai bune de zbor</text>
+        <answers>
+                <answer type="correct">parapanta</answer>
+                <answer type="correct">conditia meteo</answer>
+                <answer type="correct">pilotul</answer>
+        </answers>
+    </question>
+    <question number="18">
+        <text>De unde obtinem urmatoarea informatie: la ce viteaza si infundare se atinge finetea maxima fata de fileele de aer</text>
+        <answers>
+                <answer type="correct">din polara aripii</answer>
+                <answer>din gps cu datele masurate fata de sol</answer>
+                <answer>din manualul aripii</answer>
+        </answers>
+    </question>
+    <question number="19">
+        <text>Care dintre urmatoarele factori influenteaza decolarea aeronavei:</text>
+        <answers>
+                <answer type="correct">greutatea totala in zbor</answer>
+                <answer type="correct">directia si intensitatea vantului</answer>
+                <answer type="correct">panta decolarii</answer>
+        </answers>
+    </question>
+    <question number="20">
+        <text>Distante maxime in zbor pot fi atinse:</text>
+        <answers>
+                <answer type="correct">cu vant de spate</answer>
+                <answer>cu vant de fata</answer>
+                <answer>cu vant nul</answer>
+        </answers>
+    </question>
+    <question number="21">
+        <text>O aripa incarcata spre limita maxima va avea distanta:</text>
+        <answers>
+                <answer type="correct">mai mare de alergare la aterizare pe vant nul</answer>
+                <answer>mai mare de alergare pe vant de fata</answer>
+                <answer type="correct">mai mare de alergare pe vant de spate</answer>
+        </answers>
+    </question>
+    <question number="22">
+        <text>Cazul in care intensitatea vantului este mare, priza de aterizare se face:</text>
+        <answers>
+                <answer type="correct">mai aproape de punctul fix si cu vant de fata</answer>
+                <answer>de mai departe si cu vant de fata</answer>
+                <answer>de mai aproape si cu vant de spate</answer>
+        </answers>
+    </question>
+    <question number="23">
+        <text>Elementele planificarii zborului sunt:</text>
+        <answers>
+                <answer type="correct">Verificarea disponibilitatii spatiului aerian, eventualele restrictii</answer>
+                <answer type="correct">informare de zbor</answer>
+                <answer type="correct">conditiile meteo, alegerea locului de zbor</answer>
+        </answers>
+    </question>
+    <question number="24">
+        <text>Pentru selectarea rutei zborului se va tine cont de:</text>
+        <answers>
+                <answer type="correct">performantele aripii,</answer>
+                <answer type="correct">meteo, relieful</answer>
+                <answer type="correct">spatiul aerian</answer>
+        </answers>
+    </question>
+    <question number="25">
+        <text>In spatiul aerian de clasa G, Autorizarea ATC:</text>
+        <answers>
+                <answer>este obligatorie pentru zborurile VFR</answer>
+                <answer type="correct">nu este obligatorie pentru zborurile VFR</answer>
+                <answer>este obligatorie pentru zborurile IFR</answer>
+        </answers>
+    </question>
+    <question number="26">
+        <text>In Spatiul aerian de clasa G</text>
+        <answers>
+                <answer>este obligatoriu comunicare radio pentru zborurile VFR</answer>
+                <answer type="correct">nu este obligatorie comunicatiile radio pentru zborurile VFR</answer>
+                <answer>zborurile IFR nu sunt permise</answer>
+        </answers>
+    </question>
+    <question number="27">
+        <text>Aeronavele ultrausoare clasa parapanta fara comunicare radio pot zbura in spatiul aerian de clasa</text>
+        <answers>
+                <answer type="correct">G</answer>
+                <answer>C</answer>
+                <answer>A</answer>
+        </answers>
+    </question>
+    <question number="28">
+        <text>28.Informatiile necesare pentru a efectua o informare de zbor sunt:</text>
+        <answers>
+                <answer type="correct">nume, prenume, ora inceperii, nr de parapante, locatia, inaltimea, nr de telefon,</answer>
+                <answer>nume, prenume, nr de parapante, locatia, inaltimea, nr de telefon,</answer>
+                <answer>nume, prenume, ora inceperii, locatia, inaltimea, nr de telefon,</answer>
+        </answers>
+    </question>
+    <question number="29">
+        <text>Planificarea, respectiv efectuarea zborului este influentata de:</text>
+        <answers>
+                <answer type="correct">ploaie</answer>
+                <answer type="correct">ceata</answer>
+                <answer type="correct">turbulenta puternica</answer>
+        </answers>
+    </question>
+    <question number="30">
+        <text>Pentru decolare se va alege o panta care sa îndeplineasca urmatoarele condi?ii:</text>
+        <answers>
+                <answer type="correct">vântul sa fie de fa?a</answer>
+                <answer>între locul de decolare ?i aterizare sa nu fie obstacole </answer>
+                <answer>de la locul de decolare sa se vada locul de aterizare</answer>
+        </answers>
+    </question>
+    <question number="31">
+        <text>La intrarea în termica:</text>
+        <answers>
+                <answer type="correct">parapanta va avea unghi de inciden?a mic</answer>
+                <answer>se va frîna parapanta cât mai mult</answer>
+                <answer type="correct">aripa ramîne în spatele pilotului</answer>
+        </answers>
+    </question>
+    <question number="32">
+        <text>Manevra de spirala poate fi periculoasa deoarece:</text>
+        <answers>
+                <answer type="correct">datorita fortei centrifuge mari parapanta se poate rupe</answer>
+                <answer type="correct">pilotul poate sa le?ine</answer>
+                <answer>parapanta se poate angaja</answer>
+        </answers>
+    </question>
+    <question number="33">
+        <text>În cazul în care doua aparate de zbor se întâlnesc se vor ocoli:</text>
+        <answers>
+                <answer>prin stânga</answer>
+                <answer type="correct">prin dreapta</answer>
+                <answer>ambii pilo?i vor reduce viteza</answer>
+        </answers>
+    </question>
+    <question number="34">
+        <text>Aterizarea pe o panta cu înclina?ie mare in situa?ia în care vîntul bate perfect de fa?a se va face:</text>
+        <answers>
+                <answer>în contrapanta </answer>
+                <answer>paralel cu panta</answer>
+                <answer type="correct">cu vânt de fa?a</answer>
+        </answers>
+    </question>
+    <question number="35">
+        <text>Aripile care sunt recomandate unui elev pilot fara experien?a de zbor cu parapanta sunt cele care au omologarea:</text>
+        <answers>
+                <answer type="correct">LTF 1</answer>
+                <answer>LTF 2</answer>
+                <answer>LTF 3</answer>
+        </answers>
+    </question>
+    <question number="36">
+        <text>Când calculam încarcarea voalurii luam în calcul:</text>
+        <answers>
+                <answer type="correct">greutatea parapantei</answer>
+                <answer type="correct">greutatea pilotului</answer>
+                <answer type="correct">greutatea seletei</answer>
+        </answers>
+    </question>
+    <question number="37">
+        <text>Zborul cu parapanta în nor:</text>
+        <answers>
+                <answer>este permis doar daca norii nu au dezvoltare pe verticala</answer>
+                <answer type="correct">nu este permis</answer>
+                <answer>este permis în cazul norilor de tip cumulus</answer>
+        </answers>
+    </question>
+    <question number="38">
+        <text>Modificarea unghiului de inciden?a la o parapanta se poate face prin:</text>
+        <answers>
+                <answer type="correct">prin sistemul de speed</answer>
+                <answer>nu este posibil </answer>
+                <answer type="correct">prin trimere</answer>
+        </answers>
+    </question>
+    <question number="39">
+        <text>Viteza maxima de zbor a unei parapante poate fi influen?ata de:</text>
+        <answers>
+                <answer type="correct">forma ?i marimea seletei</answer>
+                <answer type="correct">greutatea pilotului</answer>
+                <answer>nu poate fi influen?at</answer>
+        </answers>
+    </question>
+</questions>

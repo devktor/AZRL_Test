@@ -1,0 +1,2142 @@
+<questions>
+    <question number="1">
+        <text>Finetea aerodinamica este: </text>
+        <answers>
+                <answer type="correct">raportul dintre Cx si Cz </answer>
+                <answer>raportul dintre vectorul viteza si greutate </answer>
+                <answer>descrie calitatea suprafetei portante</answer>
+        </answers>
+    </question>
+    <question number="2">
+        <text>Finetea aerodinamica este influentata de : </text>
+        <answers>
+                <answer type="correct">lungimea suspantelor  </answer>
+                <answer>clasa de omologare a parapantei </answer>
+                <answer>directia vantului</answer>
+        </answers>
+    </question>
+    <question number="3">
+        <text>Forta portanta se genereaza: </text>
+        <answers>
+                <answer type="correct">2/3 pe extrados  </answer>
+                <answer>2/3 pe intrados </answer>
+                <answer>½ pe extrados si ½ pe intrados</answer>
+        </answers>
+    </question>
+    <question number="4">
+        <text>Viteza minima de infundare este influentata de : </text>
+        <answers>
+                <answer type="correct">viteza de zbor  </answer>
+                <answer>lungimea suspantelor </answer>
+                <answer>directia si viteza vantului</answer>
+        </answers>
+    </question>
+    <question number="5">
+        <text>Unghiul de incidenta este dat de : </text>
+        <answers>
+                <answer type="correct">coarda profilului si directia curentului de aer relativ  </answer>
+                <answer>extradosul aripii si orizontala </answer>
+                <answer>coarda profilului si orizontala</answer>
+        </answers>
+    </question>
+    <question number="6">
+        <text>Cand unghiul de incidenta creste: </text>
+        <answers>
+                <answer type="correct">creste portanta, scade viteza  </answer>
+                <answer>creste portanta, creste viteza </answer>
+                <answer>scade portanta, scade viteza</answer>
+        </answers>
+    </question>
+    <question number="7">
+        <text>Desprinderea stratului limita apare cand:</text>
+        <answers>
+                <answer type="correct">creste unghiul de incidenta pana la unghi critic  </answer>
+                <answer>scade unghiul de incidenta la o valoare inferioara unghiului critic</answer>
+                <answer>se elibereaza comenzile</answer>
+        </answers>
+    </question>
+    <question number="8">
+        <text>Forta portanta este influentata de : </text>
+        <answers>
+                <answer type="correct">unghiul de incidenta  </answer>
+                <answer>viteza vantului </answer>
+                <answer>directia vantului</answer>
+        </answers>
+    </question>
+    <question number="9">
+        <text>Unghiul de atac critic duce la: </text>
+        <answers>
+                <answer type="correct">desprinderea stratului limita  </answer>
+                <answer>cresterea portantei la nivel maxim </answer>
+                <answer>lipirea fileurilor de aer de extrados</answer>
+        </answers>
+    </question>
+    <question number="10">
+        <text>Centrul de presiune este: </text>
+        <answers>
+                <answer type="correct">mobil sau fix functie de tipul profilului aerodinamic  </answer>
+                <answer>fix. </answer>
+                <answer>mobil in toate cazurile </answer>
+        </answers>
+    </question>
+    <question number="11">
+        <text>Angajarea apare : </text>
+        <answers>
+                <answer>la viteza maxima de zbor </answer>
+                <answer>la atingerea vitezei minime de infundare</answer>
+                <answer type="correct">la atingerea unghiului de incidenta critic </answer>
+        </answers>
+    </question>
+    <question number="12">
+        <text>Dupa legea lui Bernoulli: </text>
+        <answers>
+                <answer type="correct">cand viteza creste, scade presiunea  </answer>
+                <answer>cand viteza creste, creste si presiunea </answer>
+                <answer>nu are legatura cu viteza de curgere a fluidelor</answer>
+        </answers>
+    </question>
+    <question number="13">
+        <text>Din polara putem deduce: </text>
+        <answers>
+                <answer type="correct">viteza minima de infundare  </answer>
+                <answer>greutatea maxima de zbor </answer>
+                <answer>unghiul maxim de inclinare in zbor normal</answer>
+        </answers>
+    </question>
+    <question number="14">
+        <text>Alungirea aripii este: </text>
+        <answers>
+                <answer type="correct">raportul dintre coarda medie si anvergura </answer>
+                <answer>raportul dintre profunzimea maxima a aripii si anvergura </answer>
+                <answer>raportul dintre grosimea maxima relativa a profilului si anvergura</answer>
+        </answers>
+    </question>
+    <question number="15">
+        <text>Rezistenta indusa este data de : </text>
+        <answers>
+                <answer type="correct">turbioanele de la capetele aripii  </answer>
+                <answer>rezistenta la inaintare a intregii aripii plus cea a suspantelor</answer>
+                <answer>rezistenta la inaintare generata de voalura</answer>
+        </answers>
+    </question>
+    <question number="16">
+        <text>In cazul aripii eliptice, la aripa fara torsiune geometrica, stratul limita se desprinde incepand cu:</text>
+        <answers>
+                <answer type="correct">capetele de aripa  </answer>
+                <answer>zona centrala a aripii </answer>
+                <answer>paralel cu bordul de atac, in acelasi timp de-a lungul anvergurii</answer>
+        </answers>
+    </question>
+    <question number="17">
+        <text>Aripa de parapanta prezinta torsiune geometrica: </text>
+        <answers>
+                <answer type="correct">da </answer>
+                <answer>nu </answer>
+                <answer>torsiunea geometrica nu are legatura cu mecanica zborului</answer>
+        </answers>
+    </question>
+    <question number="18">
+        <text>Coarda profilului defineste:</text>
+        <answers>
+                <answer type="correct">linia ce uneste punctele extreme ale profilului, din zona bordului de atac si din zona bordului de fuga </answer>
+                <answer>linia ce uneste bordul de fuga cu directia de curgere a fileurilor de aer </answer>
+                <answer>curbura liniei extradosului </answer>
+        </answers>
+    </question>
+    <question number="19">
+        <text>Care dintre urmatoarele afirmatii este adevarata:</text>
+        <answers>
+                <answer type="correct">la cresterea unghiului de incidenta scade viteza  </answer>
+                <answer>la cresterea unghiului de incidenta scade portanta </answer>
+                <answer>la cresterea unghiului creste viteza</answer>
+        </answers>
+    </question>
+    <question number="20">
+        <text>Care dintre urmatoarele afirmatii este adevarata:</text>
+        <answers>
+                <answer type="correct">rezistenta indusa este influentata de inaltimea de zbor  </answer>
+                <answer>rezistenta indusa are legatura cu rezistenta la rupere a suspantelor </answer>
+                <answer>rezistenta indusa nu are lagatura cu zborul</answer>
+        </answers>
+    </question>
+    <question number="21">
+        <text>Care dintre urmatoarele afirmatii este adevarata: </text>
+        <answers>
+                <answer type="correct">rezistenta la inaintare este direct proportionala cu patratul vitezei  </answer>
+                <answer>rezistenta la inaintare este invers proportinala cu patratul vitezei </answer>
+                <answer>rezistenta la inaintare este direct proportionala doar cu aria sectiunii</answer>
+        </answers>
+    </question>
+    <question number="22">
+        <text>Teoria care sta la baza zborului cu parapanta face parte din: </text>
+        <answers>
+                <answer type="correct">domeniul fluidelor compresibile  </answer>
+                <answer>domeniul fluidelor incompresibile </answer>
+                <answer>nu are lagatura cu compresibilitatea</answer>
+        </answers>
+    </question>
+    <question number="23">
+        <text>Care dintre urmatoarele nu face parte din domeniul aerodinamicii: </text>
+        <answers>
+                <answer type="correct">rezistenta ohmica  </answer>
+                <answer>rezistenta indusa </answer>
+                <answer>rezistenta parazita</answer>
+        </answers>
+    </question>
+    <question number="24">
+        <text>Viteza de curgere a fileurilor de aer pe un profil aerodinamic este: </text>
+        <answers>
+                <answer type="correct">mai mare pe extrados decat pe intrados </answer>
+                <answer>mai mare pe intrados decat pe extrados</answer>
+                <answer>egala intrados cu extrados</answer>
+        </answers>
+    </question>
+    <question number="25">
+        <text>Turbioanele terminale responsabile pentru rezistenta indusa apar: </text>
+        <answers>
+                <answer type="correct">pe capetele aripii  </answer>
+                <answer>in spatele aripii (siaj) </answer>
+                <answer>in spate si sub aripa</answer>
+        </answers>
+    </question>
+    <question number="26">
+        <text>Centrul de presiune este: </text>
+        <answers>
+                <answer type="correct">fix sau mobil functie de tipul profilului  </answer>
+                <answer>mobil </answer>
+                <answer>nu exista aceasta notiune in aviatie</answer>
+        </answers>
+    </question>
+    <question number="27">
+        <text>Centrul de presiune se regaseste intotdeauna la nivelul: </text>
+        <answers>
+                <answer type="correct">in jumatatea dinainte a aripii  </answer>
+                <answer>bordului de fuga in zona centrala a aripii </answer>
+                <answer>bordului de atac al aripii</answer>
+        </answers>
+    </question>
+    <question number="28">
+        <text>In care din urmatoarele cazuri viteza de angajare creste: </text>
+        <answers>
+                <answer type="correct">creste incarcarea alara  </answer>
+                <answer>scade viteza de zbor fata de sol </answer>
+                <answer>micsoram numarul de suspante</answer>
+        </answers>
+    </question>
+    <question number="29">
+        <text>La atingerea unghiului de atac critic: </text>
+        <answers>
+                <answer type="correct">portanta scade brusc, iar rezistenta la inaintare creste brusc  </answer>
+                <answer>portanta creste proportional cu scaderea vitezei </answer>
+                <answer>portanta creste proportional cu viteza</answer>
+        </answers>
+    </question>
+    <question number="30">
+        <text>Desprinderea stratului limita apare: </text>
+        <answers>
+                <answer type="correct">la atingerea unghiului de atac critic  </answer>
+                <answer>la atingerea vitezei minime de zbor </answer>
+                <answer>la atingerea vitezei maxime de zbor</answer>
+        </answers>
+    </question>
+    <question number="31">
+        <text>Conform teoremei lui Bernoulli atunci cand sectiunea unui tub se micsoreaza: </text>
+        <answers>
+                <answer type="correct">viteza de curgere creste iar presiunea statica scade  </answer>
+                <answer>viteza de curgere creste iar presiunea statica creste </answer>
+                <answer>viteza de curgere scade iar presiunea statica creste</answer>
+        </answers>
+    </question>
+    <question number="32">
+        <text>Din polara vitezelor putem deduce:</text>
+        <answers>
+                <answer type="correct">viteza minima de infundare, viteza la finete maxima, viteza maxima de zbor </answer>
+                <answer>viteza maxima in viraj </answer>
+                <answer>viteza de zbor in functie de altitudine</answer>
+        </answers>
+    </question>
+    <question number="33">
+        <text>Infundarea minima se obtine : </text>
+        <answers>
+                <answer type="correct">la o viteza inferioara vitezei la finete maxima </answer>
+                <answer>la o viteza egala cu viteza la finete maxima </answer>
+                <answer>la o viteza mai mare decat viteza la finete maxima</answer>
+        </answers>
+    </question>
+    <question number="34">
+        <text>Finetea parapantei reprezinta: </text>
+        <answers>
+                <answer type="correct">unghiul de panta in zbor exprimat printr-un raport  </answer>
+                <answer>calitatea finisajului extradosului si intradosului </answer>
+                <answer>coeficientul de frecare cu aerul al intregului ansamblu: voalura, suspante, pilot</answer>
+        </answers>
+    </question>
+    <question number="35">
+        <text>Finetea aerodinamica a parapantei este influentata de : </text>
+        <answers>
+                <answer type="correct">valoarea rezistentei la inaintare  </answer>
+                <answer>valoarea vitezei maxime de zbor </answer>
+                <answer>valoarea vitezei de angajare</answer>
+        </answers>
+    </question>
+    <question number="36">
+        <text>Care dintre urmatoarele afirmatii este adevarata: </text>
+        <answers>
+                <answer type="correct">presiunea dinamica este influentata de viteza  </answer>
+                <answer>presiunea statica este intotdeauna egala cu presiunea dinamica</answer>
+                <answer>presiunea dinamica este influentata de altitudine</answer>
+        </answers>
+    </question>
+    <question number="37">
+        <text>Pentru a imbunatati finetea unei parapante putem sa: </text>
+        <answers>
+                <answer type="correct">folosim o seleta profilata (cocon)  </answer>
+                <answer>marim suprafata portanta </answer>
+                <answer>sa micsoram suprafata portanta</answer>
+        </answers>
+    </question>
+    <question number="38">
+        <text>In zbor planat stabilizat forta portanta este: </text>
+        <answers>
+                <answer type="correct">mai mica decat greutatea  </answer>
+                <answer>mai mare decat greutatea </answer>
+                <answer>egala cu greutatea</answer>
+        </answers>
+    </question>
+    <question number="39">
+        <text>Angajarea in limita de viteza apare ca urmare: </text>
+        <answers>
+                <answer type="correct">ruperii fileurilor de aer de pe extrados  </answer>
+                <answer>ruperii fileurilor de aer de pe intrados </answer>
+                <answer>zborului la viteza minima</answer>
+        </answers>
+    </question>
+    <question number="40">
+        <text>In timpul procedurii de decolare unghiul de atac este: </text>
+        <answers>
+                <answer type="correct">variabil  </answer>
+                <answer>fix </answer>
+                <answer>variaza doar daca se actioneaza acceleratorul</answer>
+        </answers>
+    </question>
+    <question number="41">
+        <text>Care din urmatoarele au drept consecinta cresterea finetei unei parapante: </text>
+        <answers>
+                <answer type="correct">micsorarea numarului de suspante  </answer>
+                <answer>scaderea incarcarii alare </answer>
+                <answer>cresterea greutatii totale</answer>
+        </answers>
+    </question>
+    <question number="42">
+        <text>Profilul aripii este dat de : </text>
+        <answers>
+                <answer type="correct">membranele intercheson  </answer>
+                <answer>proiectia aripii pe un plan orizontal </answer>
+                <answer>suprafata aripii desfasurata</answer>
+        </answers>
+    </question>
+    <question number="43">
+        <text>Viteza minima de infundare este: </text>
+        <answers>
+                <answer type="correct">mai mica decat viteza la finete maxima </answer>
+                <answer>mai mare decat viteza la finete </answer>
+                <answer>egala cu viteza la finete</answer>
+        </answers>
+    </question>
+    <question number="44">
+        <text>Regimurile de zbor ale parapantei sunt: </text>
+        <answers>
+                <answer>viteza minima, viteza maxima, viteza accelerata</answer>
+                <answer type="correct">viteza la infundare minima, viteza la finete maxima, viteza maxima </answer>
+                <answer>viteza de angajare, viteza maxima, viteza la finete</answer>
+        </answers>
+    </question>
+    <question number="45">
+        <text>Stratul limita este: </text>
+        <answers>
+                <answer type="correct">stratul de aer din imediata vecinatate a aeronavei în care viteza creste de la zero la viteza de zbor </answer>
+                <answer>stratul de aer format când avionul este în limita de viteza </answer>
+                <answer>stratul de aer care inconjoara profilul aerodinamic la unghi de incidenta critic</answer>
+        </answers>
+    </question>
+    <question number="46">
+        <text>Grosimea unui profil aerodinamic este:</text>
+        <answers>
+                <answer type="correct">cea mai mare distanta dintre extrados si intrados  </answer>
+                <answer>media grosimilor sectiunilor profilului </answer>
+                <answer>constanta.</answer>
+        </answers>
+    </question>
+    <question number="47">
+        <text>Rezultanta fortelor aerodinamice profilului are punctul de aplicatie în: </text>
+        <answers>
+                <answer type="correct">centrul de presiune  </answer>
+                <answer>centrul geometric al aripii </answer>
+                <answer>centrul de greutate</answer>
+        </answers>
+    </question>
+    <question number="48">
+        <text>In zbor orizontal centrul de greutate este situat: </text>
+        <answers>
+                <answer type="correct">sub centrul de presiune  </answer>
+                <answer>deasupra centrului de presiune </answer>
+                <answer>coincide cu centrul de presiune</answer>
+        </answers>
+    </question>
+    <question number="49">
+        <text>Cantitativ forta portanta este :</text>
+        <answers>
+                <answer type="correct">variabila in functie de viteza de zbor  </answer>
+                <answer>constanta in functie de viteza de zbor </answer>
+                <answer>constanta in toate cazurile cu exceptia angajarii</answer>
+        </answers>
+    </question>
+    <question number="50">
+        <text>Lungimea suspantelor poate influenta finetea parapantei: </text>
+        <answers>
+                <answer type="correct">da </answer>
+                <answer>nu </answer>
+                <answer>numai o data cu cresterea incarcarii alare.</answer>
+        </answers>
+    </question>
+    <question number="51">
+        <text>Incarcarea alara se refera la : </text>
+        <answers>
+                <answer type="correct">raportul dintre greutatea totala in zbor si suprafata portanta  </answer>
+                <answer>greutatea mazima in zbor </answer>
+                <answer>greutatea maxima suspendata</answer>
+        </answers>
+    </question>
+    <question number="52">
+        <text>Cresterea incarcarii alare modifica performantele parapantei: </text>
+        <answers>
+                <answer type="correct">da  </answer>
+                <answer>nu </answer>
+                <answer>incarcarea alara nu are legatura cu domeniul zborului</answer>
+        </answers>
+    </question>
+    <question number="53">
+        <text>La actionarea in jos a comenzilor unghiul de incidenta: </text>
+        <answers>
+                <answer type="correct">creste  </answer>
+                <answer>scade </answer>
+                <answer>ramane constant</answer>
+        </answers>
+    </question>
+    <question number="54">
+        <text>La cresterea vitezei de scurgere a fileurilor de aer pe extrados: </text>
+        <answers>
+                <answer type="correct">scade presiunea statica  </answer>
+                <answer>creste presiunea statica. </answer>
+                <answer>presiunea statica ramane constanta</answer>
+        </answers>
+    </question>
+    <question number="55">
+        <text>Care dintre urmatoarele fenomene nu au legatura cu aerodinamica: </text>
+        <answers>
+                <answer type="correct">legea distributiei maselor  </answer>
+                <answer>legea lui Bernoulli, </answer>
+                <answer>efectul Coanda</answer>
+        </answers>
+    </question>
+    <question number="56">
+        <text>Efectul Coanda este influentat de unghiul de incidenta? </text>
+        <answers>
+                <answer type="correct">da  </answer>
+                <answer>nu </answer>
+                <answer>doar la unghiuri de incidenta subcritice</answer>
+        </answers>
+    </question>
+    <question number="57">
+        <text>La micsorarea unghiului de incidenta : </text>
+        <answers>
+                <answer type="correct">viteza de zbor creste  </answer>
+                <answer>viteza de zbor scade</answer>
+                <answer>viteza de zbor ramane constanta</answer>
+        </answers>
+    </question>
+    <question number="58">
+        <text>La cresterea unghiului de incidenta se poate ajunge la angajare numai cand: </text>
+        <answers>
+                <answer type="correct">se atinge unghiul critic  </answer>
+                <answer>se atinge viteza minima de infundare </answer>
+                <answer>se atinge viteza la finete </answer>
+        </answers>
+    </question>
+    <question number="59">
+        <text>Fata de zborul orizontal, in timpul virajului, viteza de angajare : </text>
+        <answers>
+                <answer type="correct">creste  </answer>
+                <answer>scade </answer>
+                <answer>ramane neschimbata</answer>
+        </answers>
+    </question>
+    <question number="60">
+        <text>Forta centrifuga actioneaza toteauna: </text>
+        <answers>
+                <answer type="correct">spre exteriorul virajului  </answer>
+                <answer>spre interiorul virajului </answer>
+                <answer>spre in sus</answer>
+        </answers>
+    </question>
+    <question number="61">
+        <text>Cele 4 forte care actioneaza pe un profil aerodinamic sunt: </text>
+        <answers>
+                <answer type="correct">greutatea, portanta, rezistenta la inaintare, viteza </answer>
+                <answer>greutatea, portanta, forta centrifuga viteza </answer>
+                <answer>portanta, greutatea, forta centrifuga, rezistenta la inaintare</answer>
+        </answers>
+    </question>
+    <question number="62">
+        <text>Fortei portante i se opune: </text>
+        <answers>
+                <answer type="correct">greutatea  </answer>
+                <answer>viteza </answer>
+                <answer>rezistenta la inaintare</answer>
+        </answers>
+    </question>
+    <question number="63">
+        <text>Rugozitatea unei suprafete portante duce la: </text>
+        <answers>
+                <answer type="correct">cresterea rezistentei la inaintare  </answer>
+                <answer>cresterea vitezei de zbor </answer>
+                <answer>scaderea sarcinii maxime admise</answer>
+        </answers>
+    </question>
+    <question number="64">
+        <text>Care dintre urmatoarele afirmatii este adevarata:</text>
+        <answers>
+                <answer type="correct">finetea depinde de viteza de zbor  </answer>
+                <answer>finetea maxima se obtine la viteza de angajare (minima de zbor) </answer>
+                <answer>finetea maxima se obtine la viteza maxima de zbor.</answer>
+        </answers>
+    </question>
+    <question number="65">
+        <text>Care dintre urmatoarele afirmatii este adevarata: </text>
+        <answers>
+                <answer type="correct">viteza minima de infundare si finetea sunt caracteristici importante ale parapantei  </answer>
+                <answer>viteza de infundare a parapantei este indiferenta de viteza de zbor </answer>
+                <answer>viteza minima de infundare a parapantei se obtine la viteza minima de zbor</answer>
+        </answers>
+    </question>
+    <question number="66">
+        <text>Presiunea dinamica masurata in interiorul aripii variaza: </text>
+        <answers>
+                <answer type="correct">in functie de viteza de zbor  </answer>
+                <answer>in functie alungirea parapantei </answer>
+                <answer>in functie de grosimea maxima relativa a profilului parapantei</answer>
+        </answers>
+    </question>
+    <question number="67">
+        <text>Trompa lui Venturi demonstreaza: </text>
+        <answers>
+                <answer type="correct">legea Bernoulli  </answer>
+                <answer>efectul Coanda </answer>
+                <answer>aparitia rezistentei la inaintare</answer>
+        </answers>
+    </question>
+    <question number="68">
+        <text>Polara aripii de parapanta descrie: </text>
+        <answers>
+                <answer type="correct">caracteristicile de zbor ale parapantei  </answer>
+                <answer>forma aripii in plan </answer>
+                <answer>forma sheletului profilului aerodinamic</answer>
+        </answers>
+    </question>
+    <question number="69">
+        <text>La parapanta, relatia de ordonare intre Vangajare, Vmax, Vfinete-maxima si Vinfundare-minima este:</text>
+        <answers>
+                <answer>Vinfundare-minima < Vangajare < Vfinete-maxima < Vmax</answer>
+                <answer type="correct">Vangajare < Vinfundare-minima < Vfinete-maxima < Vmax </answer>
+                <answer>Vangajare < Vfinete-maxima < Vinfundare-minima < Vmax</answer>
+        </answers>
+    </question>
+    <question number="70">
+        <text>In momentul angajarii unei parapante</text>
+        <answers>
+                <answer type="correct">Presiunea in comenzi scade brusc </answer>
+                <answer>Viteza de inaintare creste brusc</answer>
+                <answer type="correct">Viteza de infundare creste brusc </answer>
+        </answers>
+    </question>
+    <question number="71">
+        <text>Incarcarea aripii in zbor planat stabilizat este definita ca si</text>
+        <answers>
+                <answer>Tensiunea din suspante exprimata in Kg/ml</answer>
+                <answer>Greutatea pilotului plus greutatea seletei si a aparatelor de zbor</answer>
+                <answer type="correct">Raportul dintre greutatea totala in zbor si suprafata aripii </answer>
+        </answers>
+    </question>
+    <question number="72">
+        <text>Ce se intampla daca marim incarcarea pe aripa:</text>
+        <answers>
+                <answer>creste finetea maxima</answer>
+                <answer type="correct">toate vitezele cresc, inclusiv viteza de angajare </answer>
+                <answer>viteza de angajare ramine nemodificata deoarece este o caracteristica a profilului</answer>
+        </answers>
+    </question>
+    <question number="73">
+        <text>Intr-un viraj strans cu unghi de inclinare accentuat sarcina pe aripa</text>
+        <answers>
+                <answer>scade</answer>
+                <answer type="correct">creste </answer>
+                <answer>ramine constanta doarece greutatea sistemului si suprafata aripii nu se modifica</answer>
+        </answers>
+    </question>
+    <question number="74">
+        <text>Rezistenta la inaintare se datoreaza:</text>
+        <answers>
+                <answer type="correct">formei profilului </answer>
+                <answer type="correct">rezistentei induse  </answer>
+                <answer type="correct">frecarii aerului cu toate componentele aflate in zbor </answer>
+        </answers>
+    </question>
+    <question number="75">
+        <text>La parapanta, stabilitatea in jurul axei transversale (axa ce uneste capetele aripii) se datoreaza in special</text>
+        <answers>
+                <answer>vitezei relativ mici la care zboara</answer>
+                <answer type="correct">profilului aripii </answer>
+                <answer type="correct">efectului de pendul (centrul de greutate se afla mult mai jos decit centrul de presiune) </answer>
+        </answers>
+    </question>
+    <question number="76">
+        <text> Alegeti afirmatia falsa:</text>
+        <answers>
+                <answer>parapanta are profil aerodinamic</answer>
+                <answer type="correct">parapanta nu are profil aerodinamic </answer>
+                <answer type="correct">profilul aerodinamic al parapantei poate fi identificat ca proiectia acesteia pe un plan orizontal </answer>
+        </answers>
+    </question>
+    <question number="77">
+        <text>Care dintre urmatoarele notiuni se regasesc in aviatie:</text>
+        <answers>
+                <answer type="correct">bord de atac, intrados </answer>
+                <answer>tribord, velatura</answer>
+                <answer>cordaj, rezistenta ohmica</answer>
+        </answers>
+    </question>
+    <question number="78">
+        <text>Alegeti afirmatia falsa:</text>
+        <answers>
+                <answer>intradosul aripii este in partea inferioara a profilului</answer>
+                <answer>extradosul aripii este in partea superioara a profilului</answer>
+                <answer type="correct">intradosul este in partea superioara a profilului </answer>
+        </answers>
+    </question>
+    <question number="79">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer type="correct">distanta dintre punctele de acrosaj a seletei modifica comportamentul parapantei in zbor </answer>
+                <answer>distanta dintre punctele de acrosaj a seletei modifica nu comportamentul parapantei in zbor</answer>
+                <answer type="correct">distanta dintre punctele de acrosaj a seletei este importanta la testele de omologare </answer>
+        </answers>
+    </question>
+    <question number="80">
+        <text>Uzura parapantei apare ca urmare a :</text>
+        <answers>
+                <answer type="correct">expunerii la radiatia solara (UV) </answer>
+                <answer type="correct">frecarii cu solul si cu microparticulele din aer </answer>
+                <answer>presiunii dinamice din interiorul voalurii in zbor</answer>
+        </answers>
+    </question>
+    <question number="81">
+        <text>Greutatea totala in zbor se calculeaza:</text>
+        <answers>
+                <answer type="correct">parapanta+seleta+pilot complet echipat+parasuta de siguranta </answer>
+                <answer>pilot+seleta+parasuta de siguranta</answer>
+                <answer>pilot+seleta</answer>
+        </answers>
+    </question>
+    <question number="82">
+        <text>In timpul unui viraj strans :</text>
+        <answers>
+                <answer type="correct">viteza de angajare creste </answer>
+                <answer>viteza de angajare scade</answer>
+                <answer>viteza de angajare ramane neschimbata</answer>
+        </answers>
+    </question>
+    <question number="83">
+        <text>Cum se explica tendinta de viraj in cazul inchiderilor asimetrice:</text>
+        <answers>
+                <answer type="correct">aripa deformata (inchisa) are rezistenta la inaintare mai mare decat cea ramasa deschisa </answer>
+                <answer>comanda corespunzatoare aripii inchise are efect mai mare, la aceeasi cursa</answer>
+                <answer>inchiderile asimetrice nu duc la tendinte de viraj sau autorotatie</answer>
+        </answers>
+    </question>
+    <question number="84">
+        <text>Care este diferenta dintre vrie si spirala picata:</text>
+        <answers>
+                <answer type="correct">in cazul vriei (negativa) fileurile de aer se desprind de pe extrados </answer>
+                <answer>in cazul spiralei picate fileurile de aer se desprind de pe extrados</answer>
+                <answer>ambele manevre sunt identice din punct de vedere aerodinamic, este doar o diferenta de terminologie</answer>
+        </answers>
+    </question>
+    <question number="85">
+        <text>La ce viteza de zbor se obtine infundarea minima:</text>
+        <answers>
+                <answer>mai mare decat viteza la finete maxima</answer>
+                <answer>la viteza minima de zbor</answer>
+                <answer type="correct">la viteza mai mica decat viteza la finete maxima </answer>
+        </answers>
+    </question>
+    <question number="86">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer type="correct">finetea aerodinamica si finetea in zbor (adevarata) pot fi diferite </answer>
+                <answer>finetea aerodinamica si finetea in zbor (adevarata) sunt identice</answer>
+                <answer>finetea nu se regaseste in domeniul zborului cu parapanta</answer>
+        </answers>
+    </question>
+    <question number="87">
+        <text>Trecerea printr-o masa de aer descendenta are ca efect:</text>
+        <answers>
+                <answer type="correct">micsorarea finetei in zbor </answer>
+                <answer>micsorarea finetei aerodinamice</answer>
+                <answer>cresterea finetei in zbor, prin cresterea componentei verticale a vitezei</answer>
+        </answers>
+    </question>
+    <question number="88">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>comenzile actioneaza asupra bordului de atac</answer>
+                <answer type="correct">cu ajutorul comenzilor modificam unghiul de incidenta </answer>
+                <answer>manevra URECHI se face cu ajutorul comenzilor</answer>
+        </answers>
+    </question>
+    <question number="89">
+        <text>Stabilitatea pe directie a parapantei este asigurata de:</text>
+        <answers>
+                <answer>bordul de fuga</answer>
+                <answer>efectul de pendul</answer>
+                <answer type="correct">stabilizatoare (capetele de plan) </answer>
+        </answers>
+    </question>
+    <question number="90">
+        <text>Membranele intercheson au rolul :</text>
+        <answers>
+                <answer>de a mentine presiunea dinamica in interiorul voalurii</answer>
+                <answer>de a prelua sarcina de pe extrados </answer>
+                <answer type="correct">de a materializa profilul aerodinamic al parapantei </answer>
+        </answers>
+    </question>
+    <question number="91">
+        <text>Polara aripii reprezinta:</text>
+        <answers>
+                <answer>curbura extradosului</answer>
+                <answer>curbura bordului de fuga reprezentata in plan</answer>
+                <answer type="correct">o sinteza a caracteristicilor de zbor</answer>
+        </answers>
+    </question>
+    <question number="92">
+        <text>Alegeti care dintre cele 3 obiecte are rezistenta la inaintare mai mica:</text>
+        <answers>
+                <answer type="correct">picatura de apa </answer>
+                <answer>sfera</answer>
+                <answer>paralelipiped</answer>
+        </answers>
+    </question>
+    <question number="93">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer type="correct">din polara putem deduce regimurile de zbor ale parapantei </answer>
+                <answer>din polara putem deduce sarcina utila a parapantei</answer>
+                <answer>din polara putem deduce raza maxima de viraj a parapantei</answer>
+        </answers>
+    </question>
+    <question number="94">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>portanta este generata 50% pe extrados</answer>
+                <answer type="correct">portanta este generata 2/3 pe extrados </answer>
+                <answer>portanta este generata exclusiv pe intrados</answer>
+        </answers>
+    </question>
+    <question number="95">
+        <text>Portanta este generata de :</text>
+        <answers>
+                <answer>presiunea din voalura</answer>
+                <answer>presiunea dinamica din zona bordului de fuga</answer>
+                <answer type="correct">diferenta de presiune dintre extrados si intrados </answer>
+        </answers>
+    </question>
+    <question number="96">
+        <text>Care dintre urmatoarele forte se regasesc in principiul celor 4 forte:</text>
+        <answers>
+                <answer type="correct">portanta, rezistenta la inaintare, viteza, greutate </answer>
+                <answer>portanta, rezistenta ohmica, viteza verticala, viteza orizontala</answer>
+                <answer>portanta, viteza verticala, viteza orizontala, greutate</answer>
+        </answers>
+    </question>
+    <question number="97">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>portanta este liniara</answer>
+                <answer type="correct">rezistenta la inaintare este direct proportionala cu patratul vitezei </answer>
+                <answer>rezistenta la inaintare scade brusc la unghi critic</answer>
+        </answers>
+    </question>
+    <question number="98">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>traseul fileurilor de aer pe extrados este egal cu cel pe intrados</answer>
+                <answer type="correct">traseul fileurilor de aer pe extrados este mai lung </answer>
+                <answer>traseul fileurilor de aer pe intrados este mai lung</answer>
+        </answers>
+    </question>
+    <question number="99">
+        <text>Grosimea stratului limita este influentata de:</text>
+        <answers>
+                <answer type="correct">rugozitatea (calitatea) suprafetei aripii </answer>
+                <answer type="correct">porozitatea materialului </answer>
+                <answer>sarcina alara</answer>
+        </answers>
+    </question>
+    <question number="100">
+        <text>Unghiul de incidenta se masoara:</text>
+        <answers>
+                <answer>fata de orizontala</answer>
+                <answer>fata de directia de zbor</answer>
+                <answer type="correct">intre corda profilului si directia de curgere a fileurilor de aer </answer>
+        </answers>
+    </question>
+    <question number="101">
+        <text>Functionarea parasutei de rezerva de tip circular (calota) se bazeaza pe:</text>
+        <answers>
+                <answer>efect coanda</answer>
+                <answer type="correct">rezistenta la inaintare </answer>
+                <answer>portanta la viteza zero</answer>
+        </answers>
+    </question>
+    <question number="102">
+        <text>107. Care din următoarele caracteristici are cea mai mare influență asupra rezistenței la inaintare a unui corp?</text>
+        <answers>
+                <answer>Greutatea corpului.</answer>
+                <answer type="correct">Mărimea corpului.</answer>
+                <answer>Caracteristicile materialului din care este construit corpul.</answer>
+                <answer>Masa corpului.</answer>
+        </answers>
+    </question>
+    <question number="103">
+        <text>Care este efectul asupra rezistenței la inaintare a unui corp dacă se dublează suprafața corpului expusă fluxului de aer?</text>
+        <answers>
+                <answer>Se injumătățește.</answer>
+                <answer>Nu se modifică.</answer>
+                <answer type="correct">Se dublează.</answer>
+                <answer>Se inmulțește cu 4.</answer>
+        </answers>
+    </question>
+    <question number="104">
+        <text>109. Care este efectul asupra rezistenței la inaintare a unui corp dacă crește de 4 ori suprafața corpului expusă fluxului de aer?</text>
+        <answers>
+                <answer>Se imparte la 4.</answer>
+                <answer>Nu se modifică.</answer>
+                <answer type="correct">Se înmulțește cu 4.</answer>
+                <answer>Se inmulțește cu 16.</answer>
+        </answers>
+    </question>
+    <question number="105">
+        <text>Care este efectul asupra rezistenței la inaintare a unui corp dacă se injumătățește suprafața corpului expusă fluxului de aer?</text>
+        <answers>
+                <answer type="correct">Se înjumătățește.</answer>
+                <answer>Nu se modifică.</answer>
+                <answer>Se dublează.</answer>
+                <answer>Se inmulțește cu 4.</answer>
+        </answers>
+    </question>
+    <question number="106">
+        <text>111. Un obiect cu o suprafață de 2 metri pătrați expusă unui flux de aer de 30 km/h produce o rezistență la inaintare de 300 N la nivelul mării. In aceleași condiții, ce rezistență la inaintare produce un obiect de formă similară dar cu o suprafață expusă de 4 metri pătrați?</text>
+        <answers>
+                <answer>In jur de 150 N.</answer>
+                <answer>In jur de 300 N.</answer>
+                <answer type="correct">În jur de 600 N.</answer>
+                <answer>In jur de 900 N.</answer>
+        </answers>
+    </question>
+    <question number="107">
+        <text>112. Un obiect cu o suprafață de 2 metri pătrați expusă unui flux de aer de 30 km/h produce o rezistență la inaintare de 300 N la nivelul mării. In aceleași condiții, ce rezistență la inaintare produce un obiect de formă similară dar cu o suprafață expusă de 1 metru pătrat?</text>
+        <answers>
+                <answer type="correct">În jur de 150 N.</answer>
+                <answer>In jur de 300 N.</answer>
+                <answer>In jur de 600 N.</answer>
+                <answer>In jur de 900 N.</answer>
+        </answers>
+    </question>
+    <question number="108">
+        <text>113. Un obiect cu o suprafață de 8 metri pătrați expusă unui flux de aer de 30 km/h produce o rezistență la inaintare de 1200 N la nivelul mării. In aceleași condiții, ce rezistență la inaintare produce un obiect de formă similară dar cu o suprafață expusă de 2 metri pătrați?</text>
+        <answers>
+                <answer>In jur de 150 N.</answer>
+                <answer type="correct">În jur de 300 N.</answer>
+                <answer>In jur de 600 N.</answer>
+                <answer>In jur de 900 N.</answer>
+        </answers>
+    </question>
+    <question number="109">
+        <text>114. Un obiect cu o suprafață de 0,5 metri pătrați expusă unui flux de aer de 30 km/h produce o rezistență la inaintare de 150 N la nivelul mării. In aceleași condiții, ce rezistență la inaintare produce un obiect de formă similară dar cu o suprafață expusă de 3 metri pătrați?</text>
+        <answers>
+                <answer>In jur de 150 N.</answer>
+                <answer>In jur de 300 N.</answer>
+                <answer>In jur de 600 N.</answer>
+                <answer type="correct">În jur de 900 N.</answer>
+        </answers>
+    </question>
+    <question number="110">
+        <text>115. Care din următorii factori are un efect semnificativ asupra rezistenței la inaintare a unui obiect?</text>
+        <answers>
+                <answer>Greutatea obiectului.</answer>
+                <answer>Umiditatea relativă a aerului.</answer>
+                <answer>Caracteristicile materialului din care este construit obiectul.</answer>
+                <answer type="correct">Viteza fluxului de aer.</answer>
+        </answers>
+    </question>
+    <question number="111">
+        <text>116. Dacă viteza fluxului de aer la care expus un corp se dublează,</text>
+        <answers>
+                <answer>rezistența la inaintare se va dubla.</answer>
+                <answer type="correct">rezistența la înaintare se va înmulți cu 4.</answer>
+                <answer>rezistența la inaintare se va inmulți cu 8.</answer>
+                <answer>rezistența la inaintare se va inmulți cu 16.</answer>
+        </answers>
+    </question>
+    <question number="112">
+        <text>117. Dacă viteza fluxului de aer la care expus un corp se triplează,</text>
+        <answers>
+                <answer>rezistența la inaintare se va inmulți cu 3.</answer>
+                <answer>rezistența la inaintare se va inmulți cu 6.</answer>
+                <answer type="correct">rezistența la înaintare se va înmulți cu 9.</answer>
+                <answer>rezistența la inaintare se va inmulți cu 12.</answer>
+        </answers>
+    </question>
+    <question number="113">
+        <text>118. Dacă viteza fluxului de aer la care expus un corp crește de 4 ori,</text>
+        <answers>
+                <answer>rezistența la inaintare se va dubla.</answer>
+                <answer>rezistența la inaintare se va inmulți cu 4.</answer>
+                <answer>rezistența la inaintare se va inmulți cu 8.</answer>
+                <answer type="correct">rezistența la înaintare se va înmulți cu 16.</answer>
+        </answers>
+    </question>
+    <question number="114">
+        <text>119. Dacă viteza fluxului de aer la care expus un corp se injumătățește,</text>
+        <answers>
+                <answer>rezistența la inaintare se va dubla.</answer>
+                <answer>rezistența la inaintare se va inmulți cu 4.</answer>
+                <answer>rezistența la inaintare se vaimpărți cu 2.</answer>
+                <answer type="correct">rezistența la înaintare se vaimpărți cu 4.</answer>
+        </answers>
+    </question>
+    <question number="115">
+        <text>120. Un obiect cu o suprafață de 2 metri pătrați expusă unui flux de aer de 30 km/h produce o rezistență la inaintare de 300 N la nivelul mării. Care va fi rezistența la inaintare a aceluiași obiect intr-un flux de aer de 60 km/h?</text>
+        <answers>
+                <answer>In jur de 300 N.</answer>
+                <answer>In jur de 600 N.</answer>
+                <answer>In jur de 900 N.</answer>
+                <answer type="correct">În jur de 1200 N.</answer>
+        </answers>
+    </question>
+    <question number="116">
+        <text>121. Un obiect cu o suprafață de 0,75 metri pătrați expusă unui flux de aer de 30 km/h produce o rezistență la inaintare de 100 N la nivelul mării. Care va fi rezistența la inaintare a aceluiași obiect intr-un flux de aer de 60 km/h?</text>
+        <answers>
+                <answer>In jur de 300 N.</answer>
+                <answer>In jur de 600 N.</answer>
+                <answer type="correct">În jur de 900 N.</answer>
+                <answer>In jur de 1200 N.</answer>
+        </answers>
+    </question>
+    <question number="117">
+        <text>122. Un obiect cu o suprafață de 2 metri pătrați expusă unui flux de aer de 80 km/h produce o rezistență la inaintare de 1200 N la nivelul mării. Care va fi rezistența la inaintare a aceluiași obiect intr-un flux de aer de 40 km/h?</text>
+        <answers>
+                <answer type="correct">În jur de 300 N.</answer>
+                <answer>In jur de 600 N.</answer>
+                <answer>In jur de 900 N.</answer>
+                <answer>In jur de 1200 N.</answer>
+        </answers>
+    </question>
+    <question number="118">
+        <text>123. Un obiect cu o suprafață de 0,75 metri pătrați expusă unui flux de aer de 20 km/h produce o rezistență la inaintare de 100 N la nivelul mării. Care va fi rezistența la inaintare a aceluiași obiect intr-un flux de aer de 60 km/h?</text>
+        <answers>
+                <answer>In jur de 300 N.</answer>
+                <answer>In jur de 600 N.</answer>
+                <answer type="correct">În jur de 900 N.</answer>
+                <answer>In jur de 1200 N.</answer>
+        </answers>
+    </question>
+    <question number="119">
+        <text>124. Care din următoarele caracteristici are cea mai mare influență asupra rezistenței la inaintare a unui corp?</text>
+        <answers>
+                <answer>Umiditatea absolută a aerului.</answer>
+                <answer>Gradientul presiunii.</answer>
+                <answer type="correct">Densitataea aerului.</answer>
+                <answer>Diferența dintre temperatură și punctul de rouă.</answer>
+        </answers>
+    </question>
+    <question number="120">
+        <text>125. Dacă densitea fluxului de aer la care este expus un corp se dublează, ce se va intămpla cu rezistența la inaintare a corpului?</text>
+        <answers>
+                <answer>Se injumătățește.</answer>
+                <answer>Nu se modifică.</answer>
+                <answer type="correct">Se dublează.</answer>
+                <answer>Crește de 4 ori.</answer>
+        </answers>
+    </question>
+    <question number="121">
+        <text>126. Dacă densitea fluxului de aer la care este expus un corp se injumătățește, ce se va intămpla cu rezistența la inaintare a corpului?</text>
+        <answers>
+                <answer type="correct">Se înjumătățește.</answer>
+                <answer>Nu se modifică.</answer>
+                <answer>Se dublează.</answer>
+                <answer>Crește de 4 ori.</answer>
+        </answers>
+    </question>
+    <question number="122">
+        <text>127. Dacă un obiect expus unui flux de aer se indepărteză de suprafața pamăntului ce se va intampla cu rezistența la inaintare a acestuia?</text>
+        <answers>
+                <answer>Va crește.</answer>
+                <answer>Nu se modifică.</answer>
+                <answer>Va scădea pană la troposferă după care va crește din cauza schimbării temperaturii.</answer>
+                <answer type="correct">Va scădea.</answer>
+        </answers>
+    </question>
+    <question number="123">
+        <text>128. Dacă un obiect expus unui flux de aer se indepărteză de suprafața pamăntului ce se va intampla cu rezistența la inaintare a acestuia?</text>
+        <answers>
+                <answer>Scade liniar.</answer>
+                <answer type="correct">Scade mai repede în straturile inferioare ale atmosferei de cât în cele superioare.</answer>
+                <answer>Scade mai repede in straturile superioare ale atmosferei de cat in cele inferioare.</answer>
+                <answer>Scade in straturile inferioare ale atmosferei și crește in straturile superioare.</answer>
+        </answers>
+    </question>
+    <question number="124">
+        <text>129. Un corp expus unui flux de aer la altitudinea de 4.400 m deasupra nivelului mării va avea,</text>
+        <answers>
+                <answer>aproximativ 90 % din rezistența la inaintare de la nivelul mării.</answer>
+                <answer>aproximativ 81 % din rezistența la inaintare de la nivelul mării.</answer>
+                <answer>aproximativ 72 % din rezistența la inaintare de la nivelul mării.</answer>
+                <answer type="correct">aproximativ 64 % din rezistența la înaintare de la nivelul mării.</answer>
+        </answers>
+    </question>
+    <question number="125">
+        <text>130. Un corp expus unui flux de aer la altitudinea de 3.300 m deasupra nivelului mării va avea,</text>
+        <answers>
+                <answer>aproximativ 90 % din rezistența la inaintare de la nivelul mării.</answer>
+                <answer>aproximativ 81 % din rezistența la inaintare de la nivelul mării.</answer>
+                <answer type="correct">aproximativ 72 % din rezistența la înaintare de la nivelul mării.</answer>
+                <answer>aproximativ 64 % din rezistența la inaintare de la nivelul mării.</answer>
+        </answers>
+    </question>
+    <question number="126">
+        <text>131. Un corp expus unui flux de aer la altitudinea de 2.200 m deasupra nivelului mării va avea,</text>
+        <answers>
+                <answer>aproximativ 90 % din rezistența la inaintare de la nivelul mării.</answer>
+                <answer type="correct">aproximativ 81 % din rezistența la înaintare de la nivelul mării.</answer>
+                <answer>aproximativ 72 % din rezistența la inaintare de la nivelul mării.</answer>
+                <answer>aproximativ 64 % din rezistența la inaintare de la nivelul mării.</answer>
+        </answers>
+    </question>
+    <question number="127">
+        <text>132. Un corp expus unui flux de aer la altitudinea de 1.100 m deasupra nivelului mării va avea,</text>
+        <answers>
+                <answer type="correct">aproximativ 90 % din rezistența la înaintare de la nivelul mării.</answer>
+                <answer>aproximativ 81 % din rezistența la inaintare de la nivelul mării.</answer>
+                <answer>aproximativ 72 % din rezistența la inaintare de la nivelul mării.</answer>
+                <answer>aproximativ 64 % din rezistența la inaintare de la nivelul mării.</answer>
+        </answers>
+    </question>
+    <question number="128">
+        <text>133. Care din următoarele caracteristici are cea mai mare influență asupra rezistenței la inaintare a unui corp?</text>
+        <answers>
+                <answer type="correct">Forma corpului.</answer>
+                <answer>Greutatea corpului.</answer>
+                <answer>Masa corpului.</answer>
+                <answer>Caracteristicile materialului din care este construit corpul.</answer>
+        </answers>
+    </question>
+    <question number="129">
+        <text>134. Care din următorii coeficenți este folosit pentru calcularea rezistenței la inaintare a unui corp?</text>
+        <answers>
+                <answer>Ca (sau Cl in engleză, l de la lift)</answer>
+                <answer>Cb</answer>
+                <answer type="correct">Cx (sau Cd în engleză, d de la drag)</answer>
+                <answer>Cy</answer>
+        </answers>
+    </question>
+    <question number="130">
+        <text>135. Un corp cu un coeficient aerodinamic de 1,3 comparativ cu un corp cu coeficient aerodinamic de 1 are in aceleași condiții,</text>
+        <answers>
+                <answer>aproximativ de 3 ori mai multă rezistență la inaintare.</answer>
+                <answer>aproximativ de 3 ori mai puțină rezistență la inaintare.</answer>
+                <answer type="correct">aproximativ cu 30 % mai multă rezistență la înaintare.</answer>
+                <answer>aproximativ cu 30 % mai puțină rezistență la inaintare.</answer>
+        </answers>
+    </question>
+    <question number="131">
+        <text>136. Un corp cu un coeficient aerodinamic de 0,33 comparativ cu un corp cu coeficient aerodinamic de 1 are in aceleași condiții,</text>
+        <answers>
+                <answer>aproximativ de 3 ori mai multă rezistență la inaintare.</answer>
+                <answer type="correct">aproximativ de 3 ori mai puțină rezistență la înaintare.</answer>
+                <answer>aproximativ cu 30 % mai multă rezistență la inaintare.</answer>
+                <answer>aproximativ cu 30 % mai puțină rezistență la inaintare.</answer>
+        </answers>
+    </question>
+    <question number="132">
+        <text>137. Un corp cu un coeficient aerodinamic de 0,05 comparativ cu un corp cu coeficient aerodinamic de 1 are in aceleași condiții,</text>
+        <answers>
+                <answer>aproximativ de 5 ori mai multă rezistență la inaintare.</answer>
+                <answer>aproximativ de 50 ori mai puțină rezistență la inaintare.</answer>
+                <answer>aproximativ de 2 ori mai puțină rezistență la inaintare.</answer>
+                <answer type="correct">aproximativ de 20 ori mai puțină rezistență la înaintare.</answer>
+        </answers>
+    </question>
+    <question number="133">
+        <text>138. Obiectele desenate mai jos au coeficientul aerodinamic Cx de 0,08 0,17 1 și 1,3. Care dintre ele are coeficientul Cx 0,08?</text>
+        <answers>
+                <answer>a)</answer>
+                <answer>b)</answer>
+                <answer type="correct">c)</answer>
+                <answer>d)</answer>
+        </answers>
+    </question>
+    <question number="134">
+        <text>139. Obiectele desenate mai jos au coeficientul aerodinamic Cx de 0,08 0,17 1 și 1,3. Care dintre ele are coeficientul Cx 0,17?</text>
+        <answers>
+                <answer>a)</answer>
+                <answer>b)</answer>
+                <answer>c)</answer>
+                <answer type="correct">d)</answer>
+        </answers>
+    </question>
+    <question number="135">
+        <text>140. Obiectele desenate mai jos au coeficientul aerodinamic Cx de 0,08 0,17 1 și 1,3. Care dintre ele are coeficientul Cx 1?</text>
+        <answers>
+                <answer type="correct">a)</answer>
+                <answer>b)</answer>
+                <answer>c)</answer>
+                <answer>d)</answer>
+        </answers>
+    </question>
+    <question number="136">
+        <text>141. Obiectele desenate mai jos au coeficientul aerodinamic Cx de 0,08 0,17 1 și 1,3. Care dintre ele are coeficientul Cx 1,3?</text>
+        <answers>
+                <answer>a)</answer>
+                <answer type="correct">b)</answer>
+                <answer>c)</answer>
+                <answer>d)</answer>
+        </answers>
+    </question>
+    <question number="137">
+        <text>142. Care dintre următorii parametri vor avea cea mai mare influență asupra aerodinamici unui corp?</text>
+        <answers>
+                <answer>densitatea moleculară a corpului.</answer>
+                <answer>masa corpului.</answer>
+                <answer>greutatea specifică a corpului.</answer>
+                <answer type="correct">caracteristicile suprafeței corpului.</answer>
+        </answers>
+    </question>
+    <question number="138">
+        <text>143. Care dintre următoarele numere reprezintă coarda profilului?</text>
+        <answers>
+                <answer>1</answer>
+                <answer type="correct">2</answer>
+                <answer>3</answer>
+                <answer>4</answer>
+        </answers>
+    </question>
+    <question number="139">
+        <text>144. Care dintre următoarele numere reprezintă grosimea profilului?</text>
+        <answers>
+                <answer>1</answer>
+                <answer type="correct">2</answer>
+                <answer>3</answer>
+                <answer>4</answer>
+        </answers>
+    </question>
+    <question number="140">
+        <text>145. Care dintre următoarele numere reprezintă adancimea profilului?</text>
+        <answers>
+                <answer type="correct">1</answer>
+                <answer>2</answer>
+                <answer>3</answer>
+                <answer>4</answer>
+        </answers>
+    </question>
+    <question number="141">
+        <text>146. Care dintre următoarele numere reprezintă bordul de atac al profilului?</text>
+        <answers>
+                <answer>1</answer>
+                <answer type="correct">2</answer>
+                <answer>3</answer>
+                <answer>4</answer>
+        </answers>
+    </question>
+    <question number="142">
+        <text>147. Care dintre următoarele numere reprezintă bordul de fugă al profilului?</text>
+        <answers>
+                <answer>1</answer>
+                <answer>2</answer>
+                <answer type="correct">3</answer>
+                <answer>4</answer>
+        </answers>
+    </question>
+    <question number="143">
+        <text>148. Profilul aripii</text>
+        <answers>
+                <answer>este practic identic pentru toate aeronavele nemotorizate.</answer>
+                <answer type="correct">este determinat pentru fiecare aeronavă în funcție de caracteristicile de zbor dorite.</answer>
+                <answer>are o influență redusă asupra performanței aeronavei, deoarece aceasta este determinată in primul rand de greutatea totală.</answer>
+                <answer>este determinat de unghiul de atac.</answer>
+        </answers>
+    </question>
+    <question number="144">
+        <text>149. In majoritatea cazurilor, profilulurile aripilor aeronavelor care se deplasează lent, cum ar fi aeronavele lansate de pe picioare sunt profiluri</text>
+        <answers>
+                <answer>relativ groase și simetrice.</answer>
+                <answer>relativ subțiri și asimetrice.</answer>
+                <answer>relativ subțiri și simetrice.</answer>
+                <answer type="correct">relativ groase și asimetrice.</answer>
+        </answers>
+    </question>
+    <question number="145">
+        <text>150. Termenul "unghi de atac" reprezintă unghiul dintre</text>
+        <answers>
+                <answer>coarda profilului și orizontală.</answer>
+                <answer type="correct">coarda profilului și vântul relativ.</answer>
+                <answer>intradosul și extradosul aripilor la marginea posterioară.</answer>
+                <answer>orizontala si vantul relativ.</answer>
+        </answers>
+    </question>
+    <question number="146">
+        <text>151. Dacă aripă produce portanță sau nu depinde, printre altele, de</text>
+        <answers>
+                <answer type="correct">unghiul de atac.</answer>
+                <answer>suprafața sa.</answer>
+                <answer>indicele derezistențăla inaintare Cx al profilului aripii.</answer>
+                <answer>greutatea ei.</answer>
+        </answers>
+    </question>
+    <question number="147">
+        <text>152. Care dintre următoarele profiluri expuse vantului are cel mai mare unghi de atac?</text>
+        <answers>
+                <answer type="correct">1</answer>
+                <answer>2</answer>
+                <answer>3</answer>
+                <answer>4</answer>
+        </answers>
+    </question>
+    <question number="148">
+        <text>153. Care dintre următoarele profiluri expuse vantului are unghi negativ de atac de -10°?</text>
+        <answers>
+                <answer>1</answer>
+                <answer type="correct">2</answer>
+                <answer>3</answer>
+                <answer>4</answer>
+        </answers>
+    </question>
+    <question number="149">
+        <text>154. Care dintre următoarele profiluri expuse vantului are unghi de atac de 0°?</text>
+        <answers>
+                <answer>1</answer>
+                <answer>2</answer>
+                <answer>3</answer>
+                <answer type="correct">4</answer>
+        </answers>
+    </question>
+    <question number="150">
+        <text>155. Care este mai mult sau mai puțin distribuția portanței pe o aripă care este expusă unui vant relativ cu un unghi de atac de + 10 °?</text>
+        <answers>
+                <answer>1/2 pe extrados, 1/2 pe intrados.</answer>
+                <answer>1/3 pe extrados, 2/3 pe intrados.</answer>
+                <answer type="correct">2/3 pe extrados, 1/3 pe intrados.</answer>
+                <answer>1/4 pe extrados, 3/4 pe intrados.</answer>
+        </answers>
+    </question>
+    <question number="151">
+        <text>156. Care dintre următoarele afirmații despre distribuția portanței este corectă pentru o aripă cambrată care zboară cu un unghi de atac pozitiv de 10 °?</text>
+        <answers>
+                <answer type="correct">2/3 din portanță este creată pe prima treime a aripii.</answer>
+                <answer>1/2 din portanță este creată pe prima treime a aripii.</answer>
+                <answer>1/3 din portanță este creată pe prima treime a aripii.</answer>
+                <answer>2/3 din portanță este creată pe cea de-a doua treime a aripii.</answer>
+        </answers>
+    </question>
+    <question number="152">
+        <text>157. Care dintre următoarele seturi de patru factori influențează portanța generată de o aripă?</text>
+        <answers>
+                <answer>suprafața aripii, coeficientul de portanță, coeficientul de rezistență la inaintare, densitatea aerului.</answer>
+                <answer>coeficientul de portanță, densitatea aerului, viteza fluxului de aer, greutatea.</answer>
+                <answer>densitatea aerului, viteza fluxului de aer, coeficientul de portanță, coeficientul de rezistență la inaintare.</answer>
+                <answer type="correct">dsuprafața aripii, coeficientul de portanță, densitatea aerului, viteza fluxului de aer.</answer>
+        </answers>
+    </question>
+    <question number="153">
+        <text>158. Dacă unghiul de atac al unei parapante care zboară cu cea mai bună finețe este redus cu 2° atunci</text>
+        <answers>
+                <answer>viteza de zbor se reduce.</answer>
+                <answer>viteza de zbor nu se modifică.</answer>
+                <answer type="correct">crește viteza zborului.</answer>
+                <answer>viteza de zbor crește inițial și apoi se stabilizează la valoarea inițială.</answer>
+        </answers>
+    </question>
+    <question number="154">
+        <text>159. Dacă unghiul de atac al unei parapante care zboară cu cea mai bună finețe este redus cu 2° atunci</text>
+        <answers>
+                <answer>coeficiențul de portanță Cz (CL) crește.</answer>
+                <answer>coeficiențul de portanță Cz (CL) nu se modifică.</answer>
+                <answer type="correct">coeficiențul de portanță Cz (CL) scade.</answer>
+                <answer>coeficiențul de portanță Cz (CL) crește inițial și momentan inainte de a reveni la valoarea sa anterioară.</answer>
+        </answers>
+    </question>
+    <question number="155">
+        <text>160. Dacă unghiul de atac al unei parapante care zboară cu cea mai bună finețe crește cu 2 ° atunci</text>
+        <answers>
+                <answer type="correct">viteza zborului scade.</answer>
+                <answer>viteza de zbor nu se modifică.</answer>
+                <answer>crește viteza zborului.</answer>
+                <answer>viteza de zbor crește inițial și apoi se stabilizează la valoarea inițială.</answer>
+        </answers>
+    </question>
+    <question number="156">
+        <text>161. Dacă unghiul de atac al unei parapante care zboară cu cea mai bună finețe crește cu 2 ° atunci</text>
+        <answers>
+                <answer type="correct">coeficiențul de portanță Cz (CL) crește.</answer>
+                <answer>coeficiențul de portanță Cz (CL) nu se modifică.</answer>
+                <answer>coeficiențul de portanță Cz (CL) scade.</answer>
+                <answer>coeficiențul de portanță Cz (CL) crește inițial și momentan inainte de a reveni la valoarea sa anterioară.</answer>
+        </answers>
+    </question>
+    <question number="157">
+        <text>162. Relația dintre portanța și rezistențala inaintare unei aripi depinde in principal de</text>
+        <answers>
+                <answer>suprafața aripii.</answer>
+                <answer>densitatea aerului.</answer>
+                <answer type="correct">unghiul de atac.</answer>
+                <answer>viteza fluxului de aer.</answer>
+        </answers>
+    </question>
+    <question number="158">
+        <text>163. Care dintre literele din următoarea diagramă indică punctul de stagnare?</text>
+        <answers>
+                <answer type="correct">1</answer>
+                <answer>2</answer>
+                <answer>3</answer>
+                <answer>4</answer>
+        </answers>
+    </question>
+    <question number="159">
+        <text>164. Care dintre literele din următoarea diagramă indică centrulpresiunii?</text>
+        <answers>
+                <answer>1</answer>
+                <answer>2</answer>
+                <answer type="correct">3</answer>
+                <answer>4</answer>
+        </answers>
+    </question>
+    <question number="160">
+        <text>165. Care dintre literele din următoarea diagramă indică punctul de angajare?</text>
+        <answers>
+                <answer>1</answer>
+                <answer>2</answer>
+                <answer>3</answer>
+                <answer type="correct">4</answer>
+        </answers>
+    </question>
+    <question number="161">
+        <text>166. Termenul "punct de angajare" descrie</text>
+        <answers>
+                <answer>punctul in care fluxul de aer de pe extrados a aripii intalnește din nou fluxul de pe intrados.</answer>
+                <answer>punctul de aplicare al forței aerodinamice rezultate.</answer>
+                <answer>punctul in care fluxul de aer este impărțit intre extradosul și intradosul pfofilului.</answer>
+                <answer type="correct">punctul în care fluxul de aer se separă de aripă.</answer>
+        </answers>
+    </question>
+    <question number="162">
+        <text>167. Cand o parapantă zboară la incărcare maximă, punctul de angajare</text>
+        <answers>
+                <answer type="correct">are loc la o viteză mai mare decât la încărcarea minimă.</answer>
+                <answer>apare la aceeași viteză și unghi de atac independent de sarcină.</answer>
+                <answer>nu apare niciodată.</answer>
+                <answer>are loc la o viteză mai mică decat cea la icărcare minimă.</answer>
+        </answers>
+    </question>
+    <question number="163">
+        <text>168. Atunci cand o parapantă zboară la incărcare minimă, punctul de angajare apare</text>
+        <answers>
+                <answer>la o viteză mai mare decat la incărcare maximă.</answer>
+                <answer>la aceeași viteză și unghi de atac independent de sarcină.</answer>
+                <answer>la un unghi mai mic de atac.</answer>
+                <answer type="correct">la o viteză mai mică decat la incărcare maximă.</answer>
+        </answers>
+    </question>
+    <question number="164">
+        <text>169. Termenul de punct de stagnare definește</text>
+        <answers>
+                <answer>trecerea de la stratul laminar la stratul de graniță turbulent.</answer>
+                <answer>punctul de aplicare al forței aerodinamice rezultate.</answer>
+                <answer type="correct">punctul în care fluxul de aer este împărțit între extradosul și intradosul aripilor.</answer>
+                <answer>punctul in care fluxul de aer se separă de aripă.</answer>
+        </answers>
+    </question>
+    <question number="165">
+        <text>170. Dacă unghiul pozitiv de atac al unei aripi intr-un flux de aer se mărește, punctul de stagnare se deplasează</text>
+        <answers>
+                <answer>pe extradosul aripii spre bordul de fugă.</answer>
+                <answer type="correct">pe intradosul aripii spre bordul de fugă.</answer>
+                <answer>pe extradosul aripii spre bordul de atac.</answer>
+                <answer>pe intradosul aripii spre bordul de atac.</answer>
+        </answers>
+    </question>
+    <question number="166">
+        <text>171. Dacă unghiul pozitiv de atac al unei aripi intr-un flux de aer scade, punctul de stagnare</text>
+        <answers>
+                <answer>rămane staționar.</answer>
+                <answer>se deplasează spre bordul de fugă pe intradosul aripii.</answer>
+                <answer>se deplasează spre bordul de atac pe extradosul aripii.</answer>
+                <answer type="correct">se deplasează spre bordul de atac pe intradosul aripii.</answer>
+        </answers>
+    </question>
+    <question number="167">
+        <text>172. Termenul "centru de presiune" inseamnă:</text>
+        <answers>
+                <answer>trecerea de la un flux laminar la flux turbulent a stratului limită.</answer>
+                <answer type="correct">punctul de aplicare al forței aerodinamice rezultate.</answer>
+                <answer>punctul in care fluxul de aer este impărțit intre intradosul și extradosul aripilor.</answer>
+                <answer>centrul de masă a pilotului și a intregului echipament combinat.</answer>
+        </answers>
+    </question>
+    <question number="168">
+        <text>173. Termenul "anvergura aripii" este definit ca</text>
+        <answers>
+                <answer>distanța medie dintre dordul de atac și bordul de fugă ale unei aripi.</answer>
+                <answer type="correct">distanța dintre colțurile stângi și drepte ale aripii.</answer>
+                <answer>diferența de unghi de atac a secțiunii transversale a aripii in diferite puncte dealungul aripii.</answer>
+                <answer>incărcarea medie pe unitate a suprafeței aripii.</answer>
+        </answers>
+    </question>
+    <question number="169">
+        <text>174. Termenul "coardă medie" este definit ca</text>
+        <answers>
+                <answer type="correct">distanța medie dintre dordul de atac și bordul de fugă ale unei aripi.</answer>
+                <answer>distanța dintre colțurile stangi și drepte ale aripii.</answer>
+                <answer>diferența de unghi de atac a secțiunii transversale a aripii in diferite puncte dealungul aripii.</answer>
+                <answer>incărcarea medie pe unitate a suprafeței aripii.</answer>
+        </answers>
+    </question>
+    <question number="170">
+        <text>175. Termenul "incărcarea alară" este definit ca</text>
+        <answers>
+                <answer>distanța medie dintre dordul de atac și bordul de fugă ale unei aripi.</answer>
+                <answer>distanța dintre colțurile stangi și drepte ale aripii.</answer>
+                <answer>diferența de unghi de atac a secțiunii transversale a aripii in diferite puncte dealungul aripii.</answer>
+                <answer type="correct">încărcarea medie pe unitate a suprafeței aripii.</answer>
+        </answers>
+    </question>
+    <question number="171">
+        <text>176. Incărcarea alară a unui parapante este</text>
+        <answers>
+                <answer>incărcare / suprafața aripii.</answer>
+                <answer>(presiunea aerului / 2) x (viteza aerului) 2.</answer>
+                <answer type="correct">greutatea totală / suprafața aripii.</answer>
+                <answer>(greutatea pilotului + greutatea echipamentului) / (aripă) 2.</answer>
+        </answers>
+    </question>
+    <question number="172">
+        <text>177. Termenul "alungirea aripii" este definit ca relația dintre</text>
+        <answers>
+                <answer>profunzimea profilului și coarda medie a aripii.</answer>
+                <answer type="correct">anvergura aripii și coarda medie a aripii.</answer>
+                <answer>pătratul anvergurii și pătratul coardei medii.</answer>
+                <answer>cea mai mare și mai mică coardă a aripii.</answer>
+        </answers>
+    </question>
+    <question number="173">
+        <text>178. Alungirea unei aripi este calculată in modul următor</text>
+        <answers>
+                <answer type="correct">(anvergura) 2 / suprafața aripii.</answer>
+                <answer>(coarda medie) 2 / suprafața aripii.</answer>
+                <answer>anvergura x coarda medie.</answer>
+                <answer>coarda medie x suprafața aripii.</answer>
+        </answers>
+    </question>
+    <question number="174">
+        <text>179. Aripile cu o alungire mare au</text>
+        <answers>
+                <answer>anvergura mare și coarda medie mare.</answer>
+                <answer>anvergura mică și coarda medie mare.</answer>
+                <answer>anvergura mică și coarda medie mică.</answer>
+                <answer type="correct">anvergura mare și coarda medie mică.</answer>
+        </answers>
+    </question>
+    <question number="175">
+        <text>180. Aripile cu o alungire mică au</text>
+        <answers>
+                <answer>anvergura mare și coarda medie mare.</answer>
+                <answer type="correct">anvergura mică și coarda medie mare.</answer>
+                <answer>anvergura mică și coarda medie mică.</answer>
+                <answer>anvergura mare și coarda medie mică.</answer>
+        </answers>
+    </question>
+    <question number="176">
+        <text>181. Alungirea unei aripi este 5. Care dintre următoarele afirmații este corectă?</text>
+        <answers>
+                <answer>Suprafața sa este de cinci ori mai mare decat anvergura sa.</answer>
+                <answer type="correct">Anvergura sa este de cinci ori mai mare decât coarda medie.</answer>
+                <answer>Coarda medie este de cinci ori mai mare decat anvergura sa.</answer>
+                <answer>Anvergura sa este de cinci ori mai mare decat suprafața sa.</answer>
+        </answers>
+    </question>
+    <question number="177">
+        <text>182. Alungirea unei aripi este 5. Care dintre următoarele afirmații este corectă?</text>
+        <answers>
+                <answer>Suprafața sa este de cinci ori mai mică decat anvergura sa.</answer>
+                <answer>Anvergura sa este de cinci ori mai mică decat coarda medie.</answer>
+                <answer type="correct">Coarda medie este de cinci ori mai mică decât anvergura sa.</answer>
+                <answer>Anvergura sa este de cinci ori mai mică decat suprafața sa.</answer>
+        </answers>
+    </question>
+    <question number="178">
+        <text>183. Care este alungirea unei parapante cu următoarele caracteristici: Anvergură 10 m, Suprafață 25 m2, Incărcare minimă 70 kg, Incărcare maximă 95 kg și Greutatea parapantei 5 kg?</text>
+        <answers>
+                <answer>2,5</answer>
+                <answer>3,5</answer>
+                <answer type="correct">4,0</answer>
+                <answer>4,5</answer>
+        </answers>
+    </question>
+    <question number="179">
+        <text>184. Care este coarda medie a unei parapante cu următoarele caracteristici: Anvergură 10 m, Suprafață 25 m2, Incărcare minimă 70 kg, Incărcare maximă 95 kg și Greutatea parapantei 5 kg?</text>
+        <answers>
+                <answer type="correct">2,5</answer>
+                <answer>3,5</answer>
+                <answer>4,0</answer>
+                <answer>4,5</answer>
+        </answers>
+    </question>
+    <question number="180">
+        <text>185. Care este incărcarea alară a unei parapante la incărcare maximă, cu următoarele caracteristici: Anvergură 10 m, Suprafață 25 m2, Incărcare minimă 70 kg, Incărcare maximă 95 kg și Greutatea parapantei 5 kg?</text>
+        <answers>
+                <answer>3,0 kg / m2</answer>
+                <answer>3,5 kg / m2</answer>
+                <answer type="correct">4,0 kg / m2</answer>
+                <answer>4,5 kg / m2</answer>
+        </answers>
+    </question>
+    <question number="181">
+        <text>186. Care este incărcarea alară a unei parapante la incărcare minimă, cu următoarele caracteristici: Anvergură 10 m, Suprafață 25 m2, Incărcare minimă 70 kg, Incărcare maximă 95 kg și Greutatea parapantei 5 kg?</text>
+        <answers>
+                <answer type="correct">3,0 kg / m2</answer>
+                <answer>3,5 kg / m2</answer>
+                <answer>4,0 kg / m2</answer>
+                <answer>4,5 kg / m2</answer>
+        </answers>
+    </question>
+    <question number="182">
+        <text>187. Care este alungirea deltaplanului cu următoarele caracteristici: Anvergură 10 m, Suprafață 12,5m2, Incărcare minimă 60 kg, Incărcare maximă 80 kg, Greutatea delatplanului 30kg?</text>
+        <answers>
+                <answer>4</answer>
+                <answer>6</answer>
+                <answer type="correct">8</answer>
+                <answer>10</answer>
+        </answers>
+    </question>
+    <question number="183">
+        <text>188. Care este coarda medie a deltaplanului cu următoarele caracteristici: anvergură 10m, incărcare minimă 65kg, greutate deltaplan 35kg, suprafață 12,5m2, incărcare maximă 90kg?</text>
+        <answers>
+                <answer>0,75 m</answer>
+                <answer type="correct">1,25m</answer>
+                <answer>1.75m</answer>
+                <answer>2.50m</answer>
+        </answers>
+    </question>
+    <question number="184">
+        <text>189. Care este incărcarea alară a aripii la incăcare maximă, cu următoarele caracteristici: anvergură 10m, suprafață 12,5m2, incărcare minimă 65kg, incărcare maximă 90kg, greutate 35kg.</text>
+        <answers>
+                <answer>6 kg / m2</answer>
+                <answer>8 kg / m2</answer>
+                <answer type="correct">10 kg / m2</answer>
+                <answer>12 kg / m2</answer>
+        </answers>
+    </question>
+    <question number="185">
+        <text>190. Care este incărcarea alară a aripii la incăcare minimă, cu următoarele caracteristici: anvergură 10m, suprafață 12,5m2, incărcare minimă 65kg, incărcare maximă 90kg, greutate 35kg.</text>
+        <answers>
+                <answer>6 kg / m2</answer>
+                <answer type="correct">8 kg / m2</answer>
+                <answer>10 kg / m2</answer>
+                <answer>12 kg / m2</answer>
+        </answers>
+    </question>
+    <question number="186">
+        <text>191. Care este alungirea unei parapante moderne de nivel intermediar?</text>
+        <answers>
+                <answer>aproximativ 3</answer>
+                <answer type="correct">aproximativ 5</answer>
+                <answer>aproximativ 8</answer>
+                <answer>aproximativ 12</answer>
+        </answers>
+    </question>
+    <question number="187">
+        <text>192. Care este alungirea unui deltaplan modern de nivel intermediar?</text>
+        <answers>
+                <answer>aproximativ 3</answer>
+                <answer>aproximativ 5</answer>
+                <answer type="correct">aproximativ 8</answer>
+                <answer>aproximativ 20</answer>
+        </answers>
+    </question>
+    <question number="188">
+        <text>193. Care dintre aripile cu următoarele caracteristici au cea mai mare alungire?</text>
+        <answers>
+                <answer>suprafață: 32m2, anvergură: 8m</answer>
+                <answer>suprafață: 25m2, anvergură: 10m</answer>
+                <answer>suprafață: 20m2, anvergură: 10m</answer>
+                <answer type="correct">suprafață: 24m2, anvergură: 12m</answer>
+        </answers>
+    </question>
+    <question number="189">
+        <text>194. Care dintre aripile cu următoarele caracteristici au cea mai mică alungire?</text>
+        <answers>
+                <answer type="correct">suprafață: 32m2, anvergură: 8m</answer>
+                <answer>suprafață: 25m2, anvergură: 10m</answer>
+                <answer>suprafață: 20m2, anvergură: 10m</answer>
+                <answer>suprafață: 24m2, anvergură: 12m</answer>
+        </answers>
+    </question>
+    <question number="190">
+        <text>195. Care dintre aripile cu următoarele caracteristici au cea mai mare alungire?</text>
+        <answers>
+                <answer>suprafață: 16m2, anvergură: 12m</answer>
+                <answer>suprafață: 20m2, anvergură: 10m</answer>
+                <answer type="correct">suprafață: 12m2, anvergură: 12m</answer>
+                <answer>suprafață: 12,5m2, anvergură: 10m</answer>
+        </answers>
+    </question>
+    <question number="191">
+        <text>196. Care dintre aripile cu următoarele caracteristici au cea mai mică alungire?</text>
+        <answers>
+                <answer>suprafață: 16m2, anvergură: 12m</answer>
+                <answer type="correct">suprafață: 20m2, anvergură: 10m</answer>
+                <answer>suprafață: 12m2, anvergură: 12m</answer>
+                <answer>suprafață: 12,5m2, anvergură: 10m</answer>
+        </answers>
+    </question>
+    <question number="192">
+        <text>197. Cand apar virtejurile?</text>
+        <answers>
+                <answer>Cand stratul limită din spatele punctului de desprindere trece la curgere turbulentă.</answer>
+                <answer type="correct">Atunci când există o diferență de presiune între intrados și extrados.</answer>
+                <answer>Atunci cand colțurile aripilor sunt slab proiectate.</answer>
+                <answer>Atunci cand suspantele produc vartejuri care sunt deviate in sus.</answer>
+        </answers>
+    </question>
+    <question number="193">
+        <text>198. Unde ar trebui să ne așteptăm să găsim vărtejuri langă o prapantă cand aceasta zboară?</text>
+        <answers>
+                <answer>la marginea aripii din fața bordului de atac.</answer>
+                <answer>aproximativ cu o anvergură deasupra centrului presiunii / tracțiunii.</answer>
+                <answer>in mijlocul aripii și in fața bordului de atac.</answer>
+                <answer type="correct">în spatele bordului de fugă.</answer>
+        </answers>
+    </question>
+    <question number="194">
+        <text>199. Dacă crește rezistența la inaintare a unei aripi</text>
+        <answers>
+                <answer>acest lucru nu are nici un efect asupra unghiului de planare.</answer>
+                <answer>unghiul de planare scade.</answer>
+                <answer type="correct">unghiul de planare crește.</answer>
+                <answer>unghiul de planare scade pană la un punct și apoi crește brusc.</answer>
+        </answers>
+    </question>
+    <question number="195">
+        <text>200. Dacă scade rezistența la inaintare a unei aripi</text>
+        <answers>
+                <answer>acest lucru nu are nici un efect asupra unghiului de planare.</answer>
+                <answer>finețea scade.</answer>
+                <answer type="correct">finețea crește.</answer>
+                <answer>finețea scade pană la un punct și apoi crește brusc.</answer>
+        </answers>
+    </question>
+    <question number="196">
+        <text>201. Suprafața proiectată este</text>
+        <answers>
+                <answer type="correct">mai mică sau identică cu suprafața desfășurată.</answer>
+                <answer>la un deltaplan mai mică, la o parapantă mai mare decat suprafața desfășurată.</answer>
+                <answer>la un deltaplan mai mare, la o parapantă mai mmică decat suprafața desfășurată.</answer>
+                <answer>mai mare decat suprafața desfășurată.</answer>
+        </answers>
+    </question>
+    <question number="197">
+        <text>202. Rezultanta forțelor aerodinamice este intre forțele</text>
+        <answers>
+                <answer type="correct">portanță și rezistență la înaintare.</answer>
+                <answer>tracțiune și portanță.</answer>
+                <answer>greutate și tracțiune.</answer>
+                <answer>greutate și portanță.</answer>
+        </answers>
+    </question>
+    <question number="198">
+        <text>203. In timpul zborului stabil, rezultanta forțelor aerodinamice are aceeași valoare ca</text>
+        <answers>
+                <answer>portanța.</answer>
+                <answer type="correct">greutatea totală.</answer>
+                <answer>tracțiunea.</answer>
+                <answer>rezistența la inaintare.</answer>
+        </answers>
+    </question>
+    <question number="199">
+        <text>204. In timpul zborului stabil, tracțiunea are aceeași valoare ca</text>
+        <answers>
+                <answer>portanța.</answer>
+                <answer>rezultanta forțelor aerodinamice.</answer>
+                <answer>greutatea totală .</answer>
+                <answer type="correct">rezistența la înaintare.</answer>
+        </answers>
+    </question>
+    <question number="200">
+        <text>205. Care forță se opune forței greutății in zbor stabil?</text>
+        <answers>
+                <answer>portanța</answer>
+                <answer>tracțiunea</answer>
+                <answer type="correct">rezultanta forțelor aerodinamice</answer>
+                <answer>rezistența la inaintare</answer>
+        </answers>
+    </question>
+    <question number="201">
+        <text>206. Care forță se opune rezistenței la inaintare in zbor stabil?</text>
+        <answers>
+                <answer>portanța</answer>
+                <answer type="correct">tracțiunea</answer>
+                <answer>rezultanta forțelor aerodinamice</answer>
+                <answer>greutatea totală</answer>
+        </answers>
+    </question>
+    <question number="202">
+        <text>207. Rezistența la inaintare este o componentă a</text>
+        <answers>
+                <answer>forței de greutate care acționează paralel cu traiectoria de zbor și produce mișcarea de inaintare a planorului.</answer>
+                <answer type="correct">rezultantei forțelor aerodinamice și acționează în direcția fluxului de aer.</answer>
+                <answer>forța de greutate și acționează in direcția opusă fluxului de aer.</answer>
+                <answer>forței portante și acționează intotdeauna vertical.</answer>
+        </answers>
+    </question>
+    <question number="203">
+        <text>208. Care dintre următoarele numere reprezintă finețea și tracțiunea?</text>
+        <answers>
+                <answer>4 și 7</answer>
+                <answer>4 și 8</answer>
+                <answer type="correct">1 și 7</answer>
+                <answer>1 și 8</answer>
+        </answers>
+    </question>
+    <question number="204">
+        <text>209. Care dintre următoarele numere reprezintă portanța și rezistența la inaintare?</text>
+        <answers>
+                <answer>6 și 7</answer>
+                <answer>5 și 7</answer>
+                <answer>6 și 8</answer>
+                <answer type="correct">5 și 8</answer>
+        </answers>
+    </question>
+    <question number="205">
+        <text>210. Care dintre următoarele numere reprezintă finețea și a greutatea totală?</text>
+        <answers>
+                <answer>1 și 7</answer>
+                <answer type="correct">1 și 2</answer>
+                <answer>4 și 7</answer>
+                <answer>2 și 4</answer>
+        </answers>
+    </question>
+    <question number="206">
+        <text>211. Care dintre următoarele numere reprezintă rezultanta forțelor erodinamice și tracțiunea?</text>
+        <answers>
+                <answer>2 și 7</answer>
+                <answer>6 și 8</answer>
+                <answer>2 și 8</answer>
+                <answer type="correct">6 și 7</answer>
+        </answers>
+    </question>
+    <question number="207">
+        <text>212. La o parapantă, mișcarea in jurul axei longitudinale se numește</text>
+        <answers>
+                <answer>spin.</answer>
+                <answer>girație.</answer>
+                <answer>tangaj.</answer>
+                <answer type="correct">ruliu.</answer>
+        </answers>
+    </question>
+    <question number="208">
+        <text>213. La o parapantă, mișcarea in jurul axei transversale se numește</text>
+        <answers>
+                <answer>pendul.</answer>
+                <answer>girație.</answer>
+                <answer>ruliu.</answer>
+                <answer type="correct">tangaj.</answer>
+        </answers>
+    </question>
+    <question number="209">
+        <text>214. La o parapantă, mișcarea in jurul axei verticale se numește</text>
+        <answers>
+                <answer type="correct">girație.</answer>
+                <answer>tangaj.</answer>
+                <answer>ruliu.</answer>
+                <answer>spin.</answer>
+        </answers>
+    </question>
+    <question number="210">
+        <text>215. O parapantă care se accelerează continuu dacă pilotul nu intervine in mod activ are</text>
+        <answers>
+                <answer>caracteristici de zbor stabile.</answer>
+                <answer>caracteristici de zbor indiferente.</answer>
+                <answer>caracteristici inverse de zbor.</answer>
+                <answer type="correct">caracteristici de zbor instabile.</answer>
+        </answers>
+    </question>
+    <question number="211">
+        <text>216. O parapantă care, după fiecare comandă de la pilot, cntinuă să-și mențină comportementul are</text>
+        <answers>
+                <answer>caracteristici de zbor stabile.</answer>
+                <answer type="correct">caracteristici de zbor indiferente.</answer>
+                <answer>caracteristici inverse de zbor.</answer>
+                <answer>caracteristici de zbor instabile.</answer>
+        </answers>
+    </question>
+    <question number="212">
+        <text>217. O parapantă, care revine din zbor rectiliniu accelerat la viteza normală chiar dacă pilotul nu intervine in mod activ, are</text>
+        <answers>
+                <answer type="correct">caracteristici de zbor stabile.</answer>
+                <answer>caracteristici de zbor indiferente.</answer>
+                <answer>caracteristici inverse de zbor.</answer>
+                <answer>caracteristici de zbor instabile.</answer>
+        </answers>
+    </question>
+    <question number="213">
+        <text>218. O parapantă care in condiții line de zbor are o mișcare continuă de girație, fără ca pilotul să intervină, nu este</text>
+        <answers>
+                <answer type="correct">stabilă direcțional.</answer>
+                <answer>stabililă transversal.</answer>
+                <answer>stabilă longitudinal.</answer>
+                <answer>stabilă pe verticală / inălțime.</answer>
+        </answers>
+    </question>
+    <question number="214">
+        <text>219. O parapantă care in condiții line de zbor iți reduce sesizabil unghiul de planare, fără ca pilotul să intervină, nu este</text>
+        <answers>
+                <answer>stabilă direcțional.</answer>
+                <answer>stabililă transversal.</answer>
+                <answer type="correct">stabilă longitudinal.</answer>
+                <answer>stabilă pe verticală / inălțime.</answer>
+        </answers>
+    </question>
+    <question number="215">
+        <text>220. O parapantă care in condiții line de zbor pendulează de-a lungul axei longitudinale, fără ca pilotul să intervină, nu este</text>
+        <answers>
+                <answer>stabilă direcțional.</answer>
+                <answer type="correct">stabililă transversal.</answer>
+                <answer>stabilă longitudinal.</answer>
+                <answer>stabilă pe verticală / inălțime.</answer>
+        </answers>
+    </question>
+    <question number="216">
+        <text>221. Finețea unui planor oferă informații despre relația dintre</text>
+        <answers>
+                <answer>portanță și greutatea totală.</answer>
+                <answer>tracțiune și rezistență la inaintare.</answer>
+                <answer>tracțiune și greutate totală.</answer>
+                <answer type="correct">portanță și rezistență la înaintare.</answer>
+        </answers>
+    </question>
+    <question number="217">
+        <text>222. Finețea unui planor oferă informații despre relația dintre</text>
+        <answers>
+                <answer>portanța pe extrados și intrados ale aripii.</answer>
+                <answer type="correct">valoarea coeficienților Cz (portanță) și Cx (coeficientul aerodinamic) ale aripii.</answer>
+                <answer>presiunea statică și dinamică asupra profilului aripii.</answer>
+                <answer>anvergura și coarda medie a aripii.</answer>
+        </answers>
+    </question>
+    <question number="218">
+        <text>223. Finețea unui planor oferă informații despre relația dintre</text>
+        <answers>
+                <answer>viteza la finețe maximă și viteza la infundare minimă a planorului.</answer>
+                <answer type="correct">viteza pe orizontală (înaintare) și viteza pe verticală (viteza de înfundare).</answer>
+                <answer>viteza aerului și viteza aeronavei in raport cu solul.</answer>
+                <answer>viteza minimă și maximă.</answer>
+        </answers>
+    </question>
+    <question number="219">
+        <text>224. Finețea unui planor oferă informații despre relația dintre</text>
+        <answers>
+                <answer>anvergura și coarda medie a planorului.</answer>
+                <answer>tracțiunea și greutatea totală.</answer>
+                <answer type="correct">distanța pe orizontală și diferența de altitudine.</answer>
+                <answer>viteza la cel mai bun unghi de planare și viteza la infundare minimă.</answer>
+        </answers>
+    </question>
+    <question number="220">
+        <text>225. O parapantă cu o finețe de 8 zboară la 800 m deasupra solului. Care este cea mai lunga distanță pe care o poate zbura in aer calm?</text>
+        <answers>
+                <answer>24,0 km</answer>
+                <answer type="correct">6,4 km</answer>
+                <answer>10,0 km</answer>
+                <answer>8,1 km</answer>
+        </answers>
+    </question>
+    <question number="221">
+        <text>226. O parapantă cu o finețe de 12 zboară la 2.400 m deasupra solului. Care este cea mai lunga distanță pe care o poate zbura in aer calm?</text>
+        <answers>
+                <answer>12,0 km</answer>
+                <answer>24,0 km</answer>
+                <answer type="correct">28,8 km</answer>
+                <answer>23,0 km</answer>
+        </answers>
+    </question>
+    <question number="222">
+        <text>227. O parapantă a parcurs 5.4 km cu o altitudine de 900 m. Care este finețea ei?</text>
+        <answers>
+                <answer>4</answer>
+                <answer>5</answer>
+                <answer type="correct">6</answer>
+                <answer>7</answer>
+        </answers>
+    </question>
+    <question number="223">
+        <text>228. O parapantă a parcurs 7 km cu o altitudine de 1.400 m. Care este finețea ei?</text>
+        <answers>
+                <answer>4</answer>
+                <answer type="correct">5</answer>
+                <answer>6</answer>
+                <answer>7</answer>
+        </answers>
+    </question>
+    <question number="224">
+        <text>229. Dacă crește finețea, unghiul de planare</text>
+        <answers>
+                <answer>crește.</answer>
+                <answer type="correct">scade.</answer>
+                <answer>rămane același.</answer>
+                <answer>crește mai intai, apoi scade.</answer>
+        </answers>
+    </question>
+    <question number="225">
+        <text>230. Dacă crește unghiul de planare, finețea</text>
+        <answers>
+                <answer>crește.</answer>
+                <answer type="correct">scade.</answer>
+                <answer>rămane același.</answer>
+                <answer>crește mai intai, apoi scade.</answer>
+        </answers>
+    </question>
+    <question number="226">
+        <text>231. Cum numim reprezentarea grafică a relației dintre viteza de inaintare și viteza de infundare pe intregul interval de viteze al planorului?</text>
+        <answers>
+                <answer>Emmagram.</answer>
+                <answer>curba polară a profilului.</answer>
+                <answer type="correct">curba polară a vitezelor.</answer>
+                <answer>Barogram.</answer>
+        </answers>
+    </question>
+    <question number="227">
+        <text>232. Care este viteza parapantei la finețe maximă?</text>
+        <answers>
+                <answer>5,6 m / s (20 km / h)</answer>
+                <answer>7,2 m / s (26 km / h)</answer>
+                <answer type="correct">9,2 m / s (33 km / h)</answer>
+                <answer>11,3 m / s (41 km / h)</answer>
+        </answers>
+    </question>
+    <question number="228">
+        <text>233. Care este cea mai bună finețe a parapantei?</text>
+        <answers>
+                <answer>3.7</answer>
+                <answer>4.7</answer>
+                <answer type="correct">5.3</answer>
+                <answer>6.8</answer>
+        </answers>
+    </question>
+    <question number="229">
+        <text>234. Care este viteza corespunzătoare infundării minime a următoarei parapante?</text>
+        <answers>
+                <answer>5,6 m / s (20 km / h)</answer>
+                <answer type="correct">7,2 m / s (26 km / h)</answer>
+                <answer>9,2 m / s (33 km / h)</answer>
+                <answer>11,3 m / s (41 km / h)</answer>
+        </answers>
+    </question>
+    <question number="230">
+        <text>235. Care este finețea parapantei dacă zboară la infundare minimă?</text>
+        <answers>
+                <answer>2,0</answer>
+                <answer>3,7</answer>
+                <answer type="correct">4,6</answer>
+                <answer>5,3</answer>
+        </answers>
+    </question>
+    <question number="231">
+        <text>236. Care este viteza minimă a următoarei parapante?</text>
+        <answers>
+                <answer>4,2 m / s (15 km / h)</answer>
+                <answer type="correct">5,6 m / s (20 km / h)</answer>
+                <answer>7,2 m / s (26 km / h)</answer>
+                <answer>9,2 m / s (33 km / h)</answer>
+        </answers>
+    </question>
+    <question number="232">
+        <text>237. Care este finețea următoarei parapante dacă aceasta zboară la viteză minimă?</text>
+        <answers>
+                <answer type="correct">2,0</answer>
+                <answer>3,7</answer>
+                <answer>4,6</answer>
+                <answer>5,3</answer>
+        </answers>
+    </question>
+    <question number="233">
+        <text>238. Care este finețea următoarei parapante dacă aceasta zboară la viteză maximă?</text>
+        <answers>
+                <answer>2,0</answer>
+                <answer type="correct">3,7</answer>
+                <answer>4,6</answer>
+                <answer>5,3</answer>
+        </answers>
+    </question>
+    <question number="234">
+        <text>239. La ce viteză ar trebui să zboare următoarea parapantă pentru a ajunge cat mai departe dacă are un vant de față de 8 m / s (29 km / h)?</text>
+        <answers>
+                <answer>7 m / s (25 km / h)</answer>
+                <answer>9 m / s (32 km / h)</answer>
+                <answer>11 m / s (40 km / h)</answer>
+                <answer type="correct">13,5 m / s (48 km / h)</answer>
+        </answers>
+    </question>
+    <question number="235">
+        <text>240. Parapanta X are o finețe de 10 și parapanta Y are o finețe de 5. Care concluzii pot fi trase?</text>
+        <answers>
+                <answer>Y are o viteză de infundare dublă față de aceea a lui X.</answer>
+                <answer>Y are o viteză de infundare jumătate din cea a lui X.</answer>
+                <answer type="correct">X zboară de două ori distanța pe care o zboară Y.</answer>
+                <answer>X zboară jumătate din distanța pe care o zboară Y.</answer>
+        </answers>
+    </question>
+    <question number="236">
+        <text>241. O parapantă zboară intr-o zonă de descendență. Pentru a obține cea mai bună finețe acesta va zbura la</text>
+        <answers>
+                <answer>viteza pentru cea mai bună finețe in aer calm.</answer>
+                <answer>viteza pentru infundare minimă.</answer>
+                <answer>media dintre viteza pentru cea mai bună finețe și viteza pentru infundare minimă.</answer>
+                <answer type="correct"> o viteză mai mare decât viteza pentru cea mai bună finețe în aer calm.</answer>
+        </answers>
+    </question>
+    <question number="237">
+        <text>242. Pentru a obține cea mai bună finețe in raport cu solul intr-un vant de față, o parapantă va zbura la</text>
+        <answers>
+                <answer>viteza pentru cea mai bună finețe in aer calm.</answer>
+                <answer>viteza pentru infundare minimă.</answer>
+                <answer>media dintre viteza pentru cea mai bună finețe și viteza pentru infundare minimă.</answer>
+                <answer type="correct">o viteză mai mare decât viteza pentru cea mai bună finețe în aer calm.</answer>
+        </answers>
+    </question>
+    <question number="238">
+        <text>243. O parapantă zboară la o viteză de 36 km / h (10m / s), iar viteza de infundare este de 1m / s. Parapanta intanește un curent descendent de aer de 1 m / s. Care este viteza de inaintare și viteza de infundare in acest curent?</text>
+        <answers>
+                <answer>Viteza: 36km / h (10m / s); viteza de infundare: 1m / s</answer>
+                <answer>Viteza: 18km / h (05m / s); viteza de infundare: 1m / s</answer>
+                <answer type="correct">Viteza: 36km / h (10m / s); viteza de înfundare: 2m / s</answer>
+                <answer>Viteza: 36km / h (10m / s); viteza de infundare: 0,5 m / s</answer>
+        </answers>
+    </question>
+    <question number="239">
+        <text>244. Un deltaplan zboară la o viteză de 36 km / h (10 m / s), cu o viteză de infundare de 1 m / s. El ajunge intr-o zonă de descendență in care aerul coboară cu 1 m / s. Ce se intamplă dacă planorul iși menține viteza?</text>
+        <answers>
+                <answer type="correct">Finețea se va schimba de la 10 la 5.</answer>
+                <answer>Finețea va crește de la 5 la 10.</answer>
+                <answer>Viteza de infundare și finețea cresc.</answer>
+                <answer>Viteza de infundare și finețea scad.</answer>
+        </answers>
+    </question>
+    <question number="240">
+        <text>245. O parapantă zboară la o viteză de 54 km / h (15m / s) și are o viteză de infundare de 2 m / s. Ea intalnește un vant de față de 18 km / h (5m / s). Care sunt viteza de infundare și viteza de inaintare in raport cu solul?</text>
+        <answers>
+                <answer>viteza de infundare: 2m / s, viteza la sol: 54 km / h (15m / s)</answer>
+                <answer>viteza de infundare: 3m / s, viteza la sol: 54 km / h (15m / s)</answer>
+                <answer>viteza de infundare: 2m / s, viteza la sol: 72 km / h (20m / s)</answer>
+                <answer type="correct">viteza de înfundare: 2m / s, viteza la sol: 36 km / h (10m / s)</answer>
+        </answers>
+    </question>
+    <question number="241">
+        <text>246. O parapantă zboară la o viteză de 54 km / h (15m / s) și are o viteză de infundare de 2m / s. Ea intalnește un vant de față de 18 km / h (5m / s). Care va fi finețea?</text>
+        <answers>
+                <answer>10,0</answer>
+                <answer>6,0</answer>
+                <answer>7,5</answer>
+                <answer type="correct">5,0</answer>
+        </answers>
+    </question>
+    <question number="242">
+        <text>247. O parapantă zboară in aer calm, cu o finețe de 10 și o viteză de 43 km / h (aproximativ 12 m / s). Viteza de infundare este:</text>
+        <answers>
+                <answer>aproximativ 1,0 m / s.</answer>
+                <answer type="correct">aproximativ 1,2 m / s.</answer>
+                <answer>aproximativ 1,5 m / s.</answer>
+                <answer>aproximativ 1,8 m / s.</answer>
+        </answers>
+    </question>
+    <question number="243">
+        <text>248. O parapantă zboară cu o finețe de 8. Dacaă parcurge o distanță de 1.600 de metri in aer calm cată altitudine va pierde?</text>
+        <answers>
+                <answer>150 m</answer>
+                <answer>180 m</answer>
+                <answer type="correct">200 m</answer>
+                <answer>240 m</answer>
+        </answers>
+    </question>
+    <question number="244">
+        <text>249. O parapantă zboară cu o finețe de 9 in aer calm, cu o viteză de infundare de 1m / s. Care este viteza sa de inaintare?</text>
+        <answers>
+                <answer>43,2 km / h (12 m / s)</answer>
+                <answer>39,6 km / h (11 m / s)</answer>
+                <answer>36,0 km / h (10 m / s)</answer>
+                <answer type="correct">32,4 km / h (9 m / s)</answer>
+        </answers>
+    </question>
+    <question number="245">
+        <text>250. O parapantă zboară cu o viteză de 32,4 km / h (9m / s) in aer calm cu o viteză de infundare de 1,5 m / s. Care este finețea?</text>
+        <answers>
+                <answer>5,5</answer>
+                <answer type="correct">6,0</answer>
+                <answer>6,5</answer>
+                <answer>7,0</answer>
+        </answers>
+    </question>
+    <question number="246">
+        <text>251. Viteza de zbor pentru infundare minimă este</text>
+        <answers>
+                <answer>puțin mai mică intr-un curent de aer ascendent și puțin mai mare intr-un curent de aer descendent, decat in aer calm.</answer>
+                <answer>Puțin mai mare intr-un curent de aer ascendent și puțin mai mică intr-un curent de aer decat in aer calm.</answer>
+                <answer>Puțin mai mică in curenții de aer ascendenți și descendențo decat in aer calm.</answer>
+                <answer type="correct">Același lucru se întâmplă într-un curent de aer ascendent sau descendent ca în aer calm.</answer>
+        </answers>
+    </question>
+    <question number="247">
+        <text>252. Termenul de "factor de incărcare" definește</text>
+        <answers>
+                <answer>incărcarea aripilor.</answer>
+                <answer>capacitatea de incărcare suplimentară pe care producătorul a inclus-o pentru siguranță.</answer>
+                <answer type="correct">relația dintre încărcarea reală a unui planor în zbor în comparație cu greutatea totală la sol.</answer>
+                <answer>relația dintre incărcarea minimă și maximă a unei parapante.</answer>
+        </answers>
+    </question>
+    <question number="248">
+        <text>253. Greutatea totală a unui parapante (pilot și echipament) este de 100 kg. Intr-un viraj strans parapanta este supusă unei incărcării de 250 kg. Care este factorul de incărcare?</text>
+        <answers>
+                <answer>0,25 g</answer>
+                <answer type="correct">2,5 g</answer>
+                <answer>25 g</answer>
+                <answer>250 g</answer>
+        </answers>
+    </question>
+    <question number="249">
+        <text>254. Ce se intamplă atunci cand o parapantă in zbor stabilizat intră intr-un viraj?</text>
+        <answers>
+                <answer>Nu există schimbări in incărcarea aripii și viteza minimă.</answer>
+                <answer type="correct">Încărcarea aripii și viteza minimă cresc.</answer>
+                <answer>Incărcarea aripii crește iar viteza minimă rămane aceeași.</answer>
+                <answer>Incărcarea aripii rămane aceeași și crește viteza minimă.</answer>
+        </answers>
+    </question>
+</questions>

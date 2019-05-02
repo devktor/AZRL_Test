@@ -1,0 +1,258 @@
+<questions>
+    <question number="1">
+        <text>Cu ce se recomanda transportarea persoanelor accidentate, care prezinta fracturi de coloana?</text>
+        <answers>
+                <answer>cu un autoturism, deoarece asigura ranitului confort</answer>
+                <answer>cu orice mijloc de transport</answer>
+                <answer type="correct">cu un mijloc de transport cu platforma</answer>
+        </answers>
+    </question>
+    <question number="2">
+        <text>Care este prima masura pe care trebuie sa o luati cand o persoana, ce a fost implicata intr-un accident, are o rana cu hemoragie?</text>
+        <answers>
+                <answer>sa pansati rana</answer>
+                <answer type="correct">sa opriti hemoragia</answer>
+                <answer>sa curatati rana</answer>
+        </answers>
+    </question>
+    <question number="3">
+        <text>Cum se face oprirea hemoragiei ?</text>
+        <answers>
+                <answer type="correct">prin legarea stransa a bratului deasupra rani</answer>
+                <answer>prin legarea lejera a bratului deasupra ranii</answer>
+                <answer>prin legarea stransa a bratului in dreptul ranii</answer>
+        </answers>
+    </question>
+    <question number="4">
+        <text>Ce trebuie sa faceti, in primul rand, pentru a salva o persoana implicata intr-un accident?</text>
+        <answers>
+                <answer type="correct">sa-i eliberati si sa-i degajati caile respiratorii</answer>
+                <answer>sa-i indreptati membrele fracturate</answer>
+                <answer>sa-i curatati ranile</answer>
+        </answers>
+    </question>
+    <question number="5">
+        <text>Cum trebuie asezat un ranit care prezinta leziuni ale coloanei vertebrale?</text>
+        <answers>
+                <answer type="correct">in aceasta situatie este recomandabil sa nu fie miscat pana la sosirea ambulantei</answer>
+                <answer>in pozitie sezanda</answer>
+                <answer>orizontal, cu fata in sus</answer>
+        </answers>
+    </question>
+    <question number="6">
+        <text>Ce trebuie sa aveti in vedere inaintea transportarii unei victime?</text>
+        <answers>
+                <answer>ca autovehiculul cu care o veti transporta sa fie confortabil</answer>
+                <answer type="correct">ca functiile respiratorii si circulatorii sa fie asigurate</answer>
+                <answer>ca victima sa fie asistata, in timpul transportului, de o persoana competenta</answer>
+        </answers>
+    </question>
+    <question number="7">
+        <text>Pentru ce se folosesc substantele antiseptice?</text>
+        <answers>
+                <answer>pentru oprirea hemoragiei</answer>
+                <answer type="correct">pentru dezinfectia plagilor</answer>
+                <answer>pentru calmarea durerilor</answer>
+        </answers>
+    </question>
+    <question number="8">
+        <text>Ce se aplica pe plaga, intr-un pansament?</text>
+        <answers>
+                <answer>o compresa oarecare</answer>
+                <answer>o compresa de vata sterila</answer>
+                <answer type="correct">o compresa de tifon steril</answer>
+        </answers>
+    </question>
+    <question number="9">
+        <text>Cum trebuie asezata o victima care a pierdut mult sange?</text>
+        <answers>
+                <answer>in pozitie sezanda</answer>
+                <answer>culcata pe o parte</answer>
+                <answer type="correct">cu picioarele situate mai sus decat nivelul corpului</answer>
+        </answers>
+    </question>
+    <question number="10">
+        <text>Ce se impune pentru tratamentul de urgenta al unor plagi?</text>
+        <answers>
+                <answer type="correct">curatarea, dezinfectia si pansarea plagilor</answer>
+                <answer>punerea tijelor de lemn pe zona ranita</answer>
+                <answer>pansarea plagilor</answer>
+        </answers>
+    </question>
+    <question number="11">
+        <text>Ce trebuie sa faceti pentru a evita complicatiile in cazul unei fracturi?</text>
+        <answers>
+                <answer>sa curatati si sa dezinfectati zona</answer>
+                <answer>sa pansati zona fracturata</answer>
+                <answer type="correct">sa imobilizati zona fracturata</answer>
+        </answers>
+    </question>
+    <question number="12">
+        <text>Cum se apreciaza gravitatea unei hemoragii?</text>
+        <answers>
+                <answer>in functie de culoarea sangelui pierdut</answer>
+                <answer>in functie de fluiditatea sangelui pierdut</answer>
+                <answer type="correct">in functie de cantitatea sangelui pierdut</answer>
+        </answers>
+    </question>
+    <question number="13">
+        <text>Cand se transporta persoanele accidentate ce prezinta hemoragii externe?</text>
+        <answers>
+                <answer type="correct">imediat dupa oprirea hemoragiei</answer>
+                <answer>imediat dupa ce o persoana calificata i-a acordat asistenta medicala</answer>
+                <answer>imediat dupa sosirea unui mijloc de transport dotat cu platforma</answer>
+        </answers>
+    </question>
+    <question number="14">
+        <text>Cum se pot opri hemoragiile la trunchi si la cap?</text>
+        <answers>
+                <answer type="correct">prin aplicarea compreselor sterile si a pansamentului compresiv</answer>
+                <answer>prin aplicarea garoului</answer>
+                <answer>prin aplicarea atelelor</answer>
+        </answers>
+    </question>
+    <question number="15">
+        <text>Cu ce se dezinfecteaza plagile inainte de a fi pansate?</text>
+        <answers>
+                <answer>acid sulfuric</answer>
+                <answer type="correct">cu apa oxigenata</answer>
+                <answer type="correct">cu iod</answer>
+        </answers>
+    </question>
+    <question number="16">
+        <text>Unde se aplica garoul in cazul plagilor insotite de hemoragii arteriale?</text>
+        <answers>
+                <answer>peste plaga</answer>
+                <answer type="correct">deasupra plagii</answer>
+                <answer>sub plaga</answer>
+        </answers>
+    </question>
+    <question number="17">
+        <text>Cum trebuie asezata o persoana ranita care prezinta leziuni ale coloanei vertebrale?</text>
+        <answers>
+                <answer>orizontal, cu fata in sus</answer>
+                <answer>in pozitie sezanda</answer>
+                <answer type="correct">in situatia aceasta nu trebuie sa fie miscat pana la sosirea salvarii</answer>
+        </answers>
+    </question>
+    <question number="18">
+        <text>Ce se scrie pe biletul care se prinde langa garoul aplicat unei persoane ranite?</text>
+        <answers>
+                <answer type="correct">ora si minutul aplicarii garoului</answer>
+                <answer>datele de identificare ale victimei</answer>
+                <answer>pozitia in care a fost gasita victima</answer>
+        </answers>
+    </question>
+    <question number="19">
+        <text>Cum trebuie sa stea o persoana, ce a suferit leziuni intr-un accident, pana la transportarea la spital?</text>
+        <answers>
+                <answer>intr-o pozitie cat mai comoda</answer>
+                <answer>obligatoriu cu fata in sus</answer>
+                <answer type="correct">intr-o pozitie care sa permita o buna respiratie</answer>
+        </answers>
+    </question>
+    <question number="20">
+        <text>Cum se poate face respiratia artificiala in cazul in care gura ranitului a ramas inclestata?</text>
+        <answers>
+                <answer type="correct">prin narile victimei</answer>
+                <answer>in cazul acesta nu se face respiratie artificiala</answer>
+                <answer>in acest caz se face o incizie in obrazul victimei, pe unde apoi se face respiratia artificiala</answer>
+        </answers>
+    </question>
+    <question number="21">
+        <text>Cum trebuie sa fie atelele pentru imobilizarea unei fracturi?</text>
+        <answers>
+                <answer type="correct">sa nu fie foarte grele</answer>
+                <answer>foarte flexibile</answer>
+                <answer type="correct">sa fie suficient de lungi pentru a acoperi in intregime atat zona de deasupra, cat si cea de sub fractura</answer>
+        </answers>
+    </question>
+    <question number="22">
+        <text>De ce se aplica un bandaj de tifon pe o rana deschisa?</text>
+        <answers>
+                <answer type="correct">pentru a opri hemoragia</answer>
+                <answer type="correct">pentru calmarea durerilor</answer>
+                <answer type="correct">pentru a impiedica infectarea ranii</answer>
+        </answers>
+    </question>
+    <question number="23">
+        <text>Ce simptome prezinta o victima a unui accident care a suferit stop cardiac?</text>
+        <answers>
+                <answer>aparitia hemoragiei pe gura</answer>
+                <answer type="correct">lipsa pulsului</answer>
+                <answer>innegrirea fetei si inrosirea ochilor</answer>
+        </answers>
+    </question>
+    <question number="24">
+        <text>Care poate fi cauza stopului respirator in cazul persoanelor ce au fost implicate intr-un accident?</text>
+        <answers>
+                <answer>pierderea unei cantitati mari de sange</answer>
+                <answer>o leziune puternica in zona lombara</answer>
+                <answer type="correct">blocarea cailor respiratorii</answer>
+        </answers>
+    </question>
+    <question number="25">
+        <text>Cum sa executati masajul cardiac unei persoane care a fost implicata intr-un accident , in urma caruia i s-au oprit bataile inimii?</text>
+        <answers>
+                <answer>prin lovirea usoara cu palmele a obrajilor victimei</answer>
+                <answer type="correct">prin apasarea ritmica cu podul palmelor suprapuse a toracelui victimei, in dreptul inimii</answer>
+                <answer>numai o persoana calificata trebuie sa faca masajul cardiac</answer>
+        </answers>
+    </question>
+    <question number="26">
+        <text>Cum se face imobilizarea membrului inferior ce a fost fracturat intr-un accident?</text>
+        <answers>
+                <answer type="correct">cu ajutorul atelelor</answer>
+                <answer>legand strans garoul in jurul membrului</answer>
+                <answer>prin bandajarea locului fracturii</answer>
+        </answers>
+    </question>
+    <question number="27">
+        <text>Cat timp poate fi mentinut aplicat un garou unei persoane ranite in urma unui accident, fara a-i leza tesuturile?</text>
+        <answers>
+                <answer>cel mult 12 ore</answer>
+                <answer type="correct">cel mult 2 ore</answer>
+                <answer>cel putin 2 ore</answer>
+        </answers>
+    </question>
+    <question number="28">
+        <text>Cum va fi ridicata o persoana grav ranita intr-un accident?</text>
+        <answers>
+                <answer>cu atentie, de maini si de picioare de catre doua persoane</answer>
+                <answer type="correct">cu atentie, mentinandu-se in acelasi plan capul, gatul si toracele</answer>
+                <answer>mentinand picioarele in sus si capul ceva mai jos decat trunchiul, pentru o mai buna circulatie a sangelui in organism</answer>
+        </answers>
+    </question>
+    <question number="29">
+        <text>Cum se va opri o hemoragie produsa la unul din membrele unei persoane ranite?</text>
+        <answers>
+                <answer type="correct">prin aplicarea garoului</answer>
+                <answer type="correct">prin actiunea compresiva asupra vasului lezat</answer>
+                <answer>prin apasarea ritmica a plagii cu podul palmelor suprapuse</answer>
+        </answers>
+    </question>
+    <question number="30">
+        <text>Caile respiratorii se pot astupa din cauza ca:</text>
+        <answers>
+                <answer>victima a suferit un atac de panica</answer>
+                <answer type="correct">victimei i-au intrat corpuri straine pe caile respiratorii</answer>
+                <answer>victima sufera de scolioza</answer>
+        </answers>
+    </question>
+    <question number="31">
+        <text>Ce este o entorsa?</text>
+        <answers>
+                <answer type="correct">leziune inchisa a unei articulatii, care a fost fortata sa faca o miscare / deplasare exagerata, dupa care suprafetele articulare ale oaselor si-au revenit la pozitia normala</answer>
+                <answer>leziune a unei articulatii, la care suprafetele articulare ale oaselor sunt deplasate permanent din pozitia normala</answer>
+                <answer>intreruperea totala sau partiala a continuitatii unui os</answer>
+        </answers>
+    </question>
+    <question number="32">
+        <text>Ce este luxatia?</text>
+        <answers>
+                <answer>leziune inchisa a unei articulatii, care a fost fortata sa faca o miscare / deplasare exagerata, dupa care suprafetele articulare ale oaselor si-au revenit la pozitia normala</answer>
+                <answer type="correct">leziune a unei articulatii, la care suprafetele articulare ale oaselor sunt deplasate permanent din pozitia normala</answer>
+                <answer>intreruperea totala sau partiala a continuitatii unui os</answer>
+        </answers>
+    </question>
+</questions>

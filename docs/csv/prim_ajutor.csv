@@ -1,0 +1,129 @@
+Column1,Column2,Column3,Column4
+H1,,"Cu ce se recomanda transportarea persoanelor accidentate, care prezinta fracturi de coloana?",
+,a,"cu un autoturism, deoarece asigura ranitului confort",
+,b,cu orice mijloc de transport,
+,c,cu un mijloc de transport cu platforma,X
+H2,,"Care este prima masura pe care trebuie sa o luati cand o persoana, ce a fost implicata intr-un accident, are o rana cu hemoragie?",
+,a,sa pansati rana,
+,b,sa opriti hemoragia,X
+,c,sa curatati rana,
+H3,,Cum se face oprirea hemoragiei ?,
+,a,prin legarea stransa a bratului deasupra rani,X
+,b,prin legarea lejera a bratului deasupra ranii,
+,c,prin legarea stransa a bratului in dreptul ranii,
+H4,,"Ce trebuie sa faceti, in primul rand, pentru a salva o persoana implicata intr-un accident?",
+,a,sa-i eliberati si sa-i degajati caile respiratorii,X
+,b,sa-i indreptati membrele fracturate,
+,c,sa-i curatati ranile,
+H5,,Cum trebuie asezat un ranit care prezinta leziuni ale coloanei vertebrale?,
+,a,in aceasta situatie este recomandabil sa nu fie miscat pana la sosirea ambulantei,X
+,b,in pozitie sezanda,
+,c,"orizontal, cu fata in sus",
+H6,,Ce trebuie sa aveti in vedere inaintea transportarii unei victime?,
+,a,ca autovehiculul cu care o veti transporta sa fie confortabil,
+,b,ca functiile respiratorii si circulatorii sa fie asigurate,X
+,c,"ca victima sa fie asistata, in timpul transportului, de o persoana competenta",
+H7,,Pentru ce se folosesc substantele antiseptice?,
+,a,pentru oprirea hemoragiei,
+,b,pentru dezinfectia plagilor,X
+,c,pentru calmarea durerilor,
+H8,,"Ce se aplica pe plaga, intr-un pansament?",
+,a,o compresa oarecare,
+,b,o compresa de vata sterila,
+,c,o compresa de tifon steril,X
+H9,,Cum trebuie asezata o victima care a pierdut mult sange?,
+,a,in pozitie sezanda,
+,b,culcata pe o parte,
+,c,cu picioarele situate mai sus decat nivelul corpului,X
+H10,,Ce se impune pentru tratamentul de urgenta al unor plagi?,
+,a,"curatarea, dezinfectia si pansarea plagilor",X
+,b,punerea tijelor de lemn pe zona ranita,
+,c,pansarea plagilor,
+H11,,Ce trebuie sa faceti pentru a evita complicatiile in cazul unei fracturi?,
+,a,sa curatati si sa dezinfectati zona,
+,b,sa pansati zona fracturata,
+,c,sa imobilizati zona fracturata,X
+H12,,Cum se apreciaza gravitatea unei hemoragii?,
+,a,in functie de culoarea sangelui pierdut,
+,b,in functie de fluiditatea sangelui pierdut,
+,c,in functie de cantitatea sangelui pierdut,X
+H13,,Cand se transporta persoanele accidentate ce prezinta hemoragii externe?,
+,a,imediat dupa oprirea hemoragiei,X
+,b,imediat dupa ce o persoana calificata i-a acordat asistenta medicala,
+,c,imediat dupa sosirea unui mijloc de transport dotat cu platforma,
+H14,,Cum se pot opri hemoragiile la trunchi si la cap?,
+,a,prin aplicarea compreselor sterile si a pansamentului compresiv,X
+,b,prin aplicarea garoului,
+,c,prin aplicarea atelelor,
+H15,,Cu ce se dezinfecteaza plagile inainte de a fi pansate?,
+,a,acid sulfuric,
+,b,cu apa oxigenata,X
+,c,cu iod,X
+H16,,Unde se aplica garoul in cazul plagilor insotite de hemoragii arteriale?,
+,a,peste plaga,
+,b,deasupra plagii,X
+,c,sub plaga,
+H17,,Cum trebuie asezata o persoana ranita care prezinta leziuni ale coloanei vertebrale?,
+,a,"orizontal, cu fata in sus",
+,b,in pozitie sezanda,
+,c,in situatia aceasta nu trebuie sa fie miscat pana la sosirea salvarii,X
+H18,,Ce se scrie pe biletul care se prinde langa garoul aplicat unei persoane ranite?,
+,a,ora si minutul aplicarii garoului,X
+,b,datele de identificare ale victimei,
+,c,pozitia in care a fost gasita victima,
+H19,,"Cum trebuie sa stea o persoana, ce a suferit leziuni intr-un accident, pana la transportarea la spital?",
+,a,intr-o pozitie cat mai comoda,
+,b,obligatoriu cu fata in sus,
+,c,intr-o pozitie care sa permita o buna respiratie,X
+H20,,Cum se poate face respiratia artificiala in cazul in care gura ranitului a ramas inclestata?,
+,a,prin narile victimei,X
+,b,in cazul acesta nu se face respiratie artificiala,
+,c,"in acest caz se face o incizie in obrazul victimei, pe unde apoi se face respiratia artificiala",
+H21,,Cum trebuie sa fie atelele pentru imobilizarea unei fracturi?,
+,a,sa nu fie foarte grele,X
+,b,foarte flexibile,
+,c,"sa fie suficient de lungi pentru a acoperi in intregime atat zona de deasupra, cat si cea de sub fractura",X
+H22,,De ce se aplica un bandaj de tifon pe o rana deschisa?,
+,a,pentru a opri hemoragia,X
+,b,pentru calmarea durerilor,X
+,c,pentru a impiedica infectarea ranii,X
+H23,,Ce simptome prezinta o victima a unui accident care a suferit stop cardiac?,
+,a,aparitia hemoragiei pe gura,
+,b,lipsa pulsului,X
+,c,innegrirea fetei si inrosirea ochilor,
+H24,,Care poate fi cauza stopului respirator in cazul persoanelor ce au fost implicate intr-un accident?,
+,a,pierderea unei cantitati mari de sange,
+,b,o leziune puternica in zona lombara,
+,c,blocarea cailor respiratorii,X
+H25,,"Cum sa executati masajul cardiac unei persoane care a fost implicata intr-un accident , in urma caruia i s-au oprit bataile inimii?",
+,a,prin lovirea usoara cu palmele a obrajilor victimei,
+,b,"prin apasarea ritmica cu podul palmelor suprapuse a toracelui victimei, in dreptul inimii",X
+,c,numai o persoana calificata trebuie sa faca masajul cardiac,
+H26,,Cum se face imobilizarea membrului inferior ce a fost fracturat intr-un accident?,
+,a,cu ajutorul atelelor,X
+,b,legand strans garoul in jurul membrului,
+,c,prin bandajarea locului fracturii,
+H27,,"Cat timp poate fi mentinut aplicat un garou unei persoane ranite in urma unui accident, fara a-i leza tesuturile?",
+,a,cel mult 12 ore,
+,b,cel mult 2 ore,X
+,c,cel putin 2 ore,
+H28,,Cum va fi ridicata o persoana grav ranita intr-un accident?,
+,a,"cu atentie, de maini si de picioare de catre doua persoane",
+,b,"cu atentie, mentinandu-se in acelasi plan capul, gatul si toracele",X
+,c,"mentinand picioarele in sus si capul ceva mai jos decat trunchiul, pentru o mai buna circulatie a sangelui in organism",
+H29,,Cum se va opri o hemoragie produsa la unul din membrele unei persoane ranite?,
+,a,prin aplicarea garoului,X
+,b,prin actiunea compresiva asupra vasului lezat,X
+,c,prin apasarea ritmica a plagii cu podul palmelor suprapuse,
+H30,,Caile respiratorii se pot astupa din cauza ca:,
+,a,victima a suferit un atac de panica,
+,b,victimei i-au intrat corpuri straine pe caile respiratorii,X
+,c,victima sufera de scolioza,
+H31,,Ce este o entorsa?,
+,a,"leziune inchisa a unei articulatii, care a fost fortata sa faca o miscare / deplasare exagerata, dupa care suprafetele articulare ale oaselor si-au revenit la pozitia normala",X
+,b,"leziune a unei articulatii, la care suprafetele articulare ale oaselor sunt deplasate permanent din pozitia normala",
+,c,intreruperea totala sau partiala a continuitatii unui os,
+H32,,Ce este luxatia?,
+,a,"leziune inchisa a unei articulatii, care a fost fortata sa faca o miscare / deplasare exagerata, dupa care suprafetele articulare ale oaselor si-au revenit la pozitia normala",
+,b,"leziune a unei articulatii, la care suprafetele articulare ale oaselor sunt deplasate permanent din pozitia normala",X
+,c,intreruperea totala sau partiala a continuitatii unui os,

@@ -1,0 +1,1302 @@
+<questions>
+    <question number="1">
+        <text>Actionarea acceleratorului are ca efect:</text>
+        <answers>
+                <answer>reducerea vitezei de zbor</answer>
+                <answer>dublarea vitezei de zbor</answer>
+                <answer type="correct">cresterea vitezei de zbor </answer>
+        </answers>
+    </question>
+    <question number="2">
+        <text>O parapanta omologata LTF – 1 respectiv EN – A este destinata:</text>
+        <answers>
+                <answer>pilotilor de competitie</answer>
+                <answer type="correct">pilotilor incepatori</answer>
+                <answer>exclusiv pilotilor de acrobatie</answer>
+        </answers>
+    </question>
+    <question number="3">
+        <text>Riscul de twist este mai mare cand:</text>
+        <answers>
+                <answer type="correct">chinga de piept este foarte stransa</answer>
+                <answer type="correct">folosim seleta este de tip cocoon</answer>
+                <answer>chinga de piept este foarte larga </answer>
+        </answers>
+    </question>
+    <question number="4">
+        <text>Tensiunea in comenzi creste datorita:</text>
+        <answers>
+                <answer>cresterii presiunii in voalura</answer>
+                <answer type="correct">cresterii unghiului de incidenta</answer>
+                <answer>cresterii vitezei de zbor</answer>
+        </answers>
+    </question>
+    <question number="5">
+        <text>O parapanta omologata LTF 2 (EN –C) este destinata:</text>
+        <answers>
+                <answer>exclusiv pilotilor incepatori</answer>
+                <answer>exclusiv zborului in tandem</answer>
+                <answer type="correct">exclusiv pilotilor cu nivel mediu/ridicat de pregatire</answer>
+        </answers>
+    </question>
+    <question number="6">
+        <text>Alungirea aripii este: </text>
+        <answers>
+                <answer type="correct">raportul dintre coarda medie si anvergura</answer>
+                <answer>raportul dintre profunzimea maxima a aripii si anvergura </answer>
+                <answer>raportul dintre grosimea maxima relativa a profilului si anvergura</answer>
+        </answers>
+    </question>
+    <question number="7">
+        <text>Aripa de parapanta prezinta torsiune geometrica: </text>
+        <answers>
+                <answer type="correct">da</answer>
+                <answer>nu </answer>
+                <answer>torsiunea geometrica nu are legatura cu aerodinamica</answer>
+        </answers>
+    </question>
+    <question number="8">
+        <text>Profilul aripii este dat de : </text>
+        <answers>
+                <answer type="correct">membranele intercheson </answer>
+                <answer>proiectia aripii pe un plan orizontal </answer>
+                <answer>suprafata aripii desfasurata</answer>
+        </answers>
+    </question>
+    <question number="9">
+        <text>Lungimea suspantelor poate influenta finetea parapantei: </text>
+        <answers>
+                <answer type="correct">da</answer>
+                <answer>nu </answer>
+                <answer>numai o data cu cresterea incarcarii alare. </answer>
+        </answers>
+    </question>
+    <question number="10">
+        <text>Incarcarea alara se refera la : </text>
+        <answers>
+                <answer type="correct">raportul dintre greutatea totala in zbor si suprafata portanta </answer>
+                <answer>greutatea maxima in zbor </answer>
+                <answer>sarcina nimima si maxima a parapantei</answer>
+        </answers>
+    </question>
+    <question number="11">
+        <text>La actionarea in jos a comenzilor unghiul de incidenta: </text>
+        <answers>
+                <answer type="correct">creste </answer>
+                <answer>scade </answer>
+                <answer>ramane constant</answer>
+        </answers>
+    </question>
+    <question number="12">
+        <text>Alegeti afirmatia falsa:</text>
+        <answers>
+                <answer>parapanta are profil aerodinamic</answer>
+                <answer type="correct">parapanta nu are profil aerodinamic</answer>
+                <answer>profilul aerodinamic al parapantei poate fi identificat ca proiectia acesteia pe un plan orizontal</answer>
+        </answers>
+    </question>
+    <question number="13">
+        <text>Nodul pe o suspanta are drept efect:</text>
+        <answers>
+                <answer type="correct">scade rezistenta la rupere a suspantei respective</answer>
+                <answer>creste rezistenta la rupere a suspantei respective</answer>
+                <answer>nu influenteaza rezistenta la rupere a suspantelor</answer>
+        </answers>
+    </question>
+    <question number="14">
+        <text>Alegeti afirmatia adevarata:</text>
+        <answers>
+                <answer>comenzile actioneaza asupra stabilizatoarelor</answer>
+                <answer>comenzile actioneaza asupra liniei de suspante B</answer>
+                <answer type="correct">comenzile actioneaza asupra bordului de fuga</answer>
+        </answers>
+    </question>
+    <question number="15">
+        <text>Suspantele fac legatura dintre:</text>
+        <answers>
+                <answer>cordul de atac, bordul de fuga si seleta</answer>
+                <answer type="correct">voalura si chingi portsuspante</answer>
+                <answer>voalura si carabinierele de acrosaj</answer>
+        </answers>
+    </question>
+    <question number="16">
+        <text>Bordul de fuga este:</text>
+        <answers>
+                <answer>partea din fata a profilului </answer>
+                <answer>partea centrala a  aripii</answer>
+                <answer type="correct">partea din spate a aripii</answer>
+        </answers>
+    </question>
+    <question number="17">
+        <text>Alegeti afirmatia falsa:</text>
+        <answers>
+                <answer>intradosul aripii este in partea inferioara a profilului</answer>
+                <answer>extradosul aripii este in partea superioara a profilului</answer>
+                <answer type="correct">intradosul este in partea superioara a profilului</answer>
+        </answers>
+    </question>
+    <question number="18">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer type="correct">nodurile slabesc rezistenta la rupere a suspantelor</answer>
+                <answer type="correct">radiatia ultravioleta degradeaza kevlarul</answer>
+                <answer>suspantele din kevlar nu au nevoie de manta de protectie</answer>
+        </answers>
+    </question>
+    <question number="19">
+        <text>Tesatura din care este construita voalura trebuie sa fie:</text>
+        <answers>
+                <answer>deformabila atat pe urzeala cat si pe batatura</answer>
+                <answer type="correct">nedeformabila pe urzeala si pe batatura</answer>
+                <answer>elastica pe orice directie</answer>
+        </answers>
+    </question>
+    <question number="20">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer type="correct">distanta dintre punctele de acrosaj a seletei modifica comportamentul parapantei in zbor</answer>
+                <answer>distanta dintre punctele de acrosaj a seletei modifica nu comportamentul parapantei in zbor</answer>
+                <answer type="correct">distanta dintre punctele de acrosaj a seletei este importanta la testele de omologare</answer>
+        </answers>
+    </question>
+    <question number="21">
+        <text>Omolgarea parapantei arata:</text>
+        <answers>
+                <answer>performantele parapantei: finete maxima, viteza minima de infundare, viteza maxima</answer>
+                <answer type="correct">nivelul de pilotaj necesar</answer>
+                <answer>factorul de sarcina admis</answer>
+        </answers>
+    </question>
+    <question number="22">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>comenzile actioneaza asupra bordului de atac</answer>
+                <answer type="correct">cu ajutorul comenzilor modificam unghiul de incidenta</answer>
+                <answer>manevra URECHI se face cu ajutorul comenzilor</answer>
+        </answers>
+    </question>
+    <question number="23">
+        <text>Stabilitatea pe directie a parapantei este asigurata de:</text>
+        <answers>
+                <answer>bordul de fuga</answer>
+                <answer>efectul de pendul</answer>
+                <answer type="correct">stabilizatoare (capetele de plan)</answer>
+        </answers>
+    </question>
+    <question number="24">
+        <text>Membranele intercheson au rolul :</text>
+        <answers>
+                <answer>de a mentine presiunea dinamica in interiorul voalurii</answer>
+                <answer>de a prelua sarcina de pe intrados </answer>
+                <answer type="correct">de a materializa profilul aerodinamic al parapantei</answer>
+        </answers>
+    </question>
+    <question number="25">
+        <text>Caracteristicile si performantele de zbor ale parapantei sunt influentate de:</text>
+        <answers>
+                <answer type="correct">gradul de uzura al voalurii</answer>
+                <answer type="correct">lungimea suspantelor</answer>
+                <answer type="correct">altitudinea de zbor</answer>
+        </answers>
+    </question>
+    <question number="26">
+        <text>Acceleratorul modifica:</text>
+        <answers>
+                <answer type="correct">unghiul de incidenta</answer>
+                <answer>scheletul profilului</answer>
+                <answer>coarda profilului</answer>
+        </answers>
+    </question>
+    <question number="27">
+        <text>Omologarea parapantelor are drept scop: </text>
+        <answers>
+                <answer>verificarea performantelor de zbor </answer>
+                <answer type="correct">verificarea gradului de securitate</answer>
+                <answer>ambele de la pct a. si b.</answer>
+        </answers>
+    </question>
+    <question number="28">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer type="correct">seletele tip cocoon au rezistenta la inaintare mai mica fata de seletele clasice</answer>
+                <answer>seletele tip cocoon au rezistenta la inaintare mai mare fata de seletele clasice</answer>
+                <answer>seletele tip cocoon au protectie la impact mai buna decat seletele clasice</answer>
+        </answers>
+    </question>
+    <question number="29">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer type="correct">sistanta dintre punctele de acrosaj are influenta asupra comportamentului parapantei</answer>
+                <answer>sistanta dintre punctele de acrosaj are influenta doar asupra confortului pilotului</answer>
+                <answer type="correct">sistanta dintre punctele de acrosaj se regleaza intr-un domeniu strict</answer>
+        </answers>
+    </question>
+    <question number="30">
+        <text>Voalura este confectionata din material sintetic in carouri( Rip-Stop) pentru:</text>
+        <answers>
+                <answer>a mentine mai bine presiunea in voalura</answer>
+                <answer type="correct">pentru a mari rezistenta materialului</answer>
+                <answer type="correct">a limita extinderea in caz de ruptura</answer>
+        </answers>
+    </question>
+    <question number="31">
+        <text>  Seletele dotatate cu protector dorsal sunt recomandata:</text>
+        <answers>
+                <answer>doar elevilor piloti in perioada de scolarizare</answer>
+                <answer type="correct">tuturor pilotilor indiferent de nivel</answer>
+                <answer>doar elevilor cu nivel superior de pregatire</answer>
+        </answers>
+    </question>
+    <question number="32">
+        <text>Suspantele parapantei sunt:</text>
+        <answers>
+                <answer>elasice</answer>
+                <answer type="correct">statice</answer>
+                <answer>pe linia A si B sunt statice iar C si D elastice</answer>
+        </answers>
+    </question>
+    <question number="33">
+        <text>Cate categorii de greutate regasim la parapante:</text>
+        <answers>
+                <answer type="correct">fiecare producator are intervale de greutate proprii, conform omologarilor</answer>
+                <answer>sunt 3 nivele : S, M si L</answer>
+                <answer>sunt 4 nivele: S,M,L si XL</answer>
+        </answers>
+    </question>
+    <question number="34">
+        <text>Incarcarea peste limita superioara a parapantei are ca efect:</text>
+        <answers>
+                <answer type="correct">cresterea tuturor vitezelor</answer>
+                <answer>scaderea vietezei la finete maxima</answer>
+                <answer>scaderea vitezei minime de infundare</answer>
+        </answers>
+    </question>
+    <question number="35">
+        <text>Care este numarul standard de chingi portsuspante la parapante:</text>
+        <answers>
+                <answer type="correct">nu exista un numar standard</answer>
+                <answer>4</answer>
+                <answer>5</answer>
+        </answers>
+    </question>
+    <question number="36">
+        <text>Care sunt riscurile ce apar o data cu uzura voalurii:</text>
+        <answers>
+                <answer>finetea maxima se obtine doar cu acceleratorul actionat la maximum</answer>
+                <answer type="correct">pericol de angajare prematura si deepstall</answer>
+                <answer>scade viteza minima de infundare</answer>
+        </answers>
+    </question>
+    <question number="37">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer type="correct">modificarea configuratiei suspantelor altereaza gradul de securitate in zbor</answer>
+                <answer>modificarea configuratiei suspantelor altereaza doar performantele de zbor ale parapantei</answer>
+                <answer>modificarea configuratiei suspantelor nu este critica decat asupra maneabilitatii parapantei</answer>
+        </answers>
+    </question>
+    <question number="38">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>prelungirea suspantelor de comanda duce la marirea vitezei maxime de zbor</answer>
+                <answer>prelungirea suspantelor de comanda duce la marirea finetii in zbor</answer>
+                <answer type="correct">prelungirea suspantelor de comanda duce la marirea cursei comenzilor spre in jos</answer>
+        </answers>
+    </question>
+    <question number="39">
+        <text>Alegeti categoria cu care este posibil zborul de distanta (XC):</text>
+        <answers>
+                <answer type="correct">LTF 1 / EN-A</answer>
+                <answer type="correct">LTF 1-2 /  EN-B</answer>
+                <answer type="correct">LTF 2/ EN-C</answer>
+        </answers>
+    </question>
+    <question number="40">
+        <text>Pentru a zbura cu pasager este necesar:</text>
+        <answers>
+                <answer type="correct">parapanta speciala pentru zborul cu pasager</answer>
+                <answer>parapanta omologata LTF 1 / EN A</answer>
+                <answer>parapanta omologata LTF 2-3 / EN-D</answer>
+        </answers>
+    </question>
+    <question number="41">
+        <text>Finetea parapantei este direct influentata de :</text>
+        <answers>
+                <answer type="correct">lungimea suspantelor</answer>
+                <answer type="correct">alungirea aripii</answer>
+                <answer>clasa de omologare</answer>
+        </answers>
+    </question>
+    <question number="42">
+        <text>Seleta tip cocoon  influenteaza:</text>
+        <answers>
+                <answer>viteza minima de infundare</answer>
+                <answer type="correct">finetea parapantei</answer>
+                <answer>viteza minima de infundare</answer>
+        </answers>
+    </question>
+    <question number="43">
+        <text>Ce regim de zbor este potrivit la o aripa LTF1 / ENA pentru spiralarea in termica:</text>
+        <answers>
+                <answer>regim de zbor la finete</answer>
+                <answer type="correct">regim de zbor la infundare minima</answer>
+                <answer>regim de zbor la viteza maxima</answer>
+        </answers>
+    </question>
+    <question number="44">
+        <text>Cate regimuri de zbor prezinta parapanta:</text>
+        <answers>
+                <answer type="correct">3</answer>
+                <answer>2</answer>
+                <answer>5</answer>
+        </answers>
+    </question>
+    <question number="45">
+        <text>Care este zona de uzura maxima a voalurii de parapanta?</text>
+        <answers>
+                <answer type="correct">extrados treimea anterioara, masurand de la bordul de atac</answer>
+                <answer>tot extradosul</answer>
+                <answer>tot intradosul</answer>
+        </answers>
+    </question>
+    <question number="46">
+        <text>Depasirea intervalului de greutate poate sa duca la:</text>
+        <answers>
+                <answer type="correct">modificarea comportamentului parapantei</answer>
+                <answer type="correct">modificarea performantelor parapantei</answer>
+                <answer>modificarea formei parapantei</answer>
+        </answers>
+    </question>
+    <question number="47">
+        <text>Unghiul de incidenta se masoara:</text>
+        <answers>
+                <answer>fata de orizontala</answer>
+                <answer>fata de directia de zbor</answer>
+                <answer type="correct">intre corda profilului si directia de curgere a fileurilor de aer</answer>
+        </answers>
+    </question>
+    <question number="48">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>toate suspantele sunt fixe</answer>
+                <answer type="correct">suspantele de comanda sunt mobile</answer>
+                <answer>toate suspantele sunt mobile</answer>
+        </answers>
+    </question>
+    <question number="49">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>orice parapanta poate fi lansata prin remorcaj la mosor</answer>
+                <answer>orice parapanta poate fi folosita la zbor cu motor</answer>
+                <answer type="correct">orice parapanta poate fi folosita la exercitii de gonflaj la sol</answer>
+        </answers>
+    </question>
+    <question number="50">
+        <text>Constructiv voalura se compune din:</text>
+        <answers>
+                <answer type="correct">extrados, intrados, membrane intercheson</answer>
+                <answer>extrados, intrados, bord de atac, bord de fuga</answer>
+                <answer>extrados, intrados, stabilizatoare</answer>
+        </answers>
+    </question>
+    <question number="51">
+        <text>Alegeti elementele care duc la uzura prematura a volaurii:</text>
+        <answers>
+                <answer type="correct">expunere la radiatie ultravioleta</answer>
+                <answer type="correct">zbor in atmosfera salina </answer>
+                <answer>remorcaj la mosor</answer>
+        </answers>
+    </question>
+    <question number="52">
+        <text>Scheletul profilului este materializat de:</text>
+        <answers>
+                <answer>forma profilului aerodinamic</answer>
+                <answer>totalitatea elemntelor de ranforsare din interiorul aripii</answer>
+                <answer type="correct">nu este materializat </answer>
+        </answers>
+    </question>
+    <question number="53">
+        <text>O parapanta cu mai multe membrane intercheson va avea:</text>
+        <answers>
+                <answer type="correct">finete mai mare</answer>
+                <answer>finete mai mica</answer>
+                <answer>viteza de angajare mai mica</answer>
+        </answers>
+    </question>
+    <question number="54">
+        <text> La parapanta centrul de greutate este:</text>
+        <answers>
+                <answer>la nivelul voalurii</answer>
+                <answer type="correct">la nivelul pilotului</answer>
+                <answer>deasupra voalurii</answer>
+        </answers>
+    </question>
+    <question number="55">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>profilul aerodinamic al parapantei se regaseste in proiectia voalurii pe un plan orizontal</answer>
+                <answer>parapanta nu are profil aerodinamic ci doar extrados, intrados, bord de atac si bord de fuga</answer>
+                <answer type="correct">profilul aerodinamic al parapantei este materializat de membranele intercheson</answer>
+        </answers>
+    </question>
+    <question number="56">
+        <text>Alegeti afirmatia corecta</text>
+        <answers>
+                <answer>polara se gaseste pe extrados</answer>
+                <answer>polara se gaseste pe intrados</answer>
+                <answer type="correct">polara este o forma sintetica de descriere a performantelor de zbor</answer>
+        </answers>
+    </question>
+    <question number="57">
+        <text>In cazul aripii de parapanta regasim: </text>
+        <answers>
+                <answer type="correct">torsiune geometrica </answer>
+                <answer>numai torsiune transversala </answer>
+                <answer>numai torsiune aerodinamica</answer>
+        </answers>
+    </question>
+    <question number="58">
+        <text>In zbor orizontal centrul de greutate este situat: </text>
+        <answers>
+                <answer type="correct">sub centrul de presiune </answer>
+                <answer>deasupra centrului de presiune </answer>
+                <answer>coincide cu centrul de presiune</answer>
+        </answers>
+    </question>
+    <question number="59">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>toate parapantele au profil reflex</answer>
+                <answer type="correct">toate parapantele au profil aerodinamic</answer>
+                <answer>parapantele nu au profil aerodinamic</answer>
+        </answers>
+    </question>
+    <question number="60">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>suspantele parapantei sunt elastice</answer>
+                <answer>toate suspantele parapantei sunt fixe</answer>
+                <answer type="correct">suspantele de comanda nu sunt fixe</answer>
+        </answers>
+    </question>
+    <question number="61">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>din polara putem deduce sarcina utila, viteza maxima si viteza minima a parapantei</answer>
+                <answer type="correct">din polara putem deduce regimurile de zbor ale parapantei</answer>
+                <answer>din polara putem deduce forma profilului parapantei</answer>
+        </answers>
+    </question>
+    <question number="62">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>aripile omologate LTF 2-3 / EN –D se folosesc la scolarizare</answer>
+                <answer>aripile omologate LTF 2-3 / EN –D se folosesc de regula de catre piloti cu minimum de experienta</answer>
+                <answer type="correct">aripile omologate LTF 2-3 / EN –D se folosec doar de piloti avansati</answer>
+        </answers>
+    </question>
+    <question number="63">
+        <text> Alegeti categoria de omologare folosita pentru aripile de scoala:</text>
+        <answers>
+                <answer type="correct">LTF 1 / EN-A</answer>
+                <answer>LTF 2 / EN-C</answer>
+                <answer>LTF 2-3 / EN-D</answer>
+        </answers>
+    </question>
+    <question number="64">
+        <text>Alegeti clasa de omologare cu nivelul de securitate cel mai ridicat:</text>
+        <answers>
+                <answer type="correct">LTF 1 / EN-A</answer>
+                <answer>LTF 1-2 / EN-B</answer>
+                <answer>LTF 2  / EN-C</answer>
+        </answers>
+    </question>
+    <question number="65">
+        <text>O aripa cu vechime de 15 ani, care a zburat in acest interval de timp, prezinta:</text>
+        <answers>
+                <answer>uzura fizica</answer>
+                <answer>uzura morala</answer>
+                <answer type="correct">uzura fizica si morala</answer>
+        </answers>
+    </question>
+    <question number="66">
+        <text>Intervalul de greutate se refera la :</text>
+        <answers>
+                <answer type="correct">greutatea totala in zbor: pilot echipat+seleta+parasuta de rezerva+parapanta</answer>
+                <answer>greutatea suspendata: pilot echipat+seleta+parasuta de rezerva</answer>
+                <answer>greutatea pilotului complet echipat</answer>
+        </answers>
+    </question>
+    <question number="67">
+        <text>Alegeti afirmatia corecta:</text>
+        <answers>
+                <answer>parapantele se comporta identic la nivelul marii sau la altitudini peste 6000m</answer>
+                <answer type="correct">performantele si comportamentul parapantei depind de densitatea aerului</answer>
+                <answer>performantele si comportamentul parapantei depind numai de greutatea totala in zbor</answer>
+        </answers>
+    </question>
+    <question number="68">
+        <text>Stabilizatoarele parapantei au rol de:</text>
+        <answers>
+                <answer type="correct">stabilizeaza parapanta pe directie</answer>
+                <answer>stabilizeaza unghiul de incidenta al parapantei</answer>
+                <answer>stabilizeaza unghiul de panta al parapantei</answer>
+        </answers>
+    </question>
+    <question number="69">
+        <text>69. Care dintre următoarele materiale sunt utilizate în construcția pânzei de parapantă?</text>
+        <answers>
+                <answer>Aramid (Kevlar)</answer>
+                <answer>Polietilenă (Dyneema)</answer>
+                <answer type="correct">Poliamidă (nailon)</answer>
+                <answer>Policlorură de vinil (PVC)</answer>
+        </answers>
+    </question>
+    <question number="70">
+        <text>70. Termenul de material "ripstop" înseamnă</text>
+        <answers>
+                <answer>întărirea zonelor puternic încărcate ale parapantei.</answer>
+                <answer>barierele de rupere care împiedică răspândirea rupturii de la un element al parapantei la altul.</answer>
+                <answer type="correct"> tehnica în care firel mai rezistente se interconectează la intervale regulate în urzeala și bătătura țesăturii pentru a preveni continuarea rupturii. </answer>
+                <answer> un strat special de protecție care mărește elasticitatea țesăturii și, prin urmare, îmbunătățește rezistența la rupere a țesăturii.</answer>
+        </answers>
+    </question>
+    <question number="71">
+        <text>71. Rezistența la ruperea și deșirare a materialelor folosite laparapante este îmbunătățită prin</text>
+        <answers>
+                <answer>impregnarea pânzei cu un strat de protecție.</answer>
+                <answer type="correct">tehnica "ripstop" în țesătură. </answer>
+                <answer>interconectarea firelor cu o elasticitate mai mare.</answer>
+                <answer>țeserea extrem de fină a materialului.</answer>
+        </answers>
+    </question>
+    <question number="72">
+        <text>72. Când vorbim de parapante, ce înseamnă termenul de porozitate?</text>
+        <answers>
+                <answer>Rezistența la rupere a țesăturii.</answer>
+                <answer>Rezistența țesăturii la încovoiere.</answer>
+                <answer type="correct">Permeabilitatea la aer a unui material. </answer>
+                <answer>Compoziția suprafeței superioare a aripii.</answer>
+        </answers>
+    </question>
+    <question number="73">
+        <text>73. Porozitatea materialelor utilizate pentru parapante (la volaură)</text>
+        <answers>
+                <answer>ar trebui să fie cât mai mare posibil.</answer>
+                <answer type="correct">ar trebui să fie cât mai mică posibil. </answer>
+                <answer>nu trebuie să fie niciodată sub o valoare predeterminată, deoarece stratul limită devine prea laminar.</answer>
+                <answer> nu este important, rezistența mecanică este cea care contează.</answer>
+        </answers>
+    </question>
+    <question number="74">
+        <text>74. Țesăturile folosite pentru parapante sunt impregnate cu diferiți lianți pentru a</text>
+        <answers>
+                <answer>crește elasticitatea și rezistența mecanică.</answer>
+                <answer type="correct">micșora porozitatea și elasticitatea. </answer>
+                <answer>crește porozitatea și rezistența mecanică.</answer>
+                <answer>micșora elasticitatea și rezistența mecanică.</answer>
+        </answers>
+    </question>
+    <question number="75">
+        <text>75. Materialele acoperite cu poliester (Mylar) sunt diferite de cele acoperite cu poliuretan sau silicon pentru că au</text>
+        <answers>
+                <answer type="correct">elasticitate diagonală mai mică. </answer>
+                <answer>o mai mare elasticitate pe direcția de "bătătură" a țesăturii.</answer>
+                <answer>sensibilitate redusă la radațiile UV.</answer>
+                <answer>porozitate mai mare.</answer>
+        </answers>
+    </question>
+    <question number="76">
+        <text>76. Stratul de impregnare al țesăturilor folosite la parapante</text>
+        <answers>
+                <answer>crește sensibilitatea la radiațiile UV.</answer>
+                <answer type="correct">reduce porozitatea. </answer>
+                <answer>crește elasticitatea.</answer>
+                <answer>reduce rezistența mecanică.</answer>
+        </answers>
+    </question>
+    <question number="77">
+        <text>77. Stratul de impregnare al țesăturilor folosite la parapante</text>
+        <answers>
+                <answer type="correct">reduce sensibilitatea țesăturii la radiațiile UV. </answer>
+                <answer>crește porozitatea țesăturii.</answer>
+                <answer>crește elasticitatea țesăturii.</answer>
+                <answer>reduce rezistența mecanică a țesăturii.</answer>
+        </answers>
+    </question>
+    <question number="78">
+        <text>78. Stratul de impregnare al țesăturilor folosite la parapante</text>
+        <answers>
+                <answer>crește sensibilitatea țesăturii la radiațiile UV.</answer>
+                <answer>crește porozitatea țesăturii.</answer>
+                <answer type="correct">scade elasticitatea țesăturii. </answer>
+                <answer>scade rezistența mecanică a țesăturii.</answer>
+        </answers>
+    </question>
+    <question number="79">
+        <text>79. Stratul de impregnare al țesăturilor folosite la parapante</text>
+        <answers>
+                <answer>crește sensibilitatea țesăturii la radiațiile UV.</answer>
+                <answer>crește porozitatea țesăturii.</answer>
+                <answer>crește elasticitatea țesăturii.</answer>
+                <answer type="correct">crește rezistența mecanică a țesăturii. </answer>
+        </answers>
+    </question>
+    <question number="80">
+        <text>80. Ce efecte asupra performanței voalurii are stratul de impregnare vechi, deteriorat sau insuficient?</text>
+        <answers>
+                <answer>Parapanta este greu de manevrat și are tendință de instabilitate de-a lungul axei longitudinale.</answer>
+                <answer> Întreaga gamă de viteză a parapantei crește, iar tendința de închidere crește.</answer>
+                <answer> Întregul interval de viteză al parapantei se reduce și curba polară devine mai plată.</answer>
+                <answer type="correct"> Viteza de angajare este mai mare, precum si tendința de a intra in angajare parașutată. </answer>
+        </answers>
+    </question>
+    <question number="81">
+        <text>81. Stratul de protecție a voalurii poate fi deteriorat considerabil de către</text>
+        <answers>
+                <answer>manevre extreme care duc la închideri ale voalurii.</answer>
+                <answer type="correct">curățarea voalurii cu produse de curățare, agresive, de uz casnic. </answer>
+                <answer>depozitarea regulată a parapantei într-un loc întunecat protejat de lumina soarelui.</answer>
+                <answer>depozitarea parapantei cât mai uscate într-o încăpere rece.</answer>
+        </answers>
+    </question>
+    <question number="82">
+        <text>82. Stratul de protecție a voalurii poate fi deteriorat considerabil de către</text>
+        <answers>
+                <answer>manevre extreme care duc la închideri ale voalurii.</answer>
+                <answer>curățarea voalurii cu apă rece.</answer>
+                <answer>depozitarea regulată a parapantei într-un loc întunecat protejat de lumina soarelui.</answer>
+                <answer type="correct">depozitarea parapantei într-o încăpere umedă și cu variații mari de temperatură. </answer>
+        </answers>
+    </question>
+    <question number="83">
+        <text>83. Stratul de protecție a voalurii poate fi deteriorat considerabil de către</text>
+        <answers>
+                <answer>manevre extreme care duc la închideri ale voalurii.</answer>
+                <answer>curățarea voalurii cu apă rece.</answer>
+                <answer type="correct">depozitarea regulată a parapantei într-un loc luminos, expus luminii directe a soarelui. </answer>
+                <answer>depozitarea parapantei într-o încăpere răcoroasă.</answer>
+        </answers>
+    </question>
+    <question number="84">
+        <text>84. Stratul de protecție a voalurii poate fi deteriorat considerabil de către</text>
+        <answers>
+                <answer type="correct">frecarea de materiale abrazive cum ar fi stânci, nisip, sare etc. </answer>
+                <answer>curățarea voalurii cu apă rece.</answer>
+                <answer>depozitarea regulată a parapantei într-un loc întunecat protejat de lumina soarelui.</answer>
+                <answer>depozitarea parapantei într-o încăpere răcoroasă.</answer>
+        </answers>
+    </question>
+    <question number="85">
+        <text>85. O parapantă care a intrat în contact cu apa de mare ar trebui să fie</text>
+        <answers>
+                <answer>uscată cât mai repede posibil prin gonflare în briza mării.</answer>
+                <answer>uscată la umbră si apoi bine scuturată pentru a elimina sarea.</answer>
+                <answer type="correct">clătită bine cu apă dulce și apoi uscată. </answer>
+                <answer>testată porozitatea de un expert.</answer>
+        </answers>
+    </question>
+    <question number="86">
+        <text>86. Cea mai mare sarcină pe o aripă în timpul zborului este</text>
+        <answers>
+                <answer type="correct">pe extradosul aripii lângă bordul de atac. </answer>
+                <answer>pe intradosul aripii lângă bordul de atac.</answer>
+                <answer>pe extradosul aripii lângă bordul fe dugă.</answer>
+                <answer>pe intradosul aripii lângă bordul fe dugă.</answer>
+        </answers>
+    </question>
+    <question number="87">
+        <text>87. Care sunt semnele îmbătrânirii la o parapantă?</text>
+        <answers>
+                <answer type="correct">Porozitate crescută; angajarea la o viteză mai mare; o tendință mai pronunțată de a intra in angajare parașutată. </answer>
+                <answer>Elasticitatea scăzută; presiunea internă redusă; planorul reacționează mai brusc la comenzi.</answer>
+                <answer>Materialul se întinde din cauza încărcării continue; crește grosimea profilului; viteza se reduce pe întreagul interal al curbei polare.</answer>
+                <answer>Materialul se contractă datorită expunerii UV constante; profilul devine mai plat; viteza crește pe întreagul interval al curbei polare.</answer>
+        </answers>
+    </question>
+    <question number="88">
+        <text>88. Care este scopul traveelor și întăriturilor diagonale dintr-o aripă?</text>
+        <answers>
+                <answer>De a limita circulația aerului în interiorul parapantei și pentru a minimiza astfel porozitatea aripii.</answer>
+                <answer type="correct">De a distribui încărcarea din suspante în mod uniform pe suprafața superioară a aripii. </answer>
+                <answer>De a îmbunătăți rezistența structurală a aripii pe axa longitudinală și transversală.</answer>
+                <answer>De a regla circulația aerului în interiorul aripii și, prin urmare, de a menține o presiune internă uniformă.</answer>
+        </answers>
+    </question>
+    <question number="89">
+        <text>89. Sarcina pe travee este cea mai mare</text>
+        <answers>
+                <answer type="correct">în jumătatea din față a aripii unde sunt atașate suspantele. </answer>
+                <answer>între punctele de legătură ale suspantelor de la jumătatea dinfață a aripii.</answer>
+                <answer>la jumătatea din spate a aripii unde sunt atașate suspantele.</answer>
+                <answer>între punctele de racordare a suspantelor la jumătatea din spate a aripii.</answer>
+        </answers>
+    </question>
+    <question number="90">
+        <text>90. În care din următoarele cazuri traveele au cea mai mare încărcare</text>
+        <answers>
+                <answer>Într-o spirală.</answer>
+                <answer>Într-o termică puternică.</answer>
+                <answer>În timp ce zburăm cu "urechi mari".</answer>
+                <answer type="correct">Într-o angajare cu B-urile. </answer>
+        </answers>
+    </question>
+    <question number="91">
+        <text>91. Producătorii reduc deformarea traveelor la care sunt atașate suspantele prin</text>
+        <answers>
+                <answer>aranjarea orificiilor din travee direct peste punctele de atașare ale suspantelor.</answer>
+                <answer type="correct">răspândirea sarcinii pe o suprafață mai mare a traveelor folosind armături triunghiulare pe zonele cu cele mai mari incărcări. </answer>
+                <answer>minimizarea numărului de puncte de atașare a suspantelor.</answer>
+                <answer>alegerea unui profil de aripă relativ gros.</answer>
+        </answers>
+    </question>
+    <question number="92">
+        <text>92. De ce sunt adăugate întăriturile diagonale între travee, în construcția parapantelor?</text>
+        <answers>
+                <answer>Ajută la o redeschidere blândă și continuă a aripii după o închidere.</answer>
+                <answer>Inhibă în special deformarea permanentă a aripii ca rezultat al întinderii lente a materialului.</answer>
+                <answer>Inhibă epulzarea rapidă a aerului din celule individuale și, prin urmare, inhibă închiderile.</answer>
+                <answer type="correct">Permit ca sarcina de pe extradosul aripii să fie susținută de un număr redus de suspante, reducând astfel rezistența la înaintare. </answer>
+        </answers>
+    </question>
+    <question number="93">
+        <text>93. Orificiile intercelulare (din travee)</text>
+        <answers>
+                <answer>Fac posibilă o presiune egală între suprafața superioară și cea inferioară a aripii.</answer>
+                <answer>Distribuie uniform încărcătura generată de portanță pe întregul perete al celulei.</answer>
+                <answer type="correct">Ajută la umplerea celulelor cu aer, atunci când bordul de atac e închis sau celula nu are priză de aer. </answer>
+                <answer>Permite o egalizare între presiunea statică din interior și presiunea dinamică din afara aripii.</answer>
+        </answers>
+    </question>
+    <question number="94">
+        <text>94. Parapanta X are 18 celule, parapanta Y are 24 de celule. Ambele au o suprafață de 24m2 și o anvergură de 10m. Ele sunt construite cu aceleași materiale și principii. Care din urmatoarele afirmații este adevarată?</text>
+        <answers>
+                <answer type="correct">Y are un profil mai precis și un volum de împachetare mai mare decât X. </answer>
+                <answer>Y are o alungire mai mare și un volum de împachetare mai mare decât X.</answer>
+                <answer>X are un profil mai gros și un volum de împachetare mai mare decât Y.</answer>
+                <answer>X are o alungire mai mică decât Y, dar ambele au același volum de împachetare.</answer>
+        </answers>
+    </question>
+    <question number="95">
+        <text>95. În ce direcție, poate încărcarea pe materialul ripstop pe o perioadă de timp, provoca cele mai multe deformări?</text>
+        <answers>
+                <answer>Încărcări paralele cu direcția firului "bătătură" (weft) în cârpă.</answer>
+                <answer>paralele cu direcția firului "urzeală" (warp) în cârpă.</answer>
+                <answer>Încărcări verticale (la 90 de grade) cu materialul.</answer>
+                <answer type="correct">Încărcări diagonale în raport cu construcția materialului. </answer>
+        </answers>
+    </question>
+    <question number="96">
+        <text>96. Dacă cusătura pe o voalură este prea apropiată</text>
+        <answers>
+                <answer>rezistența la rupere este mărită.</answer>
+                <answer>cusătura se mulează mai bine pe forma pânzei / aripii.</answer>
+                <answer type="correct">materialul este perforat și îsă pierde din rezistență. </answer>
+                <answer>porozitatea este minimizată.</answer>
+        </answers>
+    </question>
+    <question number="97">
+        <text>97. Cum se grupeză suspantele unei parapante?</text>
+        <answers>
+                <answer>prin culoarea lor; de exemplu galben, roșii.</answer>
+                <answer>prin diametrul lor; de exemplu 0,9 mm, 1,3 mm, 1,5 mm.</answer>
+                <answer>prin materialele lor; de exemplu poliester, dyneema, kevlar, poliamidă.</answer>
+                <answer type="correct">prin punctul lor de atașare la voalură; de exemplu suapantele A, B, C, D. </answer>
+        </answers>
+    </question>
+    <question number="98">
+        <text>98. Unde se atașează suspantele A de voalură?</text>
+        <answers>
+                <answer>Pe bordul de fugă.</answer>
+                <answer>Pe stabilizatoare.</answer>
+                <answer>Pe axa longitudinală.</answer>
+                <answer type="correct">Pe bordul de atac. </answer>
+        </answers>
+    </question>
+    <question number="99">
+        <text>99. Ce cerințe, printre altele, trebuie să îndeplinească suspantele moderne?</text>
+        <answers>
+                <answer>Elasticitate scăzută, capacitate redusă de încărcare cu un diametru minim.</answer>
+                <answer>Elasticitate ridicată, capacitate redusă de încărcare cu un diametru minim.</answer>
+                <answer type="correct">Elasticitate scăzută, capacitate ridicată de încărcare cu un diametru minim. </answer>
+                <answer>Elasticitate ridicată, capacitate ridicată de încărcare cu un diametru minim.</answer>
+        </answers>
+    </question>
+    <question number="100">
+        <text>100. La o parapantă modernă, care este întinderea tolerată a unei suspante de 6 m, sub sarcină de 50 N (5 kg)?</text>
+        <answers>
+                <answer>Suspantele pentru parapantele moderne sunt realizate din materiale care nu se întind.</answer>
+                <answer type="correct">aprox. 3cm. </answer>
+                <answer>aprox. 6cm.</answer>
+                <answer>aprox. 9cm.</answer>
+        </answers>
+    </question>
+    <question number="101">
+        <text>101. Ce materiale sunt folosite la fabricarea suspantelor?</text>
+        <answers>
+                <answer>Poliester și polietilenă (Dyneema).</answer>
+                <answer>Poliester și poliamid (nailon).</answer>
+                <answer>Aramid (Kevlar) și Poliester.</answer>
+                <answer type="correct">Polietilenă (Dyneema) și Aramid (Kevlar). </answer>
+        </answers>
+    </question>
+    <question number="102">
+        <text>102. Motivul construcției suspantei moderne, de obicei, dintr-un miez și o manta este</text>
+        <answers>
+                <answer>astfel încât capacitatea de încărcare a suspantei să fie mărită de manta.</answer>
+                <answer type="correct">pentru a proteja miezul de efectele luminii și frecării. </answer>
+                <answer>astfel încât acestea să poată fi colorate diferit și, prin urmare, să fie mai ușor deosebite.</answer>
+                <answer>astfel încât, în caz de rupere a miezului, mantaua să poată prelua încărcarea pentru perioadă scurtă de timp.</answer>
+        </answers>
+    </question>
+    <question number="103">
+        <text>103. Dacă miezul este realizat dintr-un material cu elasticitate foarte mică, pe termen lung ar trebui să ne așteptăm la schimbări în lungimea suspantelor?</text>
+        <answers>
+                <answer type="correct">Da, în special datorită faptului că mantaua suspantei tinde să se micșoreze și, prin urmare, să scurteze suspantele. </answer>
+                <answer>Nu, suspantele realizate din materiale cu întindere minimă nu își modifică niciodată lungimea în mod semnificativ.</answer>
+                <answer>Da, deoarece toate materialele sub sarcină continuă își schimbă semnificativ lungimea.</answer>
+                <answer>Da, cu siguranță la temperaturi de peste 600 °C.</answer>
+        </answers>
+    </question>
+    <question number="104">
+        <text>104. Tehnica utilizată pentru coaserea suspantelor</text>
+        <answers>
+                <answer>necesită o mare atenție în producție și nu reduce semnificativ rezistența.</answer>
+                <answer>este singura metodă de producție care garantează permanent suficientă rezistență.</answer>
+                <answer type="correct">poate, în special pentru liniile de Kevlar, să diminueze sarcina lor maximă cu până la 40%.</answer>
+                <answer>ține numai de aspect.</answer>
+        </answers>
+    </question>
+    <question number="105">
+        <text>105. Ce tehnică ne permite să asigurăm buclele în capetele liniilor de suspensie nemanalizate atunci când sunt fabricate din Kevlar fără a diminua în mod semnificativ puterea lor?</text>
+        <answers>
+                <answer>Nici una.</answer>
+                <answer>Coasere.</answer>
+                <answer>Lipire.</answer>
+                <answer type="correct">Croșetare. </answer>
+        </answers>
+    </question>
+    <question number="106">
+        <text>106. Ce poate cauza deteriorarea miezului suspantelor aramid (Kevlar) sau polietilenă (dyneema), slăbindu-le în mod semnificativ rezistența?</text>
+        <answers>
+                <answer>Zborul cu încărcare apropiată de, sau peste limita maximă permisă.</answer>
+                <answer>Încărcarea mare a unei suspante sau grup de suspante în timpul manevrelor, cum ar fi închiderile frontale, închiderile asimetrice sau angajarea cu B-urile.</answer>
+                <answer>Deteriorarea miezului este întotdeauna o eroare de productie si nu poate fi cauzata de folosirea parapantei.</answer>
+                <answer type="correct">Când acestea sunt ude și se permiterea înghețarea lor. </answer>
+        </answers>
+    </question>
+    <question number="107">
+        <text>107. Suspantele de 1 mm cu rezistență de 100 daN (10 kg) diferă de suspantele de 1,5 mm cu aceeași rezistență datorită faptului că au</text>
+        <answers>
+                <answer>rezistența la înaintare redusă și tendința redusă de înodare, în timpul pregătirii parapantei.</answer>
+                <answer>rezistența la înaintare crescută și tendința crescută de înodare în timpul pregătirii parapantei.</answer>
+                <answer>rezistența la înaintare crescută și tendința redusă de înodare în timpul pregătirii parapantei.</answer>
+                <answer type="correct">rezistența la înaintare redusă și tendința crescută de înodare în timpul pregătirii parapantei. </answer>
+        </answers>
+    </question>
+    <question number="108">
+        <text>108. Ce se poate spune despre încărcarea pe suspantele unei aripi stabile?</text>
+        <answers>
+                <answer type="correct">suspantele A și B au mai mult decât dublul încărcării suspantelor C și D. </answer>
+                <answer>suspantele C și D au mai mult decât dublul încărcării suspantelor A și B.</answer>
+                <answer>Încărcarea unei parapante moderne este distribuită în mod egal pe toate liniile principale.</answer>
+                <answer>suspantele A și C poartă sarcina, în timp ce suspantele B și D creează în principal forma profilului.</answer>
+        </answers>
+    </question>
+    <question number="109">
+        <text>109. Care este avantajul suspantelor atașate prin sistemul buclă în buclă, față de de cusutul lor pe voalură?</text>
+        <answers>
+                <answer>Conexiunile cu buclă sunt mai bune deoarece suspanta nu este slăbită de cusătură.</answer>
+                <answer type="correct">Întreținerea este mai ușoară, deoarece suspantele deteriorate pot fi ușor înlocuite. </answer>
+                <answer>Conexiunile cu buclă sunt mai eficiente din punct de vedere aerodinamic și sunt, prin urmare, utilizate pe toate parapantele moderne de înaltă performanță.</answer>
+                <answer>Nici una. Este o măsură ce ține strict de aspect.</answer>
+        </answers>
+    </question>
+    <question number="110">
+        <text>110. Atunci când înlocuiți suspantele deteriorate, este important să vă asigurați că</text>
+        <answers>
+                <answer>datorită rezisteței la înaintare, suspantele noi au același diametru.</answer>
+                <answer>în toate cazurile sunt folosite suspante al fel de rezistente sau mai rezistente.</answer>
+                <answer>suspantele se conformează dimensional cu cele înlocuite.</answer>
+                <answer type="correct">sunt utilizate numai suspantele originale furnizate de producător. </answer>
+        </answers>
+    </question>
+    <question number="111">
+        <text>111. Ce circumstanțe pot provoca o modificare a lungimii inițiale a suspantelor?</text>
+        <answers>
+                <answer>Numai o încărcare foarte mare pe suspante individuale, de exemplu atunci când o suspantă este prinsă undeva în timpul lansării sau a aterizării.</answer>
+                <answer>Numai utilizarea suspantelor de diferite tipuri sau dimensiuni.</answer>
+                <answer>Suspantele moderne nu își schimbă niciodată permanent lungimea.</answer>
+                <answer type="correct">Încărcarea diferită a suspantelor în timpul utilizării normale. </answer>
+        </answers>
+    </question>
+    <question number="112">
+        <text>112. Care sunt consecințele unei supraîncărcări mari pe anumite suspante, de exemplu atunci când o suspantă este prinsă undeva în timpul lansării sau a aterizării.</text>
+        <answers>
+                <answer type="correct">Suspantele pot fi întinse permanent și pot afecta comportamentul parapantei. </answer>
+                <answer>Toate suspantele puternic supraîncărcate se vor rupe, ceea ce poate afecta comportamentul parapantei.</answer>
+                <answer>Rezistența suspantei supraîncărcate va fi redusă critic.</answer>
+                <answer>Suspantele moderne nu sunt afectate atât în ceea ce privește rezistența, cât și lungimea.</answer>
+        </answers>
+    </question>
+    <question number="113">
+        <text>113. Ce ar putea cauza scurtarea permanentă a suspantelor?</text>
+        <answers>
+                <answer>Parapanta nu este folosită deloc într-o perioadă lungă de timp.</answer>
+                <answer>Sortarea greșită a liniilor înainte de împachetarea parapantei.</answer>
+                <answer type="correct">Expunerea suspantelor la umiditate și murdărie. </answer>
+                <answer>Expunerea suspantelor la temperaturi scăzute.</answer>
+        </answers>
+    </question>
+    <question number="114">
+        <text>114. Care sunt consecințele unei alungiri permanente mai mari a suspantelor A în comparație cu celelalte?</text>
+        <answers>
+                <answer type="correct">Unghiul de atac crește, iar profilul și manevrabilitatea parapantei se modifică. </answer>
+                <answer>Unghiul de atac crește, profilul rămâne neschimbat și manevrabilitatea parapantei se modifică.</answer>
+                <answer>Unghiul de atac rămâne neschimbat, iar profilul și manevrabilitatea parapantei se modifică.</answer>
+                <answer>Unghiul de atac se reduce, iar profilul și manevrabilitatea parapantei se modifică.</answer>
+        </answers>
+    </question>
+    <question number="115">
+        <text>115. Care sunt consecințele scurtării suspantelor A?</text>
+        <answers>
+                <answer>Unghiul de atac crește, iar profilul și manevrabilitatea parapantei se modifică.</answer>
+                <answer>Unghiul de atac crește, profilul rămâne neschimbat și manevrabilitatea parapantei se modifică.</answer>
+                <answer>Unghiul de atac rămâne neschimbat, iar profilul și manevrabilitatea parapantei se modifică.</answer>
+                <answer type="correct">Unghiul de atac se reduce, iar profilul și manevrabilitatea parapantei se modifică. </answer>
+        </answers>
+    </question>
+    <question number="116">
+        <text>116. Care sunt consecințele scurtării suspantelor B?</text>
+        <answers>
+                <answer>Unghiul de atac crește, iar profilul și manevrabilitatea parapantei se modifică.</answer>
+                <answer>Unghiul de atac crește, profilul rămâne neschimbat și manevrabilitatea parapantei se modifică.</answer>
+                <answer type="correct">Unghiul de atac rămâne neschimbat, iar profilul și manevrabilitatea parapantei se modifică. </answer>
+                <answer>d) Unghiul de atac se reduce, iar profilul și manevrabilitatea parapantei se modifică.</answer>
+        </answers>
+    </question>
+    <question number="117">
+        <text>117. Care sunt consecințele alungirii suspantelor D?</text>
+        <answers>
+                <answer>Unghiul de atac crește, iar profilul și manevrabilitatea parapantei se modifică.</answer>
+                <answer>Unghiul de atac crește, profilul rămâne neschimbat și manevrabilitatea parapantei se modifică.</answer>
+                <answer>Unghiul de atac rămâne neschimbat, iar profilul și manevrabilitatea parapantei se modifică.</answer>
+                <answer type="correct">Unghiul de atac se reduce, iar profilul și manevrabilitatea parapantei se modifică. </answer>
+        </answers>
+    </question>
+    <question number="118">
+        <text>118. Care sunt consecințele scurtării suspantelor D?</text>
+        <answers>
+                <answer type="correct">Unghiul de atac crește, iar profilul și manevrabilitatea parapantei se modifică. </answer>
+                <answer>Unghiul de atac crește, profilul rămâne neschimbat și manevrabilitatea parapantei se modifică.</answer>
+                <answer>Unghiul de atac rămâne neschimbat, iar profilul și manevrabilitatea parapantei se modifică.</answer>
+                <answer>Unghiul de atac se reduce, iar profilul și manevrabilitatea parapantei se modifică.</answer>
+        </answers>
+    </question>
+    <question number="119">
+        <text>119. Cum se schimbă comportamentul parapantei dacă suspantele A sunt prelungite sau întinse?</text>
+        <answers>
+                <answer type="correct">Parapanta este mai dificil de gonflat, zboară mai lent datorită unghiului de atac crescut, este mai puțin predispusă la închideri frontale, dar este mai predispusă la angajare parașutată. </answer>
+                <answer>Parapanta este mai dificil de gonflat, necesită comenzi mai ample dar mai puțin puternice din cauza centrului de greutate situat mai jos și transformă viteza în înălțime (filaj) mai bine la aterizare.</answer>
+                <answer>Parapanta este mai ușor de gonflat, zboară mai lent datorită unghiului de atac scăzut, este mai puțin predispusă la închideri frontale, dar este mai predispusă la angajare parașutată.</answer>
+                <answer>Parapanta este mai ușor de gonflat, zboară mai repede datorită scăderii unghiului de atac, este mai predispusă la închideri frontale, dar este mai puțin predispusă la angajare parașutată.</answer>
+        </answers>
+    </question>
+    <question number="120">
+        <text>120. Cum se schimbă comportamentul parapantei dacă suspantele D sunt prelungite sau întinse?</text>
+        <answers>
+                <answer>Parapanta este mai dificil de gonflat, zboară mai lent datorită unghiului de atac crescut, este mai puțin predispusă la închideri frontale, dar este mai predispusă la angajare parașutată.</answer>
+                <answer>Parapanta este mai dificil de gonflat, necesită comenzi mai ample dar mai puțin puternice din cauza centrului de greutate situat mai jos și transformă viteza în înălțime (filaj) mai bine la aterizare.</answer>
+                <answer>Parapanta este mai ușor de gonflat, zboară mai lent datorită unghiului de atac scăzut, este mai puțin predispusă la închideri frontale, dar este mai predispusă la angajare parașutată.</answer>
+                <answer type="correct">Parapanta este mai ușor de gonflat, zboară mai repede datorită scăderii unghiului de atac, este mai predispusă la închideri frontale, dar este mai puțin predispusă la angajare parașutată. </answer>
+        </answers>
+    </question>
+    <question number="121">
+        <text>121. Cum se schimbă comportamentul parapantei dacă suspantele A se scurtează? </text>
+        <answers>
+                <answer>Parapanta este mai dificil de gonflat, zboară mai lent datorită unghiului de atac crescut, este mai puțin predispusă la închideri frontale, dar este mai predispusă la angajare parașutată.</answer>
+                <answer>Parapanta este mai dificil de gonflat, necesită comenzi mai ample dar mai puțin puternice din cauza centrului de greutate situat mai jos și transformă viteza în înălțime (filaj) mai bine la aterizare.</answer>
+                <answer>Parapanta este mai ușor de gonflat, zboară mai lent datorită unghiului de atac scăzut, este mai puțin predispusă la închideri frontale, dar este mai predispusă la angajare parașutată.</answer>
+                <answer type="correct">Parapanta este mai ușor de gonflat, zboară mai repede datorită scăderii unghiului de atac, este mai predispusă la închideri frontale, dar este mai puțin predispusă la angajare parașutată. </answer>
+        </answers>
+    </question>
+    <question number="122">
+        <text>122. Cum se schimbă comportamentul parapantei dacă suspantele D se scurtează?</text>
+        <answers>
+                <answer type="correct">Parapanta este mai dificil de gonflat, zboară mai lent datorită unghiului de atac crescut, este mai puțin predispusă la închideri frontale, dar este mai predispusă la angajare parașutată. </answer>
+                <answer>Parapanta este mai dificil de gonflat, necesită comenzi mai ample dar mai puțin puternice din cauza centrului de greutate situat mai jos și transformă viteza în înălțime (filaj) mai bine la aterizare.</answer>
+                <answer>Parapanta este mai ușor de gonflat, zboară mai lent datorită unghiului de atac scăzut, este mai puțin predispusă la închideri frontale, dar este mai predispusă la angajare parașutată.</answer>
+                <answer>Parapanta este mai ușor de gonflat, zboară mai repede datorită scăderii unghiului de atac, este mai predispusă la închideri frontale, dar este mai puțin predispusă la angajare parașutată.</answer>
+        </answers>
+    </question>
+    <question number="123">
+        <text>123. La decolare un pilot observă că una dintre suspantele B ale parapanteii este ruptă. Ce ar trebui să facă pilotul?</text>
+        <answers>
+                <answer>Să scoată suspanta ruptă și să zbare fără ea.</answer>
+                <answer>Să lege capetele cu un nod pescăresc.</answer>
+                <answer>Să reconecteze capetele cu o bucată scurtă de suspantă suplimentară, asigurându-se că suspanta "reparată" nu este mai scurtă sau mai lungă decât suspanta B învecinată.</answer>
+                <answer type="correct">Pilotul nu trebuie să zboare până când suspanta deteriorată este înlocuită. </answer>
+        </answers>
+    </question>
+    <question number="124">
+        <text>124. Comparativ cu o parapantă cu suspante de 5m, una cu suspante de 7m are</text>
+        <answers>
+                <answer>centrul de greutate mai sus și pendulare mai mare atunci când se schimbă rapid direcția.</answer>
+                <answer>centrul de greutate mai jos și pendulare mai mică atunci când se schimbă rapid direcția.</answer>
+                <answer type="correct">centrul de greutate mai jos și pendulare mai mare atunci când se schimbă rapid direcția. </answer>
+                <answer>centrul de greutate mai sus și pendulare mai mică atunci când se schimbă rapid direcția.</answer>
+        </answers>
+    </question>
+    <question number="125">
+        <text>125. Comparativ cu o parapantă cu suspante de 7m, una cu suspante de 5m are</text>
+        <answers>
+                <answer>centș/rul de greutate mai sus și pendulare mai mare atunci când se schimbă rapid direcția.</answer>
+                <answer>centrul de greutate mai jos și pendulare mai mică atunci când se schimbă rapid direcția.</answer>
+                <answer>centrul de greutate mai jos și pendulare mai mare atunci când se schimbă rapid direcția.</answer>
+                <answer type="correct">centrul de greutate mai sus și pendulare mai mică atunci când se schimbă rapid direcția. </answer>
+        </answers>
+    </question>
+    <question number="126">
+        <text>126. După 200 de zboruri cu aceeași parapantă, pilotul observă îndoirea materialului pe întrega anvergură, între atașamentele suspanelor B și C.</text>
+        <answers>
+                <answer>Suspantele B și C trebuie să fie scurtate ușor.</answer>
+                <answer>Suspantele A și B trebuie să fie scurtate ușor.</answer>
+                <answer>Parapanta trebuie înlocuită deoarece materialul este prea uzat.</answer>
+                <answer type="correct">Parapanta trebuie să fie verificată și retrimată de producător. </answer>
+        </answers>
+    </question>
+    <question number="127">
+        <text>127. După aterizare, parapanta ar trebui</text>
+        <answers>
+                <answer>să nu cadă niciodată pe o partea, deoarece încărcarea continuă pe o singură parte a suspantelor poate duce la întinderea asimetrică a acestora.</answer>
+                <answer>să cadă pe sol înainte sau înapoi pentru a evita încurcarea suspantelor.</answer>
+                <answer type="correct">să nu cadă niciodata în față pe sol, deoarece aerul nu poate scăpa din celule, mărind astfel presiunea internă și, prin urmare, riscul de rupere a traveelor. </answer>
+                <answer>să fie coborâtă cât mai repede posibil pentru a evita căderea voalurii pe pilot și încurcarea acestuia în suspante.</answer>
+        </answers>
+    </question>
+    <question number="128">
+        <text>128. Dacă un material este supus unei sarcini egale cu rezistența sa maximă, ar trebui să presupuneți următorul lucru:</text>
+        <answers>
+                <answer type="correct">Dimensiunile și forța fizică a materialului nu vor mai fi aceleași ca înaite. </answer>
+                <answer>Dimensiunile și rezistența originale ale materialului rămân neschimbate, cu condiția ca sarcina maximă să nu fie depășită.</answer>
+                <answer>Dimensiunile s-au schimbat într-o oarecare măsură, dar rezistența nu este diminuată.</answer>
+                <answer>Parapanta trebuie retrimată într-o oarecare măsură, pentru a compensa pentru modificarea dimensiunilor.</answer>
+        </answers>
+    </question>
+    <question number="129">
+        <text>129. Tipul de încărcare pe voalura parapantei este</text>
+        <answers>
+                <answer>Presiunea.</answer>
+                <answer type="correct">Tensiunea. </answer>
+                <answer>Torsiunea.</answer>
+                <answer>Îndoirea.</answer>
+        </answers>
+    </question>
+    <question number="130">
+        <text>130. Legăturile dintre chingi și suspante sunt cunoscute sub numele de</text>
+        <answers>
+                <answer>Carabinele seletei.</answer>
+                <answer type="correct">Carabine rapide cu filet. </answer>
+                <answer>Manșonul carabinei.</answer>
+                <answer>Manșonul suspantei.</answer>
+        </answers>
+    </question>
+    <question number="131">
+        <text>131. Carabinele rapide cu filet de pe chingile portasuspante trebuie să fie</text>
+        <answers>
+                <answer>strânse.</answer>
+                <answer>strânes ușor cu mâna.</answer>
+                <answer type="correct">strânse cu mâna, apoi un 1 de tură cu o cheie. </answer>
+                <answer>Strângeți cât mai bine posibil cu o cheie și apoi destrângeți un 1 de tură.</answer>
+        </answers>
+    </question>
+    <question number="132">
+        <text>132. O parapantă are 4 rânduri de suspante, A, B, C și D. Care grupă de suspante are cea mai mică încărcare în zbor stabil?</text>
+        <answers>
+                <answer>A</answer>
+                <answer>B</answer>
+                <answer>C</answer>
+                <answer type="correct">D</answer>
+        </answers>
+    </question>
+    <question number="133">
+        <text>133. Executarea continuă a manevrelor extreme pe o parapantă normală, certificată</text>
+        <answers>
+                <answer>nu va duce la o întindere apreciabilă a materialului voalurii.</answer>
+                <answer>va încărca în diagonală stabilitatorii, rezultând un profil modificat în mijlocul parapantei.</answer>
+                <answer type="correct">poate duce la întinderea diferitelor părți ale parapantei și, prin urmare, la modificarea caracteristicilor de zbor ale parapantei. </answer>
+                <answer> poate duce la în fisuri în carabinele rapide datorită încărcării.</answer>
+        </answers>
+    </question>
+    <question number="134">
+        <text>134. Cum funcționează un accelerator de picior pe o parapnată modernă, de serie?</text>
+        <answers>
+                <answer>Prin întinderea picioarelor centrul de greutate se mișcă înainte, reducând unghiul de atac și rezultând accelerarea parapantei.</answer>
+                <answer type="correct">Este atașat suspantelor A, permițând să fie trase în jos suspantele din față, scăzând unghiul de atac și accelerând parapanta.</answer>
+                <answer>Este atașat la suspantele D, permițând astfel variația lungimii chingilor portsuspante D și, prin urmare, varioația unghiului de atac.</answer>
+                <answer>Poate acționa chingile portsuspante A, B și C care îi permit să schimbe lungimea liniilor A , B și C care modifică unghiul de atac și viteza aripii.</answer>
+        </answers>
+    </question>
+    <question number="135">
+        <text>135. Dacă călcăm acceleratorul până la cursa maximă, pe o parapantă modernă, în aer calm,</text>
+        <answers>
+                <answer>finețea se îmbunătățește.</answer>
+                <answer>viteza de înfundare scade.</answer>
+                <answer type="correct">crește viteza de înaintare. </answer>
+                <answer>nu se întâmplă / se schimbă nimic.</answer>
+        </answers>
+    </question>
+    <question number="136">
+        <text>136. Dacă călcăm acceleratorul până la cursa maximă, pe o parapantă modernă, în vânt de față de 25 km/h</text>
+        <answers>
+                <answer type="correct">finețea se îmbunătățește. </answer>
+                <answer>viteza de înfundare scade.</answer>
+                <answer>finețea scade.</answer>
+                <answer>nu se întâmplă / se schimbă nimic.</answer>
+        </answers>
+    </question>
+    <question number="137">
+        <text>137. Trimerele modifică, în general, lungimea</text>
+        <answers>
+                <answer>chingilor portsuspante A.</answer>
+                <answer>chingilor portsuspante B.</answer>
+                <answer>chingilor portsuspante C.</answer>
+                <answer type="correct">chingilor portsuspante D. </answer>
+        </answers>
+    </question>
+    <question number="138">
+        <text>138. Trimerele</text>
+        <answers>
+                <answer>până la o lungime de 5 cm pot fi adăugate la toate parapantele de serie fără a afecta certificarea sau siguranța parapantei.</answer>
+                <answer type="correct">modifică lungimea și, prin urmare, caracteristicile de zbor ale parapantei. O parapantă cu trimere poate fi garantată ca fiind certificată doar dacă a fost testată cu trimere. </answer>
+                <answer>afectează comportamentul de zbor al fiecărei parapnte cu fiecare poziție a lor.</answer>
+                <answer>nu afectează comportamentul de zbor al unei parapante, dar compromite rezistența chingilor.</answer>
+        </answers>
+    </question>
+    <question number="139">
+        <text>139. Pentru zboruri rapide, trimerele sunt</text>
+        <answers>
+                <answer type="correct">eliberate pentru a reduce unghiul de atac și pentru a ridica profilul în spate. </answer>
+                <answer>eliberate pentru a crește unghiul de atac și pentru a ridica profilul în spate.</answer>
+                <answer>strânse pentru a reduce unghiul de atac și pentru a coborî profilul din spate.</answer>
+                <answer>strânse pentru a crește unghiul de atac și pentru a ridica profilul în spate.</answer>
+        </answers>
+    </question>
+    <question number="140">
+        <text>140. Eliberarea trimerelor în timpul unui zbor drept și stabil</text>
+        <answers>
+                <answer>reduce șansele de închidere frontală și cursa comenzii necesară pentru controlul direcției devine mai scurtă.</answer>
+                <answer type="correct">crește șansele de închidere frontală și cursa comenzii necesară pentru controlul direcției devine mai lungă. </answer>
+                <answer>reduce șansele de închidere frontală și cursa comenzii necesară pentru controlul direcției devine mai lungă.</answer>
+                <answer>crește șansele de închidere frontală și cursa comenzii necesară pentru controlul direcției devine mai scurtă.</answer>
+        </answers>
+    </question>
+    <question number="141">
+        <text>141. Suspantele comezilor pot fi protejate împotriva uzurii prin</text>
+        <answers>
+                <answer>evitarea folosirii inutile a comenzii.</answer>
+                <answer>tragerea comenzii din față în jos până la mijloc.</answer>
+                <answer type="correct">folosirea unor scripeți pentru trecerea ghidarea suspantelor. </answer>
+                <answer>aplicarea comenzilor într-o manieră foarte controlată.</answer>
+        </answers>
+    </question>
+    <question number="142">
+        <text>142. Lungimea corectă a comenzilor</text>
+        <answers>
+                <answer>trebuie ajustată pentru a se potrivi poziției seletei și pilotului.</answer>
+                <answer type="correct">este determinată de către producător și trebuie scurtată numai de către ei sau reprezentanții acestora. </answer>
+                <answer>depinde de greutatea pilotului și de viteza de înaintare dorită.</answer>
+                <answer>trebuie să fie ajustate pentru a se potrivi dimensiunii corpului, în special lungimii brațului pilotului.</answer>
+        </answers>
+    </question>
+    <question number="143">
+        <text>143. Lungimea comenzilor este stabilită astfel încât</text>
+        <answers>
+                <answer>nu este niciodată necesar să înfășurați suspantele comenzii pe mâini la aterizare.</answer>
+                <answer>parapanta zboară cu cea mai bună finețe cu comenzile trase la înălțimea umărului.</answer>
+                <answer type="correct">este posibil să se atingă întreaga gamă de vitezeă a parapantei fără probleme. </answer>
+                <answer>să fie cât mai scurte posibil pentru a evita încurcarea cu suspantele D.</answer>
+        </answers>
+    </question>
+    <question number="144">
+        <text>144. În timp ce zburăm cu comenzile frânate, suspantele D se detensionează formând un arc, ce putem concluziona?</text>
+        <answers>
+                <answer type="correct">Comenzile preiau sarcina suspantelor D, ceea ce este normal când se zboară frânat. </answer>
+                <answer>Suspantele D s-au întins treptat sub sarcină. Parapanta trebuie trimisă producătorului pentru verificare.</answer>
+                <answer>Suspantele comenzilor au fost reglate prea scurt și, prin urmare, trebuie să fie prelungite.</answer>
+                <answer>Parapanta a fost livrată cu suspantele D prea lungi. Acestea trebuie înlocuite.</answer>
+        </answers>
+    </question>
+    <question number="145">
+        <text>145. Ce efect va avea o seletă cu chingi diagonale asupra pilotului?</text>
+        <answers>
+                <answer>Pilotul simte mai puțin turbulența și are capacitate mai mare de a controla parapanta prin deplasarea greutății.</answer>
+                <answer>Pilotul simte mai mult turbulența și are capacitate mai mare de a controla parapanta prin deplasarea greutății.</answer>
+                <answer>Pilotul simte mai mult turbulența și are capacitate mai mică de a controla parapanta prin deplasarea greutății.</answer>
+                <answer type="correct">Pilotul simte mai puțin turbulența și are capacitate mai mică de a controla parapanta prin deplasarea greutății. </answer>
+        </answers>
+    </question>
+    <question number="146">
+        <text>146. Ce efect va avea o seletă fără chingi diagonale asupra pilotului?</text>
+        <answers>
+                <answer>Pilotul simte mai puțin turbulența și are capacitate mai mare de a controla parapanta prin deplasarea greutății.</answer>
+                <answer type="correct">Pilotul simte mai mult turbulența și are capacitate mai mare de a controla parapanta prin deplasarea greutății. </answer>
+                <answer>Pilotul simte mai mult turbulența și are capacitate mai mică de a controla parapanta prin deplasarea greutății.</answer>
+                <answer>Pilotul simte mai puțin turbulența și are capacitate mai mică de a controla parapanta prin deplasarea greutății.</answer>
+        </answers>
+    </question>
+    <question number="147">
+        <text>147. Dacă se scurtează chinga de piept a seletei (se micșorează distanța dintre carabinele principale)</text>
+        <answers>
+                <answer>pilotul simte mai mult turbulența și crește pericolul unei răsuciri.</answer>
+                <answer type="correct">pilotul simte mai puțin turbulența și crește pericolul unei răsuciri. </answer>
+                <answer>pilotul simte mai mult turbulența și pericolul unei răsuciri este redus.</answer>
+                <answer>pilotul simte mai puțin turbulența și pericolul unei răsuciri este redus.</answer>
+        </answers>
+    </question>
+    <question number="148">
+        <text>148. Dacă se lungește chinga de piept a seletei (se mărește distanța dintre carabinele principale)</text>
+        <answers>
+                <answer>pilotul simte mai mult turbulența și crește pericolul unei răsuciri.</answer>
+                <answer>pilotul simte mai puțin turbulența și crește pericolul unei răsuciri.</answer>
+                <answer type="correct">pilotul simte mai mult turbulența și pericolul unei răsuciri este redus. </answer>
+                <answer>pilotul simte mai puțin turbulența și pericolul unei răsuciri este redus.</answer>
+        </answers>
+    </question>
+    <question number="149">
+        <text>150. Ce efect au seletele cu puncte joase de atașare a carabinelor în timpul turbulențelor?</text>
+        <answers>
+                <answer>Pilotul simte mai puțin turbulența, dar îi este mai dificil a se apleca înainte când accelerează la decolare.</answer>
+                <answer type="correct">Pilotul simte mai mult turbulența, dar îi este mai puțin dificil a se apleca înainte când accelerează la decolare. </answer>
+                <answer>Pilotul simte mai puțin turbulența, dar îi este mai puțin dificil a se apleca înainte când accelerează la decolare.</answer>
+                <answer>Pilotul simte mai mult turbulența, dar îi este mai dificil a se apleca înainte când accelerează la decolare.</answer>
+        </answers>
+    </question>
+    <question number="150">
+        <text>151. O seletă fără chingi diagonale pe o parapantă este înlocuită cu o seletă cu chingi transversale, acest fapt va avea, printre altele, o influență asupra</text>
+        <answers>
+                <answer>graficului polarei vitezelor a parapantei.</answer>
+                <answer type="correct">comportamentului parapantei în situații extreme de zbor. </answer>
+                <answer>profilului și, prin urmare, unghiului de atac al parapantei.</answer>
+                <answer>torsiunii profilului parapantei.</answer>
+        </answers>
+    </question>
+    <question number="151">
+        <text>152. Dacă o seletă este reglată astfel încât pilotul să fie într-o poziție foarte înclinată, avantajul este că</text>
+        <answers>
+                <answer type="correct">rezistența la înaintare este mai mică și finețea mai bună. </answer>
+                <answer>riscul de răsucire într-o situație necontrolată este redus la minimum.</answer>
+                <answer>parapanta este mai ușor de condus prin schimbarea de greutate.</answer>
+                <answer>parapanta este mai ușor de gonflat.</answer>
+        </answers>
+    </question>
+    <question number="152">
+        <text>153. Dacă o seletă este reglată astfel încât pilotul să fie într-o poziție foarte înclinată, dezavantajul este că</text>
+        <answers>
+                <answer>rezistența la înaintare este mai mare și finețea mai mică.</answer>
+                <answer type="correct">riscul de răsucire este mărit într-o situație necontrolabilă. </answer>
+                <answer>parapanta nu poate fi condusă prin schimbarea de greutate.</answer>
+                <answer>parapanta este mai greu de gonflat.</answer>
+        </answers>
+    </question>
+</questions>

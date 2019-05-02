@@ -1,0 +1,489 @@
+<questions>
+    <question number="1">
+        <text> Care este principalul act normativ care reglementeza activitatea de zbor in Romania?</text>
+        <answers>
+                <answer>OMTCT 630/2007;</answer>
+                <answer type="correct">Legea 399/2005;</answer>
+                <answer>HG 912/2010;</answer>
+        </answers>
+    </question>
+    <question number="2">
+        <text>RACR-LPAN AUN stabileste cerintele specifice aplicabile pentru:</text>
+        <answers>
+                <answer type="correct">obtinerea revalidarea, si reinoirea licentei de pilot aeronave ultrausoare</answer>
+                <answer type="correct">autorizarea ca examinatori a persoanelor care organizeaza si efectueaza examinarile teoretice si practice</answer>
+                <answer type="correct">obtinerea altor calificari specifice licentei de pilot aeronave ultrausoare;</answer>
+        </answers>
+    </question>
+    <question number="3">
+        <text>Principala autoritate din Romania in domeniul aeronautic este:</text>
+        <answers>
+                <answer>AACR- Autoritatea Aeronautica Civila;</answer>
+                <answer type="correct">MTI – Ministerul Transporturilor si Infrastructurii;</answer>
+                <answer>AZLR – Asociatia de Zbor Liber din Romania;</answer>
+        </answers>
+    </question>
+    <question number="4">
+        <text>Zborurile in interes propriu reprezinta conform Codului Aerian:</text>
+        <answers>
+                <answer type="correct">operatiuni de  aviatie generala, efectuate de persoane fizice sau juridice, cu aeronave civile proprii sau inchiriate, pentru si in sustinerea nevoilor proprii, fara perceperea de tarife</answer>
+                <answer>operatiuni de  aviatie generala, efectuate de catre detinatorii de aeronave civile, persoane fizice , exclusiv in scop necomercial</answer>
+                <answer>operatiuni de  aviatie generala organizate de persoane fizice sau juridice cu aeronave civile proprii in vederea pregatirii personalului aeronautic civil navigant, fara perceperea de tarife</answer>
+        </answers>
+    </question>
+    <question number="5">
+        <text>Pentru obtinerea  licentei de instructor AUN, o persoana trebuie sa indeplineasca urmatoarele conditii specifice:</text>
+        <answers>
+                <answer>sa demonstreze ca a abolvit in ultimele 12 luni un program de pregatire teoretica si practica la sol si in zbor care cuprinde disciplina „ Metodologia zborului in tandem” cu un instructor autorizat;</answer>
+                <answer type="correct">sa detina  de cel putin 5 ani o licenta de pilot de aeronave ultrausoare nemotorizate din clasa pentru care solicita calificarea, in termen de valabilitate</answer>
+                <answer>sa aiba varsta de 21 ani impliniti, sa detina un certificat medical corespunzator.</answer>
+        </answers>
+    </question>
+    <question number="6">
+        <text>Documentele necesare reinoirii licentei de pilot sunt urmatoarele:</text>
+        <answers>
+                <answer>certificat medical corespunzator,  carnet de zbor care sa ateste activitatea de zbor declaratie de responsabilitate, teste teoretice, proces verbal de examinare, cerere specifica,</answer>
+                <answer>certificat medical corespunzator, teste teoretice, proces verbal de examinare, carnet de zbor, cerere de specifica;</answer>
+                <answer type="correct">certificat medical corespunzator, fisa de pregatire teoretica si practica, teste de  examinare, proces verbal de examinare, carnet de  zbor, cerere specifica.</answer>
+        </answers>
+    </question>
+    <question number="7">
+        <text>Varsta minima de la care o persoana romana poate desfasura activitati  de zbor cu aeronave ultrausoare nemotorizate in calitate de pilot este conform OM630/2007:</text>
+        <answers>
+                <answer type="correct">16 ani impliniti;</answer>
+                <answer>18 ani impliniti;</answer>
+                <answer>15 ani impliniti;</answer>
+        </answers>
+    </question>
+    <question number="8">
+        <text>  Eliberarea licentelor personalului aeronautic navigant , aeronave ultrausoare  </text>
+        <answers>
+                <answer>nemotorizate se face conform legii:</answer>
+                <answer>postal , detinatorului licentei;</answer>
+                <answer type="correct">doar titularului pe baza de semnatura sau unui imputernicit legal al acestuia</answer>
+                <answer>instructorului care a efectuat pregatirea sau a depus dosarul titularului</answer>
+        </answers>
+    </question>
+    <question number="9">
+        <text>Parapantele de tandem pentru a putea efectua zboruri cu alte persoane decat elevii piloti  e obligatoriu sa detina:</text>
+        <answers>
+                <answer>certificat de identificare, sau certificat de omologare</answer>
+                <answer type="correct">stampila sau eticheta fabricantului sau orice alt document de omologare</answer>
+                <answer>nu este necesara nici un document</answer>
+        </answers>
+    </question>
+    <question number="10">
+        <text>Conform RACR-REAC, in categoria activitatilor ulterioare raportarii evenimentelor de aviatie civila obligatia agentului aeronautic civil este:</text>
+        <answers>
+                <answer type="correct">sa desfasoare o cercetare/investigatie proprie interna interna imediata pentru orice eveniment care a afectat sau poate afecta siguranta in vederea stabilirii de masuri corective, necesare pentru prevenirea unor elemente similare</answer>
+                <answer>sa verifice daca masurile corective necesare  stabilite in urma cercetarii/investigatiei sunt implementate si efective</answer>
+                <answer>sa investigheze tehnic accidentele si incidentele grave conform legii.</answer>
+        </answers>
+    </question>
+    <question number="11">
+        <text>Orice accident sau incident grav de aviatie civila se raporteaza telefonic imediat sau in scris in maxim 6 ore direct la :</text>
+        <answers>
+                <answer type="correct">AACR, IavC;</answer>
+                <answer>AACR, AZLR;</answer>
+                <answer>AACR, AR.</answer>
+        </answers>
+    </question>
+    <question number="12">
+        <text>In conformitate cu OM630/2007, o aeronava AUN neomologata, poate fi folosita in procesul de instruire?</text>
+        <answers>
+                <answer>pentru parapante si deltaplane nu este necesar ca aeronava sa fie omologata, nicaieri, in consecinta poate fi folosita in procesul de instruire;</answer>
+                <answer type="correct">poate fi folosita in procesul de instruire doar daca proprietarul acesteia este si persoana instruita;</answer>
+                <answer>in procesul de instruire se folosesc doar aeronave omologate care poseda certificat de identificare, sau certificat de omologare</answer>
+        </answers>
+    </question>
+    <question number="13">
+        <text>Conform legislatiei aeronautice in vigoare cu privire la domeniul aeronavelor ultrausoare nemotorizate, continutul minim obligatoriu al programei de pregatire teoretica si practica la sol si in zbor a pilotilor din clasa parapanta este:</text>
+        <answers>
+                <answer>50 ore teorie si 12 ore de zbor</answer>
+                <answer type="correct">50 ore teorie si 10 ore de zbor</answer>
+                <answer>50 ore teorie si 15 ore de zbor</answer>
+        </answers>
+    </question>
+    <question number="14">
+        <text>Varsta minima de la care o persoana romana poate desfasura activitati  de zbor cu aeronave ultrausoare nemotorizate este conform OM630/2007:</text>
+        <answers>
+                <answer>16 ani impliniti;</answer>
+                <answer>18 ani impliniti;</answer>
+                <answer type="correct">15 ani impliniti</answer>
+        </answers>
+    </question>
+    <question number="15">
+        <text>RACR-REAC, se aplica de catre persoanele fizice si juridice  implicate in activitati aeronautice ori de cate ori:</text>
+        <answers>
+                <answer type="correct">un accident sau incident grav s-a produs pe teritoriul Romaniei indiferent de inmatriculare sau operator;</answer>
+                <answer type="correct">un incident s-a produs in afara teritoriului Romaniei si este in legatura cu o aeronava civila, inmatriculata in Romania, sau operata de un agent aeronautic civil;</answer>
+                <answer>aceasta reglemetare se aplica doar de catre personalul civil aeronautic navigant;</answer>
+        </answers>
+    </question>
+    <question number="16">
+        <text> Procesul verbal de examinare se intocmeste de catre:</text>
+        <answers>
+                <answer>elevul pilot;</answer>
+                <answer type="correct">examinatorul autorizat</answer>
+                <answer>instructorul care a efectuat pregatirea.</answer>
+        </answers>
+    </question>
+    <question number="17">
+        <text> Valabilitatea testelor teoretice si a testelor de indemanare  si competenta in zbor este:</text>
+        <answers>
+                <answer>3 luni de la data sustinerii acestora;</answer>
+                <answer type="correct">6 luni de la data sustinerii acestora</answer>
+                <answer>12 luni de la data sustinerii acestora.</answer>
+        </answers>
+    </question>
+    <question number="18">
+        <text> Revalidarea este:</text>
+        <answers>
+                <answer type="correct">procedeu administrativ efectuat in interiorul perioadei de valabilitate a unei calificari sau autorizatii;</answer>
+                <answer> procedeu administrativ efectuat dupa ce ce o calificare sau autorizatie a expirat;</answer>
+                <answer> nici unul din raspunsurile enumerate mai sus.</answer>
+        </answers>
+    </question>
+    <question number="19">
+        <text>   Securitatea zborului este:</text>
+        <answers>
+                <answer>capacitatea sistemului aeronautic de a indeplini in mod satisfacator functiunile sale la un moment dat sau intr-o perioada de timp data cand e folosit in anumite conditii;</answer>
+                <answer type="correct">capacitatea activitatii aeronautice constand in evitarea afectarii sanatatii sau pierderii de vieti omenesti, precum si a producerii de pagube materiale;</answer>
+                <answer>un eveniment legat de utilizarea unei aeronave ca urmare a aparitiei intamplatoare a unor factori de natura sa puna in pericol activitatea de zbor.</answer>
+        </answers>
+    </question>
+    <question number="20">
+        <text>      Pentru a opera in conditiile legii o aeronava AUN, o persoana este necesar sa detina:</text>
+        <answers>
+                <answer type="correct">licenta de pilot pe clasa de aeronave pe care opereaza;</answer>
+                <answer type="correct">asigurare pentru pagube produse tertilor;</answer>
+                <answer type="correct">informare de zbor sau dupa caz plan de zbor</answer>
+        </answers>
+    </question>
+    <question number="21">
+        <text>      Timpul minim  de pregatire recomandat la disciplina proceduri operationale este:</text>
+        <answers>
+                <answer type="correct">4 ore</answer>
+                <answer>2 ore;</answer>
+                <answer>6 ore</answer>
+        </answers>
+    </question>
+    <question number="22">
+        <text>       Pentru revalidarea licentei de pilot aeronave ultrausoare nemotorizate este necesar ca si conditie specifica ca solicitantul sa  demonstreze ca  :</text>
+        <answers>
+                <answer>a efectuat in ultimele 12 luni minimum 5 ore de zbor incluzand 10 decolari si 10 aterizari in calitate de pilot pe clasade aeronave pentru care se solicita revalidarea;</answer>
+                <answer>a efectuat in ultimele 12 luni minimum 3 ore de zbor incluzand 5 decolari si 5 aterizari in calitate de pilot pe clasade aeronave pentru care se solicita revalidarea;</answer>
+                <answer type="correct">a efectuat in ultimele 12 luni minimum 2 ore de zbor incluzand 5 decolari si 5 aterizari in calitate de pilot pe clasade aeronave pentru care se solicita revalidarea</answer>
+        </answers>
+    </question>
+    <question number="23">
+        <text>     Conform Codului Aerian al Romaniei, art.3.12 , autorizarea reprezinta:</text>
+        <answers>
+                <answer type="correct">confirmarea oficiala data printr-un document eliberat, prin care se atesta capacitatea detinatorului de a desfasura activitatile aeronautice civile mentionate in acest document</answer>
+                <answer>recunoasterea faptului ca un serviciu, un produs, o piesa sau un echipament, o organizatie sau o persoana se conformeaza cerintelor aplicabile;</answer>
+                <answer>document emis ca rezultat al certificarii, in conformitate cu reglementarile specifice aplicabile.            </answer>
+        </answers>
+    </question>
+    <question number="24">
+        <text>     Conform Codului Aerian, cap XII scopul investigatiei tehnice in cazul incidentelor si accidentelor de aviatie il reprezinta:</text>
+        <answers>
+                <answer type="correct">stabilirea faptelor, cauzelor si imprejurarilor care au condus la producerea incidentului sau a accidentului de aviatie civila, precum si identificarea masurilor preventive corespunzatoare;</answer>
+                <answer>cresterea sigurantei zborurilor, prin emiterea de recomandari in vederea prevenirii producerii unor incidente sau accidente similare in aviatia civila;</answer>
+                <answer>stabilirea responsabilitatilor, a persoanelor vinovate, a gradului de vinovatie, precum si aplicarea sanctiunilor.</answer>
+        </answers>
+    </question>
+    <question number="25">
+        <text>    Planul de zbor reprezinta:</text>
+        <answers>
+                <answer>o ruta definita si proiectata astfel incat fluxul traficului aerian sa fie orientat in functie de necesitati.</answer>
+                <answer>o metoda de navigatie care permite operarea unei aeronave pe orice traiectorie dorita, in limitele de acoperire a unor mijloace de navigatie;</answer>
+                <answer type="correct">ansamblu de informatii specifice furnizate serviciilor de trafic cu privire la zborul pe  care o aeronava urmeaza sa-l efectueze.</answer>
+        </answers>
+    </question>
+    <question number="26">
+        <text>   Constituie contraventii, conform Codului Aerian, daca nu au fost savarsite in astfel de conditii incat, potrivit legii, sa constituie infractiuni, urmatoarele fapte:</text>
+        <answers>
+                <answer type="correct">refuzul comandantului unei aeronave civile de a prezenta persoanelor imputernicite, in conditiile legii, documentele obligatorii prevazute la art. 17 alin. (2), art. 36 alin. (2) si la art. 73 alin. (2)</answer>
+                <answer type="correct">neinformarea Ministerului Transporturilor, Constructiilor si Turismului cu privire la producerea incidentelor si accidentelor de aviatie civila, de catre cei care au aceasta obligatie in conformitate cu prevederile art. 90 alin. (2);</answer>
+                <answer type="correct">refuzul comandantului unei aeronave civile de a prezenta persoanelor imputernicite, in conditiile legii, documentele obligatorii prevazute la art. 17 alin. (2), art. 36 alin. (2) si la art. 73 alin. (2).</answer>
+        </answers>
+    </question>
+    <question number="27">
+        <text>27.  NOTAM inseamna:</text>
+        <answers>
+                <answer>publicatie emisa in numele statului roman sub autoritatea MTI, care contine informatii aeronautice de durata, esentiale pentru navigatia aeriana</answer>
+                <answer>ansamblu de informatii specifice furnizate unitatilor de trafic aerian cu privire la zborurile ce urmeaza a fi efectuate</answer>
+                <answer type="correct">mesaj de notificare distribuit prin mijloace de telecomunicatii care contine informatii despre aparitia, starea, modificarea, oricarui mijloc serviciu, procedura sau hazard, informatii a caror cunoastere este esentiala pentru zbor.</answer>
+        </answers>
+    </question>
+    <question number="28">
+        <text> In cazul  reinnoirii licentei de pilot aeronave ultrausoare nemotorizate durata cursului de pregatire teoretica este:</text>
+        <answers>
+                <answer>15 ore pentru o intrerupere mai mica de 5 ani;</answer>
+                <answer type="correct">10 ore pentru o intrerupere mai mica de 5 ani;</answer>
+                <answer>25 ore pentru o intrerupere mai mica de 5 ani.</answer>
+        </answers>
+    </question>
+    <question number="29">
+        <text>     Dreptul  de a efectua activitatea de inspectie in teritoriu revine conform legii, inspectorilor autorizati de catre autoritatea de certificare:</text>
+        <answers>
+                <answer type="correct">adevarat;</answer>
+                <answer>fals.</answer>
+        </answers>
+    </question>
+    <question number="30">
+        <text>    In cadrul procesului de examinare, inspectorul examinator, are obligatia sa verifice carnetul de zbor al persoanei  examinate:</text>
+        <answers>
+                <answer>fals deoarece doar instructorul este cel care are acces la informatiile din carnetul de zbor.;</answer>
+                <answer>fals, deoarece fisa de pregatire este documentul care atesta orele de pregatire ale persoanei examinate;</answer>
+                <answer type="correct">adevarat.</answer>
+        </answers>
+    </question>
+    <question number="31">
+        <text>  Spatiu aerian restrictionat este  :</text>
+        <answers>
+                <answer>portiunea de spatiu aerian in care zborul aeronavelor este interzis</answer>
+                <answer type="correct">portiunea de spatiu aerian care se afla sub responsabilitatea unei autoritati;</answer>
+                <answer>portiunea de spatiu aerian in care in timpul unor perioade specificate se desfasoara activitati periculoase pentru zbor.</answer>
+        </answers>
+    </question>
+    <question number="32">
+        <text>   Zborul VFR al unei aeronave civile executat in intregime intr-o zona de spatiu aerian de clasa G se considera autorizat daca:</text>
+        <answers>
+                <answer>aeronava este asigurata dupa caz cf legii pt daune produse tertilor;</answer>
+                <answer type="correct">operatorul aeronavei a depus plan de zbor, sau a facut informare cf legii;</answer>
+                <answer>in zona aeriana de clasa G nu este necesar nici un document.</answer>
+        </answers>
+    </question>
+    <question number="33">
+        <text>  Conform HG.912/2010, controlul utilizarii spatiului aerian se efectueaza de catre:</text>
+        <answers>
+                <answer>Ministerul Trasporturilor;</answer>
+                <answer type="correct">Ministerul Apararii;</answer>
+                <answer>organele de trafic civile.</answer>
+        </answers>
+    </question>
+    <question number="34">
+        <text>  Examinarea practica pentru obtinerea/revalidarea si reinoirea calificarilor personalului aeronautic navigant se sustine intotdeauna dupa examinarea teoretica indiferent daca candidatul a obtinut 75% la aceasta:</text>
+        <answers>
+                <answer>adevarat</answer>
+                <answer type="correct">fals</answer>
+        </answers>
+    </question>
+    <question number="35">
+        <text>  Operarea unei aeronave civile in spatiul aerian national pentru care nu s-a incheiat asigurare pentru pagube produse tertilor se pedepseste cu amenda de la:</text>
+        <answers>
+                <answer type="correct">20000- 35000 lei;</answer>
+                <answer>40000-50000 lei;</answer>
+                <answer>50000 lei.</answer>
+        </answers>
+    </question>
+    <question number="36">
+        <text>   Inaltimea conform RACR-RA este definita ca:</text>
+        <answers>
+                <answer>distanta verticala unui nivel punct sau obiect, considerat ca punct de la nivelul mediu al marii;</answer>
+                <answer type="correct">distanta verticala unui nivel punct sau obiect, considerat ca punct masurata de la un punct de referinta specificat.</answer>
+                <answer>distanta verticala unui nivel punct sau obiect, considerat ca punct, masurat de la nivelul 0 al marii.</answer>
+        </answers>
+    </question>
+    <question number="37">
+        <text>  Cererea de licentiere se intocmeste de catre:</text>
+        <answers>
+                <answer>instructor;</answer>
+                <answer>examinatorul autorizat;</answer>
+                <answer type="correct">elevul pilot</answer>
+        </answers>
+    </question>
+    <question number="38">
+        <text>   Intreaga responsabilitate pentru actiunile desfasurate in timpul activitatii  de zbor revine conform legii:</text>
+        <answers>
+                <answer type="correct">pilotului comandant;</answer>
+                <answer>instructorilor aflati in zona;</answer>
+                <answer type="correct">directorilor de concurs in cazul competitiilor sportive.</answer>
+        </answers>
+    </question>
+    <question number="39">
+        <text>   In timpul procesului de pregatire, elevul pilot desfasoara activitate de zbor numai sub supravegherea instructorului:</text>
+        <answers>
+                <answer type="correct">adevarat, deoarece instructorul este cel care stabileste temele de pregatire conform  programului de pregatire la sol si in zbor;</answer>
+                <answer>fals, elevul poate efectua zboruri si in prezenta unor piloti avansati</answer>
+                <answer type="correct">adevarat deoarece instructorul este singura persoana abilitata sa supravegheze activitatea de pregatire la sol si in zbor</answer>
+        </answers>
+    </question>
+    <question number="40">
+        <text>     Autoritatea de certificare poate retrage anula o calificare/autorizatie de aeronave ultrausoare nemotorizate:</text>
+        <answers>
+                <answer>nu , deoarece o calificare odata obtinuta nu poate fi retrasa;</answer>
+                <answer type="correct">da, daca se constata ca titularul nu mai indeplineste conditiile minime specificate in reglementare;</answer>
+                <answer type="correct">da, daca titularul a fost implicat in actiuni de natura a afecta siguranta zborului </answer>
+        </answers>
+    </question>
+    <question number="41">
+        <text>    Zborurile VFR  se pot executa pentru desfasurarea de:</text>
+        <answers>
+                <answer type="correct">operatiuni de transport aerian public;</answer>
+                <answer type="correct">operatiuni de aviatie generala;</answer>
+                <answer type="correct">operatiuni de lucru aerian.</answer>
+        </answers>
+    </question>
+    <question number="42">
+        <text>  Harta VFR AIP Romania cu indicativul LR-1 corespunde zonei:</text>
+        <answers>
+                <answer>Muntenia;</answer>
+                <answer type="correct">Transilvania;</answer>
+                <answer>Moldova.</answer>
+        </answers>
+    </question>
+    <question number="43">
+        <text>42.   Ce cuprinde art.93 din Codul Aerian?</text>
+        <answers>
+                <answer type="correct">contraventii</answer>
+                <answer>infractiuni</answer>
+                <answer>sanctiuni</answer>
+        </answers>
+    </question>
+    <question number="44">
+        <text>43.    Harta VFR AIP Romania cu indicativul LR-1 corespunde zonei:</text>
+        <answers>
+                <answer>Muntenia;</answer>
+                <answer type="correct">Transilvania;</answer>
+                <answer>Moldova.</answer>
+        </answers>
+    </question>
+    <question number="45">
+        <text>Carnetul de zbor este obligatoriu in desfasurarea activitatilor de zbor cu aeronave ultrausoare  nemotorizate?</text>
+        <answers>
+                <answer type="correct">da;</answer>
+                <answer>nu;</answer>
+                <answer>doar pe perioada de instruire.</answer>
+        </answers>
+    </question>
+    <question number="46">
+        <text>Documentele necesare unui pilot strain pentru  a putea desfasura activitati de zbor pe teritoriul Romaniei sunt :</text>
+        <answers>
+                <answer type="correct">licenta de pilot in termen de valabilitate;</answer>
+                <answer type="correct">IPPI Card;</answer>
+                <answer>aviz din partea autoritatii de certificare</answer>
+        </answers>
+    </question>
+    <question number="47">
+        <text>Fisa de pregatire teoretica si practica la sol si in zbor se intocmeste de catre :</text>
+        <answers>
+                <answer>inspectorul examinator</answer>
+                <answer type="correct"> instructorul sub supravegehrea caruia s-a finalizat pregatirea</answer>
+                <answer>elevul pilot, instructorul semneaza doar documentul</answer>
+        </answers>
+    </question>
+    <question number="48">
+        <text>Conform OM 630/2007 RACR-LPAN AUN 4010, testele grila in vederea examinarii sunt intocmite de catre:</text>
+        <answers>
+                <answer>autoritatea de certificare;</answer>
+                <answer type="correct">autoritatea de certificare prin intermediul examinatorilor;</answer>
+                <answer>autoritatea de certificare prin intermediul instructorilor.</answer>
+        </answers>
+    </question>
+    <question number="49">
+        <text> Zborurile VFR  se executa ziua:</text>
+        <answers>
+                <answer type="correct">intre rasaritul si apusul soarelui;</answer>
+                <answer>cu 30 min dupa rasarit, si se incheie cu 30 min inainte de apus</answer>
+                <answer>dupa noua reglementare HG.912 nu mai exista regula.</answer>
+        </answers>
+    </question>
+    <question number="50">
+        <text>  Actul normativ care stabileste modul si conditiile de  certificare a personalului aeronautic in domeniul aeronavelor ultrausoare nemotorizate este:</text>
+        <answers>
+                <answer>Codul Aerian;</answer>
+                <answer>RACR-RA;</answer>
+                <answer type="correct">OM 630/2007.</answer>
+        </answers>
+    </question>
+    <question number="51">
+        <text>   Asociatia de Zbor Liber din Romania este autoritate delegata de:</text>
+        <answers>
+                <answer>Directia Aviatiei Civile;</answer>
+                <answer type="correct">Autoritatea Aeronautica Civila;</answer>
+                <answer>Ministerul Transporturilor.</answer>
+        </answers>
+    </question>
+    <question number="52">
+        <text> Principala autoritate din Romania in domeniul aeronavelor ultrausoare nemotorizate este:</text>
+        <answers>
+                <answer>AACR- Autoritatea Aeronautica Civila;</answer>
+                <answer>MTI – Ministerul Transporturilor si Infrastructurii;</answer>
+                <answer type="correct">AZLR – Asociatia de Zbor Liber din Romania;</answer>
+        </answers>
+    </question>
+    <question number="53">
+        <text>Care este principalul act normativ care reglementeza activitatea de zbor cu aeronave ultrausoare in Romania?</text>
+        <answers>
+                <answer type="correct">OMTCT 630/2007;</answer>
+                <answer>Legea 399/2005;</answer>
+                <answer>HG 912/2010</answer>
+        </answers>
+    </question>
+    <question number="54">
+        <text>Autoritatea de certificare, daca constata ca detinatorul unei licente nu mai indeplineste conditiile specificate in reglementari:</text>
+        <answers>
+                <answer type="correct">poate suspenda licenta specifica;</answer>
+                <answer type="correct">poate retrage licenta specifica;</answer>
+                <answer>odata o calificare dobandita ea nu mai poate fi retrasa.</answer>
+        </answers>
+    </question>
+    <question number="55">
+        <text>Conform Codului Aerian în vigoare este considerat accident:</text>
+        <answers>
+                <answer type="correct">ranirea grava sau moartea atunci când persoana se afla într-o aeronava</answer>
+                <answer>producerea unui infarct miocardic în interiorul unei aeronave</answer>
+                <answer>ranirea unui pasager clandestin aflat în interiorul calei aeronavei</answer>
+        </answers>
+    </question>
+    <question number="56">
+        <text>Executarea de activiati de zbor cu aeronave ultrausoare se face:</text>
+        <answers>
+                <answer type="correct">cu asumarea responsabilitatilor de catre cei care zboara, în baza unei declaratii tip</answer>
+                <answer type="correct">cu respectarea reglementarilor aeronautice specifice si generale din România</answer>
+                <answer>cu respectarea reglementarilor specifice, dar numai pentru cetatenii români.</answer>
+        </answers>
+    </question>
+    <question number="57">
+        <text>Pentru a putea zbura cu parapanta este necesar:</text>
+        <answers>
+                <answer>sa-ti cumperi o parapanta</answer>
+                <answer type="correct">sa urmezi o scoala zburând sub îndrumarea instructorului</answer>
+                <answer type="correct">obtinerea licentei de pilot pentru a putea zbura nesupravegheat de un instructor</answer>
+        </answers>
+    </question>
+    <question number="58">
+        <text>57.  Zborul de scoala este caracterizat ca fiind:</text>
+        <answers>
+                <answer>zborul efectuat pentru pregatire în vederea participarii la competitii</answer>
+                <answer>zborul efectuat în vederea pregatirii pentru depasirea unor recorduri</answer>
+                <answer type="correct">zborul efectuat pentru initiere sau instruire</answer>
+        </answers>
+    </question>
+    <question number="59">
+        <text>58.   Spatiul aerian national reprezinta coloana de aer situatã deasupra teritoriului de suveranitate al României, pâna la:</text>
+        <answers>
+                <answer>10.000 AGL</answer>
+                <answer>12.000 ASL</answer>
+                <answer type="correct">limita inferioara a spatiului extraatmosferic</answer>
+        </answers>
+    </question>
+    <question number="60">
+        <text>59.    Executarea instruirii cu parapanta se face de catre:</text>
+        <answers>
+                <answer>orice pilot avansat</answer>
+                <answer>operatorul radio</answer>
+                <answer type="correct">instructorul licentiat</answer>
+        </answers>
+    </question>
+    <question number="61">
+        <text>60. Pentru obtinerea licentei de pilot aeronave ultrusoare clasa parapanta elevul pilot trebuie sa parcurga un program de pregatire teoretica ce include un numar total de :</text>
+        <answers>
+                <answer>48 ore ;</answer>
+                <answer type="correct">50 ore;</answer>
+                <answer>48 ore fara  dicipina telefonie</answer>
+        </answers>
+    </question>
+</questions>
