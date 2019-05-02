@@ -1,3 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<test>
+<name>Performante zborului</name>
 <questions>
     <question number="1">
         <text>Durata tipului de zbor: Deal Vale - DV in conditii de vant anabatic comparativ cu vant catabatic este:</text>
@@ -312,3 +315,4 @@
         </answers>
     </question>
 </questions>
+</test>

@@ -1,3 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<test>
+<name>Performante umane</name>
 <questions>
     <question number="1">
         <text> Simptomele oboselii includ:</text>
@@ -182,3 +185,4 @@
         </answers>
     </question>
 </questions>
+</test>

@@ -1,3 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<test>
+<name>Legislatie</name>
 <questions>
     <question number="1">
         <text> Care este principalul act normativ care reglementeza activitatea de zbor in Romania?</text>
@@ -487,3 +490,4 @@
         </answers>
     </question>
 </questions>
+</test>

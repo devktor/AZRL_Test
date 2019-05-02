@@ -1,3 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<test>
+<name>Principiile zborului</name>
 <questions>
     <question number="1">
         <text>Finetea aerodinamica este: </text>
@@ -546,9 +549,9 @@
     <question number="69">
         <text>La parapanta, relatia de ordonare intre Vangajare, Vmax, Vfinete-maxima si Vinfundare-minima este:</text>
         <answers>
-                <answer>Vinfundare-minima < Vangajare < Vfinete-maxima < Vmax</answer>
-                <answer type="correct">Vangajare < Vinfundare-minima < Vfinete-maxima < Vmax </answer>
-                <answer>Vangajare < Vfinete-maxima < Vinfundare-minima < Vmax</answer>
+                <answer>Vinfundare-minima &lt; Vangajare &lt; Vfinete-maxima &lt; Vmax</answer>
+                <answer type="correct">Vangajare &lt; Vinfundare-minima &lt; Vfinete-maxima &lt; Vmax </answer>
+                <answer>Vangajare &lt; Vfinete-maxima &lt; Vinfundare-minima &lt; Vmax</answer>
         </answers>
     </question>
     <question number="70">
@@ -809,6 +812,7 @@
     </question>
     <question number="102">
         <text>107. Care din următoarele caracteristici are cea mai mare influență asupra rezistenței la inaintare a unui corp?</text>
+        <picture>principii_zbor/principii_zbor-10_1.jpg</picture>
         <answers>
                 <answer>Greutatea corpului.</answer>
                 <answer type="correct">Mărimea corpului.</answer>
@@ -818,6 +822,7 @@
     </question>
     <question number="103">
         <text>Care este efectul asupra rezistenței la inaintare a unui corp dacă se dublează suprafața corpului expusă fluxului de aer?</text>
+        <picture>principii_zbor/principii_zbor-10_1.jpg</picture>
         <answers>
                 <answer>Se injumătățește.</answer>
                 <answer>Nu se modifică.</answer>
@@ -826,12 +831,69 @@
         </answers>
     </question>
     <question number="104">
+        <text>104. Asupra unui corp se aplică forțele F1 și F4. Ele au același punct de aplicare. Careeste rezultanta R a celor două forțe?</text>
+        <picture>principii_zbor/principii_zbor-10_1.jpg</picture>
+        <answers>
+                <answer>  R1</answer>
+                <answer type="correct">  R2</answer>
+                <answer>  R3</answer>
+                <answer>  R4</answer>
+        </answers>
+    </question>
+    <question number="104.1">
         <text>109. Care este efectul asupra rezistenței la inaintare a unui corp dacă crește de 4 ori suprafața corpului expusă fluxului de aer?</text>
         <answers>
                 <answer>Se imparte la 4.</answer>
                 <answer>Nu se modifică.</answer>
                 <answer type="correct">Se înmulțește cu 4.</answer>
                 <answer>Se inmulțește cu 16.</answer>
+        </answers>
+    </question>
+    <question number="104.2">
+        <text>105. Asupra unui corp se aplică forțele F1 și F5. Ele au același punct de aplicare. Careeste rezultanta R a celor două forțe?</text>
+        <picture>principii_zbor/principii_zbor-10_1.jpg</picture>
+        <answers>
+                <answer type="correct">  R1</answer>
+                <answer>  R2</answer>
+                <answer>  R3</answer>
+                <answer>  R4</answer>
+        </answers>
+    </question>
+    <question number="104.3">
+        <text>106. Asupra unui corp se aplică forțele F4 și F5. Ele au același punct de aplicare. Careeste rezultanta R a celor două forțe?</text>
+        <picture>principii_zbor/principii_zbor-10_1.jpg</picture>
+        <answers>
+                <answer>  R1</answer>
+                <answer>  R2</answer>
+                <answer>  R3</answer>
+                <answer type="correct">  R4</answer>
+        </answers>
+    </question>
+    <question number="104.4">
+        <text>107. Care din următoarele caracteristici are cea mai mare influență asupra rezistenței laînaintare a unui corp?</text>
+        <answers>
+                <answer>  Greutatea corpului.</answer>
+                <answer type="correct">  Mărimea corpului.</answer>
+                <answer>  Caracteristicile materialului din care este construit corpul.</answer>
+                <answer>  Masa corpului.</answer>
+        </answers>
+    </question>
+    <question number="104.5">
+        <text>108. Care este efectul asupra rezistenței la înaintare a unui corp dacă se dublează suprafața corpului expusă  fluxului de aer?</text>
+        <answers>
+                <answer> Se înjumătățește.</answer>
+                <answer> Nu se modifică.</answer>
+                <answer type="correct"> Se dublează.</answer>
+                <answer> Se înmulțește cu 4.</answer>
+        </answers>
+    </question>
+    <question number="109">
+        <text>109. Care este efectul asupra rezistenței la înaintare a unui corp dacă crește de 4 orisuprafața corpului expusă  fluxului de aer?</text>
+        <answers>
+                <answer> Se împarte la 4.</answer>
+                <answer> Nu se modifică.</answer>
+                <answer type="correct"> Se înmulțește cu 4.</answer>
+                <answer> Se înmulțește cu 16.</answer>
         </answers>
     </question>
     <question number="105">
@@ -1088,6 +1150,7 @@
     </question>
     <question number="133">
         <text>138. Obiectele desenate mai jos au coeficientul aerodinamic Cx de 0,08 0,17 1 și 1,3. Care dintre ele are coeficientul Cx 0,08?</text>
+        <picture>principii_zbor/principii_zbor-15_5.jpg</picture>
         <answers>
                 <answer>a)</answer>
                 <answer>b)</answer>
@@ -1097,6 +1160,7 @@
     </question>
     <question number="134">
         <text>139. Obiectele desenate mai jos au coeficientul aerodinamic Cx de 0,08 0,17 1 și 1,3. Care dintre ele are coeficientul Cx 0,17?</text>
+        <picture>principii_zbor/principii_zbor-15_5.jpg</picture>
         <answers>
                 <answer>a)</answer>
                 <answer>b)</answer>
@@ -1106,6 +1170,7 @@
     </question>
     <question number="135">
         <text>140. Obiectele desenate mai jos au coeficientul aerodinamic Cx de 0,08 0,17 1 și 1,3. Care dintre ele are coeficientul Cx 1?</text>
+        <picture>principii_zbor/principii_zbor-15_5.jpg</picture>
         <answers>
                 <answer type="correct">a)</answer>
                 <answer>b)</answer>
@@ -1115,6 +1180,7 @@
     </question>
     <question number="136">
         <text>141. Obiectele desenate mai jos au coeficientul aerodinamic Cx de 0,08 0,17 1 și 1,3. Care dintre ele are coeficientul Cx 1,3?</text>
+        <picture>principii_zbor/principii_zbor-15_5.jpg</picture>
         <answers>
                 <answer>a)</answer>
                 <answer type="correct">b)</answer>
@@ -1133,6 +1199,7 @@
     </question>
     <question number="138">
         <text>143. Care dintre următoarele numere reprezintă coarda profilului?</text>
+        <picture>principii_zbor/principii_zbor-16_9.jpg</picture>
         <answers>
                 <answer>1</answer>
                 <answer type="correct">2</answer>
@@ -1142,6 +1209,7 @@
     </question>
     <question number="139">
         <text>144. Care dintre următoarele numere reprezintă grosimea profilului?</text>
+        <picture>principii_zbor/principii_zbor-16_9.jpg</picture>
         <answers>
                 <answer>1</answer>
                 <answer type="correct">2</answer>
@@ -1151,6 +1219,7 @@
     </question>
     <question number="140">
         <text>145. Care dintre următoarele numere reprezintă adancimea profilului?</text>
+        <picture>principii_zbor/principii_zbor-16_9.jpg</picture>
         <answers>
                 <answer type="correct">1</answer>
                 <answer>2</answer>
@@ -1160,6 +1229,7 @@
     </question>
     <question number="141">
         <text>146. Care dintre următoarele numere reprezintă bordul de atac al profilului?</text>
+        <picture>principii_zbor/principii_zbor-17_12.jpg</picture>
         <answers>
                 <answer>1</answer>
                 <answer type="correct">2</answer>
@@ -1169,6 +1239,7 @@
     </question>
     <question number="142">
         <text>147. Care dintre următoarele numere reprezintă bordul de fugă al profilului?</text>
+        <picture>principii_zbor/principii_zbor-17_12.jpg</picture>
         <answers>
                 <answer>1</answer>
                 <answer>2</answer>
@@ -1214,6 +1285,7 @@
     </question>
     <question number="147">
         <text>152. Care dintre următoarele profiluri expuse vantului are cel mai mare unghi de atac?</text>
+        <picture>principii_zbor/principii_zbor-18_14.jpg</picture>
         <answers>
                 <answer type="correct">1</answer>
                 <answer>2</answer>
@@ -1223,6 +1295,7 @@
     </question>
     <question number="148">
         <text>153. Care dintre următoarele profiluri expuse vantului are unghi negativ de atac de -10°?</text>
+        <picture>principii_zbor/principii_zbor-18_14.jpg</picture>
         <answers>
                 <answer>1</answer>
                 <answer type="correct">2</answer>
@@ -1232,6 +1305,7 @@
     </question>
     <question number="149">
         <text>154. Care dintre următoarele profiluri expuse vantului are unghi de atac de 0°?</text>
+        <picture>principii_zbor/principii_zbor-18_14.jpg</picture>
         <answers>
                 <answer>1</answer>
                 <answer>2</answer>
@@ -1313,6 +1387,7 @@
     </question>
     <question number="158">
         <text>163. Care dintre literele din următoarea diagramă indică punctul de stagnare?</text>
+        <picture>principii_zbor/principii_zbor-19_17.jpg</picture>
         <answers>
                 <answer type="correct">1</answer>
                 <answer>2</answer>
@@ -1322,6 +1397,7 @@
     </question>
     <question number="159">
         <text>164. Care dintre literele din următoarea diagramă indică centrulpresiunii?</text>
+        <picture>principii_zbor/principii_zbor-19_17.jpg</picture>
         <answers>
                 <answer>1</answer>
                 <answer>2</answer>
@@ -1331,6 +1407,7 @@
     </question>
     <question number="160">
         <text>165. Care dintre literele din următoarea diagramă indică punctul de angajare?</text>
+        <picture>principii_zbor/principii_zbor-19_17.jpg</picture>
         <answers>
                 <answer>1</answer>
                 <answer>2</answer>
@@ -1718,6 +1795,7 @@
     </question>
     <question number="203">
         <text>208. Care dintre următoarele numere reprezintă finețea și tracțiunea?</text>
+        <picture>principii_zbor/principii_zbor-25_20.jpg</picture>
         <answers>
                 <answer>4 și 7</answer>
                 <answer>4 și 8</answer>
@@ -1727,6 +1805,7 @@
     </question>
     <question number="204">
         <text>209. Care dintre următoarele numere reprezintă portanța și rezistența la inaintare?</text>
+        <picture>principii_zbor/principii_zbor-25_20.jpg</picture>
         <answers>
                 <answer>6 și 7</answer>
                 <answer>5 și 7</answer>
@@ -1736,6 +1815,7 @@
     </question>
     <question number="205">
         <text>210. Care dintre următoarele numere reprezintă finețea și a greutatea totală?</text>
+        <picture>principii_zbor/principii_zbor-25_20.jpg</picture>
         <answers>
                 <answer>1 și 7</answer>
                 <answer type="correct">1 și 2</answer>
@@ -1745,6 +1825,7 @@
     </question>
     <question number="206">
         <text>211. Care dintre următoarele numere reprezintă rezultanta forțelor erodinamice și tracțiunea?</text>
+        <picture>principii_zbor/principii_zbor-25_20.jpg</picture>
         <answers>
                 <answer>2 și 7</answer>
                 <answer>6 și 8</answer>
@@ -1970,6 +2051,7 @@
     </question>
     <question number="231">
         <text>236. Care este viteza minimă a următoarei parapante?</text>
+        <picture>principii_zbor/principii_zbor-29_24.jpg</picture>
         <answers>
                 <answer>4,2 m / s (15 km / h)</answer>
                 <answer type="correct">5,6 m / s (20 km / h)</answer>
@@ -1979,6 +2061,7 @@
     </question>
     <question number="232">
         <text>237. Care este finețea următoarei parapante dacă aceasta zboară la viteză minimă?</text>
+        <picture>principii_zbor/principii_zbor-29_24.jpg</picture>
         <answers>
                 <answer type="correct">2,0</answer>
                 <answer>3,7</answer>
@@ -1988,6 +2071,7 @@
     </question>
     <question number="233">
         <text>238. Care este finețea următoarei parapante dacă aceasta zboară la viteză maximă?</text>
+        <picture>principii_zbor/principii_zbor-29_24.jpg</picture>
         <answers>
                 <answer>2,0</answer>
                 <answer type="correct">3,7</answer>
@@ -1997,6 +2081,7 @@
     </question>
     <question number="234">
         <text>239. La ce viteză ar trebui să zboare următoarea parapantă pentru a ajunge cat mai departe dacă are un vant de față de 8 m / s (29 km / h)?</text>
+        <picture>principii_zbor/principii_zbor-29_24.jpg</picture>
         <answers>
                 <answer>7 m / s (25 km / h)</answer>
                 <answer>9 m / s (32 km / h)</answer>
@@ -2140,3 +2225,4 @@
         </answers>
     </question>
 </questions>
+</test>

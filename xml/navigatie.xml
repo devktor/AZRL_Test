@@ -1,3 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<test>
+<name>Navigatie</name>
 <questions>
     <question number="1">
         <text>Ce este navigatia aeriana </text>
@@ -808,3 +811,4 @@
         </answers>
     </question>
 </questions>
+</test>

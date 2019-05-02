@@ -1,3 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<test>
+<name>Prim ajutor</name>
 <questions>
     <question number="1">
         <text>Cu ce se recomanda transportarea persoanelor accidentate, care prezinta fracturi de coloana?</text>
@@ -256,3 +259,4 @@
         </answers>
     </question>
 </questions>
+</test>

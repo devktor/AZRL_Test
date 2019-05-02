@@ -1,3 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<test>
+<name>Cunoasterea aeronavei</name>
 <questions>
     <question number="1">
         <text>Actionarea acceleratorului are ca efect:</text>
@@ -1300,3 +1303,4 @@
         </answers>
     </question>
 </questions>
+</test>

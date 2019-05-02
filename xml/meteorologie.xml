@@ -1,3 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<test>
+<name>Meteo</name>
 <questions>
     <question number="1">
         <text>60. Aerul este un amestec de diferite gaze. Cele mai importante gaze și proporțiile lor sunt</text>
@@ -261,6 +264,7 @@
     </question>
     <question number="30">
         <text>89. Care din următoarele sondaje de temperatură măsurate la ora 02:00 indică prezența unei inversiuni la altitudine.</text>
+        <picture>meteo/meteo_1.png</picture>
         <answers>
                 <answer>1</answer>
                 <answer>2</answer>
@@ -270,6 +274,7 @@
     </question>
     <question number="31">
         <text>90. Care din următoarele sondaje de temperatură măsurate la ora 02:00 indică prezența unei inversiuni la nivelul solului.</text>
+        <picture>meteo/meteo_1.png</picture>
         <answers>
                 <answer type="correct">1</answer>
                 <answer>2</answer>
@@ -279,6 +284,7 @@
     </question>
     <question number="32">
         <text>91. Care din următoarele sondaje de temperatură măsurate la ora 02:00 indică prezența unei zoterme.</text>
+        <picture>meteo/meteo_1.png</picture>
         <answers>
                 <answer>1</answer>
                 <answer>2</answer>
@@ -352,7 +358,7 @@
     <question number="40">
         <text>99. Cât de mare este gradientul temperaturii al aerului saturat (umed) în România în nivelele joase ale troposferei?</text>
         <answers>
-                <answer type="correct">< 1°C / 100 m</answer>
+                <answer type="correct">&lt; 1°C / 100 m</answer>
                 <answer>1,0°C / 100 m</answer>
                 <answer>1,5°C / 100 m</answer>
                 <answer>> 2°C / 100 m</answer>
@@ -1017,6 +1023,7 @@
     </question>
     <question number="114">
         <text>174. Ce reprezintă următoarea imagine?</text>
+        <picture>meteo/meteo_2.png</picture>
         <answers>
                 <answer>Un front cald.</answer>
                 <answer type="correct">Un front rece.</answer>
@@ -1026,6 +1033,7 @@
     </question>
     <question number="115">
         <text>175. Ce reprezintă următoarea imagine?</text>
+        <picture>meteo/meteo_3.png</picture>
         <answers>
                 <answer>Un front cald.</answer>
                 <answer>Un front rece.</answer>
@@ -1035,6 +1043,7 @@
     </question>
     <question number="116">
         <text>176. Ce reprezintă următoarea imagine?</text>
+        <picture>meteo/meteo_4.png</picture>
         <answers>
                 <answer type="correct">Un front cald.</answer>
                 <answer>Un front rece.</answer>
@@ -1044,6 +1053,7 @@
     </question>
     <question number="117">
         <text>177. Ce reprezintă următoarea imagine?</text>
+        <picture>meteo/meteo_5.png</picture>
         <answers>
                 <answer>Un front cald.</answer>
                 <answer>Un front rece.</answer>
@@ -1188,6 +1198,7 @@
     </question>
     <question number="133">
         <text>193. Pe o hartă meteorologică, acest simbol definește</text>
+        <picture>meteo/meteo_6.png</picture>
         <answers>
                 <answer>o izobară.</answer>
                 <answer type="correct">un front rece.</answer>
@@ -1197,6 +1208,7 @@
     </question>
     <question number="134">
         <text>194. Pe o hartă meteorologică, acest simbol definește</text>
+        <picture>meteo/meteo_7.png</picture>
         <answers>
                 <answer>o izobară.</answer>
                 <answer>un front rece.</answer>
@@ -1206,6 +1218,7 @@
     </question>
     <question number="135">
         <text>195. Pe o hartă meteorologică, acest simbol definește</text>
+        <picture>meteo/meteo_8.png</picture>
         <answers>
                 <answer type="correct">o izobară.</answer>
                 <answer>un front rece.</answer>
@@ -1215,6 +1228,7 @@
     </question>
     <question number="136">
         <text>196. Pe o hartă meteorologică, acest simbol definește</text>
+        <picture>meteo/meteo_9.png</picture>
         <answers>
                 <answer>o izobară.</answer>
                 <answer>un front rece.</answer>
@@ -1224,6 +1238,7 @@
     </question>
     <question number="137">
         <text>197. Unde este centrul ciclonului?</text>
+        <picture>meteo/meteo_10.png</picture>
         <answers>
                 <answer>lângă Tunis</answer>
                 <answer>deasupra golfului Biscaya (Golf von Biskaya)</answer>
@@ -1233,6 +1248,7 @@
     </question>
     <question number="138">
         <text>198. Unde este centrul anticiclonului?</text>
+        <picture>meteo/meteo_10.png</picture>
         <answers>
                 <answer>lângă Tunis</answer>
                 <answer type="correct">deasupra golfului Biscaya (Golf von Biskaya)</answer>
@@ -1242,6 +1258,7 @@
     </question>
     <question number="139">
         <text>199. Unde este gradientul presiunii cel mai plat?</text>
+        <picture>meteo/meteo_10.png</picture>
         <answers>
                 <answer type="correct">lângă Tunis</answer>
                 <answer>deasupra golfului Biscaya (Golf von Biskaya)</answer>
@@ -1251,6 +1268,7 @@
     </question>
     <question number="140">
         <text>200. Unde este gradientul presiunii cel mai abrupt?</text>
+        <picture>meteo/meteo_10.png</picture>
         <answers>
                 <answer>lângă Tunis</answer>
                 <answer>deasupra golfului Biscaya (Golf von Biskaya)</answer>
@@ -1260,6 +1278,7 @@
     </question>
     <question number="141">
         <text>201. Unde e cel mai puternic vânt?</text>
+        <picture>meteo/meteo_10.png</picture>
         <answers>
                 <answer>În nordul Africii.</answer>
                 <answer>În Elveția.</answer>
@@ -1269,6 +1288,7 @@
     </question>
     <question number="142">
         <text>202. Unde e cel mai slab vânt?</text>
+        <picture>meteo/meteo_10.png</picture>
         <answers>
                 <answer type="correct">În nordul Africii.</answer>
                 <answer>În Elveția.</answer>
@@ -1278,6 +1298,7 @@
     </question>
     <question number="143">
         <text>203. Care este direcția vântului în Alger?</text>
+        <picture>meteo/meteo_14.png</picture>
         <answers>
                 <answer>100 °</answer>
                 <answer>190 °</answer>
@@ -1287,6 +1308,7 @@
     </question>
     <question number="144">
         <text>204. Care este direcția vântului în Londra?</text>
+        <picture>meteo/meteo_14.png</picture>
         <answers>
                 <answer>130 °</answer>
                 <answer>190 °</answer>
@@ -1296,6 +1318,7 @@
     </question>
     <question number="145">
         <text>205. Care este direcția vântului în Atena?</text>
+        <picture>meteo/meteo_14.png</picture>
         <answers>
                 <answer type="correct">130 °</answer>
                 <answer>190 °</answer>
@@ -1305,6 +1328,7 @@
     </question>
     <question number="146">
         <text>206. Care este direcția vântului în Zurich?</text>
+        <picture>meteo/meteo_14.png</picture>
         <answers>
                 <answer>100 °</answer>
                 <answer type="correct">210 °</answer>
@@ -1314,6 +1338,7 @@
     </question>
     <question number="147">
         <text>207. Care este direcția vântului în Lisabona?</text>
+        <picture>meteo/meteo_14.png</picture>
         <answers>
                 <answer>100 °</answer>
                 <answer>190 °</answer>
@@ -1323,6 +1348,7 @@
     </question>
     <question number="148">
         <text>208. Care dintre următoarele orașe se află într-un sector cald?</text>
+        <picture>meteo/meteo_14.png</picture>
         <answers>
                 <answer>Lulea și Sankt-Petersburg</answer>
                 <answer type="correct">Zurich și Stockholm</answer>
@@ -1332,6 +1358,7 @@
     </question>
     <question number="149">
         <text>209. În care dintre următoarele orașe sunt condiții meteo de după front?</text>
+        <picture>meteo/meteo_14.png</picture>
         <answers>
                 <answer>Lulea și Sankt-Petersburg</answer>
                 <answer>Zurich și Stockholm</answer>
@@ -1341,6 +1368,7 @@
     </question>
     <question number="150">
         <text>210. Care dintre următoarele orașe sunt sub influența anticiclonului?</text>
+        <picture>meteo/meteo_14.png</picture>
         <answers>
                 <answer>Lulea și Sankt-Petersburg</answer>
                 <answer>Zurich și Stockholm</answer>
@@ -1350,6 +1378,7 @@
     </question>
     <question number="151">
         <text>211. Care este distribuția de nori cea mai probabilă în Lulea?</text>
+        <picture>meteo/meteo_14.png</picture>
         <answers>
                 <answer>3/8 - 5/8 cumulus</answer>
                 <answer type="correct">5/8 - 7/8 cirostratus</answer>
@@ -1359,6 +1388,7 @@
     </question>
     <question number="152">
         <text>212. Care este distribuția de nori cea mai probabilă în Paris?</text>
+        <picture>meteo/meteo_14.png</picture>
         <answers>
                 <answer type="correct">3/8 - 5/8 cumulus</answer>
                 <answer>5/8 - 7/8 cirostratus</answer>
@@ -1368,6 +1398,7 @@
     </question>
     <question number="153">
         <text>213. Care este distribuția de nori cea mai probabilă în nordvestul Elveției?</text>
+        <picture>meteo/meteo_14.png</picture>
         <answers>
                 <answer>5/8 - 7/8 cirocumulus</answer>
                 <answer>5/8 - 7/8 cirostratus</answer>
@@ -1377,1391 +1408,7 @@
     </question>
     <question number="154">
         <text>214. Care este distribuția de nori cea mai probabilă în St. Petersburg?</text>
-        <answers>
-                <answer>3/8 - 5/8 cumulus</answer>
-                <answer>5/8 - 7/8 cirostratus</answer>
-                <answer type="correct">8/8 nimbostratus</answer>
-                <answer>5/8 - 7/8 cumulonimbus, lenticulari izolați în est</answer>
-        </answers>
-    </question>
-    <question number="155">
-        <text>60. Aerul este un amestec de diferite gaze. Cele mai importante gaze și proporțiile lor sunt</text>
-        <answers>
-                <answer>aproximativ 78% oxigen și 21% azot.</answer>
-                <answer type="correct">aproximativ 78% azot și 21% oxigen.</answer>
-                <answer>aproximativ 78% dioxid de carbon și 21% oxigen.</answer>
-                <answer>aproximativ 78% oxigen și 21% dioxid de carbon.</answer>
-        </answers>
-    </question>
-    <question number="156">
-        <text>61. Cum variază temperatura aerului în troposferă cu creșterea altitudinii?</text>
-        <answers>
-                <answer>Scade liniar cu 0,65°C/100m până la tropopauză.</answer>
-                <answer>Scade liniar cu 1°C/100m până la tropopauză.</answer>
-                <answer>Scade, nu liniar, dar depinzând de straturile de aer variază între 0,1°C și 1,2°C.</answer>
-                <answer type="correct">Depinzând de stratul de aer poate scădea, rămâne la fel sau crește, dar înmedie scade cu 0,65°C/100m.</answer>
-        </answers>
-    </question>
-    <question number="157">
-        <text>62. Pentru a se asigura că toți utilizatorii spațiului aerian au altimetrele reglate la fel, atmosfera a fost standardizată. Care sunt valorile pentru atmosfera standard în regiunea troposferei? Presiunea la nivelul mării și temperatura/gradientul termic</text>
-        <answers>
-                <answer>1033,6 hPa 15°C 1°C/100m</answer>
-                <answer>1013,2 hPa 15°C 0.65°C/100m</answer>
-                <answer>033,6 hPa 15°C 0,5°C/100m</answer>
-                <answer type="correct">1013,2 hPa 15°C 1°C/100m</answer>
-        </answers>
-    </question>
-    <question number="158">
-        <text>63. Altitudinea medie a tropopauzei la latitudinea noastră este</text>
-        <answers>
-                <answer>4.000 m deasupra nivelului mării.</answer>
-                <answer>5.500 m deasupra nivelului mării.</answer>
-                <answer type="correct">11.000 m deasupra nivelului mării.</answer>
-                <answer>50.000 m deasupra nivelului mării.</answer>
-        </answers>
-    </question>
-    <question number="159">
-        <text>64. Presiune aerului rezultă din</text>
-        <answers>
-                <answer>rotația pământului.</answer>
-                <answer>polii magnetici.</answer>
-                <answer>particulele de apă și de praf ce plutesc în aer.</answer>
-                <answer type="correct">gravitație.</answer>
-        </answers>
-    </question>
-    <question number="160">
-        <text>65. Cum variază presiunea aerului o dată cu creșterea altitudinii?</text>
-        <answers>
-                <answer>Se reduce la jumătate până la tropopauză și după aceea rămâne constant.</answer>
-                <answer>Se reduce cu aproximativ 80hPa / 100m de altitudine.</answer>
-                <answer type="correct">Se reduce cu jumătate la aproximativ fiecare 5.500 m de altitudine.</answer>
-                <answer>Se reduce cu jumătate la aproximativ fiecare 11.000 m de altitudine.</answer>
-        </answers>
-    </question>
-    <question number="161">
-        <text>66. Care este presiunea medie de la nivelul măriii (atmosfera standard) folosită de meteorologiști?</text>
-        <answers>
-                <answer type="correct">1013,2 hPa</answer>
-                <answer>1033,6 hPa</answer>
-                <answer>760,0 hPa</answer>
-                <answer>998,7 hPa</answer>
-        </answers>
-    </question>
-    <question number="162">
-        <text>67. Presiunea la nivelul mării</text>
-        <answers>
-                <answer>este întotdeauna constantă.</answer>
-                <answer>poate în cazuri mai rare să crească față de medie.</answer>
-                <answer>poate în cazuri mai rare să scadă față de medie.</answer>
-                <answer type="correct">d)poate fi mai mare sau mai mică față de valoarea medie depinzând de situația vremii.</answer>
-        </answers>
-    </question>
-    <question number="163">
-        <text>68. Presiunea intr-un punct dat la nivelul mării depinde de</text>
-        <answers>
-                <answer>maree.</answer>
-                <answer type="correct">circulația globală a aerului.</answer>
-                <answer>caracteristicile suprafeței.</answer>
-                <answer>longitudine.</answer>
-        </answers>
-    </question>
-    <question number="164">
-        <text>69. Barometrul arată o presiune de 980 hPa la nivelul mării. Care este cea mai probabilă presiune la o altitudine de 5.500 mdeasupra nivelului mări?</text>
-        <answers>
-                <answer>1035 hPa</answer>
-                <answer>980 hPa</answer>
-                <answer>650 hPa</answer>
-                <answer type="correct">490 hPa</answer>
-        </answers>
-    </question>
-    <question number="165">
-        <text>70. Un copil elibereaza un balon cu volum aproximativ de 5 dm3 la nivelul mării. Care este volumul aproximativ al balonului când ajunge la altitudinea de 5.500 m deasupra nivelului mării.</text>
-        <answers>
-                <answer>2,5 dm3</answer>
-                <answer>5 dm3</answer>
-                <answer type="correct">10 dm3</answer>
-                <answer>20 dm3</answer>
-        </answers>
-    </question>
-    <question number="166">
-        <text>71. Care este partea atmosferei unde condițiile meteorologice ne determină vremea?</text>
-        <answers>
-                <answer>Ionosfera</answer>
-                <answer>Mezosfera</answer>
-                <answer>Stratosfera</answer>
-                <answer type="correct">Troposfera</answer>
-        </answers>
-    </question>
-    <question number="167">
-        <text>72. Temperatura stratului de aer de lângă sol este influențată cel mai mult de</text>
-        <answers>
-                <answer type="correct">temperatura solului.</answer>
-                <answer>acțiunea radiației solare supra particulelor de aer.</answer>
-                <answer>umiditatea relativă a aerului.</answer>
-                <answer>unghiul de incidență a razelor solare asupra particulelor de aer.</answer>
-        </answers>
-    </question>
-    <question number="168">
-        <text>73. Pentru aceeași intensitate și unghi de incidență a razelor solare, care din următoarele tipuri de sol încălzește cel mai mult stratul de aer adiacent?</text>
-        <answers>
-                <answer>Solul pietros.</answer>
-                <answer>Pădure tânără.</answer>
-                <answer>O mlaștină.</answer>
-                <answer type="correct">Pășune uscată.</answer>
-        </answers>
-    </question>
-    <question number="169">
-        <text>74. La aceeași altitudine deasupra nivelului mării</text>
-        <answers>
-                <answer>aerul cald e mai dens decât aerul rece.</answer>
-                <answer>aerul cald are aceeași densitate ca aerul rece.</answer>
-                <answer type="correct">aerul cald e mai puțin dens ca aerul rece.</answer>
-                <answer>densitatea aerului depinde de gradientul adiabatic.</answer>
-        </answers>
-    </question>
-    <question number="170">
-        <text>75. Cum variază temperatura unei bule de aer pe măsură ce se ridică de la sol fără a creea un nor?</text>
-        <answers>
-                <answer>Temperatura crește cu aproximativ 0.5°C /100m pentru că radiația solară devine tot mai intensă.</answer>
-                <answer>Nu se poate determina, pentru că temperatura se egalizează cu cea a aerului din jur.c) Temperatura se reduce cu aproximativ 0.65°C /100m, cum de fapt e cazul în toată troposfera.</answer>
-                <answer type="correct">Temperatura se reduce cu aproximativ 1°C /100m pentru că presiunea se reduce o dată cu creșterea altitudinii.</answer>
-        </answers>
-    </question>
-    <question number="171">
-        <text>76. Cum variază temperatura unei bule de aer care urcă?</text>
-        <answers>
-                <answer type="correct">Pentru că presiunea scade o dată cu creșterea altitudinii rezultă extinderea bulei și pierdere de energie sub formă de căldură.</answer>
-                <answer>Bula se va răci pentru că s-a îndepărtat de sursa de căldură, adică suprafata solului.</answer>
-                <answer>Pentru că unghiul radiației solare se reduce o dată cu creșterea altitudinii, deci bula de aer primește mai puțină căldură de cât la nivelul solului.</answer>
-                <answer>Din cauză că bula de aer trebuie să evapore apă pe măsură ce urcă, există o relație între creșterea altitudinii și reducerea temperaturii.</answer>
-        </answers>
-    </question>
-    <question number="172">
-        <text>77. Cum variază volumul și temperatura unei mase de aer care coboară?</text>
-        <answers>
-                <answer>Volumul crește, temperatura scade.</answer>
-                <answer>Volumul crește, temperatura crește.</answer>
-                <answer type="correct">Volumul scade, temperatura crește.</answer>
-                <answer>Volumul scade, temperatura scade.</answer>
-        </answers>
-    </question>
-    <question number="173">
-        <text>78. Care este principalul mod de încălzire în timpul zilei a unei mase de aer la 100m deasupra solului?</text>
-        <answers>
-                <answer type="correct">Aerul adiacent solului se încălzește și urcă în timp ce aerul de la altitudine coboară la sol unde este încălzit.</answer>
-                <answer>Radiația UV solară este absorbită de sol iar spectrul infraroșu este reflectat de sol, încălzind aerul mai mult sau mai puțin, proporțional cu distanța de la suprafața solului.</answer>
-                <answer>Radiația solară încarcă particulele de aer cu energie (ionizare), care este ulterior eliberată bub formă de căldură.</answer>
-                <answer>Stratul de aer adiacent solului se încălzește și, fiind un bun conductor termic,transferă căldura straturilor superioare de aer.</answer>
-        </answers>
-    </question>
-    <question number="174">
-        <text>79. În medie temperatura din troposferă se reduce o dată cu creșterea altitudinii. Totuși, se poate întâmpla ca în anumite zone temperatura să crească. Cum se numește acest fenomen?</text>
-        <answers>
-                <answer>Superadiabatic</answer>
-                <answer>Izoterm</answer>
-                <answer>Restitutie</answer>
-                <answer type="correct">Inversiune</answer>
-        </answers>
-    </question>
-    <question number="175">
-        <text>80. În medie temperatura din troposferă se reduce o dată cu creșterea altitudinii. Totuși, se poate întâmpla ca în anumite zone temperatura să rămănă constantă. Cum se numește acest fenomen?</text>
-        <answers>
-                <answer>Superadiabatic</answer>
-                <answer type="correct">Izotermă</answer>
-                <answer>Restituție</answer>
-                <answer>Inversiune</answer>
-        </answers>
-    </question>
-    <question number="176">
-        <text>81. O bulă de aer se încălzește, se desprinde de sol și începe să se ridice. Cât de sus se poate ridica bula?</text>
-        <answers>
-                <answer>Până se reduce transferul de căldură de la sol.</answer>
-                <answer>Până când presiunea bulei este mai mică de cât cea a aerului din jur.</answer>
-                <answer type="correct">Până când diferența dintre temperatura ei si a aerului din jur se reduce la 0.</answer>
-                <answer>Până când diferența dintre temperatura ei și punctul de rouă se reduce la 0.</answer>
-        </answers>
-    </question>
-    <question number="177">
-        <text>82. O inversiune este un strat de aer în care temperatura</text>
-        <answers>
-                <answer>scade o dată cu creșterea altitudinii.</answer>
-                <answer type="correct">crește o dată cu creșterea altitudinii.</answer>
-                <answer>este deasupra nivelului de îngheț.</answer>
-                <answer>este constantă.</answer>
-        </answers>
-    </question>
-    <question number="178">
-        <text>83. O izotermă este un strat de aer în care temperatura</text>
-        <answers>
-                <answer>scade o dată cu creșterea altitudinii.</answer>
-                <answer>crește o dată cu creșterea altitudinii.</answer>
-                <answer>este deasupra nivelului de îngheț.</answer>
-                <answer type="correct">este constantă.</answer>
-        </answers>
-    </question>
-    <question number="179">
-        <text>84. Inversiunile și izotermele sunt</text>
-        <answers>
-                <answer>puncte de origine și declanșare ale aerului termic care urcă.</answer>
-                <answer>elemente instabile stratificate ale troposferei.</answer>
-                <answer>stabile sau instabile depinzând de temperatură.</answer>
-                <answer type="correct">bariere pentru masele de aer termic care urcă.</answer>
-        </answers>
-    </question>
-    <question number="180">
-        <text>85. Gradientul de temperatură este definit ca fiind</text>
-        <answers>
-                <answer>diferența de altitudine per °C într-o masă de aer.</answer>
-                <answer>diferența de presiune per km între două puncte geografice diferite.</answer>
-                <answer>unitatea de măsură a temperaturii.</answer>
-                <answer type="correct">diferența de temperatură pentru o creștere de 100 m a altitudinii.</answer>
-        </answers>
-    </question>
-    <question number="181">
-        <text>86. Gradientul temperaturii unui strat izotermic este</text>
-        <answers>
-                <answer type="correct">0°C / 100m</answer>
-                <answer>0.5°C / 100m</answer>
-                <answer>0.65°C / 100m</answer>
-                <answer>1°C / 100m</answer>
-        </answers>
-    </question>
-    <question number="182">
-        <text>87. Unde găsim de obicei o inversiune?</text>
-        <answers>
-                <answer>La baza norilor cumulus.</answer>
-                <answer type="correct">La granița dintre un strat de aer cețos de la sol și un strat de aer clar de la altitudine.</answer>
-                <answer>Unde este o diferență temperatură-punct de rouă de 0.</answer>
-                <answer>Deasupra unei convergențe.</answer>
-        </answers>
-    </question>
-    <question number="183">
-        <text>88. Care din următoarele semne indică prezența unei inversiuni?</text>
-        <answers>
-                <answer>Un nor cumulus.</answer>
-                <answer>Un nor lenticular.</answer>
-                <answer type="correct">Un strat de ceață.</answer>
-                <answer>Un nor cirus.</answer>
-        </answers>
-    </question>
-    <question number="184">
-        <text>89. Care din următoarele sondaje de temperatură măsurate la ora 02:00 indică prezența unei inversiuni la altitudine.</text>
-        <answers>
-                <answer>1</answer>
-                <answer>2</answer>
-                <answer type="correct">3</answer>
-                <answer>4</answer>
-        </answers>
-    </question>
-    <question number="185">
-        <text>90. Care din următoarele sondaje de temperatură măsurate la ora 02:00 indică prezența unei inversiuni la nivelul solului.</text>
-        <answers>
-                <answer type="correct">1</answer>
-                <answer>2</answer>
-                <answer>3</answer>
-                <answer>4</answer>
-        </answers>
-    </question>
-    <question number="186">
-        <text>91. Care din următoarele sondaje de temperatură măsurate la ora 02:00 indică prezența unei zoterme.</text>
-        <answers>
-                <answer>1</answer>
-                <answer>2</answer>
-                <answer>3</answer>
-                <answer type="correct">4</answer>
-        </answers>
-    </question>
-    <question number="187">
-        <text>92. Ce presupune condensarea?</text>
-        <answers>
-                <answer>Trecerea din stare lichidă în stare solidă.</answer>
-                <answer>Trecerea din stare lichidă în stare gazoasă.</answer>
-                <answer type="correct">Trecerea din stare gazoasă în stare lichidă.</answer>
-                <answer>Trecerea din stare gazoasă în stare solidă.</answer>
-        </answers>
-    </question>
-    <question number="188">
-        <text>93. Care din următoarele schimbări de stare necesită energie sub formă de căldură?</text>
-        <answers>
-                <answer>Trecerea din stare lichidă în stare solidă.</answer>
-                <answer type="correct">Trecerea din stare solidă în stare lichidă.</answer>
-                <answer>Trecerea din stare gazoasă în stare lichidă.</answer>
-                <answer>Trecerea din stare gazoasă în stare solidă.</answer>
-        </answers>
-    </question>
-    <question number="189">
-        <text>94. Care din următoarele schimbări de stare necesită energie sub formă de căldură?</text>
-        <answers>
-                <answer>Trecerea din stare lichidă în stare solidă.</answer>
-                <answer>Trecerea din stare gazoasă în stare lichidă.</answer>
-                <answer>Trecerea din stare gazoasă în stare solidă.</answer>
-                <answer type="correct">Trecerea din stare lichidă în stare gazoasă.</answer>
-        </answers>
-    </question>
-    <question number="190">
-        <text>95. Care din următoarele schimbări de stare cedează energie sub formă de căldură?</text>
-        <answers>
-                <answer>Trecerea din stare lichidă în stare gazoasă.</answer>
-                <answer>Trecerea din stare solidă în stare gazoasă.</answer>
-                <answer type="correct">Trecerea din stare gazoasă în stare lichidă.</answer>
-                <answer>Trecerea din stare solidă în stare lichidă.</answer>
-        </answers>
-    </question>
-    <question number="191">
-        <text>96. Care din următoarele schimbări de stare cedează energie sub formă de căldură?</text>
-        <answers>
-                <answer type="correct">Trecerea din stare lichidă în stare solidă.</answer>
-                <answer>Trecerea din stare solidă în stare gazoasă.</answer>
-                <answer>Trecerea din stare lichidă în stare gazoasă.</answer>
-                <answer>Trecerea din stare solidă în stare lichidă.</answer>
-        </answers>
-    </question>
-    <question number="192">
-        <text>97. Care din următoarele schimbări de stare cedează energie sub formă de căldură?</text>
-        <answers>
-                <answer>Trecerea din stare lichidă în stare gazoasă.</answer>
-                <answer>Trecerea din stare solidă în stare gazoasă.</answer>
-                <answer>Trecerea din stare solidă în stare lichidă.</answer>
-                <answer type="correct">Trecerea din stare gazoasă în stare solidă.</answer>
-        </answers>
-    </question>
-    <question number="193">
-        <text>98. Termenul de ”punct de rouă” este definit în meteorologie ca fiind</text>
-        <answers>
-                <answer>temperatura specifică substanței la care se face trecere din stare solidă în stare lichidă.</answer>
-                <answer type="correct">temperatura la care trebuie răcit aerul ca vaporii de apă să îceapă să condenseze.</answer>
-                <answer>cantitatea de umiditate din aer când este atinsă temperatura de condensare.</answer>
-                <answer>temperatura radiației solului de pe timpul nopții necesară ca să apară condensarea pe solul rece.</answer>
-        </answers>
-    </question>
-    <question number="194">
-        <text>99. Cât de mare este gradientul temperaturii al aerului saturat (umed) în România în nivelele joase ale troposferei?</text>
-        <answers>
-                <answer type="correct">< 1°C / 100 m</answer>
-                <answer>1,0°C / 100 m</answer>
-                <answer>1,5°C / 100 m</answer>
-                <answer>> 2°C / 100 m</answer>
-        </answers>
-    </question>
-    <question number="195">
-        <text>100. Ce are cea mai mare influență asupra gradientului temperaturii aerului saturat (umed) în timp ce acesta se ridică?</text>
-        <answers>
-                <answer>Umiditatea relativă.</answer>
-                <answer type="correct">Volumul de vapori care condendează.</answer>
-                <answer>Diferența temperaturii bulei și temperaturii aerului din jur.</answer>
-                <answer>Intensitatea radiației solare.</answer>
-        </answers>
-    </question>
-    <question number="196">
-        <text>101. De ce aerul saturat (umed) care se ridică se răcește mai lent dacât aerul nesaturat (uscat) care se ridică.</text>
-        <answers>
-                <answer>Pentru că apa se răcește mai lent de cât aerul.</answer>
-                <answer>Pentru că aerul saturat (umed) se ridică mai repede , răcirea este ușor întârziată.</answer>
-                <answer type="correct">Pentru că energia eliberată prin condensare influențează masa de aer care se ridică.</answer>
-                <answer>Pentru că vaporii de apă sunt mai ușori ca aerul, prin urmare aerul saturat (umed) care se ridică are nevoie de mai puțină energie sub formă de căldură.</answer>
-        </answers>
-    </question>
-    <question number="197">
-        <text>102. Ce formă de nor este un semn de termici bune?</text>
-        <answers>
-                <answer>Cirrus</answer>
-                <answer type="correct">Cumulus</answer>
-                <answer>Stratus</answer>
-                <answer>Lenticular</answer>
-        </answers>
-    </question>
-    <question number="198">
-        <text>103. Apariția norilor altocumulus castellanus la două ore după răsărit indică</text>
-        <answers>
-                <answer type="correct">un strat instabil de aer la înălțimea norilor.</answer>
-                <answer>apropierea unui front cald.</answer>
-                <answer>centrul unui anticiclon.</answer>
-                <answer>o regiune mare de stabilitate în straturile de jos ale troposferei.</answer>
-        </answers>
-    </question>
-    <question number="199">
-        <text>104. Vreme însorită la altitudini mai mari cu ceață la altitudine mică în același timp înseamnă</text>
-        <answers>
-                <answer>un nivel mic de stabilitate în partea de jos a troposferei.</answer>
-                <answer>un front rece care se apropie.</answer>
-                <answer>centrul unu ciclon.</answer>
-                <answer type="correct">un nivel mare de stabilitate în partea de jos a troposferei.</answer>
-        </answers>
-    </question>
-    <question number="200">
-        <text>105. Pentru care din următoarele condiții meteorologice este cea mai probabilă formarea ceții la sol (ceață de radiație)?</text>
-        <answers>
-                <answer>Cer acoperit, vânt zero, diferență mică temperatură-punct de rouă.</answer>
-                <answer>Cer senin, vânt zero, diferență mare temperatură-punct de rouă.</answer>
-                <answer type="correct">Cer senin, vânt zero, diferență mică temperatură-punct de rouă.</answer>
-                <answer>Cer senin, vânt 270° 10m/s, diferență mică temperatură-punct de rouă.</answer>
-        </answers>
-    </question>
-    <question number="201">
-        <text>106. Norii se formează când</text>
-        <answers>
-                <answer>se evaporă mari cantități de apă (de exemplu peste ocean).</answer>
-                <answer>aerul cald continental este împins peste ocean.</answer>
-                <answer type="correct">aerul este răcit pânâ atinge punctul de rouă.</answer>
-                <answer>aerul care se ridică este oprit de o inversiune.</answer>
-        </answers>
-    </question>
-    <question number="202">
-        <text>107. Baza norului este</text>
-        <answers>
-                <answer type="correct">nivelul de jos al norului și este la înălțimea la care temperatura aerului care urcă atinge punctul de rouă.</answer>
-                <answer>nivelul de sus al norului și este la înălțimea la care temperatura aerului care urcă atinge temperatura aerului din jur.</answer>
-                <answer>nivelul de jos al norului și este la înălțimea la care temperatura aerului care urcă atinge temperatura aerului din jur.</answer>
-                <answer>nivelul de sus al norului și este la înălțimea la care temperatura aerului care urcă atinge punctul de rouă.</answer>
-        </answers>
-    </question>
-    <question number="203">
-        <text>108. Cum se numește stratul de nori care acoperă cerul și are o altitudine de 4.000 m?</text>
-        <answers>
-                <answer>Cirostratus</answer>
-                <answer>Altocumulus</answer>
-                <answer>Nimbostratus</answer>
-                <answer type="correct">Altostratus</answer>
-        </answers>
-    </question>
-    <question number="204">
-        <text>109. Cum se numesc norii care au formă de mici aglomerații cu baza la o altitudine de 4.500 m?</text>
-        <answers>
-                <answer>Cirostratus</answer>
-                <answer type="correct">Altocumulus</answer>
-                <answer>Nimbostratus</answer>
-                <answer>Altostratus</answer>
-        </answers>
-    </question>
-    <question number="205">
-        <text>110. Cum se numește stratul de nori care acoperă cerul, are o altitudine de 1.000 m și generează precipitații?</text>
-        <answers>
-                <answer>Cirostratus</answer>
-                <answer>Cumulonimbus</answer>
-                <answer type="correct">Nimbostratus</answer>
-                <answer>Altostratus</answer>
-        </answers>
-    </question>
-    <question number="206">
-        <text>111. Care din următoarele tipuri de nori are baza cel mai sus?</text>
-        <answers>
-                <answer>Cumulus</answer>
-                <answer type="correct">Cirocumulus</answer>
-                <answer>Stratocumulus</answer>
-                <answer>Cumulonimbus</answer>
-        </answers>
-    </question>
-    <question number="207">
-        <text>112. Care din următorii nori nu au partea de sus la același nivel cu ceilalți?</text>
-        <answers>
-                <answer>Cirrus</answer>
-                <answer>Cirocumulus</answer>
-                <answer type="correct">Cumulus humilis</answer>
-                <answer>Cirostratus</answer>
-        </answers>
-    </question>
-    <question number="208">
-        <text>113. Cum se numește tipul de nori care generează precipitații?</text>
-        <answers>
-                <answer>Cirostratus</answer>
-                <answer>Stratocumulus</answer>
-                <answer>Cumulus humilis</answer>
-                <answer type="correct">Nimbostratus</answer>
-        </answers>
-    </question>
-    <question number="209">
-        <text>114. Care din următorii nori sunt formați în principal din cristale de gheață?</text>
-        <answers>
-                <answer type="correct">Cirocumulus</answer>
-                <answer>Stratocumulus</answer>
-                <answer>Cumulus humilis</answer>
-                <answer>Nimbostratus</answer>
-        </answers>
-    </question>
-    <question number="210">
-        <text>115. Care din următoarele tipuri de nori indică prezența termicilor bune pentru zborul cu parapanta și deltaplanul?</text>
-        <answers>
-                <answer>Cirocumulus</answer>
-                <answer>Cumulonimbus</answer>
-                <answer type="correct">Cumulus humilis</answer>
-                <answer>Lenticularis</answer>
-        </answers>
-    </question>
-    <question number="211">
-        <text>116. În apropierea cărui tip de nori este periculos zborul cu parapanta și deltaplanul?</text>
-        <answers>
-                <answer>Cirocumulus</answer>
-                <answer type="correct">Cumulonimbus</answer>
-                <answer>Cumulus humilis</answer>
-                <answer>Stratocumulus</answer>
-        </answers>
-    </question>
-    <question number="212">
-        <text>117. Norii lenticulari apar când</text>
-        <answers>
-                <answer type="correct">masa de aer curge peste un teren muntos cu viteză mare.</answer>
-                <answer>termicile puternice se ridică și se răcesc urmărind adiabata uscată.</answer>
-                <answer>aer instabil de la sufrafață se ridică repede.</answer>
-                <answer>termicile puternice cauzează un efect de foehn.</answer>
-        </answers>
-    </question>
-    <question number="213">
-        <text>118. Norii lenticulari</text>
-        <answers>
-                <answer>sunt formați exclusiv din apă, niciodată din gheață.</answer>
-                <answer>apar în România numai pe timpul iernii.</answer>
-                <answer type="correct">își schimbă foarte puțin poziția în ciuda vânturilor puternice.</answer>
-                <answer>generează precipitații.</answer>
-        </answers>
-    </question>
-    <question number="214">
-        <text>119. Care din următoarele sunt semne vizibile din depărtare că un cumulus congestius sau cumlonimbus generează precipitații?</text>
-        <answers>
-                <answer type="correct">O perdea gri care atârnă sub nor, orientată spre sol.</answer>
-                <answer>Dezvoltarea pe verticală a norului este mai mare de cât cea pe orizontală.</answer>
-                <answer>Urme fibroase de condensare între baza norului și sol.</answer>
-                <answer>Baza norului are culoarea neagră.</answer>
-        </answers>
-    </question>
-    <question number="215">
-        <text>120. De îndată ce precipitațiile sunt vizibile sub un nor cumulus congestus sau cumulonimbus</text>
-        <answers>
-                <answer>ei devin inofensivi pentru parapantele din zona pentru că se află într-o stare de disipare.</answer>
-                <answer type="correct">aerul va fi răcit de evaporarea apei și vor apărea local vânturi puternice și rafaloase.</answer>
-                <answer>înseamnă că sub norl nu mai este termică.</answer>
-                <answer>vor apărea întotdeuna și descărcările electrice.</answer>
-        </answers>
-    </question>
-    <question number="216">
-        <text>121. Care din următoarele afirmații este falsă?</text>
-        <answers>
-                <answer>Norii cumulus congestus și cumulonimbus pot produce curenți ascendenți sau descendenți cu rafale de peste 30 m/s.</answer>
-                <answer type="correct">Apariția norilor cumulus congestus și cumulonimbus duce întotdeauna la căderi de grindină.</answer>
-                <answer>Norii cumulonimbus pot produce bucați de grindină de mărimea pumnului.</answer>
-                <answer>Norii cumulus congestus și cumulonimbus pot produce, prin evaporare, mari volume de aer rece care se înfundă cu viteze mari până la sol în zonele din jurul norului.</answer>
-        </answers>
-    </question>
-    <question number="217">
-        <text>122. de la nivelul mării nu e întotdeauna la fel</text>
-        <answers>
-                <answer type="correct">pentru că sunt variații de temperatură pe suprafațata pământului care răcesc sau încălzesc aerul, cauzând schimbări în densitatea aerului.</answer>
-                <answer>pentru că masele de aer oceanice sunt mai umede și deci mai grele de cât masele de aer continentaleși deci produc o presiune atmosferică mai mare.â</answer>
-                <answer>pentru că masele de aer continentale sunt mai uscate și deci mai grele de cât cele oceanice și produc o presiune mai mare.</answer>
-                <answer>pentru că presiunea scade o dată cu cresterea vitezei fluxului de aer și vice versa.</answer>
-        </answers>
-    </question>
-    <question number="218">
-        <text>123. O presiunea atmosferică mărită poate fi întâlnită într-o zonă care</text>
-        <answers>
-                <answer>este mai uscată decât zonele învecinate, pentru o perioadă mai lungă.</answer>
-                <answer type="correct">este mai rece decât zonele învecinate, pentru o perioadă mai lungă.</answer>
-                <answer>primește radiație solară mai intensă decât zonele învecinate, pentru o perioadă mai lungă.</answer>
-                <answer>este mai caldă decât zonele învecinate, pentru o perioadă mai lungă.</answer>
-        </answers>
-    </question>
-    <question number="219">
-        <text>124. O presiunea atmosferică mai mică poate fi întâlnită într-o zonă care</text>
-        <answers>
-                <answer>este mai uscată decât zonele învecinate, pentru o perioadă mai lungă.</answer>
-                <answer>este mai rece decât zonele învecinate, pentru o perioadă mai lungă.</answer>
-                <answer>primește radiație solară mai puțin intensă decât zonele învecinate, pentru o perioadă mai lungă.</answer>
-                <answer type="correct">este mai caldă decât zonele învecinate, pentru o perioadă mai lungă.</answer>
-        </answers>
-    </question>
-    <question number="220">
-        <text>125. În regiunea noastră, presiunea atmosferică la nivelul mării al unui ciclon însemnat poate fi</text>
-        <answers>
-                <answer>1.035 hPa</answer>
-                <answer>1.055 hPa</answer>
-                <answer type="correct">955 hPa</answer>
-                <answer>915 hPa</answer>
-        </answers>
-    </question>
-    <question number="221">
-        <text>126. În regiunea noastră, presiunea atmosferică la nivelul mării al unui anticiclonciclon însemnat poate fi</text>
-        <answers>
-                <answer type="correct">1.035 hPa</answer>
-                <answer>1.055 hPa</answer>
-                <answer>955 hPa</answer>
-                <answer>915 hPa</answer>
-        </answers>
-    </question>
-    <question number="222">
-        <text>127. Într-un ciclon în emisfera nordică</text>
-        <answers>
-                <answer>masele de aer se învârt în sensul acelor de ceasornic și se înfundă pe o zonă mare.</answer>
-                <answer type="correct">masele de aer se învârt invers sensului acelor de ceasornic și se ridică pe o zonă mare.</answer>
-                <answer>masele de aer se învârt în sensul acelor de ceasornic și se ridică pe o zonă mare.</answer>
-                <answer>masele de aer se învârt invers sensului acelor de ceasornic și se înfundă pe o zonă mare.</answer>
-        </answers>
-    </question>
-    <question number="223">
-        <text>128. Într-un anticiclon în emisfera nordică</text>
-        <answers>
-                <answer type="correct">masele de aer se învârt în sensul acelor de ceasornic și se înfundă pe o zonă mare.</answer>
-                <answer>masele de aer se învârt invers sensului acelor de ceasornic și se ridică pe o zonă mare.</answer>
-                <answer>masele de aer se învârt în sensul acelor de ceasornic și se ridică pe o zonă mare.</answer>
-                <answer>masele de aer se învârt invers sensului acelor de ceasornic și se înfundă pe o zonă mare.</answer>
-        </answers>
-    </question>
-    <question number="224">
-        <text>129. O izobară este o linie care unește punctele care</text>
-        <answers>
-                <answer>au aceeași temperatură redusă la nivelul mării.</answer>
-                <answer type="correct">au aceeași presiune redusă la nivelul mării.</answer>
-                <answer>au aceeași înălțime cu o presiune de 500 hPa.</answer>
-                <answer>au presiune egală pe exa dintre ciclon și anticiclon.</answer>
-        </answers>
-    </question>
-    <question number="225">
-        <text>130. Din distribuția izobarelor pe harta sinoptică se pot face următoarele previziuni</text>
-        <answers>
-                <answer>direcția predominantă a vântului și tendința de precipitații.</answer>
-                <answer>gradientul temperaturii și intensitatea vântului.</answer>
-                <answer type="correct">direcția și intensitatea predominantă avantlui.</answer>
-                <answer>tendința de precipitații.</answer>
-        </answers>
-    </question>
-    <question number="226">
-        <text>131. Vântul de suprafață bate</text>
-        <answers>
-                <answer>direct de la anticiclon spre ciclon.</answer>
-                <answer type="correct">aproape paralel cu izobarele de la anticiclon spre ciclon.</answer>
-                <answer>direct de la.</answer>
-                <answer>aproape paralel cu izobarele de la ciclon spre anticiclon.</answer>
-        </answers>
-    </question>
-    <question number="227">
-        <text>132. Când distanța dintre izobare este mică,</text>
-        <answers>
-                <answer>gradientul presiunii este mai abrupt și este probabilitate mare de vânturi slabe.</answer>
-                <answer>gradientul presiunii este mai plat și este probabilitate mare de vânturi slabe.</answer>
-                <answer type="correct">gradientul presiunii este mai abrupt și este probabilitate mare de vânturi puternice.</answer>
-                <answer>gradientul presiunii este mai plat și este probabilitate mare de vânturi puternice.</answer>
-        </answers>
-    </question>
-    <question number="228">
-        <text>133. Când distanța dintre izobare este mare,</text>
-        <answers>
-                <answer>gradientul presiunii este mai abrupt și este probabilitate mare de vânturi slabe.</answer>
-                <answer type="correct">gradientul presiunii este mai plat și este probabilitate mare de vânturi slabe.</answer>
-                <answer>gradientul presiunii este mai abrupt și este probabilitate mare de vânturi puternice.</answer>
-                <answer>gradientul presiunii este mai plat și este probabilitate mare de vânturi puternice.</answer>
-        </answers>
-    </question>
-    <question number="229">
-        <text>134. Termicele se dezvoltă cel mai bine</text>
-        <answers>
-                <answer>în centrul unui ciclon, unde masele de aer au tendința să se ridice sub influența acestuia.</answer>
-                <answer>unde gradientul presiunii este mai abrupt, și aerul rece este suflat în continu pe o suprafață încălzită, eliminând nevoia ca masele de aer termic să coboare din nou.</answer>
-                <answer>în centrul unui anticiclon, unde datorită cerului senin radiația solară este cea mai intensă.</answer>
-                <answer type="correct">unde gradientul presiunii este mai plat, aerul poate fi încălzit fără a fi agitat de vânt, și nu există inversiune.</answer>
-        </answers>
-    </question>
-    <question number="230">
-        <text>135. Vântul care bate din direcția 135° este</text>
-        <answers>
-                <answer>vânt nordvestic.</answer>
-                <answer>vânt nordestic.</answer>
-                <answer>vânt sudvestic.</answer>
-                <answer type="correct">vânt sudestic.</answer>
-        </answers>
-    </question>
-    <question number="231">
-        <text>136. Vântul din nordvest are ununghi de</text>
-        <answers>
-                <answer>45°</answer>
-                <answer type="correct">315°</answer>
-                <answer>225°</answer>
-                <answer>135°</answer>
-        </answers>
-    </question>
-    <question number="232">
-        <text>137. Vântul care bate cu 25 kt are</text>
-        <answers>
-                <answer>15 km/h</answer>
-                <answer>25 km/h</answer>
-                <answer>35 km/h</answer>
-                <answer type="correct">45 km/h</answer>
-        </answers>
-    </question>
-    <question number="233">
-        <text>138. Un vânt din 270°/10kt este</text>
-        <answers>
-                <answer>vânt estic cu o intensitate de aproximativ 18 km/h.</answer>
-                <answer>vânt vestic cu o intensitate de aproximativ 10 km/h.</answer>
-                <answer>vânt estic cu o intensitate de aproximativ 10 km/h.</answer>
-                <answer type="correct">vânt vestic cu o intensitate de aproximativ 18 km/h.</answer>
-        </answers>
-    </question>
-    <question number="234">
-        <text>139. Care din următoarele afirmații este în concordanță cu prognoza direcției și intensității vântului la 1.000 m altitudine. 1000 m: 070°/15kt, 2000 m: 080°/10kt, 3000 m: 230°/10 kt, 4000 m: 240°/10 kt</text>
-        <answers>
-                <answer>Vânt din sudvest, 28 km/h.</answer>
-                <answer>Vânt din nordest, 15 km/h.</answer>
-                <answer>Vânt din sudvest, 15 km/h.</answer>
-                <answer type="correct">Vânt din nordest, 28 km/h.</answer>
-        </answers>
-    </question>
-    <question number="235">
-        <text>140. Avem progoza direcției și intensității vântului pentru planoare: 070°/15kt, 2000 m: 080°/10kt, 3000 m: 230°/10 kt, 4000 m: 240°/10 kt La ce nivel este un vânt de forfecare sesizabil?</text>
-        <answers>
-                <answer>Între 1.000m și 2.000m.</answer>
-                <answer type="correct">Între 2.000m și 3.000m.</answer>
-                <answer>Între 3.000m și 4.000m.</answer>
-                <answer>Pe toate nivelele.</answer>
-        </answers>
-    </question>
-    <question number="236">
-        <text>141. Dacă comparăm vântul de suprață cu vântul de la 3.000 m ASL pe un teren plat, vântul de suprață este în general.</text>
-        <answers>
-                <answer>mai puternic și mai turbulent.</answer>
-                <answer type="correct">mai slab și mai turbulent.</answer>
-                <answer>mai puternic și mai puțin turbulent.</answer>
-                <answer>mai slab și mai puțin turbulent.</answer>
-        </answers>
-    </question>
-    <question number="237">
-        <text>142. Dacă comparăm vântul de suprață cu vântul de la 3.000 m ASL pe un teren plat, vântul de la 3.000 m ASL este în general</text>
-        <answers>
-                <answer>mai puternic și mai turbulent.</answer>
-                <answer>mai slab și mai turbulent.</answer>
-                <answer type="correct">mai puternic și mai puțin turbulent.</answer>
-                <answer>mai slab și mai puțin turbulent.</answer>
-        </answers>
-    </question>
-    <question number="238">
-        <text>143. Vântul de munte (catabatic) bate</text>
-        <answers>
-                <answer>în timpul zileli și la vale (în jos).</answer>
-                <answer>în timpul zileli și la deal (înspre munți).</answer>
-                <answer type="correct">în timpul nopții și la vale (în jos).</answer>
-                <answer>în timpul nopții și la deal (înspre munți).</answer>
-        </answers>
-    </question>
-    <question number="239">
-        <text>144. Vântul de vale (anabatic) bate</text>
-        <answers>
-                <answer>în timpul zileli și la vale (în jos).</answer>
-                <answer type="correct">în timpul zileli și la deal (înspre munți).</answer>
-                <answer>în timpul nopții și la vale (în jos).</answer>
-                <answer>în timpul nopții și la deal (înspre munți).</answer>
-        </answers>
-    </question>
-    <question number="240">
-        <text>145. Când este vânt de vale, putem gâsi termicile</text>
-        <answers>
-                <answer>în general pe mijlocul văii.</answer>
-                <answer type="correct">în general pe partea de sus a fețelor văii.</answer>
-                <answer>pe mijlocul văii cât și pe partea de sus a fețelor văii.</answer>
-                <answer>nu pe mijlocul văii și nici pe partea de sus a fețelor văii.</answer>
-        </answers>
-    </question>
-    <question number="241">
-        <text>146. Când este vânt de munte, putem gâsi termicile</text>
-        <answers>
-                <answer type="correct">în general pe mijlocul văii.</answer>
-                <answer>în general pe partea de sus a fețelor văii.</answer>
-                <answer>pe mijlocul văii cât și pe partea de sus a fețelor văii.</answer>
-                <answer>nu pe mijlocul văii și nici pe partea de sus a fețelor văii.</answer>
-        </answers>
-    </question>
-    <question number="242">
-        <text>147. Vântul de vale se creează din cauză că aerul</text>
-        <answers>
-                <answer>se încălzește mai repede în vale decât în munți în timpul zilei.</answer>
-                <answer>se răcește mai repede în munți de cât în vale când slăbește radiația solară.</answer>
-                <answer>se răcește mai repede în vale de cât în munți când slăbește radiația solară.</answer>
-                <answer type="correct">se încălzește mai repede în munți decât în vale în timpul zilei.</answer>
-        </answers>
-    </question>
-    <question number="243">
-        <text>148. Vântul de munte se creează din cauză că aerul</text>
-        <answers>
-                <answer>se încălzește mai repede în vale decât în munți în timpul zilei.</answer>
-                <answer type="correct">se răcește mai repede în munți de cât în vale când slăbește radiația solară.</answer>
-                <answer>se răcește mai repede în vale de cât în munți când slăbește radiația solară.</answer>
-                <answer>se încălzește mai repede în munți decât în vale în timpul zilei.</answer>
-        </answers>
-    </question>
-    <question number="244">
-        <text>149. Aproximativ de la ce oră este probabil vântul de vale în munții Carpați?</text>
-        <answers>
-                <answer>ora 08:00</answer>
-                <answer type="correct">ora 11:00</answer>
-                <answer>ora 18:00</answer>
-                <answer>ora 22:00</answer>
-        </answers>
-    </question>
-    <question number="245">
-        <text>150. Aproximativ de la ce oră este probabil vântul de munte în munții Carpați?</text>
-        <answers>
-                <answer>ora 08:00am</answer>
-                <answer>ora 11:00am</answer>
-                <answer type="correct">ora 18:00pm</answer>
-                <answer>ora 22:00pm</answer>
-        </answers>
-    </question>
-    <question number="246">
-        <text>151. Vântul de vale în munții Carpați</text>
-        <answers>
-                <answer type="correct">e mai puternic în perioada iulie-septembrie de cât în perioada decembrieaprilie.</answer>
-                <answer>e mai puternic în perioada octombrie-februarie de cât în perioada iulie-septembrie.</answer>
-                <answer>e mai puternic în perioada decembrie-aprilie de cât în perioada decembrie-aprilie.</answer>
-                <answer>are aceași intensitate indiferent de perioada anului.</answer>
-        </answers>
-    </question>
-    <question number="247">
-        <text>152. Care din următoarele afirmații este corectă?</text>
-        <answers>
-                <answer>Vântul de vale bate mai slab lângă sol și crește în intensitate continuu o dată cu creșterea altitudinii.</answer>
-                <answer>Vântul de vale are aceeași intensitate la 50 m deasupra solului cu intensitatea de la 800 m deasupra solului.</answer>
-                <answer type="correct">Intensitatea vântului de vale crește o dată cu scăderea altitudinii.</answer>
-                <answer>Vântul de vale e cel mai puternic la aproximativ 500 m deasupra solului și se reduce deasupra și sub acest nivel.</answer>
-        </answers>
-    </question>
-    <question number="248">
-        <text>153. În care din următoare condiții este cea mai probabilă apariția vântului de vale în zonele alpine?</text>
-        <answers>
-                <answer>30 decembrie, 14:00pm, cer fără nori.</answer>
-                <answer>30 iulie, 14:00pm, cer acoperit total.</answer>
-                <answer type="correct">30 august, 15:00pm, acoperire 3/8 până la 5/8 cu nori cumulus.</answer>
-                <answer>30 iunie, 20:00pm, cer fără nori.</answer>
-        </answers>
-    </question>
-    <question number="249">
-        <text>154. Termenul de ”turbulență mecanică” descrie, din punct de vedere al meteorologiei, mișcarea maselor de aer cauzată de</text>
-        <answers>
-                <answer>bule de aer cald care se desprind de sol și se ridică.</answer>
-                <answer type="correct">o masă de aer care se mișcă aproape de sol și care este perturbată de teren, case, pomi, etc.</answer>
-                <answer>echipamente tehnice cum ar fi aeronavele care se mișcă în masa de aer.</answer>
-                <answer>frecarea a două mase de aer alăturate care de deplasează în direcții diferite sau cu viteze diferite.</answer>
-        </answers>
-    </question>
-    <question number="250">
-        <text>155. Termenul de ”tubulență de forfecare” descrie, din punct de vedere al meteorologiei, mișcarea maselor de aer cauzată de</text>
-        <answers>
-                <answer>bule de aer cald care se desprind de sol și se ridică.</answer>
-                <answer>o masă de aer care se mișcă aproape de sol și care este perturbată de teren, case, pomi, etc.</answer>
-                <answer>un flux de aer care este separat în straturi de către un obstacol.</answer>
-                <answer type="correct">frecarea a două mase de aer alăturate care de deplasează în direcții diferite sau cu viteze diferite.</answer>
-        </answers>
-    </question>
-    <question number="251">
-        <text>156. Termenul de ”tubulență termică” descrie, din punct de vedere al meteorologiei, mișcarea maselor de aer cauzată de</text>
-        <answers>
-                <answer type="correct">bule de aer cald care se desprind de sol și se ridică.</answer>
-                <answer>o masă de aer care se mișcă aproape de sol și care este perturbată de teren, case, pomi, etc.</answer>
-                <answer>două mase de aer care, freacându-se între ele, se încălzesc și se ridică .</answer>
-                <answer>frecarea a două mase de aer alăturate care de deplasează în direcții diferite sau cu viteze diferite.</answer>
-        </answers>
-    </question>
-    <question number="252">
-        <text>157. La ora 14 pm într-o zonă montană, zi de vară, cu vânt general de nordvest de după trecerea unui front rece, vântul de vale are intensitea de 25 km/h pe fundul văii. La ce fel de turbulență ne putem aștepta în mijlocul văii la 500m deasupra solului?</text>
-        <answers>
-                <answer>turbulență mecanică</answer>
-                <answer>nici un fel de turbulență</answer>
-                <answer>turbulență de inversiune</answer>
-                <answer type="correct">turbulență de forfecare</answer>
-        </answers>
-    </question>
-    <question number="253">
-        <text>158. La ora 14 pm într-o zi de vară, vântul de vale are intensitea de 25 km/h pe fundul văii. La ce fel de turbulență ne putem aștepta în mijlocul văii la 20m deasupra solului?</text>
-        <answers>
-                <answer type="correct">turbulență mecanică</answer>
-                <answer>nici un fel de turbulență</answer>
-                <answer>turbulență de gradient</answer>
-                <answer>turbulență de forfecare</answer>
-        </answers>
-    </question>
-    <question number="254">
-        <text>159. Ce tip de turbulență putem întâlni în văile alpine cu vânt puternic de vale, pe o față sudică, la o altitudine de 2000m ASL, într-o zi de vară la ora 13:00pm.</text>
-        <answers>
-                <answer>turbulență mecanică</answer>
-                <answer type="correct">turbulență termică</answer>
-                <answer>turbulență de gradient</answer>
-                <answer>turbulență de forfecare</answer>
-        </answers>
-    </question>
-    <question number="255">
-        <text>160. Când ne putem aștepta la cele mai puține turbulențe, într-o zi cu vreme frumoasă de iulie, în văile alpine în care este de obicei vânt puternic de vale.</text>
-        <answers>
-                <answer type="correct">În jur de ora 9 am.</answer>
-                <answer>În jur de ora 11 am.</answer>
-                <answer>În jur de ora 13 pm.</answer>
-                <answer>În jur de ora 18 pm.</answer>
-        </answers>
-    </question>
-    <question number="256">
-        <text>161. Când ne putem aștepta la cele mai puternice turbulențe, într-o zi cu vreme frumoasă de iulie, în văile alpine în care este de obicei vânt puternic de vale.</text>
-        <answers>
-                <answer>În jur de ora 9 am.</answer>
-                <answer>În jur de ora 11 am.</answer>
-                <answer type="correct">În jur de ora 13 pm.</answer>
-                <answer>În jur de ora 18 pm.</answer>
-        </answers>
-    </question>
-    <question number="257">
-        <text>162. Când ne putem aștepta la mai multe termici și cele mai puține turbulențe de forfecare, într-o zi cu vreme frumoasă de iulie, în văile alpine în care este de obicei vânt puternic de vale.</text>
-        <answers>
-                <answer>În jur de ora 9 am.</answer>
-                <answer type="correct">În jur de ora 11 am.</answer>
-                <answer>În jur de ora 13 pm.</answer>
-                <answer>În jur de ora 18 pm.</answer>
-        </answers>
-    </question>
-    <question number="258">
-        <text>163. Ce se înțelege prin ”masă de aer”?</text>
-        <answers>
-                <answer type="correct">Un corp de aer cu aceleași caracteritici.</answer>
-                <answer>Greutatea unui metru cub de aer la temperatura de 15°.</answer>
-                <answer>O zonă cu o concentrație mai mare de aer în centrul unui anticiclon.</answer>
-                <answer>O parte a atmosferei cu aceeași densitate a aerului.</answer>
-        </answers>
-    </question>
-    <question number="259">
-        <text>164. În ceea ce privește dezvoltarea frontală, masa de aer este definită ca fiind caldă atunci când temperatura acesteia este mai mare decât</text>
-        <answers>
-                <answer>15°C la nivelul mării cu 1013,2 hPa.</answer>
-                <answer type="correct">temperatura maselor de aer din jur.</answer>
-                <answer>temperatura medie pentru sezon.</answer>
-                <answer>temperatura care a avut-o de unde provenit masa de aer.</answer>
-        </answers>
-    </question>
-    <question number="260">
-        <text>165. În meteorologie, se descrie termenul de "front" ca fiind</text>
-        <answers>
-                <answer>linia de separare la nivelul mării dintre două mase de aer.</answer>
-                <answer>o linie de zone de precipitații.</answer>
-                <answer>o zonă de precipitații cu vânturi mari.</answer>
-                <answer type="correct">suprafața de separare dintre două mase de aer diferite.</answer>
-        </answers>
-    </question>
-    <question number="261">
-        <text>166. Care afirmație este adevărată?</text>
-        <answers>
-                <answer>Trecerea fronturilor calde și reci începe la altitudine mare și apoi la nivelul solului.</answer>
-                <answer>Trecerea fronturilor calde și reci începe la nivelul solului și apoi la altitudine.</answer>
-                <answer type="correct">Trecerea unui front cald are loc la început la altitudine, apoi la nivelul solului. Trecerea unui front rece are loc la început la nivelul solului, apoi la altitudine.</answer>
-                <answer>Trecerea unei front cald are loc la început la nivelul solului, apoi la altitudine. Trecerea unui front rece are loc la început la altitudine, apoi la nivelul solului.</answer>
-        </answers>
-    </question>
-    <question number="262">
-        <text>167. Care afirmație este adevărată?</text>
-        <answers>
-                <answer>Un front cald se mișcă mai repede decât un front rece.</answer>
-                <answer>Fronturile calde și reci se mișcă la aproximativ aceeași viteză.</answer>
-                <answer type="correct">Un front rece se mișcă mai repede decât un front cald.</answer>
-                <answer>În timpul iernii, frontul rece se mișcă mai repede, iar vara, frontul cald se mișcă mai repede.</answer>
-        </answers>
-    </question>
-    <question number="263">
-        <text>168. Care ordine a tipurilor de nor este tipică pentru trecerea unei front cald?</text>
-        <answers>
-                <answer>Cumulus, cumulus congestus, cumulus calvus, cumulonimbus.</answer>
-                <answer>Altocumulus, stratocumulus, altostratus, nimbostratus.</answer>
-                <answer type="correct">Cirrus, cirstratus, altostratus, nimbostratus.</answer>
-                <answer>Lenticular, cumulus congestus, cirocumulus, altocumulus.</answer>
-        </answers>
-    </question>
-    <question number="264">
-        <text>169. Cum arată de obicei vremea cu o oră înainte de sosirea unui front cald?</text>
-        <answers>
-                <answer>Cer albastru, fără vânt, turbulențe nu prea mari, briză constantă la decolare, termici bune, largi și line, cumulus congestius și cumulonimbus în depărtare.</answer>
-                <answer>Cerul este acoperit 5/8 cu cumulus, vânt puternic, termici putermici cu înfundare puternică în jurul lor.</answer>
-                <answer type="correct">Vizibilitate slabă, baza norilor scăzută, ploaie, vânt constant.</answer>
-                <answer>Nori acoperă munții din depărtare, nori cumulus și lenticulari în porțiunea albastră a cerului, schimbări de direcție de vânt pe pământ, vânt puternic de sud-vest la decolare.</answer>
-        </answers>
-    </question>
-    <question number="265">
-        <text>170. Ce semne indică fohn-ul de sud pe partea de nord a Alpilor?</text>
-        <answers>
-                <answer>Cerul albastru, fără vânt, turbulențe mici, vânt constant la decolare, ascendență uniformă pe suprafețe mari, cumulus congestius și cumulonimbus la orizont.</answer>
-                <answer>Cerul este acoperit cu 5/8 cumulus, vânturi puternice crescânde, termici puternice cu înfundări mari în jur.</answer>
-                <answer>Vizibilitate proastă, bază norilor joasă, ploaie și vânt constant.</answer>
-                <answer type="correct">Munții de pe orizontul sudic au nori în jurul lor. Există nori cumulus și lenticulari în partea albastră a cerului. Vântul la sol vine din toate direcțiile și e preponderent din sud-vest la locul de decolare.</answer>
-        </answers>
-    </question>
-    <question number="266">
-        <text>172. Un front oclus apare când</text>
-        <answers>
-                <answer>un front cald depășește un front rece la altitudine.</answer>
-                <answer>un front rece trece peste un front cald la altitudine.</answer>
-                <answer>un front cald depășește un front rece la nivelul solului.</answer>
-                <answer type="correct">un front rece trece peste un front cald la nivelul solului.</answer>
-        </answers>
-    </question>
-    <question number="267">
-        <text>173. Un front oclus are</text>
-        <answers>
-                <answer>caracteristicile unui front cald.</answer>
-                <answer>caracteristicile unui front rece.</answer>
-                <answer>caracteristicile inofensive ale unui front cald și rece, pe măsură ce ambele se neutralizează reciproc.</answer>
-                <answer type="correct">caracteristicile meteorologice ale unei front fie cald fie rece, în funcție de temperatura fluxului de aer rece.</answer>
-        </answers>
-    </question>
-    <question number="268">
-        <text>174. Ce reprezintă următoarea imagine?</text>
-        <answers>
-                <answer>Un front cald.</answer>
-                <answer type="correct">Un front rece.</answer>
-                <answer>O ocluzie cu caracteristicile unei front cald.</answer>
-                <answer>d) O ocluzie cu caracteristicile unui front rece.</answer>
-        </answers>
-    </question>
-    <question number="269">
-        <text>175. Ce reprezintă următoarea imagine?</text>
-        <answers>
-                <answer>Un front cald.</answer>
-                <answer>Un front rece.</answer>
-                <answer type="correct">O ocluzie cu caracteristicile unei front cald.</answer>
-                <answer> O ocluzie cu caracteristicile unui front rece.</answer>
-        </answers>
-    </question>
-    <question number="270">
-        <text>176. Ce reprezintă următoarea imagine?</text>
-        <answers>
-                <answer type="correct">Un front cald.</answer>
-                <answer>Un front rece.</answer>
-                <answer>O ocluzie cu caracteristicile unei front cald.</answer>
-                <answer>O ocluzie cu caracteristicile unui front rece.</answer>
-        </answers>
-    </question>
-    <question number="271">
-        <text>177. Ce reprezintă următoarea imagine?</text>
-        <answers>
-                <answer>Un front cald.</answer>
-                <answer>Un front rece.</answer>
-                <answer>O ocluzie cu caracteristicile unei front cald.</answer>
-                <answer type="correct">O ocluzie cu caracteristicile unui front rece.</answer>
-        </answers>
-    </question>
-    <question number="272">
-        <text>178. Formarea de nori cumulonimbus și, prin urmare, formarea de furtuni înainte de sosirea unui front este cel mai probabil cu</text>
-        <answers>
-                <answer>fronturi reci în ianuarie.</answer>
-                <answer>fronturi calde în ianuarie.</answer>
-                <answer type="correct">fronturi reci în luna august.</answer>
-                <answer>fronturi calde în luna august.</answer>
-        </answers>
-    </question>
-    <question number="273">
-        <text>179. O masă de aer cald și umed se află deasupra României. Prognoza prezice sosirea unei mase polare de aer rece din nord-vest în timpul zilei. La ce tip de vreme ne poatem aștepta pentru această zi?</text>
-        <answers>
-                <answer>Condiții foarte favorabile pentru zborurile termice și la distanță din cauza aerului rece încălzit rapid de sol.</answer>
-                <answer>Aerul rece care va sosi va stabiliza atmosfera, făcând astfel zborurile termice imposibile pentru ceva timp.</answer>
-                <answer type="correct">Furtuni frontale care aduc grindină si vânturi puternice.</answer>
-                <answer>Răcirea continuă a aerului umed și cald și începutul treptat al precipitațiilor.</answer>
-        </answers>
-    </question>
-    <question number="274">
-        <text>180. În ce perioadă a zilei sunt furtunile termice (locale) cele mai probabile?</text>
-        <answers>
-                <answer>Dimineața.</answer>
-                <answer type="correct">După-amiaza târziu.</answer>
-                <answer>La scurt timp după amiază.</answer>
-                <answer>Timpul zilei nu are nici o influență asupra furtunilor termice (locale).</answer>
-        </answers>
-    </question>
-    <question number="275">
-        <text>181. În ce moment al zilei sunt probabile furtunile frontale?</text>
-        <answers>
-                <answer>10 am</answer>
-                <answer>15 pm</answer>
-                <answer>20 pm</answer>
-                <answer type="correct">Timpul zilei nu are nici o influență asupra furtunilor frontale.</answer>
-        </answers>
-    </question>
-    <question number="276">
-        <text>182. În general, ce condiții cauzează o inversiune la nivelul solului?</text>
-        <answers>
-                <answer>Încălzirea aerului care coboară, cu rata adiabatului uscat, în fața și în centrul unei presiuni ridicate.</answer>
-                <answer type="correct">Radiația nocturnă a căldurii din sol atunci când există cer senin.</answer>
-                <answer>Masele de aer continentale care se stratifică aproape de sol.</answer>
-                <answer>Încălzirea straturilor de aer adiacente solui pe parcursul zilei.</answer>
-        </answers>
-    </question>
-    <question number="277">
-        <text>183. Ce cauzează dispariția unei inversiuni de la nivelul solului?</text>
-        <answers>
-                <answer>Încălzirea aerului cald care coboară în fața și în centrul unei presiuni ridicate.</answer>
-                <answer type="correct">Radiația nocturnă a căldurii de pe pământ atunci când există cer senin.</answer>
-                <answer>Aerul cald intrat în straturile superioare de aer.</answer>
-                <answer>Încălzirea straturilor de aer aproape de sol pe parcursul zilei.</answer>
-        </answers>
-    </question>
-    <question number="278">
-        <text>184. Care sunt cele mai bune condiții pentru crearea unor termici bune într-o anumită zonă?</text>
-        <answers>
-                <answer>Unghi mare de incidență al razelor solare, reflexie puternică.</answer>
-                <answer type="correct">Unghi mare de incidență a razelor solare, reflexie slabă.</answer>
-                <answer>Unghi scăzut de incidență a razelor solare, reflexie slabă.</answer>
-                <answer>Unghi scăzut de incidență a razelor solare, reflexie puternică.</answer>
-        </answers>
-    </question>
-    <question number="279">
-        <text>185. Care sunt cele mai bune condiții pentru crearea unor termici bune într-o anumită zonă?</text>
-        <answers>
-                <answer>Zonă umedă și expusă vântului.</answer>
-                <answer>Zonă uscată și expusă vântului.</answer>
-                <answer>Zonă umedă și protejată de vânt.</answer>
-                <answer type="correct">Zonă uscată și protejată de vânt.</answer>
-        </answers>
-    </question>
-    <question number="280">
-        <text>186. În care din următoarele luni sunt cele mai pronunțate termici înzonele deluroase?</text>
-        <answers>
-                <answer>ianuarie</answer>
-                <answer type="correct">mai</answer>
-                <answer>august</answer>
-                <answer>octombrie</answer>
-        </answers>
-    </question>
-    <question number="281">
-        <text>187. În care din următoarele luni ajung termicile din munți la cele mai mari altitudini?</text>
-        <answers>
-                <answer>ianuarie</answer>
-                <answer>mai</answer>
-                <answer type="correct">august</answer>
-                <answer>octombrie</answer>
-        </answers>
-    </question>
-    <question number="282">
-        <text>188. Termenul "termică de sub vânt" înseamnă</text>
-        <answers>
-                <answer>Curentul descendent de pe partea protejată de vânt a unei mase de aer cald în urcare.</answer>
-                <answer type="correct">Aerul cald care se ridică de pe partea protejată de vânt a unui munte.</answer>
-                <answer>Aerul cald creat de turbulența rotorului pe partea protejată de vânt a unui munte.</answer>
-                <answer>Curent termic ascendent format în partea de sub vânt a altui curent termic ascendent.</answer>
-        </answers>
-    </question>
-    <question number="283">
-        <text>189. Termicile de sub vânt sunt cel mai probabil întâlnite</text>
-        <answers>
-                <answer>pe pantele nordice în timp ce bate vântul din nord.</answer>
-                <answer>pe pantele nordice în timp ce bate vântul din sud.</answer>
-                <answer>pe pantele sudice în timp ce bate vântul din sud.</answer>
-                <answer type="correct">pe pantele sudice în timp ce bate vântul din nord.</answer>
-        </answers>
-    </question>
-    <question number="284">
-        <text>190. Termenul "termică albastră" înseamnă</text>
-        <answers>
-                <answer type="correct">aerul cald în urcare în care umiditatea este atât de mică încât nu permite dezvoltarea norilor cumulus.</answer>
-                <answer>aerul cald în urcare în care umiditatea este atât de ridicată încât formează nori care generează precipitații.</answer>
-                <answer>aerul cald în urcare de peste corpuri întinse de apă, pe timpul nopții.</answer>
-                <answer>aerul cald în urcare, care este ridicat de o masă continentală de aer rece.</answer>
-        </answers>
-    </question>
-    <question number="285">
-        <text>191. Ar trebui să ne așteptăm la termici albastre când</text>
-        <answers>
-                <answer>termica nu provine de la sol, ci dintr-un strat de aer mai înalt.</answer>
-                <answer type="correct">diferența de temperatură - punct de rouă a masei de aer în urcare este atât de mare încât punctul de rouă nu este atins.</answer>
-                <answer>solul se răcește atât de mult în timpul nopții încât este mai rece decât un corp de apă învecinat.</answer>
-                <answer>stratificarea atmosferică este atât de stabilă încât curenții termici sunt suprimați.</answer>
-        </answers>
-    </question>
-    <question number="286">
-        <text>192. Termenul "ascendență de restituție" se referă la</text>
-        <answers>
-                <answer>masele de aer care coboară în timpul zilei deasupra suprafețelor reci, cum ar fi ghețarii și lacurile.</answer>
-                <answer type="correct">masele de aer în urcare din mijlocul văii, după apariția vântului de munte (catabatic).</answer>
-                <answer>masele de aer descendente din apropierea curenților termici.</answer>
-                <answer>curentul descendent din cauza temperaturii.</answer>
-        </answers>
-    </question>
-    <question number="287">
-        <text>193. Pe o hartă meteorologică, acest simbol definește</text>
-        <answers>
-                <answer>o izobară.</answer>
-                <answer type="correct">un front rece.</answer>
-                <answer>un front cald.</answer>
-                <answer>un front oclus.</answer>
-        </answers>
-    </question>
-    <question number="288">
-        <text>194. Pe o hartă meteorologică, acest simbol definește</text>
-        <answers>
-                <answer>o izobară.</answer>
-                <answer>un front rece.</answer>
-                <answer type="correct">un front cald.</answer>
-                <answer>un front oclus.</answer>
-        </answers>
-    </question>
-    <question number="289">
-        <text>195. Pe o hartă meteorologică, acest simbol definește</text>
-        <answers>
-                <answer type="correct">o izobară.</answer>
-                <answer>un front rece.</answer>
-                <answer>un front cald.</answer>
-                <answer>un front oclus.</answer>
-        </answers>
-    </question>
-    <question number="290">
-        <text>196. Pe o hartă meteorologică, acest simbol definește</text>
-        <answers>
-                <answer>o izobară.</answer>
-                <answer>un front rece.</answer>
-                <answer>un front cald.</answer>
-                <answer type="correct">un front oclus.</answer>
-        </answers>
-    </question>
-    <question number="291">
-        <text>197. Unde este centrul ciclonului?</text>
-        <answers>
-                <answer>lângă Tunis</answer>
-                <answer>deasupra golfului Biscaya (Golf von Biskaya)</answer>
-                <answer>lângă Stockholm</answer>
-                <answer type="correct">lângă Lulea</answer>
-        </answers>
-    </question>
-    <question number="292">
-        <text>198. Unde este centrul anticiclonului?</text>
-        <answers>
-                <answer>lângă Tunis</answer>
-                <answer type="correct">deasupra golfului Biscaya (Golf von Biskaya)</answer>
-                <answer>lângă Stockholm</answer>
-                <answer>lângă Lulea</answer>
-        </answers>
-    </question>
-    <question number="293">
-        <text>199. Unde este gradientul presiunii cel mai plat?</text>
-        <answers>
-                <answer type="correct">lângă Tunis</answer>
-                <answer>deasupra golfului Biscaya (Golf von Biskaya)</answer>
-                <answer>lângă Stockholm</answer>
-                <answer>lângă Lulea</answer>
-        </answers>
-    </question>
-    <question number="294">
-        <text>200. Unde este gradientul presiunii cel mai abrupt?</text>
-        <answers>
-                <answer>lângă Tunis</answer>
-                <answer>deasupra golfului Biscaya (Golf von Biskaya)</answer>
-                <answer type="correct">lângă Stockholm</answer>
-                <answer>lângă Lulea</answer>
-        </answers>
-    </question>
-    <question number="295">
-        <text>201. Unde e cel mai puternic vânt?</text>
-        <answers>
-                <answer>În nordul Africii.</answer>
-                <answer>În Elveția.</answer>
-                <answer type="correct">În sudul Scandinaviei.</answer>
-                <answer>În Islanda.</answer>
-        </answers>
-    </question>
-    <question number="296">
-        <text>202. Unde e cel mai slab vânt?</text>
-        <answers>
-                <answer type="correct">În nordul Africii.</answer>
-                <answer>În Elveția.</answer>
-                <answer>În sudul Scandinaviei.</answer>
-                <answer>În Islanda.</answer>
-        </answers>
-    </question>
-    <question number="297">
-        <text>203. Care este direcția vântului în Alger?</text>
-        <answers>
-                <answer>100 °</answer>
-                <answer>190 °</answer>
-                <answer type="correct">280 °</answer>
-                <answer>320 °</answer>
-        </answers>
-    </question>
-    <question number="298">
-        <text>204. Care este direcția vântului în Londra?</text>
-        <answers>
-                <answer>130 °</answer>
-                <answer>190 °</answer>
-                <answer>270 °</answer>
-                <answer type="correct">310 °</answer>
-        </answers>
-    </question>
-    <question number="299">
-        <text>205. Care este direcția vântului în Atena?</text>
-        <answers>
-                <answer type="correct">130 °</answer>
-                <answer>190 °</answer>
-                <answer>270 °</answer>
-                <answer>310 °</answer>
-        </answers>
-    </question>
-    <question number="300">
-        <text>206. Care este direcția vântului în Zurich?</text>
-        <answers>
-                <answer>100 °</answer>
-                <answer type="correct">210 °</answer>
-                <answer>280 °</answer>
-                <answer>030 °</answer>
-        </answers>
-    </question>
-    <question number="301">
-        <text>207. Care este direcția vântului în Lisabona?</text>
-        <answers>
-                <answer>100 °</answer>
-                <answer>190 °</answer>
-                <answer>250 °</answer>
-                <answer type="correct">320 °</answer>
-        </answers>
-    </question>
-    <question number="302">
-        <text>208. Care dintre următoarele orașe se află într-un sector cald?</text>
-        <answers>
-                <answer>Lulea și Sankt-Petersburg</answer>
-                <answer type="correct">Zurich și Stockholm</answer>
-                <answer>Lisabona și Atena</answer>
-                <answer>Paris și Londra</answer>
-        </answers>
-    </question>
-    <question number="303">
-        <text>209. În care dintre următoarele orașe sunt condiții meteo de după front?</text>
-        <answers>
-                <answer>Lulea și Sankt-Petersburg</answer>
-                <answer>Zurich și Stockholm</answer>
-                <answer>Lisabona și Atena</answer>
-                <answer type="correct">Paris și Londra</answer>
-        </answers>
-    </question>
-    <question number="304">
-        <text>210. Care dintre următoarele orașe sunt sub influența anticiclonului?</text>
-        <answers>
-                <answer>Lulea și Sankt-Petersburg</answer>
-                <answer>Zurich și Stockholm</answer>
-                <answer type="correct">Lisabona și Atena</answer>
-                <answer>Paris și Londra</answer>
-        </answers>
-    </question>
-    <question number="305">
-        <text>211. Care este distribuția de nori cea mai probabilă în Lulea?</text>
-        <answers>
-                <answer>3/8 - 5/8 cumulus</answer>
-                <answer type="correct">5/8 - 7/8 cirostratus</answer>
-                <answer>8/8 nimbostratus</answer>
-                <answer>5/8 - 7/8 cumulonimbus, lenticulari izolați în est</answer>
-        </answers>
-    </question>
-    <question number="306">
-        <text>212. Care este distribuția de nori cea mai probabilă în Paris?</text>
-        <answers>
-                <answer type="correct">3/8 - 5/8 cumulus</answer>
-                <answer>5/8 - 7/8 cirostratus</answer>
-                <answer>8/8 nimbostratus</answer>
-                <answer>5/8 - 7/8 cumulonimbus, lenticulari izolați în est</answer>
-        </answers>
-    </question>
-    <question number="307">
-        <text>213. Care este distribuția de nori cea mai probabilă în nordvestul Elveției?</text>
-        <answers>
-                <answer>5/8 - 7/8 cirocumulus</answer>
-                <answer>5/8 - 7/8 cirostratus</answer>
-                <answer>8/8 nimbostratus</answer>
-                <answer type="correct">5/8 - 7/8 cumulonimbus, lenticulari izolați în est</answer>
-        </answers>
-    </question>
-    <question number="308">
-        <text>214. Care este distribuția de nori cea mai probabilă în St. Petersburg?</text>
+        <picture>meteo/meteo_14.png</picture>
         <answers>
                 <answer>3/8 - 5/8 cumulus</answer>
                 <answer>5/8 - 7/8 cirostratus</answer>
@@ -2770,3 +1417,4 @@
         </answers>
     </question>
 </questions>
+</test>

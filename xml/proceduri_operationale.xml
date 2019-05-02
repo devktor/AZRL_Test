@@ -1,3 +1,6 @@
+<?xml version="1.0" standalone="yes"?>
+<test>
+<name>Proceduri operationale</name>
 <questions>
     <question number="1">
         <text>Care este riscul asociat zborului cu acceleratorul actionat:</text>
@@ -1172,6 +1175,7 @@
     </question>
     <question number="142">
         <text>143. Un pilot zboară spre câmpul de aterizare situat exact la sud de poziția sa, cu un vânt de 20 km / h vest. Dacă își îndreaptă parapanta exact spre terenul de aterizare, care va fi traiectul lui de zbor? </text>
+        <picture>proceduri_operationale/proceduri_operationale_1.png</picture>
         <answers>
                 <answer>1 </answer>
                 <answer>2 </answer>
@@ -1181,6 +1185,7 @@
     </question>
     <question number="143">
         <text>144. Un pilot zboară spre câmpul de aterizare situat exact la sud de poziția sa, cu un vânt de 20 km / h vest. Dacă își îndreaptă parapanta exact spre sud, care va fi traiectul lui de zbor? </text>
+        <picture>proceduri_operationale/proceduri_operationale_1.png</picture>
         <answers>
                 <answer>1 </answer>
                 <answer>2 </answer>
@@ -1190,6 +1195,7 @@
     </question>
     <question number="144">
         <text>145. Un pilot zboară spre câmpul de aterizare situat exact la sud de poziția sa, cu un vânt de 20 km / h vest. Dacă își îndreaptă parapanta exact spre sud-vest, care va fi traiectul lui de zbor? </text>
+        <picture>proceduri_operationale/proceduri_operationale_1.png</picture>
         <answers>
                 <answer type="correct">1 </answer>
                 <answer>2 </answer>
@@ -1639,6 +1645,7 @@
     </question>
     <question number="194">
         <text>196. Care element al prizei de aterizare este # 1? </text>
+        <picture>proceduri_operationale/proceduri_operationale_2.png</picture>
         <answers>
                 <answer>Segmentul cu vânt lateral. </answer>
                 <answer type="correct">Zona pentru pierderea înălțimii. </answer>
@@ -1648,6 +1655,7 @@
     </question>
     <question number="195">
         <text>197. Care element al prizei de aterizare este # 2? </text>
+        <picture>proceduri_operationale/proceduri_operationale_2.png</picture>
         <answers>
                 <answer>Segmentul cu vânt lateral. </answer>
                 <answer>Zona pentru pierderea înălțimii. </answer>
@@ -1657,6 +1665,7 @@
     </question>
     <question number="196">
         <text>198. Care element al prizei de aterizare este # 3? </text>
+        <picture>proceduri_operationale/proceduri_operationale_2.png</picture>
         <answers>
                 <answer type="correct">Segmentul cu vânt lateral. </answer>
                 <answer>Zona pentru pierderea înălțimii. </answer>
@@ -1666,6 +1675,7 @@
     </question>
     <question number="197">
         <text>199. Care element al prizei de aterizare este # 4? </text>
+        <picture>proceduri_operationale/proceduri_operationale_2.png</picture>
         <answers>
                 <answer>Segmentul cu vânt lateral. </answer>
                 <answer>Zona pentru pierderea înălțimii. </answer>
@@ -1684,6 +1694,7 @@
     </question>
     <question number="199">
         <text>201. Dacă ești obligat să faci o priză de aterizare spre stânga, în ce sector ar trebui să pierzi înălțimea înainte de a intra în segmentul cu vânt din spate? </text>
+        <picture>proceduri_operationale/proceduri_operationale_3.png</picture>
         <answers>
                 <answer>1 </answer>
                 <answer type="correct">2 </answer>
@@ -1693,6 +1704,7 @@
     </question>
     <question number="200">
         <text>202. Dacă ești obligat să faci o priză de aterizare spre dreapta, în ce sector ar trebui să pierzi înălțimea înainte de a intra în segmentul cu vânt din spate? </text>
+        <picture>proceduri_operationale/proceduri_operationale_3.png</picture>
         <answers>
                 <answer>1 </answer>
                 <answer>2 </answer>
@@ -1702,6 +1714,7 @@
     </question>
     <question number="201">
         <text>203. Fiecare diagramă prezintă o priză de aterizare standard în vânt zero (linie punctată) și o priză de aterizare practică în funcție de condiții (linie solidă). Cum ar trebui abordată aterizarea cu vânt zero când pilotul își dă seama, după segmentul cu vânt din spate, că înălțimea lui este prea mică? </text>
+        <picture>proceduri_operationale/proceduri_operationale_4.png</picture>
         <answers>
                 <answer>1 </answer>
                 <answer type="correct">2 </answer>
@@ -1711,6 +1724,7 @@
     </question>
     <question number="202">
         <text>204. Fiecare diagramă prezintă o priză de aterizare standard în vânt zero (linie punctată) și o priză de aterizare practică în funcție de condiții (linie solidă). Cum ar trebui abordată aterizarea cu vânt zero când pilotul își dă seama, în timpul segmentul cu vânt lateral, că înălțimea lui este prea mare? </text>
+        <picture>proceduri_operationale/proceduri_operationale_4.png</picture>
         <answers>
                 <answer>1 </answer>
                 <answer>2 </answer>
@@ -1720,6 +1734,7 @@
     </question>
     <question number="203">
         <text>205. Fiecare diagramă prezintă o priză de aterizare standard în vânt zero (linie punctată) și o priză de aterizare practică în funcție de condiții (linie solidă). Cum ar trebui abordată aterizarea cu vânt 10-15 km/h? </text>
+        <picture>proceduri_operationale/proceduri_operationale_4.png</picture>
         <answers>
                 <answer type="correct">1 </answer>
                 <answer>2 </answer>
@@ -1729,6 +1744,7 @@
     </question>
     <question number="204">
         <text>206. Fiecare diagramă prezintă o priză de aterizare standard în vânt zero (linie punctată) și o priză de aterizare practică în funcție de condiții (linie solidă). Cum ar trebui abordată aterizarea cu vânt 25-30 km/h? </text>
+        <picture>proceduri_operationale/proceduri_operationale_4.png</picture>
         <answers>
                 <answer>1 </answer>
                 <answer>2 </answer>
@@ -1998,3 +2014,4 @@
         </answers>
     </question>
 </questions>
+</div>
