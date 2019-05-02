@@ -47,7 +47,7 @@ qEnding="$NEWLINE${TAB}</question>";
 
 answers=()
 question=""
-
+questionNumber=0
 while read line
 do
     echo -n "."
@@ -59,6 +59,7 @@ do
 
     if [[ $line =~ ^?[0-9]+\. ]]; then
         question=$line
+        ((questionNumber++))
         #flush previous answers
         if [ ${#answers[@]} -gt 0 ]; then
             xmlContent+=$(SerializeAnswers "${answers[@]}")
@@ -70,7 +71,7 @@ do
             line=${line:3:${#line}}
             answers+=("$line")
             if [ ${#question} -gt 0 ]; then
-                xmlContent+="$NEWLINE${TAB}<question>$(SerializeQuestionText "$question")";
+                xmlContent+="$NEWLINE${TAB}<question number=\"$questionNumber\">$(SerializeQuestionText "$question")";
                 question=""
             fi
         else
