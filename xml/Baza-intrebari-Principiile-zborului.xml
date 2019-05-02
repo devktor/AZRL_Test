@@ -846,8 +846,8 @@ de 3 metri pătrați?</text>
     <question number="134">
         <text>134. Care din următorii coeficenți este folosit pentru calcularea rezistenței la înaintare aunui corp?</text>
         <answers>
-                <answer type="correct"> Ca  (sau Cl în engleză, l de la lift)</answer>
-                <answer type="correct"> Cb</answer>
+                <answer> Ca  (sau Cl în engleză, l de la lift)</answer>
+                <answer> Cb</answer>
                 <answer type="correct"> Cx (sau Cd în engleză, d de la drag)</answer>
                 <answer> Cy</answer>
         </answers>
