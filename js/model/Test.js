@@ -1,6 +1,10 @@
 
 Test = Backbone.Model.extend({
 
+    initialize:function(options){
+        this.url = options.url;
+    },
+
     isEmpty:function(){
         return !this.has("questions");
     },
@@ -9,10 +13,10 @@ Test = Backbone.Model.extend({
         this.set(this.parse(xml));
     },
 
-    fetch:function(url, options){
+    fetch:function(options){
         options = options || {};
         options.dataType = "xml";
-        this.url = url;
+//        this.url = url;
         Backbone.Model.prototype.fetch.call(this, options);
     },
 

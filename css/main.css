@@ -1,9 +1,30 @@
-.quizz{
-    margin:0px 150px;
+
+.page{
+    margin:20px 100px;
 }
+
+.pageHeader select, .pageHeader input{
+    padding:10px;
+}
+
+.layoutControls{
+    float:right;
+    margin-left:20px;
+}
+
+.testPage{
+    margin-top:10px;
+}
+
+.testsHeader{
+    padding:10px 0px;
+}
+
+
 
 .testInfo{
     color:#aeaeae;
+    margin:10px 0;
 }
 
 .testInfo .title{

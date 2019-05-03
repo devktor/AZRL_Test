@@ -14,21 +14,39 @@
         <script type="text/javascript" src="js/model/QuestionCollection.js"></script>
         <script type="text/javascript" src="js/model/TestResult.js"></script>
         <script type="text/javascript" src="js/model/Test.js"></script>
+        <script type="text/javascript" src="js/model/TestCollection.js"></script>
 
         <script type="text/javascript" src="js/view/QuestionView.js"></script>
         <script type="text/javascript" src="js/view/TestView.js"></script>
+        <script type="text/javascript" src="js/view/TestCollectionView.js"></script>
 
         <script type="text/javascript">
             $(document).ready(function(){
                 
                 console.log("initializing...");
 
-                var test = new Test;
-                var view = new TestView({model:test});
+                var tests = new TestCollection;
+                var view = new TestCollectionView({model:tests});
 
-                console.log("fetching....");
-                test.fetch("xml/Baza-intrebari-Principiile-zborului.xml", {error:function(obj, err){console.log("failed to fetch", err)}});
+                tests.add("cunoasterea aeronavei","xml/cunoasterea_aeronavei.xml");
+                tests.add("legislatie", "xml/legislatie.xml");
+                tests.add("meteorologie", "xml/meteorologie.xml");
+                tests.add("navigatie", "xml/navigatie.xml");
+                tests.add("performante umane", "xml/performante_umane.xml");
+                tests.add("prim ajutor", "xml/prim_ajutor.xml");
+                tests.add("principii zbor", "xml/principii_zbor.xml");
+                tests.add("proceduri operationale", "xml/proceduri_operationale.xml");
+                tests.fetchAll();
+
+                
                 view.render();
+
+                //var test = new Test;
+                //var view = new TestView({model:test});
+
+                //console.log("fetching....");
+                //test.fetch("xml/principii_zbor.xml", {error:function(obj, err){console.log("failed to fetch", err)}});
+                //view.render();
 
                 console.log("all done");
             });
@@ -46,23 +64,34 @@
     <script type="text/template" id="answer_tpl">
         <div class="answer"><input type="checkbox" name="answer" value="<%=index%>"><%=answer.get("text")%></input></div>
     </script>
-
-    <div class="quizz" >
-        <div class="testInfo">
-            <div class="title">Principiile zborului</div>
-            <div class="stats">
-                <div class="progress">Completat <span>0</span>%</div>
-                <div class="successRate">Rata de success <span>0</span>%</div>
-                <div class="correctAnswers">Raspunsuri correcte <span>0</span></div>
-                <div class="wrongAnswers">Raspunsuri gresite <span>0</span></div>
+    <script type="text/template" id="test_tpl">
+        <div class="testPage">
+            <div class="testInfo">
+                <div class="stats">
+                    <div class="progress">Completat <span>0</span>%</div>
+                    <div class="successRate">Rata de success <span>0</span>%</div>
+                    <div class="totalQuestions">Total intrebari <span>0</span></div>
+                    <div class="correctAnswers">Raspunsuri correcte <span>0</span></div>
+                    <div class="wrongAnswers">Raspunsuri gresite <span>0</span></div>
+                </div>
+            </div>
+            <div class="question"></div>
+            <div class="controls">
+                <input type="button" name="next" value="Urmatoarea Intrebare" />
+                <input type="button" name="shuffle" value="Amesteca" />
+                <input type="button" style="margin-left:100px;" name="submit" value="Raspunde" />
             </div>
         </div>
-        <div class="question"></div>
-        <div class="controls">
-            <input type="button" name="next" value="Urmatoarea Intrebare" />
-            <input type="button" name="shuffle" value="Amesteca" />
-            <input type="button" style="margin-left:100px;" name="submit" value="Raspunde" />
+    </script>
+    <div class="page">
+        <div class="pageHeader">
+            <select name="test">
+            </select>
+            <div class="layoutControls">
+<!--                <input type="checkbox" name="dark" value="Dark" /> Dark mode-->
+            </div>
         </div>
+        <div class="pageBody"></div>
     </div>
     </body>
 </html>

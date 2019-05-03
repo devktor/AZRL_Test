@@ -12,6 +12,15 @@ TestResult = Backbone.Model.extend({
         this.questions = questions;
     },
 
+    reset:function(){
+        this.responseMap = {};
+        this.set({
+            correct: 0,
+            wrong: 0,
+            answers: 0
+        });
+    },
+
     addResponse:function(questionIndex, responses, callback){
         var question = this.questions.at(questionIndex);
         if(!question) return;

@@ -1,9 +1,12 @@
 TestView = Backbone.View.extend({
 
-    el:".quizz",
 
     initialize:function(){
         _(this).bindAll("render", "renderNextQuestion", "shuffle", "checkAnswers");
+
+        this.$el = $(_.template($("#test_tpl").html())())
+//        this.$el.hide();
+
         this.questionBox = this.$el.find(".question");
         this.controls = this.$el.find(".controls");
         this.questionTemplate = _.template($("#question_tpl").html());
@@ -17,10 +20,16 @@ TestView = Backbone.View.extend({
         this.wrongAnswers = this.statsBox.find(".wrongAnswers span");
         this.successRate = this.statsBox.find(".successRate span");
         this.progress = this.statsBox.find(".progress span");
+        this.totalQuestions = this.statsBox.find(".totalQuestions span");
 
-        this.renderLoader();
-        this.model.on("update",this.render);
-        
+    },
+
+    show:function(){
+        this.$el.show();
+    },
+
+    hide:function(){
+        this.$el.hide();
     },
 
     render:function(){
@@ -29,6 +38,8 @@ TestView = Backbone.View.extend({
             this.model.once("change",this.render);
         }else{
             console.log("rendering test...");
+            this.$el.appendTo(".pageBody");
+            this.totalQuestions.html(this.model.get("questions").length);
             this.renderNextQuestion();
         }
     },
