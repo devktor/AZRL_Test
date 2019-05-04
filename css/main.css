@@ -1,5 +1,6 @@
 select{
     padding:20px;
+    font-size:1.2em;
 }
 input[type='checkbox'] {
     -webkit-appearance:none;
@@ -7,13 +8,13 @@ input[type='checkbox'] {
     height:40px;
     background:white;
     border-radius:5px;
-    border:2px solid #555;
+    border:2px solid #B0B0B0;
     vertical-align:middle;
     
     
 }
 input[type='checkbox']:checked {
-    background: #585858;
+    background: black;
 }
 
 
@@ -55,7 +56,7 @@ input[type='checkbox']:checked {
     padding:50px 0px 100px 0px;
 }
 .answer{
-    margin-bottom:20px;
+    margin-bottom:50px;
     vertical-align: middle;
     font-size:1.4em;
 }
