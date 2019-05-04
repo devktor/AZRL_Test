@@ -1,0 +1,14 @@
+.dark{
+
+    background-color:black;
+    color:#909090;
+}
+
+.dark select, .dark input{
+    background-color:#aeaeae;
+}
+
+.dark select option {
+    background-color:#aeaeae;
+}
+

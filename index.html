@@ -3,6 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" type="text/css" href="css/main.css">
+        <link rel="stylesheet" type="text/css" href="css/dark.css">
         <script type="text/javascript" src="js/vendor/jquery.min.js" ></script>
         <script type="text/javascript" src="js/vendor/underscore-min.js" ></script>
         <script type="text/javascript" src="js/vendor/backbone-min.js" ></script>
@@ -38,15 +39,16 @@
                 tests.add("proceduri operationale", "xml/proceduri_operationale.xml");
                 tests.fetchAll();
 
-                
                 view.render();
 
-                //var test = new Test;
-                //var view = new TestView({model:test});
+                $("input[name=dark]").change(function(){
+                    if($(this).is(":checked")){
+                        $("body").addClass("dark");
+                    }else{
+                        $("body").removeClass("dark");
+                    }
+                }).attr("checked", (new Date()).getHours() > 19).change();
 
-                //console.log("fetching....");
-                //test.fetch("xml/principii_zbor.xml", {error:function(obj, err){console.log("failed to fetch", err)}});
-                //view.render();
 
                 console.log("all done");
             });
@@ -62,7 +64,7 @@
     </script>
 
     <script type="text/template" id="answer_tpl">
-        <div class="answer"><input type="checkbox" name="answer" value="<%=index%>"><%=answer.get("text")%></input></div>
+        <div class="answer"><input type="checkbox" name="answer" value="<%=index%>"> <%=answer.get("text")%></input></div>
     </script>
     <script type="text/template" id="test_tpl">
         <div class="testPage">
@@ -88,7 +90,7 @@
             <select name="test">
             </select>
             <div class="layoutControls">
-<!--                <input type="checkbox" name="dark" value="Dark" /> Dark mode-->
+                <input type="checkbox" name="dark" value="Dark" /> Dark mode
             </div>
         </div>
         <div class="pageBody"></div>
